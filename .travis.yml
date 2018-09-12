@@ -1,0 +1,35 @@
+env:
+  global:
+    - secure: EoRltq685LQjm14X99chjsJnmML/uygHDTXt3lBr7jeFpdkOG/nmYfFVMNegFaTGN6aRPWg0idammdWUg8YXTTjJGu9t6776/aYCHajk7DQCbyZb9d8h5Tn1JT4L7mIeV2rtvXolhsEOwVafNcTFIzZPoK9QEGA9Ybbrze6Tyg1HWSW6jome1X2kzoxOrxu5ntRtyVdKqmb+2FAfInIuOBHXMUp+hOuVuHKxaBUTp5p2DORjnqB49MSrkPCp4mVhrehuq5oEHJo9qdKhDUpZ+mUJKWO913sVTC3yLQbBWExVc3gbacNF4rZ+cG3MLfvtWTntfREiBfOdEVMRr2cswvni3ygLVULI+bY/2eCSR04c17dc5W/EGNlIW9mZA7/WuBwlz7C1rpC9mt0QJTnkFbuerCj8mv2vLBN/0mLj094LnLyjnuu0hIr8HKCWAYvo/4QqlHzJdZB+DTsTzyokg3SaB3g1qoaTYHdPSwmlVaUxhXKcXVE8u8SJVlczlsd0dl//58/nWkuuS5M0/DVyDW+WVAQwU2d1WqwCgAHvJwBF2yhWbptMLX+ZHvcuyRzh/R0RQxyabwBGOT1XR3o6dyyXjpkgROOGihXbw3WFxjhq1aVhkVunN2pU7PUc+VghdwjpRWAgTm9cqlW/3TzOdobD9WBuItpdIk3HBixOn/A=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - TRAVIS_REPO_SLUG: dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1
+    - GIT_BRANCH: master
+
+language: python
+
+python:
+  - "3.6.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - pip
+
+sudo: required
+
+addons:
+  apt:
+    packages:
+      - dos2unix
+
+install:
+  - pip3 install pyfunceble-dev
+
+script:
+  - python3 ./update_me.py
+
+notifications:
+  on_success:   change
+  on_failure:   always
