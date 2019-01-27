@@ -336,8 +336,8 @@
             "state": "future"
         },
         "bellsyscdn.com": {
-            "epoch": "1546387200",
-            "expiration_date": "02-jan-2019",
+            "epoch": "1577923200",
+            "expiration_date": "02-jan-2020",
             "state": "future"
         },
         "berateveng.ru": {
@@ -356,8 +356,8 @@
             "state": "future"
         },
         "bestcoinsignals.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "bestmobiworld.com": {
@@ -376,8 +376,8 @@
             "state": "future"
         },
         "bewaslac.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "bhzejltg.info": {
@@ -396,18 +396,18 @@
             "state": "future"
         },
         "bijo.style": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "binance.associates": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "binance.auction": {
-            "epoch": "1546819200",
-            "expiration_date": "07-jan-2019",
+            "epoch": "1578355200",
+            "expiration_date": "07-jan-2020",
             "state": "future"
         },
         "binance.center": {
@@ -426,18 +426,18 @@
             "state": "future"
         },
         "binance.direct": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "binance.directory": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "binance.enterprises": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "binance.express": {
@@ -446,13 +446,13 @@
             "state": "future"
         },
         "binance.financial": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "binance.immobilien": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "binance.live": {
@@ -466,19 +466,19 @@
             "state": "future"
         },
         "binance.tools": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "binance.ventures": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "binancebch.com": {
             "epoch": "1545177600",
             "expiration_date": "19-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "binancebtc.com": {
             "epoch": "1576368000",
@@ -486,23 +486,23 @@
             "state": "future"
         },
         "binancecash.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "binancesignin.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "binanceus.com": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "binanceweb.com": {
-            "epoch": "1547251200",
-            "expiration_date": "12-jan-2019",
+            "epoch": "1578787200",
+            "expiration_date": "12-jan-2020",
             "state": "future"
         },
         "binarce.com": {
@@ -706,8 +706,8 @@
             "state": "future"
         },
         "bittrex.life": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
             "state": "future"
         },
         "bittrex.team": {
@@ -730,14 +730,19 @@
             "expiration_date": "12-nov-2020",
             "state": "future"
         },
+        "bixin.com": {
+            "epoch": "1746489600",
+            "expiration_date": "06-may-2025",
+            "state": "future"
+        },
         "bizoninvest.com": {
             "epoch": "1565222400",
             "expiration_date": "08-aug-2019",
             "state": "future"
         },
         "black-pool.net": {
-            "epoch": "1547683200",
-            "expiration_date": "17-jan-2019",
+            "epoch": "1579219200",
+            "expiration_date": "17-jan-2020",
             "state": "future"
         },
         "blake2s.com": {
@@ -826,8 +831,8 @@
             "state": "future"
         },
         "bowithow.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "bravo-mining.com": {
@@ -905,6 +910,76 @@
             "expiration_date": "08-oct-2018",
             "state": "past"
         },
+        "btgmine.pro": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "btgpool.pro": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "bubblemine.com": {
+            "epoch": "1555459200",
+            "expiration_date": "17-apr-2019",
+            "state": "future"
+        },
+        "butcalve.com": {
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
+        },
+        "buyandfun.review": {
+            "epoch": "1545955200",
+            "expiration_date": "28-dec-2018",
+            "state": "past"
+        },
+        "bw.com": {
+            "epoch": "1788912000",
+            "expiration_date": "09-sep-2026",
+            "state": "future"
+        },
+        "bytecoin-pool.org": {
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
+        },
+        "bytecoin.cloud": {
+            "epoch": "1567900800",
+            "expiration_date": "08-sep-2019",
+            "state": "future"
+        },
+        "c0i8h8ac7e.bid": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "past"
+        },
+        "c1d2.com": {
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
+            "state": "future"
+        },
+        "camillesanz.com": {
+            "epoch": "1609632000",
+            "expiration_date": "03-jan-2021",
+            "state": "future"
+        },
+        "candid.zone": {
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
+            "state": "future"
+        },
+        "capodannoinversilia.com": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "cashbeet.com": {
+            "epoch": "1566000000",
+            "expiration_date": "17-aug-2019",
+            "state": "future"
+        },
         "ccminer.org": {
             "epoch": "1612656000",
             "expiration_date": "07-feb-2021",
@@ -926,8 +1001,8 @@
             "state": "future"
         },
         "cdncounter.top": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "cdns.ws": {
@@ -943,7 +1018,7 @@
         "cfcdist.gdn": {
             "epoch": "1548460800",
             "expiration_date": "26-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cfcdist.loan": {
             "epoch": "1550793600",
@@ -953,12 +1028,12 @@
         "cfcnet.gdn": {
             "epoch": "1548288000",
             "expiration_date": "24-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cfcnet.top": {
             "epoch": "1548460800",
             "expiration_date": "26-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "chainblock.science": {
             "epoch": "1544400000",
