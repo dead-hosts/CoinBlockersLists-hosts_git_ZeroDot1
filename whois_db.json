@@ -6364,6 +6364,31 @@
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
             "state": "past"
+        },
+        "xeminer.net": {
+            "epoch": "1699488000",
+            "expiration_date": "09-nov-2023",
+            "state": "future"
+        },
+        "xgefmxd.ru": {
+            "epoch": "1564963200",
+            "expiration_date": "05-aug-2019",
+            "state": "future"
+        },
+        "xgmc6lu8fs.me": {
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "xmg.cool": {
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
+        "xminingpool.com": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
         }
     }
 }
