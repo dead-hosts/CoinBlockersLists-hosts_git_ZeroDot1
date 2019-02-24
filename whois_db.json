@@ -5736,9 +5736,9 @@
             "state": "future"
         },
         "stablemoneropool.com": {
-            "epoch": "1548547200",
-            "expiration_date": "27-jan-2019",
-            "state": "past"
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
         },
         "stakeunited.com": {
             "epoch": "1573516800",
@@ -5758,7 +5758,7 @@
         "stati.bid": {
             "epoch": "1549065600",
             "expiration_date": "02-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "stati.in": {
             "epoch": "1560729600",
@@ -5811,9 +5811,9 @@
             "state": "future"
         },
         "stringengines.com": {
-            "epoch": "1543795200",
-            "expiration_date": "03-dec-2018",
-            "state": "past"
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
         },
         "sumokoin-pool.com": {
             "epoch": "1575590400",
@@ -5821,8 +5821,8 @@
             "state": "future"
         },
         "sumokoin.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "sumominer.com": {
@@ -5860,6 +5860,11 @@
             "expiration_date": "04-may-2019",
             "state": "future"
         },
+        "svpool.com": {
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
         "sweetbook.net": {
             "epoch": "1573516800",
             "expiration_date": "12-nov-2019",
@@ -5873,7 +5878,7 @@
         "synconnector.com": {
             "epoch": "1550966400",
             "expiration_date": "24-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "tainiesonline.stream": {
             "epoch": "1560211200",
