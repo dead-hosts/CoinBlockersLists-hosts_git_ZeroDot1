@@ -3475,6 +3475,11 @@
             "expiration_date": "25-may-2019",
             "state": "future"
         },
+        "koto-pool.work": {
+            "epoch": "1582848000",
+            "expiration_date": "28-feb-2020",
+            "state": "future"
+        },
         "kratos.biz": {
             "epoch": "1582588800",
             "expiration_date": "25-feb-2020",
@@ -3661,8 +3666,8 @@
             "state": "past"
         },
         "lookvision.info": {
-            "epoch": "1550016000",
-            "expiration_date": "13-feb-2019",
+            "epoch": "1581552000",
+            "expiration_date": "13-feb-2020",
             "state": "future"
         },
         "losital.ru": {
@@ -3726,8 +3731,8 @@
             "state": "future"
         },
         "majorminers.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "makerstat.info": {
@@ -3741,8 +3746,8 @@
             "state": "future"
         },
         "mastermining.net": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
             "state": "future"
         },
         "maupool.com": {
@@ -3786,8 +3791,8 @@
             "state": "future"
         },
         "mergemining.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "mfio.cf": {
@@ -3846,9 +3851,9 @@
             "state": "future"
         },
         "minemoney.co": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
-            "state": "past"
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
+            "state": "future"
         },
         "minemytraffic.com": {
             "epoch": "1575676800",
@@ -3956,8 +3961,8 @@
             "state": "future"
         },
         "minescripts.info": {
-            "epoch": "1548806400",
-            "expiration_date": "30-jan-2019",
+            "epoch": "1580342400",
+            "expiration_date": "30-jan-2020",
             "state": "future"
         },
         "minether.co": {
@@ -3966,8 +3971,8 @@
             "state": "future"
         },
         "minexcash.com": {
-            "epoch": "1550275200",
-            "expiration_date": "16-feb-2019",
+            "epoch": "1581811200",
+            "expiration_date": "16-feb-2020",
             "state": "future"
         },
         "minexmr.com": {
@@ -4066,8 +4071,8 @@
             "state": "future"
         },
         "mixpools.org": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "mmc.center": {
