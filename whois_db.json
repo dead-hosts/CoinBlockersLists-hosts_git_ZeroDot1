@@ -1511,8 +1511,8 @@
             "state": "future"
         },
         "cool-pool.net": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
             "state": "future"
         },
         "coorp.io": {
@@ -1815,15 +1815,20 @@
             "expiration_date": "29-jul-2026",
             "state": "future"
         },
+        "dekoder.ws": {
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
+        },
         "delivery1class.download": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "deliveryclub-6589.download": {
             "epoch": "1550534400",
             "expiration_date": "19-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "deltapool.net": {
             "epoch": "1589846400",
@@ -1871,8 +1876,8 @@
             "state": "future"
         },
         "dnb.io": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
             "state": "future"
         },
         "do69ifsly4.me": {
