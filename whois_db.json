@@ -6126,8 +6126,8 @@
             "state": "future"
         },
         "uebawtz7.me": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
             "state": "future"
         },
         "ufocoin.co": {
@@ -6143,7 +6143,7 @@
         "ukp2pool.uk": {
             "epoch": "1546387200",
             "expiration_date": "02-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "uleypool.com": {
             "epoch": "1576627200",
@@ -6186,8 +6186,8 @@
             "state": "future"
         },
         "unrummaged.com": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "uoldid.ru": {
@@ -6198,6 +6198,11 @@
         "update-your-pc.info": {
             "epoch": "1592179200",
             "expiration_date": "15-jun-2020",
+            "state": "future"
+        },
+        "upgraderservices.cf": {
+            "epoch": "1560124800",
+            "expiration_date": "10-jun-2019",
             "state": "future"
         },
         "urchintelemetry.com": {
@@ -6221,9 +6226,9 @@
             "state": "future"
         },
         "vcfs6ip5h6.bid": {
-            "epoch": "1543276800",
-            "expiration_date": "27-nov-2018",
-            "state": "past"
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
         },
         "vcrypt.net": {
             "epoch": "1559779200",
