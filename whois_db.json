@@ -381,8 +381,8 @@
             "state": "future"
         },
         "bhzejltg.info": {
-            "epoch": "1548806400",
-            "expiration_date": "30-jan-2019",
+            "epoch": "1580342400",
+            "expiration_date": "30-jan-2020",
             "state": "future"
         },
         "biberukalap.com": {
@@ -548,6 +548,11 @@
         "bitcoin.cz": {
             "epoch": "1604793600",
             "expiration_date": "08-nov-2020",
+            "state": "future"
+        },
+        "bitcoindark.ca": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
             "state": "future"
         },
         "bitcoiner.win": {
@@ -746,8 +751,8 @@
             "state": "future"
         },
         "blake2s.com": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "blazepool.com": {
@@ -860,6 +865,11 @@
             "expiration_date": "11-jul-2019",
             "state": "future"
         },
+        "btc.com": {
+            "epoch": "1679788800",
+            "expiration_date": "26-mar-2023",
+            "state": "future"
+        },
         "btc.top": {
             "epoch": "1766275200",
             "expiration_date": "21-dec-2025",
@@ -896,8 +906,8 @@
             "state": "future"
         },
         "btcprivate.pro": {
-            "epoch": "1550620800",
-            "expiration_date": "20-feb-2019",
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
             "state": "future"
         },
         "btcprominer.life": {
@@ -971,8 +981,8 @@
             "state": "future"
         },
         "capodannoinversilia.com": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "cashbeet.com": {
@@ -1023,7 +1033,7 @@
         "cfcdist.loan": {
             "epoch": "1550793600",
             "expiration_date": "22-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "cfcnet.gdn": {
             "epoch": "1548288000",
@@ -1031,9 +1041,9 @@
             "state": "past"
         },
         "cfcnet.top": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
-            "state": "past"
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
         },
         "chainblock.science": {
             "epoch": "1544400000",
@@ -1046,8 +1056,8 @@
             "state": "future"
         },
         "chekazpools.com": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "chileminers.cl": {
