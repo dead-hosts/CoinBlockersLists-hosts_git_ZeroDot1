@@ -7318,12 +7318,12 @@
         "theslotcat.bid": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "theslotmachina.bid": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "theslots.bid": {
             "epoch": "1548374400",
@@ -7366,8 +7366,8 @@
             "state": "future"
         },
         "toftofcal.com": {
-            "epoch": "1548288000",
-            "expiration_date": "24-jan-2019",
+            "epoch": "1579824000",
+            "expiration_date": "24-jan-2020",
             "state": "future"
         },
         "trackerbuzz.info": {
@@ -7381,8 +7381,8 @@
             "state": "future"
         },
         "trackerfastapps.pro": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "trackerfastblog.info": {
@@ -7391,8 +7391,8 @@
             "state": "future"
         },
         "trackerfastmail.pro": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "trackingclub.pro": {
@@ -7406,28 +7406,28 @@
             "state": "future"
         },
         "traffic-gate-service.info": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "traffic-info-service.info": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "traffic-optical-service.info": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "traffic-service.info": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "traffic-tech-service.info": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "traviilo.com": {
@@ -7448,7 +7448,7 @@
         "tulip18.com": {
             "epoch": "1548720000",
             "expiration_date": "29-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "turnsocial.com": {
             "epoch": "1553990400",
@@ -7456,8 +7456,8 @@
             "state": "future"
         },
         "turtlecoin.fr": {
-            "epoch": "1550793600",
-            "expiration_date": "22-feb-2019",
+            "epoch": "1582329600",
+            "expiration_date": "22-feb-2020",
             "state": "future"
         },
         "uax.io": {
