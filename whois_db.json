@@ -4598,7 +4598,7 @@
         "jquery-cdn.download": {
             "epoch": "1549411200",
             "expiration_date": "06-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "jquery-js.com": {
             "epoch": "1577923200",
@@ -4623,6 +4623,11 @@
         "jqxrrygqnagn.ru": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
+            "state": "future"
+        },
+        "jroqvbvw.info": {
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "jsccnn.com": {
@@ -4693,12 +4698,12 @@
         "jurty.ml": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "jurtym.cf": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "juststatic.info": {
             "epoch": "1560297600",
@@ -4715,6 +4720,11 @@
             "expiration_date": "19-may-2019",
             "state": "future"
         },
+        "jyhfuqoh.info": {
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
         "kano.is": {
             "epoch": "1684972800",
             "expiration_date": "25-may-2023",
@@ -4723,6 +4733,11 @@
         "karbo.farm": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
+            "state": "past"
+        },
+        "karbowanec.com": {
+            "epoch": "1558828800",
+            "expiration_date": "26-may-2019",
             "state": "future"
         },
         "kdmkauchahynhrs.ru": {
@@ -4730,14 +4745,19 @@
             "expiration_date": "29-mar-2019",
             "state": "future"
         },
+        "kdowqlpt.info": {
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
+            "state": "future"
+        },
         "kedtise.com": {
             "epoch": "1547769600",
             "expiration_date": "18-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "kho3au7l4z.me": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "kingbtc.co": {
@@ -5231,9 +5251,9 @@
             "state": "future"
         },
         "minerhills.com": {
-            "epoch": "1545091200",
-            "expiration_date": "18-dec-2018",
-            "state": "past"
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
+            "state": "future"
         },
         "minerjet.com": {
             "epoch": "1562889600",
@@ -5333,6 +5353,11 @@
         "mining-room.com": {
             "epoch": "1571702400",
             "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "mining4.co.uk": {
+            "epoch": "1561248000",
+            "expiration_date": "23-jun-2019",
             "state": "future"
         },
         "mining711.com": {
