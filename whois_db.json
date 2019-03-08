@@ -7350,6 +7350,11 @@
             "expiration_date": "16-mar-2019",
             "state": "future"
         },
+        "surfreturn.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
         "svivqrhrh.ru": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
@@ -7371,9 +7376,9 @@
             "state": "future"
         },
         "synconnector.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
-            "state": "past"
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
+            "state": "future"
         },
         "tainiesonline.stream": {
             "epoch": "1560211200",
