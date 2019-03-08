@@ -3578,11 +3578,11 @@
         "evengparme.com": {
             "epoch": "1548288000",
             "expiration_date": "24-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ewtuyytdf45.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
             "state": "future"
         },
         "exdynsrv.com": {
@@ -3686,8 +3686,8 @@
             "state": "future"
         },
         "faucet.works": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "faucethub.io": {
@@ -3801,8 +3801,8 @@
             "state": "future"
         },
         "flymining.ru": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
+            "epoch": "1583193600",
+            "expiration_date": "03-mar-2020",
             "state": "future"
         },
         "flypool.org": {
@@ -3861,9 +3861,9 @@
             "state": "future"
         },
         "freecontent.faith": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.info": {
             "epoch": "1572912000",
@@ -3881,9 +3881,9 @@
             "state": "future"
         },
         "freecontent.party": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.racing": {
             "epoch": "1547856000",
@@ -3891,9 +3891,9 @@
             "state": "past"
         },
         "freecontent.science": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.stream": {
             "epoch": "1579392000",
@@ -3901,9 +3901,9 @@
             "state": "future"
         },
         "freecontent.trade": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "freecontent.win": {
             "epoch": "1547856000",
