@@ -6696,8 +6696,8 @@
             "state": "future"
         },
         "pubyun.com": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1583452800",
+            "expiration_date": "06-mar-2020",
             "state": "future"
         },
         "pumpmywallet.com": {
@@ -6980,6 +6980,11 @@
             "expiration_date": "24-oct-2018",
             "state": "past"
         },
+        "satowallet.com": {
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
+        },
         "sbhmn-miner.com": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
@@ -7018,6 +7023,11 @@
         "securepayment.cc": {
             "epoch": "1662854400",
             "expiration_date": "11-sep-2022",
+            "state": "future"
+        },
+        "seminarski-diplomski.co.rs": {
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "semipool.com": {
