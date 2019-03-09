@@ -325,10 +325,7 @@
             "api3.slushpool.com",
             "apicn.btcc.com",
             "apk-bancodobrasil.com",
-            "apollofinanceltd.com"
-        ],
-        "to_test": [
-            "app.btcchina.com",
+            "apollofinanceltd.com",
             "app.zdash.cloud",
             "applecoin.li",
             "appleseed.clona.ru",
@@ -364,6 +361,7 @@
             "asia-eth.chileminers.cl",
             "asia-funding.com",
             "asia.dwarfpool.com",
+            "asia.geekcash.org",
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
             "asia.miningspeed.com",
@@ -536,7 +534,10 @@
             "bip.crypto-coins.club",
             "bip.mypool.name",
             "bitbucket.prohashing.com",
-            "bitc.youpool.io",
+            "bitc.youpool.io"
+        ],
+        "to_test": [
+            "app.btcchina.com",
             "bitcoal.herominers.com",
             "bitcoin.bluematt.me",
             "bitcoin.coin-miners.info",
