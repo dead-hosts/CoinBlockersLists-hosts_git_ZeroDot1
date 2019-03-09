@@ -534,12 +534,7 @@
             "bip.crypto-coins.club",
             "bip.mypool.name",
             "bitbucket.prohashing.com",
-            "bitc.youpool.io"
-        ],
-        "to_test": [
-            "app.btcchina.com",
-            "bitcoal.herominers.com",
-            "bitcoin.bluematt.me",
+            "bitc.youpool.io",
             "bitcoin.coin-miners.info",
             "bitcoin.dashjr.org",
             "bitcoin.inc.hk",
@@ -763,7 +758,6 @@
             "chaintime.epool.io",
             "charlie.803mine.com",
             "charlie.noblock.pro",
-            "chatbox.btcc.com",
             "chc.suprnova.cc",
             "check.suprnova.cc",
             "cheese.minertopia.org",
@@ -816,7 +810,6 @@
             "cnwww.btcchina.com",
             "coal.mypool.name",
             "coal.spacepools.org",
-            "cochranizer613.poolarchy.com",
             "cockpit.ubiqpool.io",
             "cody.services",
             "coi.suprnova.cc",
@@ -824,7 +817,12 @@
             "coin-price-skype-bot.uax.io",
             "coin1.pool.sexy",
             "coin2.pool.sexy",
-            "coin3.pool.sexy",
+            "coin3.pool.sexy"
+        ],
+        "to_test": [
+            "app.btcchina.com",
+            "bitcoal.herominers.com",
+            "bitcoin.bluematt.me",
             "coingen-seed-scrypt.bluematt.me",
             "coingen-seed.bluematt.me",
             "coingen.bluematt.me",
