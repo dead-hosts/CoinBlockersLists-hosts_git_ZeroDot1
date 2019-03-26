@@ -2615,14 +2615,19 @@
             "expiration_date": "23-aug-2019",
             "state": "future"
         },
+        "cnt.st": {
+            "epoch": "1575590400",
+            "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
         "coandroid.ru": {
             "epoch": "1555891200",
             "expiration_date": "22-apr-2019",
             "state": "future"
         },
         "cocozuma.net": {
-            "epoch": "1553040000",
-            "expiration_date": "20-mar-2019",
+            "epoch": "1584662400",
+            "expiration_date": "20-mar-2020",
             "state": "future"
         },
         "codpool.com": {
@@ -3121,8 +3126,8 @@
             "state": "future"
         },
         "cryptomine.pro": {
-            "epoch": "1553385600",
-            "expiration_date": "24-mar-2019",
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
             "state": "future"
         },
         "cryptominer.net": {
