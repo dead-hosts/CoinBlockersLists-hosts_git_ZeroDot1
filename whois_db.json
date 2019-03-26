@@ -1976,8 +1976,8 @@
             "state": "future"
         },
         "bitcoins.lc": {
-            "epoch": "1553385600",
-            "expiration_date": "24-mar-2019",
+            "epoch": "1585008000",
+            "expiration_date": "24-mar-2020",
             "state": "future"
         },
         "bitcoinsfor.me": {
@@ -2225,6 +2225,11 @@
             "expiration_date": "13-dec-2019",
             "state": "future"
         },
+        "blockcooperation.com": {
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
         "blockmunch.club": {
             "epoch": "1569024000",
             "expiration_date": "21-sep-2019",
@@ -2356,9 +2361,9 @@
             "state": "future"
         },
         "buyandfun.review": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
-            "state": "past"
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
         },
         "bw.com": {
             "epoch": "1788912000",
@@ -2421,8 +2426,8 @@
             "state": "future"
         },
         "cdn-analytics.pl": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
+            "epoch": "1560038400",
+            "expiration_date": "09-jun-2019",
             "state": "future"
         },
         "cdncounter.top": {
