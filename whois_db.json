@@ -5576,8 +5576,13 @@
             "state": "future"
         },
         "miningmania.net": {
-            "epoch": "1553212800",
-            "expiration_date": "22-mar-2019",
+            "epoch": "1584835200",
+            "expiration_date": "22-mar-2020",
+            "state": "future"
+        },
+        "miningocean.org": {
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
             "state": "future"
         },
         "miningpool.africa": {
@@ -5725,6 +5730,11 @@
             "expiration_date": "15-may-2020",
             "state": "future"
         },
+        "moneropool.ru": {
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
+            "state": "future"
+        },
         "moneropool.uk": {
             "epoch": "1569888000",
             "expiration_date": "01-oct-2019",
@@ -5826,8 +5836,8 @@
             "state": "future"
         },
         "munero.me": {
-            "epoch": "1552953600",
-            "expiration_date": "19-mar-2019",
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
             "state": "future"
         },
         "mutuza.win": {
@@ -6146,8 +6156,8 @@
             "state": "future"
         },
         "nerohut.com": {
-            "epoch": "1552176000",
-            "expiration_date": "10-mar-2019",
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
             "state": "future"
         },
         "never.ovh": {
@@ -6198,6 +6208,11 @@
         "nimiqtest.net": {
             "epoch": "1585526400",
             "expiration_date": "30-mar-2020",
+            "state": "future"
+        },
+        "ninaning.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
             "state": "future"
         },
         "ningtoldrop.ru": {
