@@ -1356,8 +1356,8 @@
             "state": "future"
         },
         "apple-bitcoin.com": {
-            "epoch": "1554940800",
-            "expiration_date": "11-apr-2019",
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
             "state": "future"
         },
         "aprexfund.com": {
@@ -1425,6 +1425,11 @@
             "expiration_date": "04-oct-2020",
             "state": "future"
         },
+        "arhash.xyz": {
+            "epoch": "1585267200",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
+        },
         "arikado.ru": {
             "epoch": "1570665600",
             "expiration_date": "10-oct-2019",
@@ -1483,7 +1488,7 @@
         "asiaprofit.biz": {
             "epoch": "1556236800",
             "expiration_date": "26-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "asic-minerworld.com": {
             "epoch": "1593388800",
@@ -1576,8 +1581,8 @@
             "state": "future"
         },
         "assetrexint.com": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1587772800",
+            "expiration_date": "25-apr-2020",
             "state": "future"
         },
         "assetsign.com": {
@@ -1590,9 +1595,14 @@
             "expiration_date": "04-feb-2020",
             "state": "future"
         },
+        "at0m.pw": {
+            "epoch": "1559001600",
+            "expiration_date": "28-may-2019",
+            "state": "future"
+        },
         "atlanticprofit.com": {
-            "epoch": "1554854400",
-            "expiration_date": "10-apr-2019",
+            "epoch": "1586476800",
+            "expiration_date": "10-apr-2020",
             "state": "future"
         },
         "atlantinv.com": {
@@ -1611,8 +1621,8 @@
             "state": "future"
         },
         "atm2you.com": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1587772800",
+            "expiration_date": "25-apr-2020",
             "state": "future"
         },
         "atmbtc.biz": {
@@ -1681,8 +1691,8 @@
             "state": "future"
         },
         "autobtcminer.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "autocryptobank.com": {
@@ -1750,6 +1760,11 @@
             "expiration_date": "25-sep-2020",
             "state": "future"
         },
+        "avero.xyz": {
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
+            "state": "future"
+        },
         "averoconnector.com": {
             "epoch": "1582416000",
             "expiration_date": "23-feb-2020",
@@ -1758,11 +1773,21 @@
         "avis-mining.co.uk": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "avualrhg9p.bid": {
             "epoch": "1574812800",
             "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "awesomepool.net": {
+            "epoch": "1551052800",
+            "expiration_date": "25-feb-2019",
+            "state": "past"
+        },
+        "awesomepool.org": {
+            "epoch": "1556582400",
+            "expiration_date": "30-apr-2019",
             "state": "future"
         },
         "awsmining.cc": {
@@ -1778,6 +1803,11 @@
         "axerc.com": {
             "epoch": "1808697600",
             "expiration_date": "26-apr-2027",
+            "state": "future"
+        },
+        "axtrades.com": {
+            "epoch": "1585267200",
+            "expiration_date": "27-mar-2020",
             "state": "future"
         },
         "aymcsx.ru": {
@@ -1825,14 +1855,44 @@
             "expiration_date": "05-sep-2019",
             "state": "future"
         },
+        "barrelc.wtf": {
+            "epoch": "1581292800",
+            "expiration_date": "10-feb-2020",
+            "state": "future"
+        },
         "basepush.com": {
             "epoch": "1580342400",
             "expiration_date": "30-jan-2020",
             "state": "future"
         },
+        "bayception.org": {
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
+        },
+        "bayception.pw": {
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
+            "state": "future"
+        },
+        "baypirateproxy.org": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "baypirateproxy.pw": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
         "baywttgdhe.download": {
             "epoch": "1562803200",
             "expiration_date": "11-jul-2019",
+            "state": "future"
+        },
+        "bb2eeaed0f.pw": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "bcmonster.com": {
@@ -1856,8 +1916,8 @@
             "state": "future"
         },
         "beeppool.org": {
-            "epoch": "1555804800",
-            "expiration_date": "21-apr-2019",
+            "epoch": "1587427200",
+            "expiration_date": "21-apr-2020",
             "state": "future"
         },
         "beetoken.com": {
@@ -1883,6 +1943,11 @@
         "berserkpl.net.pl": {
             "epoch": "1558656000",
             "expiration_date": "24-may-2019",
+            "state": "future"
+        },
+        "besocial.online": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "besstahete.info": {
