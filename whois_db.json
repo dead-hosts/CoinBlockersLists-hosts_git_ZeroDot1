@@ -6235,6 +6235,11 @@
             "expiration_date": "23-jun-2019",
             "state": "future"
         },
+        "miner.hosting": {
+            "epoch": "1562198400",
+            "expiration_date": "04-jul-2019",
+            "state": "future"
+        },
         "miner.rocks": {
             "epoch": "1637625600",
             "expiration_date": "23-nov-2021",
@@ -6280,9 +6285,19 @@
             "expiration_date": "12-dec-2019",
             "state": "future"
         },
+        "minermore.com": {
+            "epoch": "1559779200",
+            "expiration_date": "06-jun-2019",
+            "state": "future"
+        },
         "minero.cc": {
             "epoch": "1562284800",
             "expiration_date": "05-jul-2019",
+            "state": "future"
+        },
+        "minero.pw": {
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "minero.ru": {
@@ -6295,19 +6310,29 @@
             "expiration_date": "22-jul-2019",
             "state": "future"
         },
+        "minerpool.org": {
+            "epoch": "1563062400",
+            "expiration_date": "14-jul-2019",
+            "state": "future"
+        },
         "miners.pro": {
             "epoch": "1567987200",
             "expiration_date": "09-sep-2019",
             "state": "future"
         },
         "minerspool.cc": {
-            "epoch": "1553126400",
-            "expiration_date": "21-mar-2019",
+            "epoch": "1584748800",
+            "expiration_date": "21-mar-2020",
+            "state": "future"
+        },
+        "minersrepublic.com": {
+            "epoch": "1577318400",
+            "expiration_date": "26-dec-2019",
             "state": "future"
         },
         "minertopia.org": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
             "state": "future"
         },
         "minerxmr.com": {
@@ -6370,9 +6395,19 @@
             "expiration_date": "22-oct-2019",
             "state": "future"
         },
+        "mining.best": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
         "mining4.co.uk": {
             "epoch": "1561248000",
             "expiration_date": "23-jun-2019",
+            "state": "future"
+        },
+        "mining4daunov.info": {
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "mining711.com": {
@@ -6381,9 +6416,14 @@
             "state": "future"
         },
         "miningclub.cc": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
+        },
+        "miningcrypto.cash": {
+            "epoch": "1551571200",
+            "expiration_date": "03-mar-2019",
+            "state": "past"
         },
         "miningexpress.com": {
             "epoch": "1578960000",
@@ -6410,9 +6450,34 @@
             "expiration_date": "01-dec-2019",
             "state": "future"
         },
+        "miningpool.biz": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
         "miningpool.io": {
             "epoch": "1579564800",
             "expiration_date": "21-jan-2020",
+            "state": "future"
+        },
+        "miningpool.online": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "miningpool.shop": {
+            "epoch": "1574812800",
+            "expiration_date": "27-nov-2019",
+            "state": "future"
+        },
+        "miningpool.tech": {
+            "epoch": "1559174400",
+            "expiration_date": "30-may-2019",
+            "state": "future"
+        },
+        "miningpool.top": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "miningpoolhouse.com": {
@@ -6435,6 +6500,11 @@
             "expiration_date": "05-sep-2020",
             "state": "future"
         },
+        "minr.pw": {
+            "epoch": "1586995200",
+            "expiration_date": "16-apr-2020",
+            "state": "future"
+        },
         "minzpool.ml": {
             "epoch": "1807488000",
             "expiration_date": "12-apr-2027",
@@ -6451,8 +6521,8 @@
             "state": "future"
         },
         "mmpool.org": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
             "state": "future"
         },
         "mmsubtitles.co": {
@@ -6541,8 +6611,8 @@
             "state": "future"
         },
         "moneropond.com": {
-            "epoch": "1555545600",
-            "expiration_date": "18-apr-2019",
+            "epoch": "1587168000",
+            "expiration_date": "18-apr-2020",
             "state": "future"
         },
         "moneropool.com": {
@@ -6571,8 +6641,8 @@
             "state": "future"
         },
         "money-maker-default.info": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1587772800",
+            "expiration_date": "25-apr-2020",
             "state": "future"
         },
         "money-maker-script.info": {
@@ -6601,9 +6671,9 @@
             "state": "future"
         },
         "moonsade.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
-            "state": "past"
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
         },
         "moriaxmr.com": {
             "epoch": "1565395200",
@@ -6615,14 +6685,24 @@
             "expiration_date": "23-may-2019",
             "state": "future"
         },
+        "mp2pzq.xyz": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
         "mrycrypto.com": {
             "epoch": "1581811200",
             "expiration_date": "16-feb-2020",
             "state": "future"
         },
+        "msdns.online": {
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
+            "state": "future"
+        },
         "msg-2.me": {
-            "epoch": "1553731200",
-            "expiration_date": "28-mar-2019",
+            "epoch": "1585353600",
+            "expiration_date": "28-mar-2020",
             "state": "future"
         },
         "mtred.com": {
@@ -6670,9 +6750,19 @@
             "expiration_date": "03-nov-2019",
             "state": "future"
         },
+        "my-builds.ru": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
         "my-rigs.com": {
             "epoch": "1578528000",
             "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "my-zarinsk.ru": {
+            "epoch": "1590364800",
+            "expiration_date": "25-may-2020",
             "state": "future"
         },
         "myadstats.com": {
@@ -6880,6 +6970,11 @@
             "expiration_date": "24-jul-2019",
             "state": "future"
         },
+        "myhost.com": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
         "mykings.top": {
             "epoch": "1579564800",
             "expiration_date": "21-jan-2020",
@@ -6898,6 +6993,11 @@
         "myregeneaf.com": {
             "epoch": "1569369600",
             "expiration_date": "25-sep-2019",
+            "state": "future"
+        },
+        "mytestminer.xyz": {
+            "epoch": "1561334400",
+            "expiration_date": "24-jun-2019",
             "state": "future"
         },
         "mytlnerwalilet.info": {
@@ -6959,6 +7059,11 @@
             "epoch": "1579824000",
             "expiration_date": "24-jan-2020",
             "state": "future"
+        },
+        "needgames.xyz": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
+            "state": "past"
         },
         "neohash.com": {
             "epoch": "1568851200",
