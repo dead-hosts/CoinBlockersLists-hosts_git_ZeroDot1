@@ -5095,9 +5095,19 @@
             "expiration_date": "26-dec-2019",
             "state": "future"
         },
+        "haskpay.ru": {
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
+        },
         "hatcalter.com": {
             "epoch": "1579824000",
             "expiration_date": "24-jan-2020",
+            "state": "future"
+        },
+        "hatevery.info": {
+            "epoch": "1586131200",
+            "expiration_date": "06-apr-2020",
             "state": "future"
         },
         "havio.pl": {
@@ -5118,6 +5128,11 @@
         "hegrinhar.com": {
             "epoch": "1578700800",
             "expiration_date": "11-jan-2020",
+            "state": "future"
+        },
+        "hellbacksoft.online": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
             "state": "future"
         },
         "hellominer.com": {
@@ -5141,13 +5156,13 @@
             "state": "future"
         },
         "herominers.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
+            "epoch": "1837987200",
+            "expiration_date": "30-mar-2028",
             "state": "future"
         },
         "herphemiste.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "hexamining.io": {
@@ -5156,8 +5171,8 @@
             "state": "future"
         },
         "hide.ovh": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "hitbtc.com": {
@@ -5200,39 +5215,49 @@
             "expiration_date": "10-dec-2018",
             "state": "past"
         },
+        "hostcontent.live": {
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
+            "state": "future"
+        },
         "hostingcloud.accountant": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "hostingcloud.bid": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "hostingcloud.date": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "hostingcloud.download": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "hostingcloud.faith": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "hostingcloud.loan": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "hostingcloud.science": {
-            "epoch": "1554336000",
-            "expiration_date": "04-apr-2019",
+            "epoch": "1585958400",
+            "expiration_date": "04-apr-2020",
+            "state": "future"
+        },
+        "hostxmr.com": {
+            "epoch": "1589846400",
+            "expiration_date": "19-may-2020",
             "state": "future"
         },
         "hrfziiddxa.ru": {
@@ -5265,6 +5290,11 @@
             "expiration_date": "11-jul-2019",
             "state": "future"
         },
+        "icemining.ca": {
+            "epoch": "1617753600",
+            "expiration_date": "07-apr-2021",
+            "state": "future"
+        },
         "igdxzzeglrlqm.ru": {
             "epoch": "1557619200",
             "expiration_date": "12-may-2019",
@@ -5288,6 +5318,16 @@
         "imhvlhaelvvbrq.ru": {
             "epoch": "1558224000",
             "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "in-games.xyz": {
+            "epoch": "1550707200",
+            "expiration_date": "21-feb-2019",
+            "state": "past"
+        },
+        "indiaproxydl.org": {
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
             "state": "future"
         },
         "infamylists.com": {
@@ -5325,9 +5365,24 @@
             "expiration_date": "14-apr-2020",
             "state": "future"
         },
+        "interestingz.pw": {
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
+            "state": "future"
+        },
         "internetresearch.is": {
             "epoch": "1574553600",
             "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
+        "intersportv.com": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
+        "invest-btcmining.com": {
+            "epoch": "1584576000",
+            "expiration_date": "19-mar-2020",
             "state": "future"
         },
         "investhash.com": {
@@ -5338,6 +5393,11 @@
         "inwemo.com": {
             "epoch": "1570665600",
             "expiration_date": "10-oct-2019",
+            "state": "future"
+        },
+        "iojdioewdwe.xyz": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
             "state": "future"
         },
         "iotaseed.io": {
@@ -5365,9 +5425,19 @@
             "expiration_date": "15-apr-2019",
             "state": "future"
         },
+        "isb2.xyz": {
+            "epoch": "1550793600",
+            "expiration_date": "22-feb-2019",
+            "state": "past"
+        },
+        "istgahkhabar.com": {
+            "epoch": "1564272000",
+            "expiration_date": "28-jul-2019",
+            "state": "future"
+        },
         "istlandoll.com": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1587772800",
+            "expiration_date": "25-apr-2020",
             "state": "future"
         },
         "italyiimp.com": {
@@ -5376,8 +5446,8 @@
             "state": "future"
         },
         "itgpll.com": {
-            "epoch": "1555113600",
-            "expiration_date": "13-apr-2019",
+            "epoch": "1586736000",
+            "expiration_date": "13-apr-2020",
             "state": "future"
         },
         "ivuovhsn.ru": {
@@ -5428,7 +5498,7 @@
         "jqassets.download": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "jqcdn.download": {
             "epoch": "1552867200",
@@ -5453,7 +5523,7 @@
         "jquerrycdn.download": {
             "epoch": "1554768000",
             "expiration_date": "09-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jquery-cdn.download": {
             "epoch": "1549411200",
@@ -5478,7 +5548,7 @@
         "jqwww.download": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "jqxrrygqnagn.ru": {
             "epoch": "1556841600",
@@ -5513,52 +5583,52 @@
         "jshosting.bid": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jshosting.date": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jshosting.download": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jshosting.loan": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jshosting.party": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jshosting.racing": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jshosting.review": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jshosting.stream": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jshosting.trade": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jshosting.win": {
             "epoch": "1555977600",
             "expiration_date": "23-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "jurty.ml": {
             "epoch": "1546560000",
@@ -5569,6 +5639,11 @@
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
             "state": "past"
+        },
+        "justintvizletir.tv": {
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
         },
         "juststatic.info": {
             "epoch": "1560297600",
@@ -5590,9 +5665,19 @@
             "expiration_date": "19-feb-2020",
             "state": "future"
         },
+        "kalipasindra.online": {
+            "epoch": "1550361600",
+            "expiration_date": "17-feb-2019",
+            "state": "past"
+        },
         "kano.is": {
             "epoch": "1684972800",
             "expiration_date": "25-may-2023",
+            "state": "future"
+        },
+        "kano.space": {
+            "epoch": "1602547200",
+            "expiration_date": "13-oct-2020",
             "state": "future"
         },
         "karbo.farm": {
@@ -5616,13 +5701,18 @@
             "state": "future"
         },
         "kedtise.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
-            "state": "past"
+            "epoch": "1586044800",
+            "expiration_date": "05-apr-2020",
+            "state": "future"
         },
         "kho3au7l4z.me": {
             "epoch": "1576886400",
             "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "ki1ahb.xyz": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
             "state": "future"
         },
         "kingbtc.co": {
@@ -5658,6 +5748,11 @@
         "kjli.fi": {
             "epoch": "1545004800",
             "expiration_date": "17-dec-2018",
+            "state": "past"
+        },
+        "klondikepool.net": {
+            "epoch": "1550620800",
+            "expiration_date": "20-feb-2019",
             "state": "past"
         },
         "korbit.click": {
@@ -5724,6 +5819,11 @@
             "epoch": "1583280000",
             "expiration_date": "04-mar-2020",
             "state": "future"
+        },
+        "l8nit3-miners.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "past"
         },
         "labbinarymining.com": {
             "epoch": "1573430400",
