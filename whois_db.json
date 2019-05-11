@@ -8878,7 +8878,7 @@
         "swiftmining.win": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "synconnector.com": {
             "epoch": "1582502400",
@@ -8953,6 +8953,11 @@
         "theappguruz.com": {
             "epoch": "1596499200",
             "expiration_date": "04-aug-2020",
+            "state": "future"
+        },
+        "thecoin.pw": {
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "thenewgamer.club": {
@@ -9061,13 +9066,13 @@
             "state": "future"
         },
         "torrent.pw": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
             "state": "future"
         },
         "tpb.tw": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
             "state": "future"
         },
         "tpbproxyone.org": {
@@ -9138,6 +9143,11 @@
         "traviilo.com": {
             "epoch": "1576972800",
             "expiration_date": "22-dec-2019",
+            "state": "future"
+        },
+        "trtl.ninja": {
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
             "state": "future"
         },
         "tubetitties.com": {
