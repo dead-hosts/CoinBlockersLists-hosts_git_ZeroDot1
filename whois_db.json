@@ -2316,8 +2316,8 @@
             "state": "future"
         },
         "bitnodes.io": {
-            "epoch": "1556841600",
-            "expiration_date": "03-may-2019",
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
             "state": "future"
         },
         "bitpay.com": {
@@ -2575,6 +2575,11 @@
             "expiration_date": "21-sep-2019",
             "state": "future"
         },
+        "bsod.pw": {
+            "epoch": "1598572800",
+            "expiration_date": "28-aug-2020",
+            "state": "future"
+        },
         "bsyauqwerd.party": {
             "epoch": "1562803200",
             "expiration_date": "11-jul-2019",
@@ -2606,8 +2611,8 @@
             "state": "future"
         },
         "btcguild.com": {
-            "epoch": "1557100800",
-            "expiration_date": "06-may-2019",
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
             "state": "future"
         },
         "btcnos.com": {
@@ -2631,9 +2636,9 @@
             "state": "future"
         },
         "btcppool.com": {
-            "epoch": "1550275200",
-            "expiration_date": "16-feb-2019",
-            "state": "past"
+            "epoch": "1588723200",
+            "expiration_date": "06-may-2020",
+            "state": "future"
         },
         "btcprivate.pro": {
             "epoch": "1582156800",
@@ -2790,6 +2795,11 @@
             "expiration_date": "10-dec-2018",
             "state": "past"
         },
+        "challengecoin.io": {
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
+            "state": "future"
+        },
         "changelly.com": {
             "epoch": "1577318400",
             "expiration_date": "26-dec-2019",
@@ -2826,8 +2836,8 @@
             "state": "future"
         },
         "ckpool.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
             "state": "future"
         },
         "ckpool.org": {
