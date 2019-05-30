@@ -8760,8 +8760,8 @@
         "state": "future"
     },
     "smectapop12.pl": {
-        "epoch": "1558656000",
-        "expiration_date": "24-may-2019",
+        "epoch": 1559865600,
+        "expiration_date": "07-jun-2019",
         "state": "future"
     },
     "snahome.com": {
@@ -8787,6 +8787,11 @@
     "sohowa.com": {
         "epoch": "1579824000",
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "solopool.org": {
+        "epoch": 1581724800,
+        "expiration_date": "15-feb-2020",
         "state": "future"
     },
     "somec.cc": {
@@ -8917,6 +8922,11 @@
     "statpipe.ru": {
         "epoch": "1571443200",
         "expiration_date": "19-oct-2019",
+        "state": "future"
+    },
+    "steadyhash.org": {
+        "epoch": 1563494400,
+        "expiration_date": "19-jul-2019",
         "state": "future"
     },
     "steamoctanepool.com": {
