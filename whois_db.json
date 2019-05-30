@@ -5184,6 +5184,11 @@
         "expiration_date": "24-dec-2019",
         "state": "future"
     },
+    "hashcity.org": {
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
     "hashcoin.co": {
         "epoch": "1581552000",
         "expiration_date": "13-feb-2020",
@@ -5393,6 +5398,11 @@
         "epoch": "1542153600",
         "expiration_date": "14-nov-2018",
         "state": "past"
+    },
+    "hiveon.net": {
+        "epoch": 1588723200,
+        "expiration_date": "06-may-2020",
+        "state": "future"
     },
     "hjnbvg.ru": {
         "epoch": "1553299200",
