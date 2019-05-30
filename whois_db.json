@@ -1990,8 +1990,8 @@
         "state": "future"
     },
     "berserkpl.net.pl": {
-        "epoch": "1558656000",
-        "expiration_date": "24-may-2019",
+        "epoch": 1560124800,
+        "expiration_date": "10-jun-2019",
         "state": "future"
     },
     "besocial.online": {
@@ -2005,8 +2005,8 @@
         "state": "future"
     },
     "best-cdn.pl": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1559433600,
+        "expiration_date": "02-jun-2019",
         "state": "future"
     },
     "bestcoinsignals.com": {
@@ -2249,9 +2249,19 @@
         "expiration_date": "30-sep-2019",
         "state": "future"
     },
+    "bitcoinhekaton.com": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
     "bitcoininterest.io": {
         "epoch": "1576195200",
         "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "bitcoinmono.io": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "bitcoins.lc": {
@@ -2469,6 +2479,26 @@
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
+    "bloc-developer.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "bloc-explorer.com": {
+        "epoch": 1588291200,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
+    "bloc-mining.asia": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "bloc-mining.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "blochchauin.com": {
         "epoch": "1576195200",
         "expiration_date": "13-dec-2019",
@@ -2542,6 +2572,11 @@
     "bluematt.me": {
         "epoch": "1568332800",
         "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
+    "bluerockpools.net": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "bmcm.pw": {
