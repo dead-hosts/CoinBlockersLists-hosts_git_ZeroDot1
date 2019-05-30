@@ -7970,8 +7970,8 @@
         "state": "future"
     },
     "pool-moscow.ru": {
-        "epoch": "1558224000",
-        "expiration_date": "19-may-2019",
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "pool-proxy.com": {
@@ -8107,6 +8107,11 @@
     "premiumstats.xyz": {
         "epoch": "1584316800",
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "profitbotpro.com": {
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "profithash.com": {
