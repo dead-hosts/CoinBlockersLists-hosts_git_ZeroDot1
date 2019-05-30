@@ -3010,8 +3010,8 @@
         "state": "future"
     },
     "cloudpools.com": {
-        "epoch": "1559088000",
-        "expiration_date": "29-may-2019",
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "cloudpools.net": {
@@ -3025,8 +3025,8 @@
         "state": "future"
     },
     "cmmmine.com": {
-        "epoch": "1558396800",
-        "expiration_date": "21-may-2019",
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "cnhv.co": {
@@ -3140,7 +3140,7 @@
         "state": "future"
     },
     "coincheck.click": {
-        "epoch": "1545350400",
+        "epoch": 1545350400,
         "expiration_date": "21-dec-2018",
         "state": "past"
     },
@@ -3200,9 +3200,9 @@
         "state": "future"
     },
     "coinhive.net": {
-        "epoch": "1557446400",
-        "expiration_date": "10-may-2019",
-        "state": "past"
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
     },
     "coinhive.org": {
         "epoch": "1561593600",
@@ -3255,8 +3255,8 @@
         "state": "future"
     },
     "coinking.io": {
-        "epoch": "1557792000",
-        "expiration_date": "14-may-2019",
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "coinlab.biz": {
@@ -3409,6 +3409,11 @@
         "expiration_date": "16-oct-2019",
         "state": "future"
     },
+    "communitypool.org": {
+        "epoch": 1578096000,
+        "expiration_date": "04-jan-2020",
+        "state": "future"
+    },
     "conhive.com": {
         "epoch": "1563062400",
         "expiration_date": "14-jul-2019",
@@ -3425,8 +3430,8 @@
         "state": "future"
     },
     "cookiescriptcdn.pro": {
-        "epoch": "1558569600",
-        "expiration_date": "23-may-2019",
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "cool-pool.net": {
@@ -3490,8 +3495,8 @@
         "state": "future"
     },
     "cryptity.com": {
-        "epoch": "1558483200",
-        "expiration_date": "22-may-2019",
+        "epoch": 1590105600,
+        "expiration_date": "22-may-2020",
         "state": "future"
     },
     "cryptmonero.com": {
@@ -3552,6 +3557,11 @@
     "crypto-webminer.com": {
         "epoch": "1575504000",
         "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
+    "crypto9coin.cf": {
+        "epoch": 1577577600,
+        "expiration_date": "29-dec-2019",
         "state": "future"
     },
     "cryptoactivo.com": {
@@ -3665,8 +3675,8 @@
         "state": "future"
     },
     "cryptonight.net": {
-        "epoch": "1558396800",
-        "expiration_date": "21-may-2019",
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "cryptonote.social": {
@@ -3735,8 +3745,8 @@
         "state": "future"
     },
     "cryptopros.com": {
-        "epoch": "1557792000",
-        "expiration_date": "14-may-2019",
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "cryptopros.us": {
