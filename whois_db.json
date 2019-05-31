@@ -9035,7 +9035,7 @@
         "state": "future"
     },
     "swiftmining.win": {
-        "epoch": "1556582400",
+        "epoch": 1556582400,
         "expiration_date": "30-apr-2019",
         "state": "past"
     },
@@ -9175,8 +9175,8 @@
         "state": "past"
     },
     "thetapool.com": {
-        "epoch": "1558051200",
-        "expiration_date": "17-may-2019",
+        "epoch": 1589673600,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "thewhizmarketing.com": {
@@ -9304,9 +9304,19 @@
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
+    "tritaniummining.com": {
+        "epoch": 1569024000,
+        "expiration_date": "21-sep-2019",
+        "state": "future"
+    },
     "trtl.ninja": {
         "epoch": "1580083200",
         "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "trtlbutton.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "tubetitties.com": {
