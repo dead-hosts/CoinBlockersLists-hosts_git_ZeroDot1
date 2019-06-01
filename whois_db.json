@@ -920,9 +920,9 @@
         "state": "future"
     },
     "airfreedom.net": {
-        "epoch": "1559347200",
+        "epoch": 1559347200,
         "expiration_date": "01-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "airproxyboat.in": {
         "epoch": 1571961600,
