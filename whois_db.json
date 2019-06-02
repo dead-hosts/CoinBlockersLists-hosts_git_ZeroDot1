@@ -7675,9 +7675,9 @@
         "state": "future"
     },
     "p2pool.co": {
-        "epoch": "1557187200",
+        "epoch": 1557187200,
         "expiration_date": "07-may-2019",
-        "state": "future"
+        "state": "past"
     },
     "p2pool.in": {
         "epoch": "1566864000",
