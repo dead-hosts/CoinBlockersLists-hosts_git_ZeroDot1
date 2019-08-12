@@ -9345,8 +9345,8 @@
         "state": "future"
     },
     "surfreturn.com": {
-        "epoch": "1560384000",
-        "expiration_date": "13-jun-2019",
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "svchost.ru": {
@@ -9370,13 +9370,28 @@
         "state": "future"
     },
     "swiftmining.win": {
-        "epoch": 1556582400,
-        "expiration_date": "30-apr-2019",
-        "state": "past"
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
     },
     "synconnector.com": {
         "epoch": "1582502400",
         "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
+    "system-check.services": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
+    "system-update.info": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "system-update.is": {
+        "epoch": 1585008000,
+        "expiration_date": "24-mar-2020",
         "state": "future"
     },
     "systemlog.host": {
@@ -9390,9 +9405,9 @@
         "state": "past"
     },
     "tainiesonline.stream": {
-        "epoch": "1560211200",
+        "epoch": 1560211200,
         "expiration_date": "11-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "tazm9p7tso.trade": {
         "epoch": "1547164800",
@@ -9410,14 +9425,14 @@
         "state": "future"
     },
     "template-download.top": {
-        "epoch": "1562371200",
-        "expiration_date": "06-jul-2019",
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
         "state": "future"
     },
     "teracycle.net": {
-        "epoch": "1560211200",
+        "epoch": 1560211200,
         "expiration_date": "11-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "tercabilis.info": {
         "epoch": "1569974400",
@@ -9425,18 +9440,18 @@
         "state": "future"
     },
     "terethat.ru": {
-        "epoch": "1551571200",
-        "expiration_date": "03-mar-2019",
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "tgtvbngp.ru": {
-        "epoch": "1553817600",
-        "expiration_date": "29-mar-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "thathislitt.ru": {
-        "epoch": "1551571200",
-        "expiration_date": "03-mar-2019",
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "thatresha.com": {
@@ -9454,6 +9469,11 @@
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
+    "thecryptominerpool.com": {
+        "epoch": 1630627200,
+        "expiration_date": "03-sep-2021",
+        "state": "future"
+    },
     "thenewgamer.club": {
         "epoch": "1541894400",
         "expiration_date": "11-nov-2018",
@@ -9465,8 +9485,8 @@
         "state": "past"
     },
     "thepiratebay-proxylist.se": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "thepiratebay.cr": {
@@ -9475,8 +9495,8 @@
         "state": "future"
     },
     "thepiratebay.is": {
-        "epoch": "1561161600",
-        "expiration_date": "22-jun-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "thepiratebay.org": {
@@ -9485,14 +9505,14 @@
         "state": "future"
     },
     "thepiratebay.wtf": {
-        "epoch": "1560384000",
+        "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "thersprens.com": {
-        "epoch": "1562371200",
+        "epoch": 1562371200,
         "expiration_date": "06-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "theslotcat.bid": {
         "epoch": "1548892800",
@@ -9512,6 +9532,11 @@
     "thetapool.com": {
         "epoch": 1589673600,
         "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "thetechnicalspool.com": {
+        "epoch": 1589846400,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "thewhizmarketing.com": {
@@ -9572,6 +9597,11 @@
     "tpbproxyone.org": {
         "epoch": "1579219200",
         "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "tpool.io": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
         "state": "future"
     },
     "trackerbuzz.info": {
@@ -9649,6 +9679,11 @@
         "expiration_date": "27-jan-2020",
         "state": "future"
     },
+    "trtl.services": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "trtlbutton.com": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
@@ -9683,6 +9718,11 @@
         "epoch": "1582329600",
         "expiration_date": "22-feb-2020",
         "state": "future"
+    },
+    "turtleminers.club": {
+        "epoch": 1559433600,
+        "expiration_date": "02-jun-2019",
+        "state": "past"
     },
     "turtlepool.space": {
         "epoch": "1575849600",
