@@ -7255,13 +7255,13 @@
         "state": "future"
     },
     "multiminerapp.com": {
-        "epoch": "1564185600",
-        "expiration_date": "27-jul-2019",
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "multimining.org": {
-        "epoch": "1564012800",
-        "expiration_date": "25-jul-2019",
+        "epoch": 1595635200,
+        "expiration_date": "25-jul-2020",
         "state": "future"
     },
     "multipool.com": {
@@ -7277,6 +7277,11 @@
     "multipooler.com": {
         "epoch": "1570147200",
         "expiration_date": "04-oct-2019",
+        "state": "future"
+    },
+    "multipools.club": {
+        "epoch": 1605744000,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "munero.me": {
@@ -7335,8 +7340,8 @@
         "state": "future"
     },
     "mycoinwallet.net": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "mycrypto.com": {
@@ -7520,13 +7525,13 @@
         "state": "future"
     },
     "myfreebitcoin.com": {
-        "epoch": "1563926400",
-        "expiration_date": "24-jul-2019",
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "myhost.com": {
-        "epoch": "1561852800",
-        "expiration_date": "30-jun-2019",
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "mykings.top": {
@@ -7590,13 +7595,18 @@
         "state": "future"
     },
     "najsiejfnc.win": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
+        "state": "past"
+    },
+    "namecoin.info": {
+        "epoch": 1587772800,
+        "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "nametraff.com": {
-        "epoch": "1563580800",
-        "expiration_date": "20-jul-2019",
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "nanopool.org": {
@@ -7615,8 +7625,8 @@
         "state": "future"
     },
     "nddmcconmqsy.ru": {
-        "epoch": "1553817600",
-        "expiration_date": "29-mar-2019",
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "nebabrop.com": {
@@ -7690,13 +7700,13 @@
         "state": "future"
     },
     "nimiq.watch": {
-        "epoch": "1560988800",
-        "expiration_date": "20-jun-2019",
+        "epoch": 1624147200,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "nimiqpool.com": {
-        "epoch": "1564099200",
-        "expiration_date": "26-jul-2019",
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "nimiqtest.net": {
@@ -7705,13 +7715,13 @@
         "state": "future"
     },
     "ninaning.com": {
-        "epoch": "1564358400",
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "ningtoldrop.ru": {
-        "epoch": "1551571200",
-        "expiration_date": "03-mar-2019",
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "nkxdyorwbt.com": {
@@ -7735,13 +7745,18 @@
         "state": "future"
     },
     "norespar.ru": {
-        "epoch": "1551571200",
-        "expiration_date": "03-mar-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "nosekefik.com": {
         "epoch": "1571443200",
         "expiration_date": "19-oct-2019",
+        "state": "future"
+    },
+    "nosuchpool.cloud": {
+        "epoch": 1573257600,
+        "expiration_date": "09-nov-2019",
         "state": "future"
     },
     "notmining.org": {
