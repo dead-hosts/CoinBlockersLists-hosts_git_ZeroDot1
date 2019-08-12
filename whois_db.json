@@ -10300,8 +10300,8 @@
         "state": "future"
     },
     "xmr-tw.org": {
-        "epoch": "1561680000",
-        "expiration_date": "28-jun-2019",
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "xmr.life": {
@@ -10365,8 +10365,8 @@
         "state": "past"
     },
     "xn--blockchan-n5a.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "xn--blockchin-6ib.info": {
@@ -10405,8 +10405,8 @@
         "state": "past"
     },
     "xn--etereum-yt3c.com": {
-        "epoch": "1564876800",
-        "expiration_date": "04-aug-2019",
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
         "state": "future"
     },
     "xn--googl-fsa.xyz": {
@@ -10425,9 +10425,9 @@
         "state": "past"
     },
     "xn--myetherwllet-ncb.org": {
-        "epoch": "1560038400",
+        "epoch": 1560038400,
         "expiration_date": "09-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "xn--myethewalliet-nm1g.com": {
         "epoch": "1546041600",
@@ -10447,6 +10447,11 @@
     "xn--mytherwalet-ms8e53d.com": {
         "epoch": "1587254400",
         "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "xn--mytherwallet-5vb.com": {
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "xn--polniex-s1a.com": {
@@ -10475,8 +10480,8 @@
         "state": "past"
     },
     "xn--yetherallet-iw8ew5a.com": {
-        "epoch": "1564876800",
-        "expiration_date": "04-aug-2019",
+        "epoch": 1596499200,
+        "expiration_date": "04-aug-2020",
         "state": "future"
     },
     "xpoloniex.com": {
@@ -10500,8 +10505,8 @@
         "state": "future"
     },
     "xtrapool.com": {
-        "epoch": "1564617600",
-        "expiration_date": "01-aug-2019",
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "xvideosharing.site": {
@@ -10524,9 +10529,14 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "xzrm.com": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
     "ybcoin.com": {
-        "epoch": "1559779200",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "ybjfsqcevow.ru": {
@@ -10555,8 +10565,8 @@
         "state": "future"
     },
     "youbit.co.kr": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "youcrazy.me": {
@@ -10580,14 +10590,14 @@
         "state": "future"
     },
     "ypool.net": {
-        "epoch": "1562198400",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "yqaywudifu.date": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "yrdrtzmsmt.com": {
         "epoch": "1587859200",
