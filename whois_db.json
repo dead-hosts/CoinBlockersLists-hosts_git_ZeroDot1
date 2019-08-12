@@ -1445,9 +1445,9 @@
         "state": "future"
     },
     "arab-miners.com": {
-        "epoch": "1560902400",
+        "epoch": 1560902400,
         "expiration_date": "19-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "arbitgo.com": {
         "epoch": "1566864000",
@@ -1465,8 +1465,8 @@
         "state": "future"
     },
     "arbitragecoins.com": {
-        "epoch": "1559779200",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "arbitraging.co": {
@@ -1505,13 +1505,18 @@
         "state": "future"
     },
     "arisebit.biz": {
-        "epoch": "1564358400",
+        "epoch": 1564358400,
         "expiration_date": "29-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "aromine.io": {
         "epoch": "1582070400",
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "arqma.com": {
+        "epoch": 1589414400,
+        "expiration_date": "14-may-2020",
         "state": "future"
     },
     "arriels.com": {
@@ -1530,9 +1535,9 @@
         "state": "past"
     },
     "ashour.biz": {
-        "epoch": "1564358400",
+        "epoch": 1564358400,
         "expiration_date": "29-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "ashtart.io": {
         "epoch": "1583366400",
@@ -1545,9 +1550,9 @@
         "state": "future"
     },
     "asiacoin.co": {
-        "epoch": "1564963200",
+        "epoch": 1564963200,
         "expiration_date": "05-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "asiacryptobank.com": {
         "epoch": 1589068800,
@@ -1555,9 +1560,9 @@
         "state": "future"
     },
     "asiaprofit.biz": {
-        "epoch": 1556236800,
-        "expiration_date": "26-apr-2019",
-        "state": "past"
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
     },
     "asic-minerworld.com": {
         "epoch": "1593388800",
@@ -1565,8 +1570,8 @@
         "state": "future"
     },
     "asic-store.com": {
-        "epoch": "1561593600",
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "asicminermarket.com": {
@@ -1595,8 +1600,8 @@
         "state": "future"
     },
     "asicpool.info": {
-        "epoch": "1565481600",
-        "expiration_date": "11-aug-2019",
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "asicpool.io": {
@@ -1635,8 +1640,8 @@
         "state": "future"
     },
     "assetinstant.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "assetorder.com": {
@@ -1704,6 +1709,11 @@
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
+    "atotum.ru": {
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
     "atpool.party": {
         "epoch": "1579219200",
         "expiration_date": "17-jan-2020",
@@ -1740,8 +1750,8 @@
         "state": "future"
     },
     "authcaptcha.com": {
-        "epoch": "1561507200",
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "authedmine.com": {
