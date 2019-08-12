@@ -3485,8 +3485,8 @@
         "state": "future"
     },
     "coinsecure.in": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1624233600,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "coinsforhash.com": {
@@ -3495,8 +3495,8 @@
         "state": "future"
     },
     "coinsolver.com": {
-        "epoch": "1561507200",
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "coinsprofit.com": {
@@ -3510,8 +3510,8 @@
         "state": "future"
     },
     "cointrend.club": {
-        "epoch": "1555804800",
-        "expiration_date": "21-apr-2019",
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
         "state": "future"
     },
     "coinversus.com": {
@@ -3555,8 +3555,8 @@
         "state": "future"
     },
     "conhive.com": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "connectbtc.com": {
@@ -3600,9 +3600,9 @@
         "state": "future"
     },
     "cpufan.club": {
-        "epoch": "1544140800",
-        "expiration_date": "07-dec-2018",
-        "state": "past"
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
     },
     "crabs.pro": {
         "epoch": "1571011200",
@@ -3620,13 +3620,13 @@
         "state": "future"
     },
     "crunchpool.com": {
-        "epoch": "1562976000",
-        "expiration_date": "13-jul-2019",
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "cruxpool.com": {
-        "epoch": "1560297600",
-        "expiration_date": "12-jun-2019",
+        "epoch": 1591920000,
+        "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "cryptaloot.pro": {
@@ -3655,8 +3655,8 @@
         "state": "future"
     },
     "crypto-coins.com": {
-        "epoch": "1563494400",
-        "expiration_date": "19-jul-2019",
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
         "state": "future"
     },
     "crypto-coins.info": {
@@ -3692,6 +3692,11 @@
     "crypto-pool.info": {
         "epoch": "1716076800",
         "expiration_date": "19-may-2024",
+        "state": "future"
+    },
+    "crypto-pool.pro": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "crypto-webminer.com": {
@@ -3730,13 +3735,13 @@
         "state": "future"
     },
     "cryptobullionpools.com": {
-        "epoch": "1565481600",
-        "expiration_date": "11-aug-2019",
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "cryptocoin.club": {
-        "epoch": "1564444800",
-        "expiration_date": "30-jul-2019",
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "cryptocoinabout.com": {
@@ -3795,8 +3800,8 @@
         "state": "future"
     },
     "cryptominer.net": {
-        "epoch": "1560988800",
-        "expiration_date": "20-jun-2019",
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "cryptomineros.com": {
@@ -3825,8 +3830,8 @@
         "state": "future"
     },
     "cryptonotemining.org": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "cryptonotepool.org": {
@@ -3865,13 +3870,13 @@
         "state": "future"
     },
     "cryptopool.pro": {
-        "epoch": "1555977600",
-        "expiration_date": "23-apr-2019",
-        "state": "past"
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
     },
     "cryptopool.ru": {
-        "epoch": "1563235200",
-        "expiration_date": "16-jul-2019",
+        "epoch": 1594857600,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "cryptopool.space": {
@@ -3902,6 +3907,11 @@
     "cryptoserb.com": {
         "epoch": "1579392000",
         "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
+    "cryptot.cc": {
+        "epoch": 1583452800,
+        "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "cryptotab.net": {
@@ -3950,9 +3960,9 @@
         "state": "future"
     },
     "datasecu.download": {
-        "epoch": "1546041600",
-        "expiration_date": "29-dec-2018",
-        "state": "past"
+        "epoch": 1589500800,
+        "expiration_date": "15-may-2020",
+        "state": "future"
     },
     "dataservices.download": {
         "epoch": "1544832000",
