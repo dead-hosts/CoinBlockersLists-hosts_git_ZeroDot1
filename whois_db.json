@@ -8355,8 +8355,8 @@
         "state": "future"
     },
     "poolmining.org": {
-        "epoch": "1565222400",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "poolovich.pro": {
@@ -8372,6 +8372,11 @@
     "posthash.org": {
         "epoch": "1582761600",
         "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
+    "pow-coin.com": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
         "state": "future"
     },
     "powerltc.net": {
@@ -8425,8 +8430,8 @@
         "state": "future"
     },
     "prohash.net": {
-        "epoch": "1562284800",
-        "expiration_date": "05-jul-2019",
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "prohashing.com": {
@@ -8445,9 +8450,9 @@
         "state": "future"
     },
     "proofly.win": {
-        "epoch": "1560816000",
+        "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "proximapool.com": {
         "epoch": "1586995200",
@@ -8535,8 +8540,8 @@
         "state": "future"
     },
     "qrlmining.info": {
-        "epoch": "1561680000",
-        "expiration_date": "28-jun-2019",
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "quantumminingpool.com": {
@@ -8550,8 +8555,8 @@
         "state": "future"
     },
     "questionfly.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "qukuai.top": {
@@ -8600,8 +8605,8 @@
         "state": "future"
     },
     "ratchetmining.com": {
-        "epoch": "1562112000",
-        "expiration_date": "03-jul-2019",
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "ratingtoplist.com": {
@@ -8619,14 +8624,19 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "rawpool.com": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
     "rbklong.info": {
-        "epoch": "1560643200",
-        "expiration_date": "16-jun-2019",
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "rbkshort.info": {
-        "epoch": "1560643200",
-        "expiration_date": "16-jun-2019",
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "rctfgrazkha.ru": {
@@ -8680,13 +8690,13 @@
         "state": "future"
     },
     "refreshnerer27.info": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "refreshnerer27rb.info": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "refunevent.com": {
