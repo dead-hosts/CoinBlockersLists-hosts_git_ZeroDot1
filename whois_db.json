@@ -2574,6 +2574,11 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "bloc.money": {
+        "epoch": 1616371200,
+        "expiration_date": "22-mar-2021",
+        "state": "future"
+    },
     "blochchauin.com": {
         "epoch": "1576195200",
         "expiration_date": "13-dec-2019",
@@ -2634,6 +2639,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "blockify.xyz": {
+        "epoch": 1566864000,
+        "expiration_date": "27-aug-2019",
+        "state": "future"
+    },
     "blockmasters.co": {
         "epoch": "1584316800",
         "expiration_date": "16-mar-2020",
@@ -2664,6 +2674,11 @@
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
+    "bmgpool.com": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "bmnadutub.ru": {
         "epoch": "1553817600",
         "expiration_date": "29-mar-2019",
@@ -2685,8 +2700,8 @@
         "state": "future"
     },
     "bohemianpool.com": {
-        "epoch": "1564272000",
-        "expiration_date": "28-jul-2019",
+        "epoch": 1595894400,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "bottlecapspool.com": {
@@ -2697,6 +2712,11 @@
     "bowithow.com": {
         "epoch": "1578700800",
         "expiration_date": "11-jan-2020",
+        "state": "future"
+    },
+    "bpool.id": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "bravo-mining.com": {
@@ -2725,9 +2745,9 @@
         "state": "future"
     },
     "bsyauqwerd.party": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "btc.com": {
         "epoch": "1679788800",
@@ -2750,13 +2770,18 @@
         "state": "future"
     },
     "btcdig.com": {
-        "epoch": "1560816000",
-        "expiration_date": "18-jun-2019",
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "btcguild.com": {
         "epoch": "1588723200",
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "btcmp.com": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "btcnos.com": {
@@ -2775,8 +2800,8 @@
         "state": "future"
     },
     "btcpool24.com": {
-        "epoch": "1561334400",
-        "expiration_date": "24-jun-2019",
+        "epoch": 1592956800,
+        "expiration_date": "24-jun-2020",
         "state": "future"
     },
     "btcppool.com": {
@@ -2787,6 +2812,11 @@
     "btcprivate.pro": {
         "epoch": "1582156800",
         "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "btcprivatepool.club": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
         "state": "future"
     },
     "btcprominer.life": {
@@ -2829,6 +2859,11 @@
         "expiration_date": "09-sep-2026",
         "state": "future"
     },
+    "bwpool.net": {
+        "epoch": 1593043200,
+        "expiration_date": "25-jun-2020",
+        "state": "future"
+    },
     "bytecoin-pool.org": {
         "epoch": "1577404800",
         "expiration_date": "27-dec-2019",
@@ -2842,6 +2877,11 @@
     "bytecoin.uk": {
         "epoch": "1720483200",
         "expiration_date": "09-jul-2024",
+        "state": "future"
+    },
+    "bytecoins.world": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
         "state": "future"
     },
     "c0i8h8ac7e.bid": {
