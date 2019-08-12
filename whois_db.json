@@ -4260,8 +4260,8 @@
         "state": "future"
     },
     "egopastor.biz": {
-        "epoch": "1562457600",
-        "expiration_date": "07-jul-2019",
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "ehashcoins.org": {
@@ -4305,8 +4305,8 @@
         "state": "future"
     },
     "eminer.net": {
-        "epoch": "1563840000",
-        "expiration_date": "23-jul-2019",
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "encoding.ovh": {
@@ -4318,6 +4318,11 @@
         "epoch": "1542067200",
         "expiration_date": "13-nov-2018",
         "state": "past"
+    },
+    "eoschaintech.net": {
+        "epoch": 1566432000,
+        "expiration_date": "22-aug-2019",
+        "state": "future"
     },
     "epicpool.net": {
         "epoch": "1586476800",
@@ -4440,8 +4445,8 @@
         "state": "future"
     },
     "ethertrench.com": {
-        "epoch": "1562716800",
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "ethfans.org": {
@@ -4460,8 +4465,8 @@
         "state": "past"
     },
     "ethonline.io": {
-        "epoch": "1560211200",
-        "expiration_date": "11-jun-2019",
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "ethosdistro.com": {
@@ -4470,13 +4475,13 @@
         "state": "future"
     },
     "ethpool.org": {
-        "epoch": "1564617600",
-        "expiration_date": "01-aug-2019",
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "ethteam.com": {
-        "epoch": "1563667200",
-        "expiration_date": "21-jul-2019",
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "etlrsq.ru": {
