@@ -8030,8 +8030,8 @@
         "state": "future"
     },
     "pcejuyhjucmkiny.ru": {
-        "epoch": "1555286400",
-        "expiration_date": "15-apr-2019",
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "pcmining.xyz": {
@@ -8040,9 +8040,9 @@
         "state": "future"
     },
     "pdheuryopd.loan": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "pearno.com": {
         "epoch": "1579824000",
@@ -8069,9 +8069,19 @@
         "expiration_date": "24-dec-2019",
         "state": "future"
     },
+    "peopleland.net": {
+        "epoch": 1585440000,
+        "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
     "perrege.ru": {
         "epoch": "1551571200",
         "expiration_date": "03-mar-2019",
+        "state": "future"
+    },
+    "persianmine.com": {
+        "epoch": 1578960000,
+        "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "pertholin.com": {
@@ -8127,11 +8137,11 @@
     "pirataibay.in": {
         "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "pirateahoy.net": {
-        "epoch": "1560384000",
-        "expiration_date": "13-jun-2019",
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "piratebay.tel": {
@@ -8145,8 +8155,13 @@
         "state": "future"
     },
     "pocketgolf.host": {
-        "epoch": "1562112000",
-        "expiration_date": "03-jul-2019",
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
+    "pocketminer.co.uk": {
+        "epoch": 1580083200,
+        "expiration_date": "27-jan-2020",
         "state": "future"
     },
     "pocketwhale.info": {
@@ -8287,6 +8302,11 @@
     "pool.ski": {
         "epoch": "1579824000",
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "pool137.com": {
+        "epoch": 1587340800,
+        "expiration_date": "20-apr-2020",
         "state": "future"
     },
     "poolarchy.com": {
