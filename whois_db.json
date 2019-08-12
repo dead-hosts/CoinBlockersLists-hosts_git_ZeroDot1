@@ -10670,9 +10670,9 @@
         "state": "future"
     },
     "zndaowjdnf.stream": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zona.pl": {
         "epoch": "1572912000",
@@ -10705,33 +10705,38 @@
         "state": "past"
     },
     "zymerget.bid": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.date": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.faith": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.party": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.stream": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "zymerget.win": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
+        "state": "past"
+    },
+    "zyrkminer.com": {
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     },
     "zzqhsrg.ru": {
