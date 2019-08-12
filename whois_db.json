@@ -4,6 +4,11 @@
         "expiration_date": "25-sep-2019",
         "state": "future"
     },
+    "0769.it": {
+        "epoch": 1592611200,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "0aqpqdju.me": {
         "epoch": "1575417600",
         "expiration_date": "04-dec-2019",
@@ -42,7 +47,7 @@
     "100bitco.in": {
         "epoch": 1565049600,
         "expiration_date": "06-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "100btc.com": {
         "epoch": "1586563200",
@@ -70,8 +75,8 @@
         "state": "past"
     },
     "100x-mlt-btc.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "100xbtc.com": {
@@ -90,9 +95,9 @@
         "state": "future"
     },
     "10bit.biz": {
-        "epoch": 1557619200,
-        "expiration_date": "12-may-2019",
-        "state": "past"
+        "epoch": 1596067200,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
     },
     "10coindaily.com": {
         "epoch": "1565827200",
@@ -110,8 +115,8 @@
         "state": "future"
     },
     "10minutebitcoin.com": {
-        "epoch": "1562716800",
-        "expiration_date": "10-jul-2019",
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "10xbitco.in": {
@@ -170,8 +175,8 @@
         "state": "future"
     },
     "13xbtc.com": {
-        "epoch": "1562198400",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "14daily.com": {
@@ -185,9 +190,9 @@
         "state": "future"
     },
     "15bit.biz": {
-        "epoch": "1564185600",
+        "epoch": 1564185600,
         "expiration_date": "27-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "15coin.com": {
         "epoch": 1590019200,
@@ -225,8 +230,8 @@
         "state": "future"
     },
     "1paycoin.com": {
-        "epoch": "1564012800",
-        "expiration_date": "25-jul-2019",
+        "epoch": 1595635200,
+        "expiration_date": "25-jul-2020",
         "state": "future"
     },
     "1q2w3.me": {
@@ -245,13 +250,18 @@
         "state": "future"
     },
     "1stghs.com": {
-        "epoch": "1562371200",
-        "expiration_date": "06-jul-2019",
+        "epoch": 1593993600,
+        "expiration_date": "06-jul-2020",
         "state": "future"
     },
     "1stpool.com": {
         "epoch": "1602892800",
         "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "1stpool.org": {
+        "epoch": 1579737600,
+        "expiration_date": "23-jan-2020",
         "state": "future"
     },
     "1thash.com": {
@@ -265,9 +275,9 @@
         "state": "future"
     },
     "2-3.biz": {
-        "epoch": "1563494400",
+        "epoch": 1563494400,
         "expiration_date": "19-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "200percent.io": {
         "epoch": "1571097600",
@@ -300,8 +310,8 @@
         "state": "future"
     },
     "247cryptoearns.net": {
-        "epoch": "1563321600",
-        "expiration_date": "17-jul-2019",
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
         "state": "future"
     },
     "24bitdeposit.com": {
@@ -315,9 +325,9 @@
         "state": "future"
     },
     "24empiresoption.com": {
-        "epoch": "1559520000",
+        "epoch": 1559520000,
         "expiration_date": "03-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "24hourbtc.com": {
         "epoch": "1582848000",
@@ -360,8 +370,8 @@
         "state": "future"
     },
     "2giga.link": {
-        "epoch": "1557619200",
-        "expiration_date": "12-may-2019",
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
         "state": "future"
     },
     "2hoursbitcoin.com": {
@@ -385,8 +395,8 @@
         "state": "future"
     },
     "2speedymatrix.com": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "2x2club.com": {
@@ -420,9 +430,9 @@
         "state": "future"
     },
     "365deposit.com": {
-        "epoch": "1560988800",
+        "epoch": 1560988800,
         "expiration_date": "20-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "365hourly.com": {
         "epoch": "1592611200",
@@ -450,8 +460,8 @@
         "state": "future"
     },
     "494bitcoins.com": {
-        "epoch": "1562803200",
-        "expiration_date": "11-jul-2019",
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "4btc.pw": {
