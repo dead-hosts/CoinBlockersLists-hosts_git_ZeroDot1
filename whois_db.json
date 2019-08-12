@@ -9730,8 +9730,8 @@
         "state": "future"
     },
     "uax.io": {
-        "epoch": "1564099200",
-        "expiration_date": "26-jul-2019",
+        "epoch": 1595721600,
+        "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "uberminer.org": {
@@ -9789,6 +9789,11 @@
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
+    "ulinix.com": {
+        "epoch": 1755734400,
+        "expiration_date": "21-aug-2025",
+        "state": "future"
+    },
     "ulnawoyyzbljc.ru": {
         "epoch": 1592006400,
         "expiration_date": "13-jun-2020",
@@ -9800,8 +9805,8 @@
         "state": "future"
     },
     "ultra-cdn.pl": {
-        "epoch": "1561593600",
-        "expiration_date": "27-jun-2019",
+        "epoch": 1573171200,
+        "expiration_date": "08-nov-2019",
         "state": "future"
     },
     "umine.org": {
