@@ -10295,8 +10295,8 @@
         "state": "future"
     },
     "xminingpool.com": {
-        "epoch": "1561507200",
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "xmr-tw.org": {
@@ -10309,9 +10309,19 @@
         "expiration_date": "10-sep-2019",
         "state": "future"
     },
+    "xmrbackb.one": {
+        "epoch": 1577836800,
+        "expiration_date": "01-jan-2020",
+        "state": "future"
+    },
     "xmrig.com": {
         "epoch": "1568505600",
         "expiration_date": "15-sep-2019",
+        "state": "future"
+    },
+    "xmrlab.com": {
+        "epoch": 1570233600,
+        "expiration_date": "05-oct-2019",
         "state": "future"
     },
     "xmrminerpro.com": {
