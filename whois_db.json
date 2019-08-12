@@ -8899,6 +8899,11 @@
         "expiration_date": "11-sep-2022",
         "state": "future"
     },
+    "seed.ac": {
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "sellssamp.ru": {
         "epoch": "1565913600",
         "expiration_date": "16-aug-2019",
@@ -8912,6 +8917,11 @@
     "semipool.com": {
         "epoch": "1607990400",
         "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "sen-to-zdrowie.ml": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "sentemanactri.com": {
@@ -8980,8 +8990,8 @@
         "state": "future"
     },
     "siamining.com": {
-        "epoch": "1561593600",
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "sickrage.ca": {
@@ -9005,8 +9015,8 @@
         "state": "future"
     },
     "simpleco.in": {
-        "epoch": "1565568000",
-        "expiration_date": "12-aug-2019",
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "simplemining.net": {
@@ -9107,6 +9117,11 @@
     "sohowa.com": {
         "epoch": "1579824000",
         "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
+    "solomining.io": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "solopool.org": {
