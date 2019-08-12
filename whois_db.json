@@ -6709,9 +6709,14 @@
         "expiration_date": "30-jul-2019",
         "state": "future"
     },
+    "minekitten.io": {
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
     "minemonero.pro": {
-        "epoch": "1560038400",
-        "expiration_date": "09-jun-2019",
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "minemoney.ca": {
@@ -6740,18 +6745,18 @@
         "state": "past"
     },
     "mineqrl.net": {
-        "epoch": "1565395200",
-        "expiration_date": "10-aug-2019",
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "miner.center": {
-        "epoch": "1561248000",
-        "expiration_date": "23-jun-2019",
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
         "state": "future"
     },
     "miner.hosting": {
-        "epoch": "1562198400",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "miner.rocks": {
@@ -6775,8 +6780,8 @@
         "state": "future"
     },
     "minerclaim.net": {
-        "epoch": "1561593600",
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "minereasy.com": {
@@ -6795,8 +6800,8 @@
         "state": "future"
     },
     "minerjet.com": {
-        "epoch": "1562889600",
-        "expiration_date": "12-jul-2019",
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "minermaniac.com": {
@@ -6805,13 +6810,13 @@
         "state": "future"
     },
     "minermore.com": {
-        "epoch": "1559779200",
-        "expiration_date": "06-jun-2019",
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "minero.cc": {
-        "epoch": "1562284800",
-        "expiration_date": "05-jul-2019",
+        "epoch": 1593907200,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "minero.pw": {
@@ -6825,13 +6830,13 @@
         "state": "future"
     },
     "minerpool.net": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1595376000,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "minerpool.org": {
-        "epoch": "1563062400",
-        "expiration_date": "14-jul-2019",
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "miners.pro": {
@@ -6885,8 +6890,8 @@
         "state": "future"
     },
     "minexmr.com": {
-        "epoch": "1559520000",
-        "expiration_date": "03-jun-2019",
+        "epoch": 1591142400,
+        "expiration_date": "03-jun-2020",
         "state": "future"
     },
     "minexmr.org": {
@@ -6905,8 +6910,8 @@
         "state": "future"
     },
     "minezone.io": {
-        "epoch": "1561507200",
-        "expiration_date": "26-jun-2019",
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "mining-pool.io": {
@@ -6930,8 +6935,8 @@
         "state": "future"
     },
     "mining4.co.uk": {
-        "epoch": "1561248000",
-        "expiration_date": "23-jun-2019",
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
         "state": "future"
     },
     "mining4daunov.info": {
@@ -7010,9 +7015,9 @@
         "state": "future"
     },
     "miningpoolhouse.com": {
-        "epoch": "1560988800",
+        "epoch": 1560988800,
         "expiration_date": "20-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "miningpoolhub.com": {
         "epoch": "1580083200",
@@ -7045,9 +7050,9 @@
         "state": "future"
     },
     "mmc.center": {
-        "epoch": "1561420800",
+        "epoch": 1561420800,
         "expiration_date": "25-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "mmpool.org": {
         "epoch": "1585612800",
@@ -7190,9 +7195,9 @@
         "state": "future"
     },
     "monkeyminer.net": {
-        "epoch": "1541376000",
-        "expiration_date": "05-nov-2018",
-        "state": "past"
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
     },
     "monoset.info": {
         "epoch": "1575244800",
@@ -7200,8 +7205,8 @@
         "state": "future"
     },
     "moonbit.co.in": {
-        "epoch": 1561939200,
-        "expiration_date": "01-jul-2019",
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "moonify.io": {
@@ -7215,8 +7220,8 @@
         "state": "future"
     },
     "moriaxmr.com": {
-        "epoch": "1565395200",
-        "expiration_date": "10-aug-2019",
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "morningdigit.com": {
