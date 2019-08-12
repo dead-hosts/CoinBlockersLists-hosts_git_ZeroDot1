@@ -3949,6 +3949,16 @@
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
+    "d-d.host": {
+        "epoch": 1568246400,
+        "expiration_date": "12-sep-2019",
+        "state": "future"
+    },
+    "d-d.live": {
+        "epoch": 1568246400,
+        "expiration_date": "12-sep-2019",
+        "state": "future"
+    },
     "d8acddffe978b5dfcae6.date": {
         "epoch": 1559174400,
         "expiration_date": "30-may-2019",
@@ -3985,13 +3995,13 @@
         "state": "future"
     },
     "de-ner-mi-nis4.info": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "de-nis-ner-mi-5.info": {
-        "epoch": "1564531200",
-        "expiration_date": "31-jul-2019",
+        "epoch": 1596153600,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "deepbit.net": {
@@ -4022,6 +4032,11 @@
     "deltapool.net": {
         "epoch": "1589846400",
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "democats.org": {
+        "epoch": 1572912000,
+        "expiration_date": "05-nov-2019",
         "state": "future"
     },
     "deris.info": {
@@ -4070,14 +4085,14 @@
         "state": "future"
     },
     "ditcoin.io": {
-        "epoch": "1562198400",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1625356800,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "djfhwosjck.bid": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "dllinjector.com": {
         "epoch": "1584576000",
@@ -4105,8 +4120,8 @@
         "state": "future"
     },
     "dolphingamers.com": {
-        "epoch": "1563926400",
-        "expiration_date": "24-jul-2019",
+        "epoch": 1595548800,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "doubleclick1.xyz": {
@@ -4155,8 +4170,8 @@
         "state": "future"
     },
     "drowningpool.net": {
-        "epoch": "1565481600",
-        "expiration_date": "11-aug-2019",
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "dubester.pw": {
@@ -4195,13 +4210,13 @@
         "state": "past"
     },
     "dzizsih.ru": {
-        "epoch": "1553817600",
-        "expiration_date": "29-mar-2019",
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "e9658544844.pro": {
-        "epoch": "1563580800",
-        "expiration_date": "20-jul-2019",
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "earncoins.club": {
@@ -4210,8 +4225,8 @@
         "state": "past"
     },
     "earning-surf.com": {
-        "epoch": "1560384000",
-        "expiration_date": "13-jun-2019",
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "eastshoretrade.ml": {
