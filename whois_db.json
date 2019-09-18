@@ -2830,9 +2830,9 @@
         "state": "future"
     },
     "btczpool.com": {
-        "epoch": "1538956800",
-        "expiration_date": "08-oct-2018",
-        "state": "past"
+        "epoch": 1598745600,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
     },
     "btgmine.pro": {
         "epoch": "1571702400",
@@ -2875,8 +2875,8 @@
         "state": "future"
     },
     "bytecoin.cloud": {
-        "epoch": "1567900800",
-        "expiration_date": "08-sep-2019",
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
         "state": "future"
     },
     "bytecoin.uk": {
@@ -2925,8 +2925,8 @@
         "state": "future"
     },
     "cashbeet.com": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "ccminer.org": {
