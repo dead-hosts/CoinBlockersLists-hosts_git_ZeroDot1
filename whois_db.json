@@ -9305,14 +9305,14 @@
         "state": "future"
     },
     "str1kee.com": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "streamdream.ws": {
-        "epoch": "1565568000",
+        "epoch": 1565568000,
         "expiration_date": "12-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "streamplay.me": {
         "epoch": "1575504000",
