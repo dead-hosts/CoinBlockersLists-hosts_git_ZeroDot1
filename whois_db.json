@@ -4435,9 +4435,9 @@
         "state": "future"
     },
     "ethereumpool.co": {
-        "epoch": "1566086400",
+        "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "ethergrab.us": {
         "epoch": "1547596800",
