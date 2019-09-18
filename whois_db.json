@@ -4070,8 +4070,8 @@
         "state": "future"
     },
     "diggerhash.com": {
-        "epoch": "1568505600",
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "digital49er.com": {
@@ -4240,9 +4240,9 @@
         "state": "future"
     },
     "easyhash.io": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "easyhash.pro": {
         "epoch": "1582416000",
@@ -4300,8 +4300,8 @@
         "state": "future"
     },
     "ellaism.org": {
-        "epoch": "1568160000",
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "elthamely.com": {
@@ -4325,8 +4325,8 @@
         "state": "past"
     },
     "eoschaintech.net": {
-        "epoch": 1566432000,
-        "expiration_date": "22-aug-2019",
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "epicpool.net": {
