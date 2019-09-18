@@ -6575,8 +6575,8 @@
         "state": "future"
     },
     "maupool.com": {
-        "epoch": "1566864000",
-        "expiration_date": "27-aug-2019",
+        "epoch": 1598486400,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "maxhash.org": {
@@ -6585,8 +6585,8 @@
         "state": "future"
     },
     "mbkpool.info": {
-        "epoch": "1567728000",
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "mdwnte.com": {
@@ -6720,8 +6720,8 @@
         "state": "future"
     },
     "mineflowpool.pl": {
-        "epoch": "1564444800",
-        "expiration_date": "30-jul-2019",
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
         "state": "future"
     },
     "minekitten.io": {
@@ -6855,8 +6855,8 @@
         "state": "future"
     },
     "miners.pro": {
-        "epoch": "1567987200",
-        "expiration_date": "09-sep-2019",
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "minerspool.cc": {
@@ -6890,8 +6890,8 @@
         "state": "future"
     },
     "minether.co": {
-        "epoch": "1568332800",
-        "expiration_date": "13-sep-2019",
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "minetrtl.us": {
@@ -6927,6 +6927,11 @@
     "minezone.io": {
         "epoch": 1593129600,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "mining-madness.com": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "mining-pool.io": {
@@ -7030,9 +7035,9 @@
         "state": "future"
     },
     "miningpoolhouse.com": {
-        "epoch": 1560988800,
-        "expiration_date": "20-jun-2019",
-        "state": "past"
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
     },
     "miningpoolhub.com": {
         "epoch": "1580083200",
@@ -7095,8 +7100,8 @@
         "state": "future"
     },
     "mollnia.com": {
-        "epoch": "1568246400",
-        "expiration_date": "12-sep-2019",
+        "epoch": 1599868800,
+        "expiration_date": "12-sep-2020",
         "state": "future"
     },
     "monad.network": {
