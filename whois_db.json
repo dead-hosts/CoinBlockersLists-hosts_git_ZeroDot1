@@ -10305,8 +10305,8 @@
         "state": "past"
     },
     "xgefmxd.ru": {
-        "epoch": "1564963200",
-        "expiration_date": "05-aug-2019",
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "xgmc6lu8fs.me": {
@@ -10329,9 +10329,14 @@
         "expiration_date": "28-jun-2020",
         "state": "future"
     },
+    "xmr.co": {
+        "epoch": 1631404800,
+        "expiration_date": "12-sep-2021",
+        "state": "future"
+    },
     "xmr.life": {
-        "epoch": "1568073600",
-        "expiration_date": "10-sep-2019",
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "xmrbackb.one": {
@@ -10340,8 +10345,8 @@
         "state": "future"
     },
     "xmrig.com": {
-        "epoch": "1568505600",
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "xmrlab.com": {
@@ -10365,8 +10370,8 @@
         "state": "future"
     },
     "xmrpool.com": {
-        "epoch": "1567468800",
-        "expiration_date": "03-sep-2019",
+        "epoch": 1599091200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "xmrpool.net": {
@@ -10380,8 +10385,8 @@
         "state": "future"
     },
     "xmsilo.xyz": {
-        "epoch": "1560816000",
-        "expiration_date": "18-jun-2019",
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "xn--bittex-zhb.com": {
