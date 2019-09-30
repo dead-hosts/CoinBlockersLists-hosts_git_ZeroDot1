@@ -6534,6 +6534,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "m-m.icu": {
+        "epoch": 1580774400,
+        "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
     "m00n.top": {
         "epoch": 1592179200,
         "expiration_date": "15-jun-2020",
@@ -6769,6 +6774,11 @@
         "expiration_date": "02-dec-2018",
         "state": "past"
     },
+    "minepool.online": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "mineqrl.net": {
         "epoch": 1597017600,
         "expiration_date": "10-aug-2020",
@@ -6890,9 +6900,9 @@
         "state": "future"
     },
     "minerxmr.ru": {
-        "epoch": "1569801600",
+        "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "minescripts.info": {
         "epoch": "1580342400",
@@ -7035,8 +7045,8 @@
         "state": "future"
     },
     "miningpool.tech": {
-        "epoch": "1559174400",
-        "expiration_date": "30-may-2019",
+        "epoch": 1597276800,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "miningpool.top": {
