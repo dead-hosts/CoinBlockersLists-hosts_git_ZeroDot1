@@ -3,7 +3,7 @@
 # Description: This list disables browser based miners such as coin-hive
 # Donate: http://bit.ly/CBLDonate Every donation keeps the future development going. Thank you.
 # Homepage: https://gitlab.com/ZeroDot1/CoinBlockerLists/
-# Last modified: 2019-09-10 03:34:13
+# Last modified: 2019-09-27 20:23:00
 # License: https://gitlab.io/ZeroDot1/CoinBlockerLists/LICENSE
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 0-100-195.btcc.com
@@ -877,6 +877,7 @@
 0.0.0.0 admin.miningexpress.com
 0.0.0.0 admin.monerominer.rocks
 0.0.0.0 admin.monit.quantumminingpool.com
+0.0.0.0 admin.n3xt-pool.net
 0.0.0.0 admin.node.coin-miners.info
 0.0.0.0 admin.pool.golix.com
 0.0.0.0 admin.securepayment.cc
@@ -1596,6 +1597,7 @@
 0.0.0.0 api.multipool.us
 0.0.0.0 api.music.labaleine.gg
 0.0.0.0 api.music.mypool.online
+0.0.0.0 api.n3xt-pool.net
 0.0.0.0 api.nanopool.org
 0.0.0.0 api.nbx.heigh-ho.funkypenguin.co.nz
 0.0.0.0 api.netflare.info
@@ -2167,6 +2169,7 @@
 0.0.0.0 autodiscover.aussie-pools.com
 0.0.0.0 autodiscover.beta.supportxmr.com
 0.0.0.0 autodiscover.blockfoundry.org
+0.0.0.0 autodiscover.blockmasters.co
 0.0.0.0 autodiscover.btc.com
 0.0.0.0 autodiscover.btcnos.com
 0.0.0.0 autodiscover.coin-miners.info
@@ -3978,6 +3981,7 @@
 0.0.0.0 chain.api.btc.com
 0.0.0.0 chain.btc.com
 0.0.0.0 chain.gridcoin.us
+0.0.0.0 chain.n3xt-pool.net
 0.0.0.0 chain.node.gridcoin.us
 0.0.0.0 chainblock.sc
 0.0.0.0 chainblock.science
@@ -7020,6 +7024,7 @@
 0.0.0.0 eu.multipool.us
 0.0.0.0 eu.myzen.cash
 0.0.0.0 eu.n-engine.com
+0.0.0.0 eu.n3xt-pool.net
 0.0.0.0 eu.nanopool.org
 0.0.0.0 eu.netcodepool.org
 0.0.0.0 eu.nicehash.com
@@ -7303,6 +7308,7 @@
 0.0.0.0 exp.minerpool.net
 0.0.0.0 exp.minertopia.org
 0.0.0.0 exp.mypool.online
+0.0.0.0 exp.n3xt-pool.net
 0.0.0.0 exp.nanopool.org
 0.0.0.0 exp.pool.sexy
 0.0.0.0 exp.pool.whalesburg.com
@@ -10549,6 +10555,7 @@
 0.0.0.0 m-83.openvpn.f2pool.com
 0.0.0.0 m-9-467.btcc.com
 0.0.0.0 m-a.btcchina.com
+0.0.0.0 m-hash.com
 0.0.0.0 m-m.icu
 0.0.0.0 m.58coin.com
 0.0.0.0 m.aikapool.com
@@ -11290,6 +11297,7 @@
 0.0.0.0 mining.garden
 0.0.0.0 mining.ghash.io
 0.0.0.0 mining.luxor.tech
+0.0.0.0 mining.m-hash.com
 0.0.0.0 mining.mempool.com
 0.0.0.0 mining.mine.zpool.ca
 0.0.0.0 mining.miningspeed.com
@@ -12055,6 +12063,7 @@
 0.0.0.0 n1.cryptopia.co.nz
 0.0.0.0 n1.pool.einfach-iota.de
 0.0.0.0 n1.pool.node.einfach-iota.de
+0.0.0.0 n3xt-pool.net
 0.0.0.0 n5.pool.mn
 0.0.0.0 n5x.suprnova.cc
 0.0.0.0 na.cloudpools.net
@@ -12721,6 +12730,7 @@
 0.0.0.0 ns1.wemineltc.com
 0.0.0.0 ns1.xtrapool.com
 0.0.0.0 ns1.youcrazy.me
+0.0.0.0 ns1.yvz.blockmasters.co
 0.0.0.0 ns11.hashvault.pro
 0.0.0.0 ns11.minemonero.pro
 0.0.0.0 ns11.nodes.hashvault.pro
@@ -14046,6 +14056,7 @@
 0.0.0.0 polytimos.mine.zpool.ca
 0.0.0.0 polytimos.na.mine.zpool.ca
 0.0.0.0 polytimos.us.mine.zpool.ca
+0.0.0.0 pom.m-hash.com
 0.0.0.0 pon.ewtuyytdf45.com
 0.0.0.0 pony1.hashfaster.com
 0.0.0.0 poo.pool.mn
@@ -16573,6 +16584,7 @@
 0.0.0.0 smc.stratum.smartmining.net
 0.0.0.0 smectapop12.pl
 0.0.0.0 smith.pool.sexy
+0.0.0.0 smithpool.dynu.net
 0.0.0.0 smly.suprnova.cc
 0.0.0.0 smr-eu1.nanopool.org
 0.0.0.0 sms-api.uax.io
@@ -17380,6 +17392,7 @@
 0.0.0.0 stratum.litepool.ru
 0.0.0.0 stratum.luckypool.cn
 0.0.0.0 stratum.luckypool.org
+0.0.0.0 stratum.m-hash.com
 0.0.0.0 stratum.mine.zpool.ca
 0.0.0.0 stratum.minepool.com
 0.0.0.0 stratum.minertopia.org
@@ -22819,6 +22832,7 @@
 0.0.0.0 www.lyra2z.mine.zpool.ca
 0.0.0.0 www.lzobilie.cf
 0.0.0.0 www.m-a.btcchina.com
+0.0.0.0 www.m-hash.com
 0.0.0.0 www.m.bitcoin.co.pt
 0.0.0.0 www.m.bitcoin.cz
 0.0.0.0 www.m.btcc.com
@@ -23188,6 +23202,7 @@
 0.0.0.0 www.mzc.thecoin.pw
 0.0.0.0 www.mzt.llama.horse
 0.0.0.0 www.n-engine.com
+0.0.0.0 www.n3xt-pool.net
 0.0.0.0 www.n5.pool.mn
 0.0.0.0 www.nablabee.com
 0.0.0.0 www.nac.pool.mn
