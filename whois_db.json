@@ -9540,9 +9540,9 @@
         "state": "future"
     },
     "thepiratebay.cr": {
-        "epoch": "1569456000",
+        "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "thepiratebay.is": {
         "epoch": 1592784000,
@@ -9720,8 +9720,8 @@
         "state": "future"
     },
     "tritaniummining.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "trtl.ninja": {
