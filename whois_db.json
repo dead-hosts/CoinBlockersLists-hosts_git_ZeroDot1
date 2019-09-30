@@ -2060,8 +2060,8 @@
         "state": "future"
     },
     "best-cdn.pl": {
-        "epoch": 1559433600,
-        "expiration_date": "02-jun-2019",
+        "epoch": 1570924800,
+        "expiration_date": "13-oct-2019",
         "state": "future"
     },
     "bestcoinsignals.com": {
@@ -2315,9 +2315,9 @@
         "state": "future"
     },
     "bitcoingenerator.club": {
-        "epoch": "1569801600",
+        "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "bitcoinhekaton.com": {
         "epoch": 1573257600,
@@ -2455,9 +2455,9 @@
         "state": "future"
     },
     "bittank.club": {
-        "epoch": "1569628800",
+        "epoch": 1569628800,
         "expiration_date": "28-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "bittrex.academy": {
         "epoch": "1573603200",
@@ -2655,8 +2655,8 @@
         "state": "future"
     },
     "blockmunch.club": {
-        "epoch": "1569024000",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "blockmuncher.com": {
