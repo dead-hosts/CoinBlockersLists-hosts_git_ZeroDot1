@@ -6520,13 +6520,18 @@
         "state": "future"
     },
     "lycheebit.com": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "lydian.io": {
         "epoch": 1595203200,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "m-hash.com": {
+        "epoch": 1586995200,
+        "expiration_date": "16-apr-2020",
         "state": "future"
     },
     "m00n.top": {
@@ -6670,8 +6675,8 @@
         "state": "future"
     },
     "mighbest.site": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "minanagency.com": {
