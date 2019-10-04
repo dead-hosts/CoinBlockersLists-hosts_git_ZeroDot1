@@ -1,10 +1,18 @@
 {
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
         "ACTIVE": [
-            "0006.openvpn.f2pool.com"
+            "0006.openvpn.f2pool.com",
+            "0010.openvpn.f2pool.com",
+            "001.0x1f4b0.com",
+            "002.0x1f4b0.com"
         ],
         "INACTIVE": [
-            "00073.openvpn.f2pool.com"
+            "00073.openvpn.f2pool.com",
+            "00.0x1f4b0.com",
+            "0015.openvpn.f2pool.com",
+            "0017.openvpn.f2pool.com",
+            "00-198.btcc.com",
+            "0025.openvpn.f2pool.com"
         ]
     }
 }
