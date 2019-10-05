@@ -102,7 +102,8 @@
             "16684.openvpn.f2pool.com",
             "167-82.btcc.com",
             "16893.openvpn.f2pool.com",
-            "180tradeoption.com"
+            "180tradeoption.com",
+            "19417.openvpn.f2pool.com"
         ],
         "INACTIVE": [
             "00073.openvpn.f2pool.com",
@@ -318,7 +319,15 @@
             "191d6.openvpn.f2pool.com",
             "19234.openvpn.f2pool.com",
             "19297.openvpn.f2pool.com",
-            "192e3.openvpn.f2pool.com"
+            "192e3.openvpn.f2pool.com",
+            "19549.openvpn.f2pool.com",
+            "195513.btcc.com",
+            "19558.btcc.com",
+            "19-5.openvpn.f2pool.com",
+            "19-72.openvpn.f2pool.com"
+        ],
+        "INVALID": [
+            "194.58.122.146\\032stratum.aikapool.com"
         ]
     }
 }
