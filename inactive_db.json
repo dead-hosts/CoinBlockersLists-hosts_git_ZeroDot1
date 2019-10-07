@@ -8079,14 +8079,6 @@
             "_domainkey.connectbtc.com": "INACTIVE",
             "a.pool.ml": "INACTIVE",
             "a.u.bitcoin.co.pt": "INACTIVE",
-            "ach.suprnova.cc": "INACTIVE",
-            "acoin.coin-miners.info": "INACTIVE",
-            "acoin.node.coin-miners.info": "INACTIVE",
-            "acoin.suprnova.cc": "INACTIVE",
-            "acoinv2.coin-miners.info": "INACTIVE",
-            "acoinv2.node.coin-miners.info": "INACTIVE",
-            "acoma.btcc.com": "INACTIVE",
-            "acp.gcpool.eu": "INACTIVE",
             "acrux.beget.tech": "INACTIVE",
             "act.luckypool.cn": "INACTIVE",
             "activity-club.org": "INACTIVE",
@@ -18208,7 +18200,16 @@
             "accessadv.com": "INACTIVE",
             "account.btcc.com": "INACTIVE",
             "accounts.pool.golix.com": "INACTIVE",
-            "accra.sy": "INACTIVE"
+            "accra.sy": "INACTIVE",
+            "ach.suprnova.cc": "INACTIVE",
+            "acm.openvpn.f2pool.com": "INACTIVE",
+            "acoin.coin-miners.info": "INACTIVE",
+            "acoin.node.coin-miners.info": "INACTIVE",
+            "acoin.suprnova.cc": "INACTIVE",
+            "acoinv2.coin-miners.info": "INACTIVE",
+            "acoinv2.node.coin-miners.info": "INACTIVE",
+            "acoma.btcc.com": "INACTIVE",
+            "acp.gcpool.eu": "INACTIVE"
         }
     }
 }
