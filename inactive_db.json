@@ -8073,8 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1565615712": {},
-        "1568801635": {},
         "1569839140": {
             "_domainkey.connectbtc.com": "INACTIVE",
             "a.pool.ml": "INACTIVE",
@@ -18212,6 +18210,35 @@
             "adobeupdater.mcdir.ru": "INACTIVE",
             "adobflashplayerx.xyz": "INACTIVE",
             "adon.herominers.com": "INACTIVE"
+        },
+        "1570664105": {
+            "ads.hiveon.net": "INACTIVE",
+            "ads.node.hiveon.net": "INACTIVE"
+        },
+        "1570664116": {
+            "adz.mine.zpool.ca": "INACTIVE"
+        },
+        "1570664246": {
+            "adz.pool.mn": "INACTIVE"
+        },
+        "1570664378": {
+            "ae-eu.f2pool.com": "INACTIVE"
+        },
+        "1570664509": {
+            "ae.hiveon.net": "INACTIVE",
+            "aegis.pool.mn": "INACTIVE"
+        },
+        "1570664510": {
+            "ae.node.hiveon.net": "INACTIVE"
+        },
+        "1570664511": {
+            "aen.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1570664645": {
+            "aeon.chinaenter.cn": "INACTIVE"
+        },
+        "1570664775": {
+            "aeoncoin.xminingpool.com": "INACTIVE"
         }
     }
 }
