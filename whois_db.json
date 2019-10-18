@@ -4720,8 +4720,8 @@
         "state": "future"
     },
     "firmware.center": {
-        "epoch": "1570752000",
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "fiverr.com": {
@@ -4780,9 +4780,9 @@
         "state": "future"
     },
     "flightzy.bid": {
-        "epoch": 1560816000,
-        "expiration_date": "18-jun-2019",
-        "state": "past"
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
     },
     "flightzy.date": {
         "epoch": 1560816000,
