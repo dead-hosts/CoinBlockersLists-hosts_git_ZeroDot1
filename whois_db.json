@@ -10739,6 +10739,11 @@
         "expiration_date": "05-jan-2019",
         "state": "past"
     },
+    "z-pool.com": {
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
     "z.cash": {
         "epoch": "1576972800",
         "expiration_date": "22-dec-2019",
@@ -10757,6 +10762,16 @@
     "zecmine.pro": {
         "epoch": "1580688000",
         "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "zelerius.org": {
+        "epoch": 1594252800,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "zelerius.ru": {
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "zenmine.pro": {
