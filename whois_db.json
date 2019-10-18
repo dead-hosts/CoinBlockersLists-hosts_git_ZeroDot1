@@ -9989,6 +9989,11 @@
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
+    "uupool.com": {
+        "epoch": 1606867200,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "uzljra.ru": {
         "epoch": "1553299200",
         "expiration_date": "23-mar-2019",
@@ -10070,8 +10075,8 @@
         "state": "future"
     },
     "viewyng.com": {
-        "epoch": "1571356800",
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "virtopia.ca": {
