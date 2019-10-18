@@ -6010,9 +6010,9 @@
         "state": "past"
     },
     "jquery-cdn.download": {
-        "epoch": "1549411200",
-        "expiration_date": "06-feb-2019",
-        "state": "past"
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
     },
     "jquery-js.com": {
         "epoch": "1577923200",
@@ -6050,8 +6050,8 @@
         "state": "future"
     },
     "jscdndel.com": {
-        "epoch": "1570665600",
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "jscoinminer.com": {
@@ -6205,8 +6205,8 @@
         "state": "future"
     },
     "ki1ahb.xyz": {
-        "epoch": "1571184000",
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "kingbtc.co": {
@@ -6370,8 +6370,8 @@
         "state": "future"
     },
     "legco.info": {
-        "epoch": "1571270400",
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "lewd.ninja": {
