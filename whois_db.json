@@ -2749,6 +2749,11 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "bpool.com": {
+        "epoch": 1660694400,
+        "expiration_date": "17-aug-2022",
+        "state": "future"
+    },
     "bpool.id": {
         "epoch": 1583280000,
         "expiration_date": "04-mar-2020",
@@ -2870,13 +2875,28 @@
         "state": "future"
     },
     "btgpool.pro": {
-        "epoch": "1570665600",
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "bubblemine.com": {
         "epoch": "1587081600",
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "burstcoin.ml": {
+        "epoch": 1602547200,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
+    "burstcoin.ro": {
+        "epoch": 1652659200,
+        "expiration_date": "16-may-2022",
+        "state": "future"
+    },
+    "burstneon.com": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
         "state": "future"
     },
     "butcalve.com": {
@@ -2919,6 +2939,11 @@
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
+    "bytepool.com": {
+        "epoch": 1630281600,
+        "expiration_date": "30-aug-2021",
+        "state": "future"
+    },
     "c0i8h8ac7e.bid": {
         "epoch": "1543276800",
         "expiration_date": "27-nov-2018",
@@ -2957,6 +2982,11 @@
     "cashbeet.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "catalanscoin.cat": {
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "ccminer.org": {
@@ -3435,9 +3465,9 @@
         "state": "future"
     },
     "coinlab.biz": {
-        "epoch": "1570060800",
+        "epoch": 1570060800,
         "expiration_date": "03-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "coinmarketcat.top": {
         "epoch": "1586995200",
