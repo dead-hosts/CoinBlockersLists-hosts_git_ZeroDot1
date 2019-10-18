@@ -5515,8 +5515,8 @@
         "state": "future"
     },
     "hashpower.co": {
-        "epoch": "1571184000",
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "hashrefinery.com": {
@@ -5535,8 +5535,8 @@
         "state": "future"
     },
     "hashvault.pro": {
-        "epoch": "1570838400",
-        "expiration_date": "12-oct-2019",
+        "epoch": 1728691200,
+        "expiration_date": "12-oct-2024",
         "state": "future"
     },
     "hashwiz.io": {
@@ -5574,9 +5574,14 @@
         "expiration_date": "15-apr-2019",
         "state": "future"
     },
+    "hdpool.com": {
+        "epoch": 1620518400,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "heato.info": {
-        "epoch": "1571270400",
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "hegrinhar.com": {
@@ -5620,8 +5625,8 @@
         "state": "future"
     },
     "hexamining.io": {
-        "epoch": "1570233600",
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "hide.ovh": {
@@ -5717,6 +5722,11 @@
     "hostxmr.com": {
         "epoch": "1589846400",
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "hpool.com": {
+        "epoch": 1828828800,
+        "expiration_date": "15-dec-2027",
         "state": "future"
     },
     "hrfziiddxa.ru": {
