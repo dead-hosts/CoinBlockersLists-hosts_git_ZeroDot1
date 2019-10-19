@@ -7890,8 +7890,8 @@
         "state": "future"
     },
     "nosekefik.com": {
-        "epoch": "1571443200",
-        "expiration_date": "19-oct-2019",
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "nosuchpool.cloud": {
@@ -7902,6 +7902,11 @@
     "notmining.org": {
         "epoch": "1576368000",
         "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "novablock.com": {
+        "epoch": 1611619200,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "npdaqy6x1j.me": {
