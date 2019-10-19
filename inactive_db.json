@@ -8080,659 +8080,8 @@
             "mail.test10.node.coin-miners.info": "INACTIVE",
             "mail.test5.node.coin-miners.info": "INACTIVE"
         },
-        "1571351734": {
-            "bitcoin.node.coin-miners.info": "INVALID",
-            "bitcoin.p2pool.co.in": "INVALID",
-            "bitcoinnote.smartcoinpool.com": "INVALID",
-            "bitcoinote.my-mining-pool.de": "INVALID",
-            "bitcoinote.smartcoinpool.com": "INVALID",
-            "bitcoinp2pool.zapto.org": "INVALID"
-        },
-        "1571351735": {
-            "bitcoin-private.miningpoolhub.com": "INVALID",
-            "bitcoinprivate.cryptomineros.com": "INVALID"
-        },
-        "1571351736": {
-            "bitcoin.securepayment.cc": "INVALID",
-            "bitcoin.sipa.be": "INVALID",
-            "bitcoinsrv.jonasschnelli.ch": "INVALID"
-        },
-        "1571351737": {
-            "bitcoin.viabtc.com": "INVALID",
-            "bitcointools.jonasschnelli.ch": "INVALID"
-        },
-        "1571351738": {
-            "bitcoinz.getpool.network": "INVALID",
-            "bitcoinz.minerspool.cc": "INVALID",
-            "bitcoinz.miningpool.io": "INVALID",
-            "bitcoinz.miningspeed.com": "INVALID",
-            "bitcoinzguiding.ovh": "INVALID"
-        },
-        "1571351739": {
-            "bitcoln.weebly.com": "INVALID",
-            "bitcore.eu.mine.zpool.ca": "INVALID",
-            "bitcore.mine.ahashpool.com": "INVALID",
-            "bitcore.mine.zergpool.com": "INVALID",
-            "bitcore.mine.zpool.ca": "INVALID",
-            "bitcore.na.mine.zpool.ca": "INVALID"
-        },
-        "1571351740": {
-            "bitcore.n-engine.com": "INVALID",
-            "bitcore.sea.mine.zpool.ca": "INVALID",
-            "bitcore.us.hashrefinery.com": "INVALID"
-        },
-        "1571351742": {
-            "bitc-solo.rig.tokyo": "INVALID",
-            "bitc.youpool.io": "INVALID"
-        },
-        "1571351743": {
-            "bitdeer-pool.api.btc.com": "INVALID",
-            "bitdeer.pool.btc.com": "INVALID",
-            "bitg.minecrypto.top": "INVALID",
-            "bitgem.youcrazy.me": "INVALID",
-            "bitgrin.cryptoblock.uk": "INVALID"
-        },
-        "1571351744": {
-            "bitgrin.ingest.cryptoknight.cc": "INVALID",
-            "bitin.us": "INVALID",
-            "bitistamp.com": "INVALID"
-        },
-        "1571351745": {
-            "bitlion.bpool.id": "INVALID",
-            "bitlion.miningpoolhub.com": "INVALID",
-            "bitly.wa4eri.xyz": "INVALID",
-            "bitmiles.miningpoolhub.com": "INVALID"
-        },
-        "1571351746": {
-            "bit.namecoin.info": "INVALID",
-            "bit.nanopool.org": "INVALID"
-        },
-        "1571351747": {
-            "bit.pool.mn": "INVALID",
-            "bitpoolminerapi.bitpoolmining.com": "INVALID"
-        },
-        "1571351748": {
-            "bitpoppool.geekgalaxy.com": "INVALID",
-            "bitq.suprnova.cc": "INVALID",
-            "bitr.coin-miners.info": "INVALID",
-            "bitr.hashhot.com": "INVALID",
-            "bitr.node.coin-miners.info": "INVALID"
-        },
-        "1571351749": {
-            "bitsonar.mempool.com": "INVALID",
-            "bitstar.youcrazy.me": "INVALID",
-            "bitsum.herominers.com": "INVALID",
-            "bitsum.smartcoinpool.com": "INVALID",
-            "bittip.coinbase.com": "INVALID"
-        },
-        "1571351750": {
-            "bittorium.ingest.cryptoknight.cc": "INVALID",
-            "bittrex.academy": "INVALID"
-        },
-        "1571351751": {
-            "bittrex.agency": "INVALID",
-            "bittrex.associates": "INVALID"
-        },
-        "1571351752": {
-            "bittrex.auction": "INVALID",
-            "bittrexbtc.com": "INVALID"
-        },
-        "1571351753": {
-            "bittrex.finance": "INVALID",
-            "bittrex.life": "INVALID"
-        },
-        "1571351754": {
-            "bittrex.team": "INVALID"
-        },
-        "1571351755": {
-            "bittrex.tools": "INVALID",
-            "bittube.fairhash.org": "INVALID",
-            "bittube.hashvault.pro": "INVALID",
-            "bittube.herominers.com": "INVALID",
-            "bittube.luckypool.io": "INVALID",
-            "bittube.miner.rocks": "INVALID"
-        },
-        "1571351756": {
-            "bittube.modpool.org": "INVALID",
-            "bittube.nodes.hashvault.pro": "INVALID",
-            "bittube.smartcoinpool.com": "INVALID",
-            "bitx.pool.mn": "INVALID",
-            "bitz.coin-miners.info": "INVALID",
-            "bitz.node.coin-miners.info": "INVALID",
-            "bitz.suprnova.cc": "INVALID"
-        },
-        "1571351757": {
-            "bixbite.herominers.com": "INVALID",
-            "biztalk.hiveon.net": "INVALID",
-            "biztalk.node.hiveon.net": "INVALID"
-        },
-        "1571351765": {
-            "bj.1mh.net": "INVALID",
-            "bj.altcoinpool.com": "INVALID",
-            "bj.bitcoin.co.pt": "INVALID"
-        },
-        "1571351766": {
-            "bj.btcc.com": "INVALID",
-            "bjorksta.me": "INVALID",
-            "bjorksta.men": "INVALID",
-            "bk.bitcoin.co.pt": "INVALID"
-        },
-        "1571351767": {
-            "bkc.superpools.online": "INVALID",
-            "bkc.youpool.io": "INVALID",
-            "bko-datastorage01g.fix.btcc.com": "INVALID",
-            "black2s.mine.zpool.ca": "INVALID"
-        },
-        "1571351768": {
-            "black-pool.net": "INVALID",
-            "black.suprnova.cc": "INVALID",
-            "blackrose.modpool.org": "INVALID",
-            "blake256r14.br.nicehash.com": "INVALID"
-        },
-        "1571351769": {
-            "blake256r14.eu.nicehash.com": "INVALID",
-            "blake256r14.hk.nicehash.com": "INVALID",
-            "blake256r14.in.nicehash.com": "INVALID",
-            "blake256r14.jp.nicehash.com": "INVALID",
-            "blake256r14.na.mine.zpool.ca": "INVALID",
-            "blake256r14.usa.nicehash.com": "INVALID",
-            "blake256r8.br.nicehash.com": "INVALID",
-            "blake256r8.eu.nicehash.com": "INVALID"
-        },
-        "1571351770": {
-            "blake256r8.hk.nicehash.com": "INVALID",
-            "blake256r8.in.nicehash.com": "INVALID",
-            "blake256r8.jp.nicehash.com": "INVALID",
-            "blake256r8.usa.nicehash.com": "INVALID",
-            "blake256r8vnl.br.nicehash.com": "INVALID",
-            "blake256r8vnl.eu.nicehash.com": "INVALID",
-            "blake256r8vnl.hk.nicehash.com": "INVALID"
-        },
-        "1571351771": {
-            "blake2.mine.zpool.ca": "INVALID",
-            "blake256r8vnl.in.nicehash.com": "INVALID",
-            "blake256r8vnl.jp.nicehash.com": "INVALID",
-            "blake256r8vnl.usa.nicehash.com": "INVALID",
-            "blake2b.mine.zergpool.com": "INVALID",
-            "blake2s.asia.mine.zpool.ca": "INVALID",
-            "blake2s.br.nicehash.com": "INVALID"
-        },
-        "1571351772": {
-            "blake2s.eu.mine.zpool.ca": "INVALID",
-            "blake2s.eu.nicehash.com": "INVALID",
-            "blake2s.eu1.unimining.net": "INVALID",
-            "blake2s.hk.nicehash.com": "INVALID",
-            "blake2s.in.nicehash.com": "INVALID",
-            "blake2s.jp.nicehash.com": "INVALID",
-            "blake2s.mine.ahashpool.com": "INVALID",
-            "blake2s.mine.zergpool.com": "INVALID"
-        },
-        "1571351773": {
-            "blake2s.mine.zpool.ca": "INVALID",
-            "blake2s.na.mine.zpool.ca": "INVALID",
-            "blake2s.sea.mine.zpool.ca": "INVALID",
-            "blake2s.us.hashrefinery.com": "INVALID",
-            "blake2s.usa.nicehash.com": "INVALID",
-            "blakecoin.eu.mine.zpool.ca": "INVALID",
-            "blakecoin.mine.ahashpool.com": "INVALID",
-            "blakecoin.mine.zpool.ca": "INVALID"
-        },
-        "1571351774": {
-            "bl.bitcoin.co.pt": "INVALID",
-            "blake.mine.zpool.ca": "INVALID",
-            "blake.suprnova.cc": "INVALID",
-            "blakecoin.na.mine.zpool.ca": "INVALID",
-            "blast.gcpool.eu": "INVALID"
-        },
-        "1571351775": {
-            "bl.btcc.com": "INVALID",
-            "blc.coin-miners.info": "INVALID",
-            "blc.coinmine.pl": "INVALID",
-            "blc.hashhot.com": "INVALID",
-            "blc.node.coin-miners.info": "INVALID",
-            "blc.suprnova.cc": "INVALID"
-        },
-        "1571351776": {
-            "bli.openvpn.f2pool.com": "INVALID",
-            "blitz.suprnova.cc": "INVALID"
-        },
-        "1571351777": {
-            "blke2s.mine.zpool.ca": "INVALID",
-            "blkt.hashhot.com": "INVALID",
-            "bloc.cryptonote.club": "INVALID",
-            "bloc.cryptopool.space": "INVALID",
-            "bloc.fairpool.cloud": "INVALID"
-        },
-        "1571351778": {
-            "bloc.hashvault.pro": "INVALID",
-            "bloc.herominers.com": "INVALID",
-            "blochaven.smartcoinpool.com": "INVALID",
-            "blochchauin.com": "INVALID",
-            "blochchauin.info": "INVALID",
-            "blochichain.com": "INVALID",
-            "blochichain.info": "INVALID"
-        },
-        "1571351779": {
-            "blockchain.aeonminingpool.com": "INVALID",
-            "blockchain.arqma.com": "INVALID",
-            "blockchain.jsecoin.com": "INVALID",
-            "blockchained.party": "INVALID",
-            "blockchains.unimining.net": "INVALID",
-            "blockchaiun.biz": "INVALID",
-            "blockchaiun.info": "INVALID"
-        },
-        "1571351780": {
-            "blockchauin.info": "INVALID",
-            "blockdiff.btc.com": "INVALID"
-        },
-        "1571351781": {
-            "block-explorer.coin-miners.info": "INVALID",
-            "blockexplorer.arqma.com": "INVALID",
-            "blockexplorer.bitcoinhekaton.com": "INVALID",
-            "blockexplorer.funkymonkey.org": "INVALID",
-            "blockexplorer.graft.network": "INVALID",
-            "blockexplorerapis.mempool.com": "INVALID"
-        },
-        "1571351782": {
-            "block-explorer.node.coin-miners.info": "INVALID",
-            "blockexplorer.mempool.com": "INVALID",
-            "blockexplorer.stellite.cash": "INVALID",
-            "blockmuncher.com": "INVALID",
-            "blocks2.altpool.pro": "INVALID"
-        },
-        "1571351783": {
-            "blocks.altpool.pro": "INVALID",
-            "blocks2.btgpool.pro": "INVALID",
-            "blocks3.altpool.pro": "INVALID",
-            "blocks3.btgpool.pro": "INVALID",
-            "blocks4.altpool.pro": "INVALID",
-            "blocks4.btgpool.pro": "INVALID",
-            "blocks5.altpool.pro": "INVALID",
-            "blocks6.altpool.pro": "INVALID"
-        },
-        "1571351784": {
-            "blocks.arqma.com": "INVALID",
-            "blocks.btgpool.pro": "INVALID",
-            "blocks.suprnova.cc": "INVALID",
-            "blocks.txxcoin.tech": "INVALID"
-        },
-        "1571351785": {
-            "bloc.leafpool.com": "INVALID",
-            "bloc.llama.horse": "INVALID",
-            "bloc.luckypool.io": "INVALID",
-            "blocks.ypool.ga": "INVALID",
-            "blocks.z.cash": "INVALID"
-        },
-        "1571351786": {
-            "bloc.mo": "INVALID",
-            "bloc.modpool.org": "INVALID"
-        },
-        "1571351787": {
-            "bloc.node.hashfor.cash": "INVALID",
-            "bloc.nodes.hashvault.pro": "INVALID"
-        },
-        "1571351788": {
-            "bloc-pool.proxpool.com": "INVALID",
-            "bloc.proxpool.com": "INVALID",
-            "bloc.smartcoinpool.com": "INVALID",
-            "blog.f2pool.com": "INVALID"
-        },
-        "1571351789": {
-            "blog.mempool.com": "INVALID",
-            "blog.poolin.com": "INVALID",
-            "blogs.node.hiveon.net": "INVALID",
-            "blood.fix.btcc.com": "INVALID",
-            "blood.suprnova.cc": "INVALID"
-        },
-        "1571351790": {
-            "bloom.fix.btcc.com": "INVALID",
-            "blox.beta.supportxmr.com": "INVALID",
-            "blox.minexmr.com": "INVALID",
-            "blox.node.supportxmr.com": "INVALID",
-            "blox.supportxmr.com": "INVALID",
-            "bltz.pool.mn": "INVALID",
-            "blue.hiveon.net": "INVALID"
-        },
-        "1571351791": {
-            "blue.node.hiveon.net": "INVALID",
-            "blueproxy.bl": "INVALID",
-            "blunt.suprnova.cc": "INVALID"
-        },
-        "1571351793": {
-            "blur.cool-pool.net": "INVALID",
-            "blus.suprnova.cc": "INVALID"
-        },
-        "1571351794": {
-            "blz.faucet.works": "INVALID",
-            "blz.pool.mn": "INVALID",
-            "bm.bitcoin.co.pt": "INVALID",
-            "bmcm.ml": "INVALID",
-            "bmf100pool.burstcoin.ro": "INVALID",
-            "bmf50pool.burstcoin.ro": "INVALID"
-        },
-        "1571351795": {
-            "b-mfe.fix.btcc.com": "INVALID",
-            "bm.hiveon.net": "INVALID",
-            "bmg-bch.viabtc.com": "INVALID"
-        },
-        "1571351796": {
-            "bm.node.hiveon.net": "INVALID",
-            "bmnadutub.ru": "INVALID",
-            "bmy.coin-miners.info": "INVALID",
-            "bmy.node.coin-miners.info": "INVALID",
-            "bmy.pool.mn": "INVALID"
-        },
-        "1571351797": {
-            "bn.bitcoin.co.pt": "INVALID",
-            "bn.btcc.com": "INVALID",
-            "bnc.hashhot.com": "INVALID",
-            "bnc.speedup-faucet.com": "INVALID"
-        },
-        "1571351798": {
-            "bn.fix.btcc.com": "INVALID",
-            "bn.huobipool.com": "INVALID"
-        },
-        "1571351800": {
-            "bnm.cf": "INVALID"
-        },
-        "1571351808": {
-            "bnm.ga": "INVALID"
-        },
-        "1571351809": {
-            "bnm.gq": "INVALID"
-        },
-        "1571351817": {
-            "bnm.ml": "INVALID"
-        },
-        "1571351825": {
-            "b.node.hiveon.net": "INVALID",
-            "bnm.tk": "INVALID",
-            "bns.lightninghash.com": "INVALID",
-            "bnt.suprnova.cc": "INVALID"
-        },
-        "1571351826": {
-            "bnt.wmikrut.com": "INVALID",
-            "bo.bitcoin.co.pt": "INVALID",
-            "boat.suprnova.cc": "INVALID",
-            "boats.fix.btcc.com": "INVALID",
-            "bob.hiveon.net": "INVALID",
-            "bob.node.hiveon.net": "INVALID"
-        },
-        "1571351827": {
-            "bo.btcc.com": "INVALID",
-            "bobo.burstcoin.ro": "INVALID",
-            "bodies.fix.btcc.com": "INVALID"
-        },
-        "1571351828": {
-            "boen.openvpn.f2pool.com": "INVALID"
-        },
-        "1571351829": {
-            "bo.hiveon.net": "INVALID",
-            "bof.btcc.com": "INVALID",
-            "boise.hiveon.net": "INVALID",
-            "boise.node.hiveon.net": "INVALID",
-            "bold.superpools.online": "INVALID",
-            "bold.youpool.io": "INVALID"
-        },
-        "1571351830": {
-            "bolly.suprnova.cc": "INVALID",
-            "bollywoodcoin.miningpoolhub.com": "INVALID",
-            "bolsa.hiveon.net": "INVALID",
-            "bolsa.node.hiveon.net": "INVALID",
-            "bolt.fix.btcc.com": "INVALID"
-        },
-        "1571351831": {
-            "bom.dnstop.info": "INVALID",
-            "bomb.fix.btcc.com": "INVALID",
-            "bones.fix.btcc.com": "INVALID",
-            "bones.pool.mn": "INVALID"
-        },
-        "1571351832": {
-            "bo.node.hiveon.net": "INVALID",
-            "book.fix.btcc.com": "INVALID",
-            "books.coincheck.com": "INVALID",
-            "boolberry.extremepool.org": "INVALID"
-        },
-        "1571351833": {
-            "boolberry.luckypool.io": "INVALID",
-            "boolberry.miner.rocks": "INVALID",
-            "boolberry.smartcoinpool.com": "INVALID",
-            "boolberry.xminingpool.com": "INVALID",
-            "boom.allthedisks.com": "INVALID",
-            "boom.b3pool.com": "INVALID",
-            "boom2.suprnova.cc": "INVALID"
-        },
-        "1571351834": {
-            "boom.foxypool.cf": "INVALID",
-            "boom.hashhot.com": "INVALID",
-            "boom.onepool.co": "INVALID",
-            "boom.pool.mn": "INVALID",
-            "boom.suprnova.cc": "INVALID",
-            "boombastic-1.foxypool.cf": "INVALID"
-        },
-        "1571351835": {
-            "boom.voiplanparty.com": "INVALID",
-            "boom.wallpool.com": "INVALID",
-            "boost.btc.sigmapool.com": "INVALID",
-            "boost.ltc.sigmapool.com": "INVALID",
-            "boost.suprnova.cc": "INVALID",
-            "boost2.suprnova.cc": "INVALID"
-        },
-        "1571351836": {
-            "boot.eostitan.com": "INVALID",
-            "booty.pool.mn": "INVALID",
-            "border.hiveon.net": "INVALID",
-            "border.node.hiveon.net": "INVALID",
-            "boss.suprnova.cc": "INVALID",
-            "bost.hashhot.com": "INVALID",
-            "bot.altpool.pro": "INVALID"
-        },
-        "1571351837": {
-            "bot-api.2miners.com": "INVALID",
-            "bot-kakao.esn.gonspool.com": "INVALID",
-            "bot.arqma.com": "INVALID",
-            "bot.coinmine.pl": "INVALID",
-            "bot.esn.gonspool.com": "INVALID",
-            "bot.garlicpool.org": "INVALID",
-            "bot.gos.cx": "INVALID"
-        },
-        "1571351838": {
-            "bot-tele.esn.gonspool.com": "INVALID",
-            "bot.miners.pro": "INVALID",
-            "bot.virtopia.ca": "INVALID",
-            "bots.nosekefik.com": "INVALID",
-            "bottlecaps.youcrazy.me": "INVALID",
-            "boun.pool.mn": "INVALID"
-        },
-        "1571351839": {
-            "bovinos.em.bitcoin.co.pt": "INVALID",
-            "bowithow.com": "INVALID",
-            "bows.pool.mn": "INVALID"
-        },
-        "1571351840": {
-            "box.minandoando.com": "INVALID",
-            "box.pool.mn": "INVALID",
-            "box.sighash.info": "INVALID",
-            "boxconfig.fix.btcc.com": "INVALID",
-            "bp.antpool.com": "INVALID"
-        },
-        "1571351841": {
-            "bp.bitcoin.co.pt": "INVALID",
-            "bp.blockchainlab.me": "INVALID",
-            "bp.cryptolions.io": "INVALID",
-            "bp.eos.minergate.com": "INVALID",
-            "bp.eosmedi.com": "INVALID",
-            "bp.eosnigeria.io": "INVALID"
-        },
-        "1571351842": {
-            "b-pg.fix.btcc.com": "INVALID",
-            "bp.eos.zhizhu.to": "INVALID",
-            "bp.eosuperman.io": "INVALID",
-            "bpi.coin-miners.info": "INVALID",
-            "bpi.node.coin-miners.info": "INVALID",
-            "bpi.suprnova.cc": "INVALID"
-        },
-        "1571351843": {
-            "b.pool.gq": "INVALID",
-            "bp.libertyblock.io": "INVALID"
-        },
-        "1571351844": {
-            "b.proxy4.nullrefexcep.com": "INVALID",
-            "bp.zeroxeos.com": "INVALID",
-            "bpx.gcpool.eu": "INVALID",
-            "bq.bitcoin.co.pt": "INVALID",
-            "bqc.thecoin.pw": "INVALID"
-        },
-        "1571351845": {
-            "bq.suprnova.cc": "INVALID",
-            "bquarto.em.bitcoin.co.pt": "INVALID",
-            "br1.nanopool.org": "INVALID",
-            "brain.multipool.us": "INVALID"
-        },
-        "1571351846": {
-            "br.bitclub.network": "INVALID",
-            "br.bitcoin.co.pt": "INVALID",
-            "brass.fix.btcc.com": "INVALID",
-            "bravo.hiveon.net": "INVALID",
-            "bravo.node.hiveon.net": "INVALID"
-        },
-        "1571351847": {
-            "br.burst-team.us": "INVALID",
-            "br.eosrio.io": "INVALID",
-            "br.hiveon.net": "INVALID",
-            "bre.hashhot.com": "INVALID",
-            "brig.coin-miners.info": "INVALID",
-            "brig.node.coin-miners.info": "INVALID"
-        },
-        "1571351848": {
-            "bri.lightninghash.com": "INVALID",
-            "brig.pool.mn": "INVALID",
-            "brit.coin-miners.info": "INVALID",
-            "brit.node.coin-miners.info": "INVALID",
-            "britannica.fix.btcc.com": "INVALID",
-            "britian.hiveon.net": "INVALID",
-            "britian.node.hiveon.net": "INVALID"
-        },
-        "1571351849": {
-            "br.nicehash.com": "INVALID",
-            "br.node.hiveon.net": "INVALID",
-            "brit.pool.mn": "INVALID",
-            "brit.suprnova.cc": "INVALID",
-            "broadband.btc.com": "INVALID",
-            "broadcast.fix.btcc.com": "INVALID"
-        },
-        "1571351850": {
-            "broadcast-ip.clona.ru": "INVALID",
-            "broker-loki.hashfor.cash": "INVALID",
-            "broker.hiveon.net": "INVALID"
-        },
-        "1571351851": {
-            "broker-solace.hashfor.cash": "INVALID",
-            "broker.node.hiveon.net": "INVALID",
-            "broker.pool.whalesburg.com": "INVALID",
-            "brokers.fix.btcc.com": "INVALID"
-        },
-        "1571351852": {
-            "broker.stage.pool.whalesburg.com": "INVALID",
-            "broker.stage.whalesburg.com": "INVALID",
-            "broker.whalesburg.com": "INVALID",
-            "brony.dnb.io": "INVALID",
-            "bronz.suprnova.cc": "INVALID"
-        },
-        "1571351853": {
-            "brooke.wemine.uk": "INVALID"
-        },
-        "1571351854": {
-            "bro.openvpn.f2pool.com": "INVALID",
-            "bro.suprnova.cc": "INVALID",
-            "browsermine.12finance.com": "INVALID",
-            "browsersurf.12finance.com": "INVALID"
-        },
-        "1571351855": {
-            "b.santananb.info": "INVALID",
-            "brs.hpool.com": "INVALID",
-            "bruntyef._domainkey.speedup-faucet.com": "INVALID",
-            "bry.pool.mn": "INVALID",
-            "bsanimal.em.bitcoin.co.pt": "INVALID"
-        },
-        "1571351856": {
-            "bs.bitcoin.co.pt": "INVALID",
-            "bsb.fix.btcc.com": "INVALID",
-            "bsd01.hiveon.net": "INVALID",
-            "bsd01.node.hiveon.net": "INVALID",
-            "bsd1.hiveon.net": "INVALID",
-            "bsd1.node.hiveon.net": "INVALID",
-            "bsd2.hiveon.net": "INVALID",
-            "bsd2.node.hiveon.net": "INVALID"
-        },
-        "1571351857": {
-            "bs.hashhot.com": "INVALID",
-            "bs.hiveon.net": "INVALID",
-            "bsd.hiveon.net": "INVALID",
-            "bsd.node.hiveon.net": "INVALID",
-            "bsd.suprnova.cc": "INVALID",
-            "bsh.suprnova.cc": "INVALID",
-            "bsm.bluerockpools.net": "INVALID",
-            "bsm.cryptopool.space": "INVALID"
-        },
-        "1571351858": {
-            "bs.node.hiveon.net": "INVALID",
-            "bs.pool.mn": "INVALID",
-            "bs.suprnova.cc": "INVALID",
-            "bsm.youpool.io": "INVALID",
-            "bst.pool.mn": "INVALID",
-            "bsty.coin-miners.info": "INVALID"
-        },
-        "1571351859": {
-            "b.suprnova.cc": "INVALID",
-            "bsty.node.coin-miners.info": "INVALID",
-            "bsty.suprnova.cc": "INVALID",
-            "bsv-bj.poolin.com": "INVALID",
-            "bsv-chain.api.btc.com": "INVALID",
-            "bsv.btc.com": "INVALID"
-        },
-        "1571351860": {
-            "bsv-cn.svpool.com": "INVALID",
-            "bsv.mempool.com": "INVALID",
-            "bsv.s.dpool.top": "INVALID"
-        },
-        "1571351861": {
-            "bsv.solomining.io": "INVALID",
-            "bsv.svpool.com": "INVALID",
-            "bsy.coin-miners.info": "INVALID",
-            "bsy.node.coin-miners.info": "INVALID",
-            "bsyauqwerd.pa": "INVALID",
-            "bsyauqwerd.party": "INVALID",
-            "bta.pool.mn": "INVALID"
-        },
-        "1571351862": {
-            "bt.bitcoin.co.pt": "INVALID",
-            "bta.suprnova.cc": "INVALID",
-            "btb.coin-miners.info": "INVALID",
-            "btb.mastermining.net": "INVALID",
-            "btb.node.coin-miners.info": "INVALID",
-            "btb.pool.mn": "INVALID"
-        },
-        "1571351863": {
-            "btc.1stpool.org": "INVALID",
-            "btc1.seeds.bitcoin.com": "INVALID",
-            "btc21.suprnova.cc": "INVALID"
-        },
-        "1571351864": {
-            "btc-ab.s.dpool.top": "INVALID",
-            "btc-api.mempool.com": "INVALID",
-            "btc-app.api.btc.com": "INVALID",
-            "btcapp.api.btc.com": "INVALID"
-        },
-        "1571351865": {
-            "btc-bj2.ss.poolin.com": "INVALID"
-        },
-        "1571351866": {
-            "btc-bj3-qofe5czxp.ss.poolin.com": "INVALID"
-        },
         "1571351867": {
-            "btc-bj.s.dpool.top": "INVALID",
-            "btc-bj3.ss.poolin.com": "INVALID"
+            "btc-bj.s.dpool.top": "INVALID"
         },
         "1571351868": {
             "btc-bj.ss.poolin.com": "INVALID",
@@ -46501,6 +45850,720 @@
         },
         "1571453102": {
             "bitcoinn.multipool.es": "INACTIVE"
+        },
+        "1571454348": {
+            "bitcoin.node.coin-miners.info": "INACTIVE",
+            "bitcoinnote.smartcoinpool.com": "INACTIVE"
+        },
+        "1571454355": {
+            "bitcoinote.smartcoinpool.com": "INACTIVE"
+        },
+        "1571454356": {
+            "bitcoin.p2pool.co.in": "INACTIVE",
+            "bitcoinp2pool.zapto.org": "INACTIVE"
+        },
+        "1571454369": {
+            "bitcoin.viabtc.com": "INACTIVE"
+        },
+        "1571454371": {
+            "bitcoinz.getpool.network": "INACTIVE"
+        },
+        "1571454372": {
+            "bitcoinz.minerspool.cc": "INACTIVE",
+            "bitcoinzguiding.ovh": "INACTIVE"
+        },
+        "1571454373": {
+            "bitcoinz.miningspeed.com": "INACTIVE"
+        },
+        "1571454374": {
+            "bitcore.eu.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454380": {
+            "bitcore.mine.ahashpool.com": "INACTIVE",
+            "bitcore.mine.zergpool.com": "INACTIVE",
+            "bitcore.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454381": {
+            "bitcore.n-engine.com": "INACTIVE",
+            "bitcore.na.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454382": {
+            "bitcore.sea.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454387": {
+            "bitc-solo.rig.tokyo": "INACTIVE",
+            "bitc.youpool.io": "INACTIVE"
+        },
+        "1571454390": {
+            "bitgem.youcrazy.me": "INACTIVE"
+        },
+        "1571454391": {
+            "bitgrin.cryptoblock.uk": "INACTIVE",
+            "bitgrin.ingest.cryptoknight.cc": "INACTIVE"
+        },
+        "1571454392": {
+            "bitin.us": "INACTIVE"
+        },
+        "1571454393": {
+            "bitlion.bpool.id": "INACTIVE"
+        },
+        "1571454394": {
+            "bitly.wa4eri.xyz": "INACTIVE"
+        },
+        "1571454401": {
+            "bit.pool.mn": "INACTIVE"
+        },
+        "1571454402": {
+            "bitpoppool.geekgalaxy.com": "INACTIVE",
+            "bitq.suprnova.cc": "INACTIVE",
+            "bitr.coin-miners.info": "INACTIVE"
+        },
+        "1571454403": {
+            "bitr.node.coin-miners.info": "INACTIVE"
+        },
+        "1571454404": {
+            "bitstar.youcrazy.me": "INACTIVE"
+        },
+        "1571454405": {
+            "bitsum.herominers.com": "INACTIVE"
+        },
+        "1571454411": {
+            "bitsum.smartcoinpool.com": "INACTIVE",
+            "bittip.coinbase.com": "INACTIVE"
+        },
+        "1571454412": {
+            "bittorium.ingest.cryptoknight.cc": "INACTIVE"
+        },
+        "1571454417": {
+            "bittube.herominers.com": "INACTIVE"
+        },
+        "1571454419": {
+            "bittube.modpool.org": "INACTIVE",
+            "bittube.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1571454425": {
+            "bittube.smartcoinpool.com": "INACTIVE"
+        },
+        "1571454431": {
+            "bitx.pool.mn": "INACTIVE"
+        },
+        "1571454432": {
+            "bitz.coin-miners.info": "INACTIVE",
+            "bitz.node.coin-miners.info": "INACTIVE",
+            "bitz.suprnova.cc": "INACTIVE"
+        },
+        "1571454433": {
+            "bixbite.herominers.com": "INACTIVE",
+            "biztalk.hiveon.net": "INACTIVE"
+        },
+        "1571454434": {
+            "biztalk.node.hiveon.net": "INACTIVE"
+        },
+        "1571454441": {
+            "bj.1mh.net": "INACTIVE"
+        },
+        "1571454442": {
+            "bj.altcoinpool.com": "INACTIVE",
+            "bj.bitcoin.co.pt": "INACTIVE"
+        },
+        "1571454444": {
+            "bj.btcc.com": "INACTIVE",
+            "bjorksta.me": "INACTIVE"
+        },
+        "1571454446": {
+            "bjorksta.men": "INACTIVE",
+            "bk.bitcoin.co.pt": "INACTIVE"
+        },
+        "1571454447": {
+            "bkc.youpool.io": "INACTIVE"
+        },
+        "1571454454": {
+            "bko-datastorage01g.fix.btcc.com": "INACTIVE",
+            "black2s.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454455": {
+            "black.suprnova.cc": "INACTIVE",
+            "blackrose.modpool.org": "INACTIVE"
+        },
+        "1571454456": {
+            "blake256r14.br.nicehash.com": "INACTIVE",
+            "blake256r14.eu.nicehash.com": "INACTIVE",
+            "blake256r14.hk.nicehash.com": "INACTIVE",
+            "blake256r14.in.nicehash.com": "INACTIVE"
+        },
+        "1571454457": {
+            "blake256r14.jp.nicehash.com": "INACTIVE",
+            "blake256r14.na.mine.zpool.ca": "INACTIVE",
+            "blake256r14.usa.nicehash.com": "INACTIVE"
+        },
+        "1571454458": {
+            "blake256r8.br.nicehash.com": "INACTIVE",
+            "blake256r8.eu.nicehash.com": "INACTIVE",
+            "blake256r8.hk.nicehash.com": "INACTIVE"
+        },
+        "1571454459": {
+            "blake256r8.in.nicehash.com": "INACTIVE",
+            "blake256r8.jp.nicehash.com": "INACTIVE",
+            "blake256r8.usa.nicehash.com": "INACTIVE"
+        },
+        "1571454460": {
+            "blake256r8vnl.br.nicehash.com": "INACTIVE",
+            "blake256r8vnl.eu.nicehash.com": "INACTIVE",
+            "blake256r8vnl.hk.nicehash.com": "INACTIVE",
+            "blake256r8vnl.in.nicehash.com": "INACTIVE"
+        },
+        "1571454461": {
+            "blake256r8vnl.jp.nicehash.com": "INACTIVE",
+            "blake256r8vnl.usa.nicehash.com": "INACTIVE",
+            "blake2b.mine.zergpool.com": "INACTIVE"
+        },
+        "1571454462": {
+            "blake2.mine.zpool.ca": "INACTIVE",
+            "blake2s.asia.mine.zpool.ca": "INACTIVE",
+            "blake2s.br.nicehash.com": "INACTIVE"
+        },
+        "1571454469": {
+            "blake2s.eu.mine.zpool.ca": "INACTIVE",
+            "blake2s.eu.nicehash.com": "INACTIVE",
+            "blake2s.eu1.unimining.net": "INACTIVE"
+        },
+        "1571454470": {
+            "blake2s.hk.nicehash.com": "INACTIVE",
+            "blake2s.in.nicehash.com": "INACTIVE",
+            "blake2s.jp.nicehash.com": "INACTIVE"
+        },
+        "1571454476": {
+            "blake2s.mine.ahashpool.com": "INACTIVE"
+        },
+        "1571454477": {
+            "blake2s.mine.zergpool.com": "INACTIVE",
+            "blake2s.mine.zpool.ca": "INACTIVE",
+            "blake2s.na.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454478": {
+            "blake2s.sea.mine.zpool.ca": "INACTIVE",
+            "blake2s.usa.nicehash.com": "INACTIVE"
+        },
+        "1571454479": {
+            "blakecoin.eu.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454485": {
+            "blakecoin.mine.ahashpool.com": "INACTIVE",
+            "blakecoin.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454486": {
+            "blake.mine.zpool.ca": "INACTIVE",
+            "blake.suprnova.cc": "INACTIVE",
+            "blakecoin.na.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454487": {
+            "bl.bitcoin.co.pt": "INACTIVE",
+            "blast.gcpool.eu": "INACTIVE"
+        },
+        "1571454494": {
+            "bl.btcc.com": "INACTIVE",
+            "blc.coin-miners.info": "INACTIVE",
+            "blc.coinmine.pl": "INACTIVE"
+        },
+        "1571454495": {
+            "blc.node.coin-miners.info": "INACTIVE",
+            "blc.suprnova.cc": "INACTIVE"
+        },
+        "1571454503": {
+            "bli.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1571454504": {
+            "blitz.suprnova.cc": "INACTIVE",
+            "blke2s.mine.zpool.ca": "INACTIVE"
+        },
+        "1571454505": {
+            "bloc.cryptonote.club": "INACTIVE"
+        },
+        "1571454506": {
+            "bloc.fairpool.cloud": "INACTIVE"
+        },
+        "1571454513": {
+            "blochaven.smartcoinpool.com": "INACTIVE"
+        },
+        "1571454515": {
+            "blockchain.arqma.com": "INACTIVE",
+            "blockchained.party": "INACTIVE"
+        },
+        "1571454516": {
+            "blockchaiun.biz": "INACTIVE"
+        },
+        "1571454517": {
+            "blockdiff.btc.com": "INACTIVE",
+            "blockexplorerapis.mempool.com": "INACTIVE"
+        },
+        "1571454519": {
+            "block-explorer.coin-miners.info": "INACTIVE",
+            "blockexplorer.funkymonkey.org": "INACTIVE"
+        },
+        "1571454520": {
+            "blockexplorer.graft.network": "INACTIVE"
+        },
+        "1571454521": {
+            "block-explorer.node.coin-miners.info": "INACTIVE",
+            "blockexplorer.stellite.cash": "INACTIVE"
+        },
+        "1571454522": {
+            "blockmuncher.com": "INACTIVE",
+            "blocks2.altpool.pro": "INACTIVE",
+            "blocks2.btgpool.pro": "INACTIVE"
+        },
+        "1571454523": {
+            "blocks3.btgpool.pro": "INACTIVE"
+        },
+        "1571454529": {
+            "blocks4.altpool.pro": "INACTIVE"
+        },
+        "1571454536": {
+            "blocks4.btgpool.pro": "INACTIVE",
+            "blocks5.altpool.pro": "INACTIVE",
+            "blocks6.altpool.pro": "INACTIVE"
+        },
+        "1571454537": {
+            "blocks.altpool.pro": "INACTIVE"
+        },
+        "1571454538": {
+            "blocks.btgpool.pro": "INACTIVE",
+            "blocks.suprnova.cc": "INACTIVE"
+        },
+        "1571454545": {
+            "blocks.txxcoin.tech": "INACTIVE"
+        },
+        "1571454547": {
+            "bloc.llama.horse": "INACTIVE",
+            "blocks.z.cash": "INACTIVE"
+        },
+        "1571454549": {
+            "bloc.mo": "INACTIVE",
+            "bloc.modpool.org": "INACTIVE"
+        },
+        "1571454551": {
+            "bloc.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1571454552": {
+            "bloc-pool.proxpool.com": "INACTIVE"
+        },
+        "1571454553": {
+            "bloc.proxpool.com": "INACTIVE"
+        },
+        "1571454559": {
+            "bloc.smartcoinpool.com": "INACTIVE"
+        },
+        "1571454564": {
+            "blogs.node.hiveon.net": "INACTIVE",
+            "blood.fix.btcc.com": "INACTIVE"
+        },
+        "1571454565": {
+            "blood.suprnova.cc": "INACTIVE"
+        },
+        "1571454571": {
+            "bloom.fix.btcc.com": "INACTIVE"
+        },
+        "1571454572": {
+            "blox.beta.supportxmr.com": "INACTIVE",
+            "blox.node.supportxmr.com": "INACTIVE"
+        },
+        "1571454573": {
+            "blox.supportxmr.com": "INACTIVE"
+        },
+        "1571454579": {
+            "bltz.pool.mn": "INACTIVE"
+        },
+        "1571454580": {
+            "blue.hiveon.net": "INACTIVE",
+            "blue.node.hiveon.net": "INACTIVE",
+            "blueproxy.bl": "INACTIVE"
+        },
+        "1571454581": {
+            "blunt.suprnova.cc": "INACTIVE"
+        },
+        "1571454584": {
+            "blur.cool-pool.net": "INACTIVE"
+        },
+        "1571454585": {
+            "blus.suprnova.cc": "INACTIVE",
+            "blz.faucet.works": "INACTIVE"
+        },
+        "1571454592": {
+            "blz.pool.mn": "INACTIVE",
+            "bm.bitcoin.co.pt": "INACTIVE"
+        },
+        "1571454596": {
+            "b-mfe.fix.btcc.com": "INACTIVE"
+        },
+        "1571454603": {
+            "bm.hiveon.net": "INACTIVE",
+            "bmg-bch.viabtc.com": "INACTIVE"
+        },
+        "1571454605": {
+            "bm.node.hiveon.net": "INACTIVE",
+            "bmnadutub.ru": "INACTIVE",
+            "bmy.coin-miners.info": "INACTIVE",
+            "bmy.node.coin-miners.info": "INACTIVE"
+        },
+        "1571454612": {
+            "bmy.pool.mn": "INACTIVE",
+            "bn.bitcoin.co.pt": "INACTIVE"
+        },
+        "1571454619": {
+            "bn.btcc.com": "INACTIVE"
+        },
+        "1571454627": {
+            "bn.fix.btcc.com": "INACTIVE"
+        },
+        "1571454633": {
+            "bn.huobipool.com": "INACTIVE"
+        },
+        "1571454634": {
+            "bnm.cf": "INACTIVE"
+        },
+        "1571454636": {
+            "bnm.ga": "INACTIVE"
+        },
+        "1571454638": {
+            "bnm.gq": "INACTIVE"
+        },
+        "1571454640": {
+            "bnm.ml": "INACTIVE"
+        },
+        "1571454655": {
+            "b.node.hiveon.net": "INACTIVE",
+            "bnm.tk": "INACTIVE",
+            "bns.lightninghash.com": "INACTIVE"
+        },
+        "1571454656": {
+            "bnt.suprnova.cc": "INACTIVE",
+            "bnt.wmikrut.com": "INACTIVE"
+        },
+        "1571454657": {
+            "boats.fix.btcc.com": "INACTIVE"
+        },
+        "1571454658": {
+            "bo.bitcoin.co.pt": "INACTIVE",
+            "boat.suprnova.cc": "INACTIVE",
+            "bob.hiveon.net": "INACTIVE"
+        },
+        "1571454659": {
+            "bob.node.hiveon.net": "INACTIVE"
+        },
+        "1571454660": {
+            "bo.btcc.com": "INACTIVE"
+        },
+        "1571454661": {
+            "bodies.fix.btcc.com": "INACTIVE"
+        },
+        "1571454662": {
+            "boen.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1571454669": {
+            "bo.hiveon.net": "INACTIVE",
+            "bof.btcc.com": "INACTIVE"
+        },
+        "1571454670": {
+            "boise.hiveon.net": "INACTIVE",
+            "boise.node.hiveon.net": "INACTIVE"
+        },
+        "1571454671": {
+            "bold.youpool.io": "INACTIVE",
+            "bolly.suprnova.cc": "INACTIVE"
+        },
+        "1571454672": {
+            "bolsa.hiveon.net": "INACTIVE",
+            "bolsa.node.hiveon.net": "INACTIVE"
+        },
+        "1571454680": {
+            "bolt.fix.btcc.com": "INACTIVE"
+        },
+        "1571454687": {
+            "bom.dnstop.info": "INACTIVE",
+            "bomb.fix.btcc.com": "INACTIVE"
+        },
+        "1571454695": {
+            "bones.fix.btcc.com": "INACTIVE"
+        },
+        "1571454701": {
+            "bo.node.hiveon.net": "INACTIVE",
+            "bones.pool.mn": "INACTIVE"
+        },
+        "1571454708": {
+            "book.fix.btcc.com": "INACTIVE",
+            "books.coincheck.com": "INACTIVE"
+        },
+        "1571454710": {
+            "boolberry.smartcoinpool.com": "INACTIVE"
+        },
+        "1571454716": {
+            "boolberry.xminingpool.com": "INACTIVE"
+        },
+        "1571454717": {
+            "boom2.suprnova.cc": "INACTIVE"
+        },
+        "1571454727": {
+            "boom.pool.mn": "INACTIVE",
+            "boom.suprnova.cc": "INACTIVE"
+        },
+        "1571454729": {
+            "boost.btc.sigmapool.com": "INACTIVE",
+            "boost2.suprnova.cc": "INACTIVE"
+        },
+        "1571454730": {
+            "boost.ltc.sigmapool.com": "INACTIVE",
+            "boost.suprnova.cc": "INACTIVE"
+        },
+        "1571454736": {
+            "boot.eostitan.com": "INACTIVE"
+        },
+        "1571454743": {
+            "booty.pool.mn": "INACTIVE",
+            "border.hiveon.net": "INACTIVE",
+            "border.node.hiveon.net": "INACTIVE"
+        },
+        "1571454744": {
+            "boss.suprnova.cc": "INACTIVE"
+        },
+        "1571454746": {
+            "bot.coinmine.pl": "INACTIVE"
+        },
+        "1571454752": {
+            "bot.esn.gonspool.com": "INACTIVE"
+        },
+        "1571454753": {
+            "bot.garlicpool.org": "INACTIVE",
+            "bot.gos.cx": "INACTIVE"
+        },
+        "1571454754": {
+            "bots.nosekefik.com": "INACTIVE"
+        },
+        "1571454755": {
+            "bot.virtopia.ca": "INACTIVE",
+            "bottlecaps.youcrazy.me": "INACTIVE"
+        },
+        "1571454762": {
+            "boun.pool.mn": "INACTIVE",
+            "bovinos.em.bitcoin.co.pt": "INACTIVE"
+        },
+        "1571454769": {
+            "bows.pool.mn": "INACTIVE"
+        },
+        "1571454776": {
+            "box.minandoando.com": "INACTIVE",
+            "boxconfig.fix.btcc.com": "INACTIVE"
+        },
+        "1571454782": {
+            "box.pool.mn": "INACTIVE"
+        },
+        "1571454789": {
+            "box.sighash.info": "INACTIVE"
+        },
+        "1571454790": {
+            "bp.bitcoin.co.pt": "INACTIVE"
+        },
+        "1571454796": {
+            "bp.blockchainlab.me": "INACTIVE"
+        },
+        "1571454797": {
+            "bp.cryptolions.io": "INACTIVE"
+        },
+        "1571454798": {
+            "bp.eosmedi.com": "INACTIVE",
+            "bp.eosnigeria.io": "INACTIVE"
+        },
+        "1571454805": {
+            "bp.eos.zhizhu.to": "INACTIVE",
+            "bp.eosuperman.io": "INACTIVE"
+        },
+        "1571454812": {
+            "b-pg.fix.btcc.com": "INACTIVE"
+        },
+        "1571454813": {
+            "bpi.coin-miners.info": "INACTIVE",
+            "bpi.node.coin-miners.info": "INACTIVE",
+            "bpi.suprnova.cc": "INACTIVE"
+        },
+        "1571454814": {
+            "b.pool.gq": "INACTIVE"
+        },
+        "1571454816": {
+            "bpx.gcpool.eu": "INACTIVE"
+        },
+        "1571454817": {
+            "bq.bitcoin.co.pt": "INACTIVE",
+            "bq.suprnova.cc": "INACTIVE",
+            "bquarto.em.bitcoin.co.pt": "INACTIVE"
+        },
+        "1571454818": {
+            "brain.multipool.us": "INACTIVE"
+        },
+        "1571454819": {
+            "brass.fix.btcc.com": "INACTIVE",
+            "bravo.hiveon.net": "INACTIVE",
+            "bravo.node.hiveon.net": "INACTIVE"
+        },
+        "1571454820": {
+            "br.bitcoin.co.pt": "INACTIVE"
+        },
+        "1571454826": {
+            "br.burst-team.us": "INACTIVE"
+        },
+        "1571454827": {
+            "br.eosrio.io": "INACTIVE"
+        },
+        "1571454828": {
+            "br.hiveon.net": "INACTIVE",
+            "brig.coin-miners.info": "INACTIVE",
+            "brig.node.coin-miners.info": "INACTIVE"
+        },
+        "1571454835": {
+            "bri.lightninghash.com": "INACTIVE",
+            "brig.pool.mn": "INACTIVE"
+        },
+        "1571454836": {
+            "brit.coin-miners.info": "INACTIVE",
+            "britannica.fix.btcc.com": "INACTIVE"
+        },
+        "1571454837": {
+            "britian.hiveon.net": "INACTIVE",
+            "britian.node.hiveon.net": "INACTIVE"
+        },
+        "1571454838": {
+            "brit.node.coin-miners.info": "INACTIVE"
+        },
+        "1571454844": {
+            "brit.pool.mn": "INACTIVE",
+            "brit.suprnova.cc": "INACTIVE"
+        },
+        "1571454845": {
+            "br.nicehash.com": "INACTIVE",
+            "br.node.hiveon.net": "INACTIVE",
+            "broadband.btc.com": "INACTIVE"
+        },
+        "1571454852": {
+            "broadcast.fix.btcc.com": "INACTIVE"
+        },
+        "1571454853": {
+            "broadcast-ip.clona.ru": "INACTIVE"
+        },
+        "1571454854": {
+            "broker.hiveon.net": "INACTIVE"
+        },
+        "1571454855": {
+            "broker.node.hiveon.net": "INACTIVE"
+        },
+        "1571454856": {
+            "brokers.fix.btcc.com": "INACTIVE"
+        },
+        "1571454857": {
+            "broker-solace.hashfor.cash": "INACTIVE"
+        },
+        "1571454859": {
+            "brony.dnb.io": "INACTIVE",
+            "bronz.suprnova.cc": "INACTIVE"
+        },
+        "1571454860": {
+            "brooke.wemine.uk": "INACTIVE"
+        },
+        "1571454861": {
+            "bro.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1571454862": {
+            "bro.suprnova.cc": "INACTIVE"
+        },
+        "1571454870": {
+            "bry.pool.mn": "INACTIVE"
+        },
+        "1571454871": {
+            "b.santananb.info": "INACTIVE",
+            "bsanimal.em.bitcoin.co.pt": "INACTIVE"
+        },
+        "1571454872": {
+            "bs.bitcoin.co.pt": "INACTIVE",
+            "bsb.fix.btcc.com": "INACTIVE",
+            "bsd01.hiveon.net": "INACTIVE"
+        },
+        "1571454873": {
+            "bsd01.node.hiveon.net": "INACTIVE",
+            "bsd1.hiveon.net": "INACTIVE",
+            "bsd1.node.hiveon.net": "INACTIVE"
+        },
+        "1571454874": {
+            "bsd2.hiveon.net": "INACTIVE",
+            "bsd2.node.hiveon.net": "INACTIVE"
+        },
+        "1571454875": {
+            "bsd.hiveon.net": "INACTIVE",
+            "bsd.node.hiveon.net": "INACTIVE"
+        },
+        "1571454877": {
+            "bs.hiveon.net": "INACTIVE",
+            "bsh.suprnova.cc": "INACTIVE",
+            "bsm.bluerockpools.net": "INACTIVE"
+        },
+        "1571454878": {
+            "bs.node.hiveon.net": "INACTIVE",
+            "bsm.youpool.io": "INACTIVE"
+        },
+        "1571454885": {
+            "bs.pool.mn": "INACTIVE",
+            "bs.suprnova.cc": "INACTIVE"
+        },
+        "1571454891": {
+            "bst.pool.mn": "INACTIVE"
+        },
+        "1571454892": {
+            "bsty.coin-miners.info": "INACTIVE",
+            "bsty.node.coin-miners.info": "INACTIVE",
+            "bsty.suprnova.cc": "INACTIVE"
+        },
+        "1571454893": {
+            "b.suprnova.cc": "INACTIVE"
+        },
+        "1571454894": {
+            "bsv-bj.poolin.com": "INACTIVE"
+        },
+        "1571454903": {
+            "bsv.s.dpool.top": "INACTIVE"
+        },
+        "1571454904": {
+            "bsv.svpool.com": "INACTIVE",
+            "bsyauqwerd.pa": "INACTIVE"
+        },
+        "1571454905": {
+            "bsy.coin-miners.info": "INACTIVE",
+            "bsy.node.coin-miners.info": "INACTIVE",
+            "bsyauqwerd.party": "INACTIVE"
+        },
+        "1571454912": {
+            "bta.pool.mn": "INACTIVE",
+            "bta.suprnova.cc": "INACTIVE",
+            "btb.coin-miners.info": "INACTIVE"
+        },
+        "1571454913": {
+            "bt.bitcoin.co.pt": "INACTIVE",
+            "btb.node.coin-miners.info": "INACTIVE"
+        },
+        "1571454920": {
+            "btb.pool.mn": "INACTIVE",
+            "btc1.seeds.bitcoin.com": "INACTIVE"
+        },
+        "1571454921": {
+            "btc.1stpool.org": "INACTIVE",
+            "btc21.suprnova.cc": "INACTIVE"
+        },
+        "1571454930": {
+            "btc-ab.s.dpool.top": "INACTIVE"
+        },
+        "1571454936": {
+            "btc-bj2.ss.poolin.com": "INACTIVE"
+        },
+        "1571454943": {
+            "btc-bj3-qofe5czxp.ss.poolin.com": "INACTIVE"
+        },
+        "1571454950": {
+            "btc-bj3.ss.poolin.com": "INACTIVE"
         }
     }
 }
