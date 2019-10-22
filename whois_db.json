@@ -2954,6 +2954,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "btcprivate.org": {
+        "epoch": 1577145600,
+        "expiration_date": "24-dec-2019",
+        "state": "future"
+    },
     "btcprivate.pro": {
         "epoch": "1582156800",
         "expiration_date": "20-feb-2020",
@@ -2967,6 +2972,16 @@
     "btcprominer.life": {
         "epoch": "1615680000",
         "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "btcwulf.com": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "btcz.app": {
+        "epoch": 1694390400,
+        "expiration_date": "11-sep-2023",
         "state": "future"
     },
     "btczpool.com": {
