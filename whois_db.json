@@ -35,8 +35,8 @@
         "state": "future"
     },
     "100-btc.com": {
-        "epoch": "1571443200",
-        "expiration_date": "19-oct-2019",
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "1000expert.com": {
@@ -82,6 +82,11 @@
     "100xbtc.com": {
         "epoch": "1575936000",
         "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "101010.pl": {
+        "epoch": 1584144000,
+        "expiration_date": "14-mar-2020",
         "state": "future"
     },
     "101games.xyz": {
