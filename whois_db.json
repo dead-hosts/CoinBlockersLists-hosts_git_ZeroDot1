@@ -4819,6 +4819,11 @@
         "expiration_date": "10-feb-2020",
         "state": "future"
     },
+    "europool.me": {
+        "epoch": 1586736000,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
     "evengparme.com": {
         "epoch": "1548288000",
         "expiration_date": "24-jan-2019",
@@ -4830,8 +4835,8 @@
         "state": "future"
     },
     "exdynsrv.com": {
-        "epoch": "1571529600",
-        "expiration_date": "20-oct-2019",
+        "epoch": 1634688000,
+        "expiration_date": "20-oct-2021",
         "state": "future"
     },
     "exmio.biz": {
