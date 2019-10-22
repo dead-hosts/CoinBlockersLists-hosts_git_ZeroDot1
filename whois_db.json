@@ -1634,6 +1634,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "asiapool.trade": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
     "asiaprofit.biz": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
@@ -1784,6 +1789,11 @@
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
+    "atomminer.com": {
+        "epoch": 1613692800,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
     "atotum.ru": {
         "epoch": 1599523200,
         "expiration_date": "08-sep-2020",
@@ -1835,8 +1845,8 @@
         "state": "future"
     },
     "authedwebmine.cz": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "autoarbitrage.net": {
@@ -1954,6 +1964,11 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "awmlite.com": {
+        "epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
     "awpool.com": {
         "epoch": 1640217600,
         "expiration_date": "23-dec-2021",
@@ -1967,6 +1982,11 @@
     "awsmining.com": {
         "epoch": "1586304000",
         "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
+    "axepool.com": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
         "state": "future"
     },
     "axerc.com": {
