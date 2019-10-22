@@ -4934,6 +4934,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "fairpool.pro": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "fairpool.xyz": {
         "epoch": "1582848000",
         "expiration_date": "28-feb-2020",
@@ -5135,8 +5140,8 @@
         "state": "future"
     },
     "flypool.org": {
-        "epoch": "1571702400",
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "focus-pool.com": {
