@@ -2989,14 +2989,24 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
-    "btgmine.pro": {
-        "epoch": "1571702400",
-        "expiration_date": "22-oct-2019",
+    "btgmine.com": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
+    },
+    "btgmine.pro": {
+        "epoch": 1571702400,
+        "expiration_date": "22-oct-2019",
+        "state": "past"
     },
     "btgpool.pro": {
         "epoch": 1602288000,
         "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
+    "btgsolo.club": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
         "state": "future"
     },
     "bubblemine.com": {
@@ -3099,6 +3109,11 @@
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
+    "carpecrypto.me": {
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "cashbeet.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
@@ -3107,6 +3122,11 @@
     "catalanscoin.cat": {
         "epoch": 1593475200,
         "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "catspool.org": {
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "ccminer.org": {
@@ -3127,6 +3147,11 @@
     "cdn-analytics.pl": {
         "epoch": 1569110400,
         "expiration_date": "22-sep-2019",
+        "state": "future"
+    },
+    "cdn-code.host": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "cdncounter.top": {
