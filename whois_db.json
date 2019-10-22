@@ -4109,6 +4109,11 @@
         "expiration_date": "28-may-2021",
         "state": "future"
     },
+    "cryptopool.cash": {
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "cryptopool.online": {
         "epoch": "1587686400",
         "expiration_date": "24-apr-2020",
@@ -4144,6 +4149,11 @@
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
+    "cryptopowered.club": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "cryptopros.com": {
         "epoch": 1589414400,
         "expiration_date": "14-may-2020",
@@ -4172,6 +4182,11 @@
     "cryptotab.net": {
         "epoch": "1577318400",
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "cryptowide.io": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
         "state": "future"
     },
     "cryptoxpool.com": {
@@ -4218,6 +4233,11 @@
         "epoch": 1559174400,
         "expiration_date": "30-may-2019",
         "state": "past"
+    },
+    "dark-mine.su": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
     },
     "datapaw.net": {
         "epoch": "1574899200",
