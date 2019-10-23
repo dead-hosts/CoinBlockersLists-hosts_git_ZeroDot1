@@ -10074,6 +10074,11 @@
         "expiration_date": "04-aug-2020",
         "state": "future"
     },
+    "theblocksfactory.com": {
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "thecoin.pw": {
         "epoch": "1580947200",
         "expiration_date": "06-feb-2020",
@@ -10118,6 +10123,11 @@
         "epoch": 1598572800,
         "expiration_date": "28-aug-2020",
         "state": "future"
+    },
+    "thepool.life": {
+        "epoch": 1565913600,
+        "expiration_date": "16-aug-2019",
+        "state": "past"
     },
     "thersprens.com": {
         "epoch": 1562371200,
