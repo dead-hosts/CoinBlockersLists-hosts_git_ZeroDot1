@@ -940,9 +940,9 @@
         "state": "future"
     },
     "ahoyhyperbay.com": {
-        "epoch": "1571961600",
+        "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "ahoypirate.in": {
         "epoch": 1577059200,
@@ -1007,7 +1007,7 @@
     "airproxyboat.in": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "airproxyproxy.pw": {
         "epoch": "1571961600",
@@ -1015,9 +1015,9 @@
         "state": "future"
     },
     "airproxyunblocked.org": {
-        "epoch": "1571961600",
+        "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "airspace-inv.com": {
         "epoch": 1592006400,
@@ -1040,8 +1040,8 @@
         "state": "future"
     },
     "ak47.ca": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "albionunion.com": {
@@ -1265,8 +1265,8 @@
         "state": "future"
     },
     "alwaysinprofit.com": {
-        "epoch": "1571875200",
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "amazing5.net": {
