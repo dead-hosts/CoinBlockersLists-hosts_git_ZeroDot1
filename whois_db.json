@@ -4610,8 +4610,8 @@
         "state": "future"
     },
     "elthamely.com": {
-        "epoch": "1571788800",
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "emcd.io": {
@@ -4657,7 +4657,7 @@
     "equihash.pro": {
         "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "ermaseuc.ru": {
         "epoch": "1553817600",
