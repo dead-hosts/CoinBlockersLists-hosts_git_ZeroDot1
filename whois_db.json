@@ -5844,6 +5844,11 @@
         "expiration_date": "10-dec-2019",
         "state": "future"
     },
+    "hashingcrypto.net": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
     "hashinvest.net": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
@@ -5870,8 +5875,8 @@
         "state": "future"
     },
     "hashparty.io": {
-        "epoch": "1571961600",
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "hashpex.com": {
