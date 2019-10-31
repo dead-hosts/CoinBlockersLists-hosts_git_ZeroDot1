@@ -3440,9 +3440,9 @@
         "state": "future"
     },
     "coin-cube.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "coin-have.com": {
         "epoch": 1600819200,
