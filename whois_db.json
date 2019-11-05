@@ -10585,9 +10585,9 @@
         "state": "future"
     },
     "universalpool.net": {
-        "epoch": "1572912000",
+        "epoch": 1572912000,
         "expiration_date": "05-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "unrummaged.com": {
         "epoch": "1582070400",
