@@ -7645,9 +7645,9 @@
         "state": "future"
     },
     "modpool.org": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "mollnia.com": {
         "epoch": 1599868800,
@@ -7715,8 +7715,8 @@
         "state": "future"
     },
     "monerominingpool.com": {
-        "epoch": "1572739200",
-        "expiration_date": "03-nov-2019",
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "moneroocean.stream": {
