@@ -3919,9 +3919,19 @@
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
+    "cpu-pool.com": {
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "cpu2cash.link": {
         "epoch": 1602201600,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "cpuchain.org": {
+        "epoch": 1625270400,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "cpufan.club": {
@@ -3929,9 +3939,19 @@
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
+    "cpuminerpool.com": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "crabs.pro": {
         "epoch": 1602633600,
         "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
+    "cranepay.io": {
+        "epoch": 1576972800,
+        "expiration_date": "22-dec-2019",
         "state": "future"
     },
     "crazypool.ca": {
@@ -4059,6 +4079,11 @@
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
+    "cryptoblocks.site": {
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
     "cryptobrowser.site": {
         "epoch": "1586044800",
         "expiration_date": "05-apr-2020",
@@ -4067,6 +4092,11 @@
     "cryptobullionpools.com": {
         "epoch": 1597104000,
         "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
+    "cryptocatalyst.net": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "cryptocoin.club": {
@@ -4137,6 +4167,11 @@
     "cryptoknight.cc": {
         "epoch": "1578528000",
         "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "cryptoknight.club": {
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "cryptoloot.pro": {
