@@ -1529,6 +1529,11 @@
         "expiration_date": "27-nov-2019",
         "state": "future"
     },
+    "aquacha.in": {
+        "epoch": 1591401600,
+        "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
     "arab-miners.com": {
         "epoch": 1599350400,
         "expiration_date": "06-sep-2020",
@@ -1594,14 +1599,29 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "arionumpool.com": {
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
     "arisebit.biz": {
         "epoch": 1564358400,
         "expiration_date": "29-jul-2019",
         "state": "past"
     },
+    "aro.cool": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "aromine.io": {
         "epoch": "1582070400",
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "aropool.com": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
         "state": "future"
     },
     "arqma.com": {
