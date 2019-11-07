@@ -4630,8 +4630,13 @@
         "state": "future"
     },
     "dubester.space": {
-        "epoch": "1568851200",
+        "epoch": 1568851200,
         "expiration_date": "19-sep-2019",
+        "state": "past"
+    },
+    "dugipools.org": {
+        "epoch": 1599955200,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "durinsmine.com": {
