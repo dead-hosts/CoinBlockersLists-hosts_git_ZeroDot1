@@ -59,6 +59,11 @@
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
+    "100pb.online": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
     "100x-bitcoin.com": {
         "epoch": 1565654400,
         "expiration_date": "13-aug-2019",
