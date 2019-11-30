@@ -2175,7 +2175,7 @@
         "state": "future"
     },
     "bcmonster.com": {
-        "epoch": 1600300800,
+        "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
@@ -2185,37 +2185,37 @@
         "state": "past"
     },
     "beatingbytes.com": {
-        "epoch": "1578960000",
+        "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
     "becanium.com": {
-        "epoch": "1583452800",
+        "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "beepool.org": {
-        "epoch": 1629158400,
+        "epoch": 1629158400.0,
         "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "beeppool.org": {
-        "epoch": "1587427200",
+        "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
         "state": "future"
     },
     "beertendr.com": {
-        "epoch": 1590019200,
+        "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
         "state": "future"
     },
     "beetoken.com": {
-        "epoch": "1584576000",
+        "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "befirstcdn.com": {
-        "epoch": 1634688000,
+        "epoch": 1634688000.0,
         "expiration_date": "20-oct-2021",
         "state": "future"
     },
@@ -2225,12 +2225,12 @@
         "state": "past"
     },
     "bellsyscdn.com": {
-        "epoch": "1577923200",
+        "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
         "state": "future"
     },
     "berateveng.ru": {
-        "epoch": 1594339200,
+        "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
@@ -2245,52 +2245,57 @@
         "state": "future"
     },
     "besstahete.info": {
-        "epoch": 1601596800,
+        "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "best-cdn.pl": {
-        "epoch": 1578700800,
+        "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
     "bestcoinsignals.com": {
-        "epoch": "1577577600",
+        "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
         "state": "future"
     },
     "besti.ga": {
-        "epoch": "1587772800",
+        "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "bestmobiworld.com": {
-        "epoch": 1602892800,
+        "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "bestsecurepractice.com": {
-        "epoch": "1583971200",
+        "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "bestxmrpool.com": {
-        "epoch": 1596844800,
+        "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "betandwinornot.com": {
-        "epoch": "1586649600",
+        "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "betweenblocks.org": {
+        "epoch": 1583366400.0,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
     "bewaslac.com": {
-        "epoch": "1578700800",
+        "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
     "bezoglasa.online": {
-        "epoch": "1581724800",
+        "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
         "state": "future"
     },
