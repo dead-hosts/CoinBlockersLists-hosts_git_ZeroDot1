@@ -7015,22 +7015,22 @@
         "state": "future"
     },
     "jsccnn.com": {
-        "epoch": "1573171200",
-        "expiration_date": "08-nov-2019",
+        "epoch": 1582588800.0,
+        "expiration_date": "25-feb-2020",
         "state": "future"
     },
     "jscdndel.com": {
-        "epoch": 1602288000,
+        "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "jscoinminer.com": {
-        "epoch": "1653609600",
+        "epoch": 1653609600.0,
         "expiration_date": "27-may-2022",
         "state": "future"
     },
     "jsecoin.com": {
-        "epoch": "1690502400",
+        "epoch": 1690502400.0,
         "expiration_date": "28-jul-2023",
         "state": "future"
     },
@@ -7090,22 +7090,22 @@
         "state": "past"
     },
     "jurtym.cf": {
-        "epoch": 1578096000,
+        "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
     "justintvizletir.tv": {
-        "epoch": "1581897600",
+        "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
     "juststatic.info": {
-        "epoch": 1591920000,
+        "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
     "jwduahujge.ru": {
-        "epoch": 1592006400,
+        "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
@@ -7115,7 +7115,7 @@
         "state": "future"
     },
     "jyhfuqoh.info": {
-        "epoch": "1582070400",
+        "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
@@ -7125,27 +7125,27 @@
         "state": "past"
     },
     "kano.is": {
-        "epoch": "1684972800",
+        "epoch": 1684972800.0,
         "expiration_date": "25-may-2023",
         "state": "future"
     },
     "kano.space": {
-        "epoch": "1602547200",
+        "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "kanpool.com": {
-        "epoch": 1573776000,
-        "expiration_date": "15-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "karbo.farm": {
-        "epoch": "1584835200",
+        "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "karbowanec.com": {
-        "epoch": 1590451200,
+        "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
         "state": "future"
     },
@@ -7155,47 +7155,52 @@
         "state": "future"
     },
     "kdowqlpt.info": {
-        "epoch": "1582070400",
+        "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
         "state": "future"
     },
+    "kdv-mining.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "kedtise.com": {
-        "epoch": "1586044800",
+        "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
         "state": "future"
     },
     "kho3au7l4z.me": {
-        "epoch": "1576886400",
+        "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
     "khsys.pw": {
-        "epoch": 1598054400,
+        "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "ki1ahb.xyz": {
-        "epoch": 1602806400,
+        "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "kingbtc.co": {
-        "epoch": "1596067200",
+        "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "kinohabr.net": {
-        "epoch": 1601337600,
+        "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "kissdoujin.com": {
-        "epoch": "1599436800",
+        "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "kisshentai.net": {
-        "epoch": "1620432000",
+        "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
         "state": "future"
     },
@@ -7219,43 +7224,53 @@
         "expiration_date": "20-feb-2019",
         "state": "past"
     },
+    "koinpool.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "koinpool.io": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
     "korbit.click": {
-        "epoch": "1575676800",
+        "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
         "state": "future"
     },
     "korbit.express": {
-        "epoch": "1575849600",
+        "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
     "korbit.ltd": {
-        "epoch": "1575676800",
+        "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
         "state": "future"
     },
     "korbit.site": {
-        "epoch": 1595548800,
+        "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "korbit.top": {
-        "epoch": "1575676800",
+        "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
         "state": "future"
     },
     "kosmoplovci.org": {
-        "epoch": 1590364800,
+        "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
         "state": "future"
     },
     "koto-pool.work": {
-        "epoch": "1582848000",
+        "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
     "kratos.biz": {
-        "epoch": "1582588800",
+        "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
         "state": "future"
     },
@@ -7265,8 +7280,13 @@
         "state": "past"
     },
     "krunzy.com": {
-        "epoch": 1595980800,
+        "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "kryptonchain.org": {
+        "epoch": 1597190400.0,
+        "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "ksimdw.ru": {
