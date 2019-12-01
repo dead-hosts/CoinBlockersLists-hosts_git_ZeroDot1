@@ -8370,12 +8370,12 @@
         "state": "future"
     },
     "monero.org": {
-        "epoch": 1597449600,
+        "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "monerohash.com": {
-        "epoch": 1603843200,
+        "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
@@ -8390,107 +8390,112 @@
         "state": "past"
     },
     "monerominer.rocks": {
-        "epoch": 1601337600,
+        "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "monerominers.net": {
-        "epoch": "1574035200",
-        "expiration_date": "18-nov-2019",
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "monerominingpool.com": {
-        "epoch": 1604361600,
+        "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "moneroocean.stream": {
-        "epoch": "1660176000",
+        "epoch": 1660176000.0,
         "expiration_date": "11-aug-2022",
         "state": "future"
     },
     "moneropond.com": {
-        "epoch": "1587168000",
+        "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
     "moneropool.com": {
-        "epoch": "1589500800",
+        "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
         "state": "future"
     },
     "moneropool.ru": {
-        "epoch": "1586736000",
+        "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "moneropool.uk": {
-        "epoch": 1569888000,
+        "epoch": 1569888000.0,
         "expiration_date": "01-oct-2019",
         "state": "past"
     },
     "moneropro.com": {
-        "epoch": 1601596800,
+        "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "moneroseeds.se": {
-        "epoch": "1659225600",
+        "epoch": 1659225600.0,
         "expiration_date": "31-jul-2022",
         "state": "future"
     },
     "moneroworld.com": {
-        "epoch": "1581811200",
+        "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "money-maker-default.info": {
-        "epoch": "1587772800",
+        "epoch": 1587772800.0,
         "expiration_date": "25-apr-2020",
         "state": "future"
     },
     "money-maker-script.info": {
-        "epoch": "1588464000",
+        "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
         "state": "future"
     },
     "monitoringservice.co": {
-        "epoch": "1588723200",
+        "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
         "state": "future"
     },
     "monkeyminer.net": {
-        "epoch": 1595462400,
+        "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "monoset.info": {
-        "epoch": "1575244800",
+        "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
     "moonbit.co.in": {
-        "epoch": 1593561600,
+        "epoch": 1593561600.0,
         "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "moonify.io": {
-        "epoch": "1581033600",
+        "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
     "moonsade.com": {
-        "epoch": "1585958400",
+        "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "moriaxmr.com": {
-        "epoch": 1597017600,
+        "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
+    "moricpool.com": {
+        "epoch": 1585353600.0,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
     "morningdigit.com": {
-        "epoch": 1590192000,
+        "epoch": 1590192000.0,
         "expiration_date": "23-may-2020",
         "state": "future"
     },
@@ -8500,42 +8505,47 @@
         "state": "future"
     },
     "mpool.su": {
-        "epoch": 1579219200,
+        "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
         "state": "future"
     },
     "mrycrypto.com": {
-        "epoch": "1581811200",
+        "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "msdns.online": {
-        "epoch": "1586563200",
+        "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "msg-2.me": {
-        "epoch": "1585353600",
+        "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
     "mtred.com": {
-        "epoch": "1588982400",
+        "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
         "state": "future"
     },
+    "multiblockchains.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
     "multiminerapp.com": {
-        "epoch": 1595808000,
+        "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "multimining.org": {
-        "epoch": 1595635200,
+        "epoch": 1595635200.0,
         "expiration_date": "25-jul-2020",
         "state": "future"
     },
     "multipool.com": {
-        "epoch": "1588809600",
+        "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
         "state": "future"
     },
@@ -8545,18 +8555,23 @@
         "state": "future"
     },
     "multipooler.com": {
-        "epoch": 1601769600,
+        "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "multipools.club": {
-        "epoch": 1605744000,
+        "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "munero.me": {
-        "epoch": "1584576000",
+        "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "mupool.com": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "mutuza.win": {
