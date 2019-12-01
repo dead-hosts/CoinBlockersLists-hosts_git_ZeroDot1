@@ -6720,7 +6720,7 @@
         "state": "future"
     },
     "igrid.org": {
-        "epoch": "1576022400",
+        "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
         "state": "future"
     },
@@ -6730,12 +6730,12 @@
         "state": "future"
     },
     "iisl7wpf.me": {
-        "epoch": "1575417600",
+        "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
     "imhard4.men": {
-        "epoch": 1591920000,
+        "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
@@ -6750,32 +6750,32 @@
         "state": "past"
     },
     "indiaproxydl.org": {
-        "epoch": "1577059200",
+        "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
     "infamylists.com": {
-        "epoch": "1576454400",
+        "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
         "state": "future"
     },
     "ingorob.com": {
-        "epoch": "1578700800",
+        "epoch": 1578700800.0,
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
     "ininmacerad.pro": {
-        "epoch": "1580342400",
+        "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "innovamine.io": {
-        "epoch": "1673913600",
+        "epoch": 1673913600.0,
         "expiration_date": "17-jan-2023",
         "state": "future"
     },
     "insdrbot.com": {
-        "epoch": "1580169600",
+        "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
@@ -6785,47 +6785,52 @@
         "state": "past"
     },
     "intellecthosting.net": {
-        "epoch": 1603411200,
+        "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
         "state": "future"
     },
+    "intensecoin.net": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
     "interbanx.co.id": {
-        "epoch": "1586822400",
+        "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "interestingz.pw": {
-        "epoch": "1584576000",
+        "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "internetresearch.is": {
-        "epoch": "1574553600",
+        "epoch": 1574553600.0,
         "expiration_date": "24-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "intersportv.com": {
-        "epoch": 1590883200,
+        "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
         "state": "future"
     },
     "intoken.ru": {
-        "epoch": 1580515200,
+        "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
         "state": "future"
     },
     "invest-btcmining.com": {
-        "epoch": "1584576000",
+        "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "investhash.com": {
-        "epoch": "1573776000",
-        "expiration_date": "15-nov-2019",
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "inwemo.com": {
-        "epoch": 1602288000,
+        "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
