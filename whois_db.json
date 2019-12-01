@@ -5340,7 +5340,7 @@
         "state": "future"
     },
     "expmine.pro": {
-        "epoch": "1581897600",
+        "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
@@ -5350,32 +5350,37 @@
         "state": "past"
     },
     "exrno.com": {
-        "epoch": "1576195200",
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "exrno.org": {
-        "epoch": "1576195200",
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "extensionsapiversion.space": {
-        "epoch": "1587686400",
+        "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "extremepool.org": {
-        "epoch": 1595721600,
+        "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
+    "ezil.me": {
+        "epoch": 1587513600.0,
+        "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
     "f1tbit.com": {
-        "epoch": 1597622400,
+        "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "f2pool.com": {
-        "epoch": "1619136000",
+        "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
         "state": "future"
     },
@@ -5385,68 +5390,73 @@
         "state": "past"
     },
     "fabulouspanda.com": {
-        "epoch": 1592179200,
+        "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
     "fairhash.org": {
-        "epoch": "1575244800",
+        "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
     "fairmine.pro": {
-        "epoch": "1583020800",
+        "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "fairpool.cloud": {
-        "epoch": "1579132800",
+        "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
     "fairpool.pro": {
-        "epoch": 1583020800,
+        "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "fairpool.xyz": {
-        "epoch": "1582848000",
+        "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
     "fakenaeb.ru": {
-        "epoch": "1584576000",
+        "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "farmine.net": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "fastandcoolest.com": {
-        "epoch": "1575158400",
-        "expiration_date": "01-dec-2019",
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "fastlink.pl": {
-        "epoch": 1601337600,
+        "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "fastpool.xyz": {
-        "epoch": 1580256000,
+        "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
     "fatisin.ru": {
-        "epoch": 1594080000,
+        "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "faucet.works": {
-        "epoch": "1583452800",
+        "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
     "faucethub.io": {
-        "epoch": "1572998400",
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "fdtpyqqsnzxvt.ru": {
@@ -5455,7 +5465,7 @@
         "state": "future"
     },
     "feesocrald.com": {
-        "epoch": 1596844800,
+        "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
