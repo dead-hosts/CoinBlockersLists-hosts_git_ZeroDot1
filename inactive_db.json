@@ -8125,466 +8125,6 @@
         "1572901208": {
             "ec2-13-58-215-234.us-east-2.compute.amazonaws.com": "INACTIVE"
         },
-        "1572907331": {
-            "ftp0.hiveon.net": "INACTIVE",
-            "ftp0.node.hiveon.net": "INACTIVE"
-        },
-        "1572907332": {
-            "ftp2.hiveon.net": "INACTIVE"
-        },
-        "1572907333": {
-            "ftp2.node.hiveon.net": "INACTIVE"
-        },
-        "1572907369": {
-            "ftp.multipool.com": "INACTIVE"
-        },
-        "1572907371": {
-            "ftp.node.coin-miners.info": "INACTIVE",
-            "ftp.node.grcpool.com": "INACTIVE"
-        },
-        "1572907372": {
-            "ftp.node.hiveon.net": "INACTIVE"
-        },
-        "1572907374": {
-            "ftp.peermine.com": "INACTIVE"
-        },
-        "1572907375": {
-            "ftp.poolmining.net": "INACTIVE"
-        },
-        "1572907381": {
-            "ftp.pool.mn": "INACTIVE"
-        },
-        "1572907382": {
-            "ftp.pool.sexy": "INACTIVE"
-        },
-        "1572907383": {
-            "ftp.riepool.ovh": "INACTIVE"
-        },
-        "1572907390": {
-            "ftp.rigpool.com": "INACTIVE"
-        },
-        "1572908203": {
-            "ftp.ruisgood.ru": "INACTIVE"
-        },
-        "1572908210": {
-            "ftp.securepayment.cc": "INACTIVE"
-        },
-        "1572908212": {
-            "ftp.takebigfish.stream": "INACTIVE"
-        },
-        "1572908215": {
-            "ftp.wallpool.com": "INACTIVE"
-        },
-        "1572908217": {
-            "ftzivuesohvebj.ru": "INACTIVE",
-            "fud.suprnova.cc": "INACTIVE"
-        },
-        "1572908224": {
-            "fujiseed.sighash.info": "INACTIVE"
-        },
-        "1572908225": {
-            "fullnode.eoslaomao.com": "INACTIVE"
-        },
-        "1572908234": {
-            "functest-transblock.qubtc.com": "INACTIVE"
-        },
-        "1572908235": {
-            "fund.coin-miners.info": "INACTIVE"
-        },
-        "1572908241": {
-            "funding.btcc.com": "INACTIVE"
-        },
-        "1572908248": {
-            "fund.node.coin-miners.info": "INACTIVE",
-            "funding.stellite.cash": "INACTIVE"
-        },
-        "1572908254": {
-            "fund.pool.mn": "INACTIVE"
-        },
-        "1572908255": {
-            "fund.suprnova.cc": "INACTIVE",
-            "funk.majorminers.com": "INACTIVE"
-        },
-        "1572908256": {
-            "funtoche.em.bitcoin.co.pt": "INACTIVE"
-        },
-        "1572908257": {
-            "fur.hashhot.com": "INACTIVE"
-        },
-        "1572908258": {
-            "fury.youpool.io": "INACTIVE"
-        },
-        "1572908259": {
-            "fuse.clona.ru": "INACTIVE"
-        },
-        "1572908265": {
-            "fuse.pool.mn": "INACTIVE"
-        },
-        "1572908266": {
-            "fuzz.suprnova.cc": "INACTIVE"
-        },
-        "1572908267": {
-            "fw-01.coinstop.me": "INACTIVE"
-        },
-        "1572908273": {
-            "fwcc.pool.mn": "INACTIVE"
-        },
-        "1572908280": {
-            "fw.f2pool.com": "INACTIVE",
-            "fw.hiveon.net": "INACTIVE"
-        },
-        "1572908287": {
-            "fw.node.hiveon.net": "INACTIVE",
-            "fwmagic.bluematt.me": "INACTIVE"
-        },
-        "1572908289": {
-            "fw.poolin.com": "INACTIVE",
-            "fwsm01.hiveon.net": "INACTIVE",
-            "fwsm01.node.hiveon.net": "INACTIVE"
-        },
-        "1572908290": {
-            "fwsm.hiveon.net": "INACTIVE"
-        },
-        "1572908291": {
-            "fwsm.node.hiveon.net": "INACTIVE"
-        },
-        "1572908292": {
-            "fz.coinmine.pl": "INACTIVE"
-        },
-        "1572908294": {
-            "g11.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1572908296": {
-            "g761.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1572908297": {
-            "g95217pv.beget.tech": "INACTIVE",
-            "gad.youpool.io": "INACTIVE"
-        },
-        "1572908298": {
-            "ga.hiveon.net": "INACTIVE",
-            "galaxycoin.youcrazy.me": "INACTIVE"
-        },
-        "1572908299": {
-            "galeria.hiveon.net": "INACTIVE",
-            "galeria.node.hiveon.net": "INACTIVE"
-        },
-        "1572908302": {
-            "game.cryptobrowser.site": "INACTIVE"
-        },
-        "1572908303": {
-            "game.cybtc.info": "INACTIVE"
-        },
-        "1572908304": {
-            "games.aikapool.com": "INACTIVE"
-        },
-        "1572908306": {
-            "gamesbeta.bitcoin.com": "INACTIVE"
-        },
-        "1572908307": {
-            "games.clona.ru": "INACTIVE"
-        },
-        "1572908308": {
-            "game.serverpower.net": "INACTIVE"
-        },
-        "1572908313": {
-            "gamestest.bitcoin.com": "INACTIVE",
-            "gamestoredownload.download": "INACTIVE"
-        },
-        "1572908314": {
-            "game.suprnova.cc": "INACTIVE",
-            "gamma.hiveon.net": "INACTIVE"
-        },
-        "1572908315": {
-            "gamma.node.hiveon.net": "INACTIVE",
-            "ganja.suprnova.cc": "INACTIVE"
-        },
-        "1572908316": {
-            "ga.node.hiveon.net": "INACTIVE"
-        },
-        "1572908318": {
-            "garlium.garlicpool.org": "INACTIVE",
-            "gas.coin-miners.info": "INACTIVE",
-            "gas.node.coin-miners.info": "INACTIVE"
-        },
-        "1572908325": {
-            "gas.suprnova.cc": "INACTIVE",
-            "gate.emcd.io": "INACTIVE"
-        },
-        "1572908326": {
-            "gate.hiveon.net": "INACTIVE"
-        },
-        "1572908342": {
-            "gate.hws.ru": "INACTIVE"
-        },
-        "1572908343": {
-            "gate.node.hiveon.net": "INACTIVE"
-        },
-        "1572908344": {
-            "gateway.hiveon.net": "INACTIVE",
-            "gateway.krunzy.com": "INACTIVE"
-        },
-        "1572908345": {
-            "gateway.node.hiveon.net": "INACTIVE"
-        },
-        "1572908352": {
-            "gbc.pool.mn": "INACTIVE"
-        },
-        "1572908353": {
-            "g.bitcoin.co.pt": "INACTIVE"
-        },
-        "1572908354": {
-            "gb.suprnova.cc": "INACTIVE"
-        },
-        "1572908361": {
-            "g.btc.top": "INACTIVE"
-        },
-        "1572908363": {
-            "gbx.crypto-mining-pool.com": "INACTIVE",
-            "gbx.mine-vn.com": "INACTIVE"
-        },
-        "1572908364": {
-            "gbx.mine.zpool.ca": "INACTIVE"
-        },
-        "1572908365": {
-            "gbz.cnpool.cc": "INACTIVE",
-            "gbz.faucet.llama.horse": "INACTIVE",
-            "gbz.llama.horse": "INACTIVE"
-        },
-        "1572908366": {
-            "gcc.coinstop.me": "INACTIVE"
-        },
-        "1572908372": {
-            "gcc.pool.mn": "INACTIVE"
-        },
-        "1572908374": {
-            "g-content.bi": "INACTIVE"
-        },
-        "1572908382": {
-            "gcs.pool.mn": "INACTIVE"
-        },
-        "1572908390": {
-            "gdc.pool.mn": "INACTIVE"
-        },
-        "1572908391": {
-            "gd-line-info.com": "INACTIVE",
-            "gd.hiveon.net": "INACTIVE"
-        },
-        "1572908392": {
-            "gdm.go-mine.it": "INACTIVE",
-            "gdm.youpool.io": "INACTIVE",
-            "gdn-east.majorminers.com": "INACTIVE"
-        },
-        "1572908393": {
-            "gd.node.hiveon.net": "INACTIVE",
-            "gdn.majorminers.com": "INACTIVE"
-        },
-        "1572908400": {
-            "gdn.pool.mn": "INACTIVE"
-        },
-        "1572908406": {
-            "gdp.pool.mn": "INACTIVE"
-        },
-        "1572908407": {
-            "gdtl.bitcoin.inc.hk": "INACTIVE"
-        },
-        "1572908413": {
-            "gec.pool.mn": "INACTIVE"
-        },
-        "1572908414": {
-            "geekpicnic2018.bitfury.com": "INACTIVE"
-        },
-        "1572908421": {
-            "geem.smartcoinpool.com": "INACTIVE",
-            "geem.youpool.io": "INACTIVE"
-        },
-        "1572908422": {
-            "geert.mine-vn.com": "INACTIVE",
-            "geert.suprnova.cc": "INACTIVE"
-        },
-        "1572908423": {
-            "gek.suprnova.cc": "INACTIVE"
-        },
-        "1572908424": {
-            "gemini.hiveon.net": "INACTIVE"
-        },
-        "1572908425": {
-            "gemini.node.hiveon.net": "INACTIVE"
-        },
-        "1572908427": {
-            "gemioni.com": "INACTIVE",
-            "general.hiveon.net": "INACTIVE"
-        },
-        "1572908428": {
-            "general.node.hiveon.net": "INACTIVE",
-            "generalmills.bitcoin.co.pt": "INACTIVE"
-        },
-        "1572908429": {
-            "generator.hashvault.pro": "INACTIVE"
-        },
-        "1572908430": {
-            "ge.netcodepool.org": "INACTIVE",
-            "gene.suprnova.cc": "INACTIVE"
-        },
-        "1572908431": {
-            "gen.mine-vn.com": "INACTIVE",
-            "genom.crypto-mining-pool.com": "INACTIVE"
-        },
-        "1572908432": {
-            "genom.europool.me": "INACTIVE"
-        },
-        "1572908438": {
-            "gen.pool.sexy": "INACTIVE",
-            "genom.minerpool.net": "INACTIVE"
-        },
-        "1572908439": {
-            "gen.suprnova.cc": "INACTIVE"
-        },
-        "1572908442": {
-            "geo.cryptobrowser.site": "INACTIVE"
-        },
-        "1572908443": {
-            "geodns.etn.semipool.com": "INACTIVE",
-            "geodns.hub.semipool.com": "INACTIVE",
-            "geodnsnew.hub.semipool.com": "INACTIVE"
-        },
-        "1572908444": {
-            "geo.hub.semipool.com": "INACTIVE",
-            "geodns.trtl.semipool.com": "INACTIVE"
-        },
-        "1572908445": {
-            "geo.minertopia.org": "INACTIVE",
-            "geo.miningpoolhub.com": "INACTIVE"
-        },
-        "1572908446": {
-            "geo.node.moneroworld.com": "INACTIVE"
-        },
-        "1572908454": {
-            "geo.pool.akroma.eu": "INACTIVE"
-        },
-        "1572908460": {
-            "geo.ryoblocks.com": "INACTIVE"
-        },
-        "1572908461": {
-            "geo.suprnova.cc": "INACTIVE",
-            "geov2.hub.semipool.com": "INACTIVE"
-        },
-        "1572908462": {
-            "geov3.hub.semipool.com": "INACTIVE",
-            "gep.cryptobrowser.site": "INACTIVE"
-        },
-        "1572908463": {
-            "ge.suprnova.cc": "INACTIVE",
-            "gestluz.em.bitcoin.co.pt": "INACTIVE"
-        },
-        "1572908464": {
-            "get2.ethosdistro.com": "INACTIVE"
-        },
-        "1572908475": {
-            "gettate.date": "INACTIVE"
-        },
-        "1572908476": {
-            "gett.cryptobrowser.site": "INACTIVE",
-            "gettate.faith": "INACTIVE",
-            "gettate.racing": "INACTIVE"
-        },
-        "1572908477": {
-            "get.webxmr.com": "INACTIVE"
-        },
-        "1572908478": {
-            "gexp.node.expanse.tech": "INACTIVE",
-            "gfbank.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1572908480": {
-            "gf.hiveon.net": "INACTIVE"
-        },
-        "1572908481": {
-            "gf.node.hiveon.net": "INACTIVE",
-            "gg.hiveon.net": "INACTIVE",
-            "gg.node.hiveon.net": "INACTIVE"
-        },
-        "1572908482": {
-            "ghc.coin-miners.info": "INACTIVE"
-        },
-        "1572908483": {
-            "ghc.node.coin-miners.info": "INACTIVE",
-            "ghc.suprnova.cc": "INACTIVE"
-        },
-        "1572908484": {
-            "gh.hiveon.net": "INACTIVE"
-        },
-        "1572908490": {
-            "ghjdthzvcnbkfr.xyz": "INACTIVE"
-        },
-        "1572908491": {
-            "gh.node.hiveon.net": "INACTIVE",
-            "ghost.coin-miners.info": "INACTIVE",
-            "ghost.node.coin-miners.info": "INACTIVE"
-        },
-        "1572908492": {
-            "ghost.suprnova.cc": "INACTIVE"
-        },
-        "1572908498": {
-            "giar.pool.mn": "INACTIVE"
-        },
-        "1572908499": {
-            "gi.btcc.com": "INACTIVE"
-        },
-        "1572908500": {
-            "gibyte-groestl.miningpoolhub.com": "INACTIVE",
-            "gibyte-qubit.miningpoolhub.com": "INACTIVE"
-        },
-        "1572908501": {
-            "gibyte-skein.miningpoolhub.com": "INACTIVE"
-        },
-        "1572908502": {
-            "gift.suprnova.cc": "INACTIVE",
-            "gigahash.wemineltc.com": "INACTIVE"
-        },
-        "1572908509": {
-            "gimp.suprnova.cc": "INACTIVE"
-        },
-        "1572908510": {
-            "gin-eu.coinblockers.com": "INACTIVE"
-        },
-        "1572908511": {
-            "gin.f2pool.com": "INACTIVE"
-        },
-        "1572908512": {
-            "gin.pickaxe.pro": "INACTIVE"
-        },
-        "1572908513": {
-            "gin.skypool.co": "INACTIVE",
-            "git2.uax.io": "INACTIVE"
-        },
-        "1572908523": {
-            "github.btcc.com": "INACTIVE",
-            "gitlab.bitpay.com": "INACTIVE"
-        },
-        "1572908526": {
-            "gitlab.herominers.com": "INACTIVE",
-            "gitlab.nicehash.com": "INACTIVE"
-        },
-        "1572908533": {
-            "gitlab.simplemining.net": "INACTIVE"
-        },
-        "1572908539": {
-            "gitlab.watlab.icemining.ca": "INACTIVE",
-            "gitlab.z.cash": "INACTIVE"
-        },
-        "1572908541": {
-            "git.uax.io": "INACTIVE"
-        },
-        "1572908542": {
-            "git.viabtc.com": "INACTIVE"
-        },
-        "1572908545": {
-            "give.hashhot.com": "INACTIVE",
-            "gizmo.suprnova.cc": "INACTIVE"
-        },
-        "1572908546": {
-            "gla.crypto-pool.info": "INACTIVE"
-        },
         "1572908549": {
             "glad.universalpool.net": "INACTIVE"
         },
@@ -8735,7 +8275,6 @@
             "gpool.guru": "INACTIVE"
         },
         "1572908636": {
-            "g.pool.sexy": "INACTIVE",
             "gps.phoneum.io": "INACTIVE"
         },
         "1572908655": {
@@ -9076,7 +8615,6 @@
             "gsuite.moneroseeds.ae.org": "INACTIVE"
         },
         "1572909772": {
-            "g.suprnova.cc": "INACTIVE",
             "gsx.hiveon.net": "INACTIVE"
         },
         "1572909773": {
@@ -52589,6 +52127,228 @@
             "ftp.miningclub.cc": "INACTIVE",
             "ftp.miningmania.net": "INACTIVE",
             "ftp.miningpoolhub.com": "INACTIVE"
+        },
+        "1575209859": {
+            "ftp.multipool.com": "INACTIVE",
+            "ftp.node.coin-miners.info": "INACTIVE",
+            "ftp.node.grcpool.com": "INACTIVE"
+        },
+        "1575209860": {
+            "ftp.pool.sexy": "INACTIVE"
+        },
+        "1575209861": {
+            "ftp.poolmining.net": "INACTIVE",
+            "ftp.ruisgood.ru": "INACTIVE"
+        },
+        "1575209862": {
+            "ftp.takebigfish.stream": "INACTIVE",
+            "ftp.wallpool.com": "INACTIVE"
+        },
+        "1575209863": {
+            "ftzivuesohvebj.ru": "INACTIVE",
+            "fubili.btcc.com": "INACTIVE",
+            "fud.suprnova.cc": "INACTIVE"
+        },
+        "1575209864": {
+            "fund.coin-miners.info": "INACTIVE"
+        },
+        "1575209865": {
+            "fund.node.coin-miners.info": "INACTIVE",
+            "fund.suprnova.cc": "INACTIVE",
+            "funk.majorminers.com": "INACTIVE"
+        },
+        "1575209866": {
+            "funtoche.em.bitcoin.co.pt": "INACTIVE",
+            "fury.youpool.io": "INACTIVE",
+            "fuse.clona.ru": "INACTIVE"
+        },
+        "1575209867": {
+            "fuzz.suprnova.cc": "INACTIVE",
+            "fw-01.coinstop.me": "INACTIVE"
+        },
+        "1575209869": {
+            "fy.btcc.com": "INACTIVE",
+            "fz.coinmine.pl": "INACTIVE"
+        },
+        "1575209870": {
+            "g-191.btcc.com": "INACTIVE",
+            "g-content.bi": "INACTIVE",
+            "g.bitcoin.co.pt": "INACTIVE"
+        },
+        "1575209871": {
+            "g.pool.sexy": "INACTIVE",
+            "g.suprnova.cc": "INACTIVE",
+            "g.zinntikumugai.xyz": "INACTIVE",
+            "g11.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575209872": {
+            "g35-160-5.btcc.com": "INACTIVE",
+            "g5-160us.btcc.com": "INACTIVE",
+            "g5-163us.btcc.com": "INACTIVE",
+            "g95217pv.beget.tech": "INACTIVE"
+        },
+        "1575209873": {
+            "g761.openvpn.f2pool.com": "INACTIVE",
+            "gad.youpool.io": "INACTIVE",
+            "galaxycoin.youcrazy.me": "INACTIVE"
+        },
+        "1575209874": {
+            "game.cryptobrowser.site": "INACTIVE",
+            "game.cybtc.info": "INACTIVE"
+        },
+        "1575209875": {
+            "game.suprnova.cc": "INACTIVE",
+            "games.aikapool.com": "INACTIVE"
+        },
+        "1575209876": {
+            "games.clona.ru": "INACTIVE",
+            "gamestoredownload.download": "INACTIVE"
+        },
+        "1575209877": {
+            "ganja.suprnova.cc": "INACTIVE",
+            "garlium.garlicpool.org": "INACTIVE"
+        },
+        "1575209878": {
+            "gas.coin-miners.info": "INACTIVE",
+            "gas.node.coin-miners.info": "INACTIVE",
+            "gas.suprnova.cc": "INACTIVE"
+        },
+        "1575209879": {
+            "gate.hws.ru": "INACTIVE",
+            "gateway.krunzy.com": "INACTIVE"
+        },
+        "1575209880": {
+            "gb.suprnova.cc": "INACTIVE",
+            "gbx.crypto-mining-pool.com": "INACTIVE"
+        },
+        "1575209881": {
+            "gbx.mine-vn.com": "INACTIVE",
+            "gbz.faucet.llama.horse": "INACTIVE"
+        },
+        "1575209882": {
+            "gbz.llama.horse": "INACTIVE",
+            "gcc.coinstop.me": "INACTIVE",
+            "gd-line-info.com": "INACTIVE"
+        },
+        "1575209883": {
+            "gdaxbtc.com": "INACTIVE",
+            "gdaxibtc.com": "INACTIVE"
+        },
+        "1575209884": {
+            "gdm.go-mine.it": "INACTIVE",
+            "gdm.youpool.io": "INACTIVE",
+            "gdn-east.majorminers.com": "INACTIVE"
+        },
+        "1575209885": {
+            "gdn.majorminers.com": "INACTIVE",
+            "gdtl.bitcoin.inc.hk": "INACTIVE",
+            "ge.netcodepool.org": "INACTIVE"
+        },
+        "1575209886": {
+            "ge.suprnova.cc": "INACTIVE",
+            "geekpicnic2018.bitfury.com": "INACTIVE",
+            "geem.youpool.io": "INACTIVE"
+        },
+        "1575209887": {
+            "geert.mine-vn.com": "INACTIVE",
+            "geert.suprnova.cc": "INACTIVE",
+            "gek.suprnova.cc": "INACTIVE"
+        },
+        "1575209888": {
+            "gemini.click": "INACTIVE",
+            "gemioni.com": "INACTIVE"
+        },
+        "1575209889": {
+            "gen.mine-vn.com": "INACTIVE",
+            "gen.pool.sexy": "INACTIVE",
+            "gen.suprnova.cc": "INACTIVE",
+            "gene.suprnova.cc": "INACTIVE"
+        },
+        "1575209890": {
+            "generalmills.bitcoin.co.pt": "INACTIVE",
+            "generator.hashvault.pro": "INACTIVE"
+        },
+        "1575209891": {
+            "genom.crypto-mining-pool.com": "INACTIVE",
+            "genom.europool.me": "INACTIVE",
+            "genuinebitcoinmultiplier.99btc.net": "INACTIVE"
+        },
+        "1575209892": {
+            "geo.cryptobrowser.site": "INACTIVE",
+            "geo.minertopia.org": "INACTIVE",
+            "geo.miningpoolhub.com": "INACTIVE"
+        },
+        "1575209893": {
+            "geo.node.moneroworld.com": "INACTIVE",
+            "geo.suprnova.cc": "INACTIVE"
+        },
+        "1575209894": {
+            "geodns.etn.semipool.com": "INACTIVE",
+            "geodns.trtl.semipool.com": "INACTIVE"
+        },
+        "1575209895": {
+            "gep.cryptobrowser.site": "INACTIVE",
+            "gestluz.em.bitcoin.co.pt": "INACTIVE"
+        },
+        "1575209896": {
+            "getpool.network": "INACTIVE",
+            "gett.cryptobrowser.site": "INACTIVE"
+        },
+        "1575209897": {
+            "gettate.date": "INACTIVE",
+            "gettate.faith": "INACTIVE",
+            "gettate.racing": "INACTIVE",
+            "gexp.node.expanse.tech": "INACTIVE"
+        },
+        "1575209898": {
+            "gfbank.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1575209899": {
+            "ghc.coin-miners.info": "INACTIVE",
+            "ghc.node.coin-miners.info": "INACTIVE",
+            "ghc.suprnova.cc": "INACTIVE"
+        },
+        "1575209900": {
+            "ghjdthzvcnbkfr.xyz": "INACTIVE",
+            "ghost.coin-miners.info": "INACTIVE",
+            "ghost.node.coin-miners.info": "INACTIVE",
+            "ghost.suprnova.cc": "INACTIVE"
+        },
+        "1575209901": {
+            "gi.btcc.com": "INACTIVE",
+            "gibyte-groestl.miningpoolhub.com": "INACTIVE",
+            "gibyte-qubit.miningpoolhub.com": "INACTIVE"
+        },
+        "1575209902": {
+            "gibyte-skein.miningpoolhub.com": "INACTIVE",
+            "gidowns.icejuice.xyz": "INACTIVE",
+            "gift.suprnova.cc": "INACTIVE"
+        },
+        "1575209903": {
+            "gigahash.wemineltc.com": "INACTIVE",
+            "gimp.suprnova.cc": "INACTIVE",
+            "gin.f2pool.com": "INACTIVE"
+        },
+        "1575209904": {
+            "gin.skypool.co": "INACTIVE",
+            "giro.explorer.poolofd32th.club": "INACTIVE",
+            "git.herominers.com": "INACTIVE"
+        },
+        "1575209905": {
+            "git.uax.io": "INACTIVE",
+            "git.viabtc.com": "INACTIVE",
+            "git2.uax.io": "INACTIVE"
+        },
+        "1575209906": {
+            "github.btcc.com": "INACTIVE",
+            "gitlab.bitpay.com": "INACTIVE"
+        },
+        "1575209907": {
+            "gitlab.nicehash.com": "INACTIVE",
+            "gitlab.z.cash": "INACTIVE"
+        },
+        "1575209908": {
+            "gizmo.suprnova.cc": "INACTIVE"
         }
     }
 }
