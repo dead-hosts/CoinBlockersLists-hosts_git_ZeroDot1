@@ -5164,6 +5164,11 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "ethashpool.com": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "ethclassic.faith": {
         "epoch": 1553040000,
         "expiration_date": "20-mar-2019",
@@ -5242,6 +5247,11 @@
     "ethosdistro.com": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
+    "ethpool.net": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "ethpool.org": {
