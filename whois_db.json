@@ -9190,27 +9190,27 @@
         "state": "future"
     },
     "omegapool.cc": {
-        "epoch": "1586563200",
+        "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "omfg.pw": {
-        "epoch": "1577404800",
+        "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
     "omine.org": {
-        "epoch": 1590796800,
+        "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
         "state": "future"
     },
     "onepool.co": {
-        "epoch": 1584835200,
+        "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "online.bid": {
-        "epoch": "1827273600",
+        "epoch": 1827273600.0,
         "expiration_date": "27-nov-2027",
         "state": "future"
     },
@@ -9220,7 +9220,7 @@
         "state": "past"
     },
     "onlinereserchstatistics.online": {
-        "epoch": 1598400000,
+        "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
         "state": "future"
     },
@@ -9229,18 +9229,23 @@
         "expiration_date": "25-jan-2019",
         "state": "past"
     },
+    "onminer.net": {
+        "epoch": 1583020800.0,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "onvid.club": {
-        "epoch": 1571529600,
+        "epoch": 1571529600.0,
         "expiration_date": "20-oct-2019",
         "state": "past"
     },
     "oo000oo.me": {
-        "epoch": 1527033600,
+        "epoch": 1527033600.0,
         "expiration_date": "23-may-2018",
         "state": "past"
     },
     "openkatalog.com": {
-        "epoch": 1598918400,
+        "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
         "state": "future"
     },
@@ -9250,32 +9255,32 @@
         "state": "future"
     },
     "optimusblue.com": {
-        "epoch": 1601424000,
+        "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "osdsoft.com": {
-        "epoch": "1585699200",
+        "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
     "osiamining.com": {
-        "epoch": "1581811200",
+        "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "ough.info": {
-        "epoch": 1602892800,
+        "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "our-rapture.com": {
-        "epoch": 1578268800,
+        "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
         "state": "future"
     },
     "owwwc.com": {
-        "epoch": 1594944000,
+        "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
@@ -9285,12 +9290,12 @@
         "state": "future"
     },
     "ozapool.com": {
-        "epoch": "1580688000",
+        "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
     "p00l.org": {
-        "epoch": "1587168000",
+        "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
         "state": "future"
     },
@@ -9300,7 +9305,7 @@
         "state": "past"
     },
     "p2p-spb.xyz": {
-        "epoch": 1589500800,
+        "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
         "state": "future"
     },
