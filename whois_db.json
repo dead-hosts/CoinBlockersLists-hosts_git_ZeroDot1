@@ -9700,32 +9700,37 @@
         "state": "future"
     },
     "pool.gold": {
-        "epoch": 1601337600,
+        "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "pool.mn": {
-        "epoch": "1587427200",
+        "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
         "state": "future"
     },
     "pool.pink": {
-        "epoch": "1578528000",
+        "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
         "state": "future"
     },
     "pool.pm": {
-        "epoch": "1583366400",
+        "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
+    "pool.se": {
+        "epoch": 1825977600.0,
+        "expiration_date": "12-nov-2027",
+        "state": "future"
+    },
     "pool.sexy": {
-        "epoch": "1583020800",
+        "epoch": 1583020800.0,
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
     "pool.ski": {
-        "epoch": "1579824000",
+        "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
         "state": "future"
     },
