@@ -9139,18 +9139,23 @@
         "expiration_date": "03-dec-2018",
         "state": "past"
     },
+    "oddpools.org": {
+        "epoch": 1588896000.0,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
     "odpool.com": {
-        "epoch": 1602720000,
+        "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "oei1.gq": {
-        "epoch": "1591056000",
+        "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
     "offerreality.com": {
-        "epoch": 1598227200,
+        "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
@@ -9160,22 +9165,22 @@
         "state": "future"
     },
     "okex.me": {
-        "epoch": 1621987200,
+        "epoch": 1621987200.0,
         "expiration_date": "26-may-2021",
         "state": "future"
     },
     "okexysylgzo.ru": {
-        "epoch": 1594080000,
+        "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "okpool.top": {
-        "epoch": 1624838400,
+        "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "olecintri.com": {
-        "epoch": 1603843200,
+        "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
