@@ -8074,7 +8074,6 @@
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
         "1569839140": {
-            "mail.nlpool.nl": "INACTIVE",
             "mail.node.coin-miners.info": "INACTIVE",
             "mail.node.supportxmr.com": "INACTIVE",
             "mail.test10.node.coin-miners.info": "INACTIVE",
@@ -8128,206 +8127,10 @@
         "1572910919": {
             "hostingcloud.do": "INACTIVE"
         },
-        "1572915431": {
-            "m1.e-libra.ru": "INACTIVE",
-            "m1.mbkpool.info": "INACTIVE",
-            "m1.monerise.com": "INACTIVE"
-        },
-        "1572915432": {
-            "m1.moneropool.com": "INACTIVE"
-        },
-        "1572915433": {
-            "m1.stream.vidzi.tv": "INACTIVE",
-            "m1.streaming.estream.to": "INACTIVE"
-        },
-        "1572915434": {
-            "m1.videos.vidto.me": "INACTIVE",
-            "m1x.suprnova.cc": "INACTIVE"
-        },
-        "1572915435": {
-            "m2.cdn-jquery.host": "INACTIVE"
-        },
-        "1572915436": {
-            "m2.fjhan.club": "INACTIVE",
-            "m2.moneropool.com": "INACTIVE"
-        },
-        "1572915437": {
-            "m2.stream.vidzi.tv": "INACTIVE",
-            "m2.streaming.estream.to": "INACTIVE"
-        },
-        "1572915438": {
-            "m2.videos.vidto.me": "INACTIVE"
-        },
-        "1572915439": {
-            "m3.cdn-jquery.host": "INACTIVE"
-        },
-        "1572915445": {
-            "m3.fjhan.club": "INACTIVE"
-        },
-        "1572915452": {
-            "m3.mining.garden": "INACTIVE"
-        },
-        "1572915453": {
-            "m4.cd": "INACTIVE"
-        },
-        "1572915454": {
-            "m4.cdn-jquery.host": "INACTIVE"
-        },
-        "1572915461": {
-            "m5.cdn-jquery.host": "INACTIVE"
-        },
-        "1572915462": {
-            "m7m.eu.mine.zpool.ca": "INACTIVE"
-        },
-        "1572915468": {
-            "m7m.mine.ahashpool.com": "INACTIVE"
-        },
-        "1572915474": {
-            "m7m.mine.blazepool.com": "INACTIVE"
-        },
-        "1572915475": {
-            "m7m.mine.zergpool.com": "INACTIVE",
-            "m7m.mine.zpool.ca": "INACTIVE"
-        },
-        "1572915476": {
-            "m7m.na.mine.zpool.ca": "INACTIVE"
-        },
-        "1572915482": {
-            "m7m.us.hashrefinery.com": "INACTIVE"
-        },
-        "1572915498": {
-            "m95184om.beget.tech": "INACTIVE"
-        },
-        "1572915499": {
-            "maaapi.mooo.com": "INACTIVE"
-        },
-        "1572915500": {
-            "mac10.hiveon.net": "INACTIVE"
-        },
-        "1572915501": {
-            "mac10.node.hiveon.net": "INACTIVE",
-            "mac11.hiveon.net": "INACTIVE"
-        },
-        "1572915502": {
-            "mac11.node.hiveon.net": "INACTIVE",
-            "mac2.hiveon.net": "INACTIVE"
-        },
-        "1572915503": {
-            "mac2.node.hiveon.net": "INACTIVE",
-            "mac5.hiveon.net": "INACTIVE"
-        },
-        "1572915504": {
-            "mac5.node.hiveon.net": "INACTIVE"
-        },
-        "1572915505": {
-            "mac.lightninghash.com": "INACTIVE"
-        },
-        "1572915506": {
-            "macs.proxpool.com": "INACTIVE"
-        },
-        "1572915507": {
-            "mac.suprnova.cc": "INACTIVE"
-        },
-        "1572915513": {
-            "mad.pool.mn": "INACTIVE"
-        },
-        "1572915514": {
-            "madrid.hiveon.net": "INACTIVE",
-            "madrid.node.hiveon.net": "INACTIVE"
-        },
-        "1572915515": {
-            "mag.coin-miners.info": "INACTIVE"
-        },
-        "1572915516": {
-            "magento.ac.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1572915517": {
-            "magento.api.wowne.ro": "INACTIVE"
-        },
-        "1572915518": {
-            "magento.cart.wowne.ro": "INACTIVE"
-        },
-        "1572915519": {
-            "magento.dbadmin.wowne.ro": "INACTIVE"
-        },
-        "1572915520": {
-            "magento.db.wowne.ro": "INACTIVE",
-            "magento.forum.wowne.ro": "INACTIVE"
-        },
-        "1572915522": {
-            "magento.internet.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1572915523": {
-            "magento.mysql.wowne.ro": "INACTIVE",
-            "magento.phpmyadmin.wowne.ro": "INACTIVE"
-        },
-        "1572915524": {
-            "magento.pma.wowne.ro": "INACTIVE"
-        },
-        "1572915525": {
-            "magento.sql.wowne.ro": "INACTIVE"
-        },
-        "1572915526": {
-            "magento.store.wowne.ro": "INACTIVE"
-        },
-        "1572915527": {
-            "magento.tesetnet.wowne.ro": "INACTIVE"
-        },
-        "1572915528": {
-            "magento.test.wowne.ro": "INACTIVE"
-        },
-        "1572915529": {
-            "magento.wowne.ro": "INACTIVE"
-        },
-        "1572915530": {
-            "magento.xn--1xa.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1572915538": {
-            "magi.mine.zpool.ca": "INACTIVE"
-        },
-        "1572915539": {
-            "magnet.multipools.club": "INACTIVE"
-        },
-        "1572915540": {
-            "mag.node.coin-miners.info": "INACTIVE"
-        },
-        "1572915547": {
-            "mag.pool.mn": "INACTIVE"
-        },
-        "1572915548": {
-            "ma.herphemiste.com": "INACTIVE"
-        },
-        "1572915554": {
-            "maia.pool.mn": "INACTIVE",
-            "maia.suprnova.cc": "INACTIVE"
-        },
-        "1572915556": {
-            "mail-0.hiveon.net": "INACTIVE",
-            "main.bpool.site": "INACTIVE"
-        },
-        "1572915563": {
-            "main.dwarfpool.com": "INACTIVE",
-            "main.etn.semipool.com": "INACTIVE"
-        },
-        "1572915564": {
-            "main.gntl.co.uk": "INACTIVE"
-        },
-        "1572915565": {
-            "main.hiveon.net": "INACTIVE",
-            "main.minero.cc": "INACTIVE"
-        },
-        "1572915566": {
-            "mainnet.auroraeos.com": "INACTIVE"
-        },
-        "1572915568": {
-            "mainnet.eosarabia.net": "INACTIVE"
-        },
         "1572915574": {
-            "mainnet.eosbcn.com": "INACTIVE",
             "mainnet.eoscalgary.io": "INACTIVE"
         },
         "1572915582": {
-            "mainnet.eos.foodtoken.io": "INACTIVE",
             "mainnet.eoslaomao.com": "INACTIVE"
         },
         "1572915583": {
@@ -8335,13 +8138,6 @@
         },
         "1572915589": {
             "mainnet.z.cash": "INACTIVE"
-        },
-        "1572915590": {
-            "main.node.hiveon.net": "INACTIVE"
-        },
-        "1572915591": {
-            "main.pool.gold": "INACTIVE",
-            "main.xmrpool.net": "INACTIVE"
         },
         "1572915593": {
             "majo.em.bitcoin.co.pt": "INACTIVE"
@@ -40070,333 +39866,6 @@
         "1572962796": {
             "zzzthxsyvbzk.cf": "INACTIVE"
         },
-        "1575135395": {
-            "al.bitcoin.co.pt": "INACTIVE",
-            "al.u.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575135396": {
-            "alamis.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1575135397": {
-            "albodre.moneroseeds.ae.org": "INACTIVE",
-            "alcfund.com": "INACTIVE"
-        },
-        "1575135398": {
-            "albums.clona.ru": "INACTIVE",
-            "alemoney.xyz": "INACTIVE"
-        },
-        "1575135399": {
-            "alex.coin-miners.info": "INACTIVE",
-            "alex.gekko.gigsis.net": "INACTIVE",
-            "alex.node.coin-miners.info": "INACTIVE"
-        },
-        "1575135400": {
-            "alfa-bitcoin.com": "INACTIVE",
-            "alflying.bid": "INACTIVE"
-        },
-        "1575135401": {
-            "alflying.bi": "INACTIVE",
-            "alflying.date": "INACTIVE",
-            "alflying.win": "INACTIVE"
-        },
-        "1575135402": {
-            "algenova.moneroseeds.ae.org": "INACTIVE",
-            "alhoseni.moneroseeds.ae.org": "INACTIVE",
-            "ali-bj-btcfw-backup.f2pool.com": "INACTIVE"
-        },
-        "1575135404": {
-            "ali.luckypool.io": "INACTIVE",
-            "ali.suprnova.cc": "INACTIVE"
-        },
-        "1575135405": {
-            "alidata.em.bitcoin.co.pt": "INACTIVE",
-            "alleoncoin.miningpoolhub.com": "INACTIVE"
-        },
-        "1575135407": {
-            "allminer.cl": "INACTIVE"
-        },
-        "1575135408": {
-            "alloy-api.luckypool.io": "INACTIVE",
-            "alloy.herominers.com": "INACTIVE"
-        },
-        "1575135409": {
-            "alloy.cryptomine.pro": "INACTIVE",
-            "alloy.ingest.cryptoknight.cc": "INACTIVE",
-            "alloy.labbinarymining.com": "INACTIVE"
-        },
-        "1575135410": {
-            "alloy.luckypool.io": "INACTIVE",
-            "alloy.spacepools.org": "INACTIVE",
-            "alm-limited.com": "INACTIVE"
-        },
-        "1575135411": {
-            "almonna.moneroseeds.ae.org": "INACTIVE",
-            "alpha-pool.cryptocatalyst.net": "INACTIVE"
-        },
-        "1575135412": {
-            "alpha.bixin.com": "INACTIVE",
-            "alpha.cryptocatalyst.net": "INACTIVE"
-        },
-        "1575135413": {
-            "alpha.node.nimiqpool.com": "INACTIVE"
-        },
-        "1575135414": {
-            "alrajhi.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1575135415": {
-            "alt4coin.tr": "INACTIVE",
-            "altcoinshour.com": "INACTIVE"
-        },
-        "1575135416": {
-            "altcom.coin-miners.info": "INACTIVE",
-            "altcom.node.coin-miners.info": "INACTIVE",
-            "alternc.namecoin.info": "INACTIVE"
-        },
-        "1575135417": {
-            "althash.eu": "INACTIVE",
-            "altis.em.bitcoin.co.pt": "INACTIVE",
-            "altoequity.com": "INACTIVE"
-        },
-        "1575135418": {
-            "alvonstore.com": "INACTIVE"
-        },
-        "1575135419": {
-            "alwaysbtc.net": "INACTIVE",
-            "am.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575135420": {
-            "am9ozs.xyz": "INACTIVE",
-            "amazing-money-maker.com": "INACTIVE"
-        },
-        "1575135421": {
-            "amazon.sberex.com": "INACTIVE",
-            "amazonses.btcc.com": "INACTIVE"
-        },
-        "1575135422": {
-            "amba.europool.me": "INACTIVE",
-            "amber.coin-miners.info": "INACTIVE",
-            "amber.node.coin-miners.info": "INACTIVE",
-            "amber.suprnova.cc": "INACTIVE"
-        },
-        "1575135423": {
-            "amerextrade.com": "INACTIVE",
-            "america.btc.com": "INACTIVE",
-            "america.monerise.com": "INACTIVE"
-        },
-        "1575135424": {
-            "amgtst.amgtst.moneroseeds.ae.org": "INACTIVE",
-            "amgtst.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1575135425": {
-            "amhixwqagiz.ru": "INACTIVE",
-            "amiga.gcpool.eu": "INACTIVE",
-            "amit.llama.horse": "INACTIVE"
-        },
-        "1575135426": {
-            "amitycoin.cool-pool.net": "INACTIVE",
-            "amm.btcc.com": "INACTIVE",
-            "ams.gcpool.eu": "INACTIVE",
-            "ams.suprnova.cc": "INACTIVE"
-        },
-        "1575135427": {
-            "amsterdam-coin.com": "INACTIVE",
-            "amsterdam.dero.hashvault.pro": "INACTIVE",
-            "amsterdam.dero.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575135428": {
-            "amsterdam.majorminers.com": "INACTIVE",
-            "amsterdam.minemonero.pro": "INACTIVE",
-            "amsterdam01.aeon.hashvault.pro": "INACTIVE"
-        },
-        "1575135429": {
-            "amsterdam01.aeon.nodes.hashvault.pro": "INACTIVE",
-            "amsterdam01.dero.hashvault.pro": "INACTIVE",
-            "amsterdam01.graft.hashvault.pro": "INACTIVE",
-            "amsterdam01.graft.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575135430": {
-            "amsterdam01.masari.hashvault.pro": "INACTIVE",
-            "amsterdam01.masari.nodes.hashvault.pro": "INACTIVE",
-            "amsterdam01.minemonero.pro": "INACTIVE"
-        },
-        "1575135431": {
-            "amun.openvpn.f2pool.com": "INACTIVE",
-            "amvest-capital.com": "INACTIVE"
-        },
-        "1575135432": {
-            "an.bitcoin.co.pt": "INACTIVE",
-            "anaesthesia.bitcoin.inc.hk": "INACTIVE",
-            "anal.suprnova.cc": "INACTIVE"
-        },
-        "1575135433": {
-            "analitics-service.com": "INACTIVE",
-            "analytics.amm.btcc.com": "INACTIVE",
-            "analytics.bl": "INACTIVE"
-        },
-        "1575135434": {
-            "anc.hash-to-coins.com": "INACTIVE",
-            "anc.majorminers.com": "INACTIVE"
-        },
-        "1575135435": {
-            "android.wmikrut.com": "INACTIVE",
-            "anduca.biz": "INACTIVE",
-            "anedotas.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575135436": {
-            "anenberg.st": "INACTIVE",
-            "angel-profit.com": "INACTIVE",
-            "angel.phoenixcoin.org": "INACTIVE"
-        },
-        "1575135437": {
-            "angel.suprnova.cc": "INACTIVE",
-            "ann.cryptobrowser.site": "INACTIVE",
-            "anobtc.com": "INACTIVE"
-        },
-        "1575135438": {
-            "anon.cryptoblock.uk": "INACTIVE"
-        },
-        "1575135439": {
-            "anon.ginasismining.com": "INACTIVE",
-            "anon.grcpool.com": "INACTIVE",
-            "anon.miningspeed.com": "INACTIVE"
-        },
-        "1575135440": {
-            "anon.node.grcpool.com": "INACTIVE",
-            "anon.prod.2miners.com": "INACTIVE",
-            "anon.solopool.org": "INACTIVE",
-            "anonexp.basementpool.org": "INACTIVE"
-        },
-        "1575135441": {
-            "anonymousinvestment.com": "INACTIVE",
-            "anorak.anorak.tech": "INACTIVE",
-            "anpc.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575135442": {
-            "ant.majorminers.com": "INACTIVE",
-            "antex.cl": "INACTIVE"
-        },
-        "1575135443": {
-            "antigo.gestluz.em.bitcoin.co.pt": "INACTIVE",
-            "antiquesinv.com": "INACTIVE",
-            "antminersell.sh": "INACTIVE"
-        },
-        "1575135444": {
-            "antminersupply.co": "INACTIVE"
-        },
-        "1575135445": {
-            "anybest.host": "INACTIVE",
-            "anybest.pw": "INACTIVE",
-            "anybest.si": "INACTIVE",
-            "anybest.site": "INACTIVE"
-        },
-        "1575135446": {
-            "anybest.space": "INACTIVE",
-            "anywhere.fix.btcc.com": "INACTIVE",
-            "ao.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575135447": {
-            "aobo.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575135448": {
-            "ap.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575135449": {
-            "apac.quantumminingpool.com": "INACTIVE",
-            "apainvest.biz": "INACTIVE"
-        },
-        "1575135450": {
-            "apex.poolto.be": "INACTIVE",
-            "apextradinginvestments.com": "INACTIVE"
-        },
-        "1575135451": {
-            "api-backup.viaxmr.com": "INACTIVE"
-        },
-        "1575135453": {
-            "api-dero.easyhash.io": "INACTIVE",
-            "api-dev.easyhash.io": "INACTIVE"
-        },
-        "1575135454": {
-            "api-etn-nicehash.easyhash.io": "INACTIVE",
-            "api-etn.easyhash.io": "INACTIVE",
-            "api-etn.foreverpool.org": "INACTIVE"
-        },
-        "1575135455": {
-            "api-etn.us.easyhash.io": "INACTIVE",
-            "api-etnx.easyhash.io": "INACTIVE",
-            "api-fno.easyhash.io": "INACTIVE"
-        },
-        "1575135456": {
-            "api-grf.easyhash.io": "INACTIVE",
-            "api-grft.easyhash.io": "INACTIVE"
-        },
-        "1575135457": {
-            "api-itns.easyhash.io": "INACTIVE",
-            "api-itns001.cryptogrot.io": "INACTIVE",
-            "api-krb.easyhash.io": "INACTIVE",
-            "api-loki.easyhash.io": "INACTIVE"
-        },
-        "1575135458": {
-            "api-prod-dev.poolin.com": "INACTIVE",
-            "api-prod-proxy.poolin.com": "INACTIVE"
-        },
-        "1575135459": {
-            "api-qrl.easyhash.io": "INACTIVE",
-            "api-ryo.easyhash.io": "INACTIVE"
-        },
-        "1575135460": {
-            "api-slingshot.aikapool.com": "INACTIVE",
-            "api-sumo.easyhash.io": "INACTIVE"
-        },
-        "1575135461": {
-            "api-testnet.xmr.skypool.org": "INACTIVE",
-            "api-xmr.easyhash.io": "INACTIVE"
-        },
-        "1575135462": {
-            "api-xmr.foreverpool.org": "INACTIVE",
-            "api-xmv.easyhash.io": "INACTIVE"
-        },
-        "1575135463": {
-            "api.1beb2a44.space": "INACTIVE",
-            "api.300ca0d0.space": "INACTIVE",
-            "api.310ca263.space": "INACTIVE"
-        },
-        "1575135464": {
-            "api.320ca3f6.space": "INACTIVE",
-            "api.330ca589.space": "INACTIVE",
-            "api.340ca71c.space": "INACTIVE"
-        },
-        "1575135465": {
-            "api.360caa42.space": "INACTIVE",
-            "api.370cabd5.space": "INACTIVE",
-            "api.3c0cb3b4.space": "INACTIVE",
-            "api.3d0cb547.space": "INACTIVE"
-        },
-        "1575135466": {
-            "api.aeon.hashvault.pro": "INACTIVE",
-            "api.aeon.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575135467": {
-            "api.aeon.semipool.com": "INACTIVE",
-            "api.aeon.spacepools.org": "INACTIVE",
-            "api.aeonminingpool.com": "INACTIVE",
-            "api.aeonpool.xyz": "INACTIVE"
-        },
-        "1575135468": {
-            "api.aether.spacepools.org": "INACTIVE",
-            "api.akumaxmr.com": "INACTIVE",
-            "api.alloy.spacepools.org": "INACTIVE"
-        },
-        "1575135469": {
-            "api.anorak.tech": "INACTIVE",
-            "api.arq.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.athx.heigh-ho.funkypenguin.co.nz": "INACTIVE"
-        },
-        "1575135470": {
-            "api.bhzejltg.info": "INACTIVE"
-        },
-        "1575135471": {
-            "api.bitpoolmining.com": "INACTIVE"
-        },
         "1575137732": {
             "api.btcc.com": "INACTIVE",
             "api.byte.spacepools.org": "INACTIVE"
@@ -49772,6 +49241,370 @@
         },
         "1575222220": {
             "m0-api.btcc.com": "INACTIVE"
+        },
+        "1575223024": {
+            "al.bitcoin.co.pt": "INACTIVE"
+        },
+        "1575223025": {
+            "al.u.bitcoin.co.pt": "INACTIVE",
+            "alamis.moneroseeds.ae.org": "INACTIVE",
+            "albodre.moneroseeds.ae.org": "INACTIVE",
+            "alcfund.com": "INACTIVE"
+        },
+        "1575223026": {
+            "albums.clona.ru": "INACTIVE",
+            "alemoney.xyz": "INACTIVE",
+            "alex.coin-miners.info": "INACTIVE",
+            "alex.node.coin-miners.info": "INACTIVE"
+        },
+        "1575223027": {
+            "alex.gekko.gigsis.net": "INACTIVE",
+            "alfa-bitcoin.com": "INACTIVE",
+            "alflying.bi": "INACTIVE",
+            "alflying.bid": "INACTIVE",
+            "alflying.date": "INACTIVE"
+        },
+        "1575223028": {
+            "alflying.win": "INACTIVE",
+            "algenova.moneroseeds.ae.org": "INACTIVE",
+            "alhoseni.moneroseeds.ae.org": "INACTIVE",
+            "ali-bj-btcfw-backup.f2pool.com": "INACTIVE"
+        },
+        "1575223029": {
+            "ali.luckypool.io": "INACTIVE",
+            "ali.suprnova.cc": "INACTIVE",
+            "alidata.em.bitcoin.co.pt": "INACTIVE",
+            "alleoncoin.miningpoolhub.com": "INACTIVE"
+        },
+        "1575223030": {
+            "allminer.cl": "INACTIVE",
+            "alloy-api.luckypool.io": "INACTIVE",
+            "alloy.cryptomine.pro": "INACTIVE",
+            "alloy.herominers.com": "INACTIVE"
+        },
+        "1575223031": {
+            "alloy.ingest.cryptoknight.cc": "INACTIVE",
+            "alloy.labbinarymining.com": "INACTIVE",
+            "alloy.luckypool.io": "INACTIVE",
+            "alloy.spacepools.org": "INACTIVE",
+            "alm-limited.com": "INACTIVE"
+        },
+        "1575223032": {
+            "almonna.moneroseeds.ae.org": "INACTIVE",
+            "alpha-pool.cryptocatalyst.net": "INACTIVE",
+            "alpha.bixin.com": "INACTIVE",
+            "alpha.cryptocatalyst.net": "INACTIVE"
+        },
+        "1575223033": {
+            "alpha.node.nimiqpool.com": "INACTIVE",
+            "alrajhi.moneroseeds.ae.org": "INACTIVE",
+            "alt4coin.tr": "INACTIVE",
+            "altcom.coin-miners.info": "INACTIVE"
+        },
+        "1575223034": {
+            "altcoinshour.com": "INACTIVE",
+            "altcom.node.coin-miners.info": "INACTIVE",
+            "alternc.namecoin.info": "INACTIVE",
+            "altis.em.bitcoin.co.pt": "INACTIVE"
+        },
+        "1575223035": {
+            "althash.eu": "INACTIVE",
+            "altoequity.com": "INACTIVE",
+            "alvonstore.com": "INACTIVE",
+            "alwaysbtc.net": "INACTIVE"
+        },
+        "1575223036": {
+            "am.bitcoin.co.pt": "INACTIVE",
+            "am9ozs.xyz": "INACTIVE",
+            "amazing-money-maker.com": "INACTIVE",
+            "amazon.sberex.com": "INACTIVE"
+        },
+        "1575223037": {
+            "amba.europool.me": "INACTIVE",
+            "amber.coin-miners.info": "INACTIVE",
+            "amber.node.coin-miners.info": "INACTIVE",
+            "amber.suprnova.cc": "INACTIVE"
+        },
+        "1575223038": {
+            "amerextrade.com": "INACTIVE",
+            "america.btc.com": "INACTIVE",
+            "america.monerise.com": "INACTIVE",
+            "amgtst.amgtst.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1575223039": {
+            "amgtst.moneroseeds.ae.org": "INACTIVE",
+            "amhixwqagiz.ru": "INACTIVE",
+            "amiga.gcpool.eu": "INACTIVE",
+            "amit.llama.horse": "INACTIVE"
+        },
+        "1575223040": {
+            "amitycoin.cool-pool.net": "INACTIVE",
+            "amm.btcc.com": "INACTIVE",
+            "ams.gcpool.eu": "INACTIVE",
+            "ams.suprnova.cc": "INACTIVE",
+            "amsterdam.dero.hashvault.pro": "INACTIVE"
+        },
+        "1575223041": {
+            "amsterdam-coin.com": "INACTIVE",
+            "amsterdam.dero.nodes.hashvault.pro": "INACTIVE",
+            "amsterdam.majorminers.com": "INACTIVE",
+            "amsterdam.minemonero.pro": "INACTIVE"
+        },
+        "1575223042": {
+            "amsterdam01.aeon.hashvault.pro": "INACTIVE",
+            "amsterdam01.aeon.nodes.hashvault.pro": "INACTIVE",
+            "amsterdam01.dero.hashvault.pro": "INACTIVE",
+            "amsterdam01.graft.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1575223043": {
+            "amsterdam01.graft.hashvault.pro": "INACTIVE",
+            "amsterdam01.masari.hashvault.pro": "INACTIVE",
+            "amsterdam01.masari.nodes.hashvault.pro": "INACTIVE",
+            "amsterdam01.minemonero.pro": "INACTIVE"
+        },
+        "1575223044": {
+            "amun.openvpn.f2pool.com": "INACTIVE",
+            "amvest-capital.com": "INACTIVE",
+            "an.bitcoin.co.pt": "INACTIVE",
+            "anaesthesia.bitcoin.inc.hk": "INACTIVE",
+            "anal.suprnova.cc": "INACTIVE"
+        },
+        "1575223045": {
+            "analitics-service.com": "INACTIVE",
+            "analytics.bl": "INACTIVE",
+            "anc.hash-to-coins.com": "INACTIVE"
+        },
+        "1575223046": {
+            "anc.majorminers.com": "INACTIVE",
+            "android.wmikrut.com": "INACTIVE",
+            "anduca.biz": "INACTIVE",
+            "anedotas.bitcoin.co.pt": "INACTIVE"
+        },
+        "1575223047": {
+            "anenberg.st": "INACTIVE",
+            "angel-profit.com": "INACTIVE",
+            "angel.phoenixcoin.org": "INACTIVE",
+            "angel.suprnova.cc": "INACTIVE",
+            "ann.cryptobrowser.site": "INACTIVE"
+        },
+        "1575223048": {
+            "anobtc.com": "INACTIVE",
+            "anon.cryptoblock.uk": "INACTIVE",
+            "anon.ginasismining.com": "INACTIVE",
+            "anon.grcpool.com": "INACTIVE"
+        },
+        "1575223049": {
+            "anon.miningspeed.com": "INACTIVE",
+            "anon.node.grcpool.com": "INACTIVE",
+            "anon.prod.2miners.com": "INACTIVE",
+            "anonexp.basementpool.org": "INACTIVE"
+        },
+        "1575223050": {
+            "anon.solopool.org": "INACTIVE",
+            "anonymousinvestment.com": "INACTIVE",
+            "anorak.anorak.tech": "INACTIVE",
+            "ant.majorminers.com": "INACTIVE"
+        },
+        "1575223051": {
+            "anpc.openvpn.f2pool.com": "INACTIVE",
+            "antex.cl": "INACTIVE",
+            "antigo.gestluz.em.bitcoin.co.pt": "INACTIVE",
+            "antiquesinv.com": "INACTIVE",
+            "antminersell.sh": "INACTIVE"
+        },
+        "1575223052": {
+            "antminersupply.co": "INACTIVE",
+            "anybest.host": "INACTIVE",
+            "anybest.pw": "INACTIVE",
+            "anybest.si": "INACTIVE"
+        },
+        "1575223053": {
+            "anybest.site": "INACTIVE",
+            "anybest.space": "INACTIVE",
+            "anywhere.fix.btcc.com": "INACTIVE",
+            "ao.bitcoin.co.pt": "INACTIVE"
+        },
+        "1575223054": {
+            "aobo.openvpn.f2pool.com": "INACTIVE",
+            "ap.bitcoin.co.pt": "INACTIVE",
+            "apac.quantumminingpool.com": "INACTIVE",
+            "apainvest.biz": "INACTIVE"
+        },
+        "1575223055": {
+            "apex.poolto.be": "INACTIVE",
+            "apextradinginvestments.com": "INACTIVE",
+            "api-backup.viaxmr.com": "INACTIVE",
+            "api-dero.easyhash.io": "INACTIVE"
+        },
+        "1575223056": {
+            "api-dev.easyhash.io": "INACTIVE",
+            "api-etn-nicehash.easyhash.io": "INACTIVE",
+            "api-etn.easyhash.io": "INACTIVE",
+            "api-etn.foreverpool.org": "INACTIVE",
+            "api-etn.us.easyhash.io": "INACTIVE"
+        },
+        "1575223057": {
+            "api-etnx.easyhash.io": "INACTIVE",
+            "api-fno.easyhash.io": "INACTIVE",
+            "api-grf.easyhash.io": "INACTIVE",
+            "api-grft.easyhash.io": "INACTIVE"
+        },
+        "1575223058": {
+            "api-itns.easyhash.io": "INACTIVE",
+            "api-itns001.cryptogrot.io": "INACTIVE",
+            "api-krb.easyhash.io": "INACTIVE",
+            "api-loki.easyhash.io": "INACTIVE"
+        },
+        "1575223059": {
+            "api-prod-dev.poolin.com": "INACTIVE",
+            "api-prod-proxy.poolin.com": "INACTIVE",
+            "api-qrl.easyhash.io": "INACTIVE",
+            "api-ryo.easyhash.io": "INACTIVE"
+        },
+        "1575223060": {
+            "api-slingshot.aikapool.com": "INACTIVE",
+            "api-sumo.easyhash.io": "INACTIVE",
+            "api-testnet.xmr.skypool.org": "INACTIVE",
+            "api-xmr.easyhash.io": "INACTIVE",
+            "api-xmr.foreverpool.org": "INACTIVE"
+        },
+        "1575223061": {
+            "api-xmv.easyhash.io": "INACTIVE",
+            "api.1beb2a44.space": "INACTIVE",
+            "api.300ca0d0.space": "INACTIVE",
+            "api.310ca263.space": "INACTIVE"
+        },
+        "1575223062": {
+            "api.320ca3f6.space": "INACTIVE",
+            "api.330ca589.space": "INACTIVE",
+            "api.340ca71c.space": "INACTIVE",
+            "api.360caa42.space": "INACTIVE"
+        },
+        "1575223063": {
+            "api.370cabd5.space": "INACTIVE",
+            "api.3c0cb3b4.space": "INACTIVE",
+            "api.3d0cb547.space": "INACTIVE",
+            "api.aeon.hashvault.pro": "INACTIVE"
+        },
+        "1575223064": {
+            "api.aeon.nodes.hashvault.pro": "INACTIVE",
+            "api.aeon.semipool.com": "INACTIVE",
+            "api.aeon.spacepools.org": "INACTIVE",
+            "api.aeonminingpool.com": "INACTIVE"
+        },
+        "1575223065": {
+            "api.aeonpool.xyz": "INACTIVE",
+            "api.aether.spacepools.org": "INACTIVE",
+            "api.akumaxmr.com": "INACTIVE",
+            "api.alloy.spacepools.org": "INACTIVE",
+            "api.arq.heigh-ho.funkypenguin.co.nz": "INACTIVE"
+        },
+        "1575223066": {
+            "api.anorak.tech": "INACTIVE",
+            "api.athx.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.bhzejltg.info": "INACTIVE",
+            "api.bitpoolmining.com": "INACTIVE"
+        },
+        "1575223067": {
+            "m1.e-libra.ru": "INACTIVE",
+            "m1.mbkpool.info": "INACTIVE",
+            "m1.monerise.com": "INACTIVE",
+            "m1.moneropool.com": "INACTIVE"
+        },
+        "1575223068": {
+            "m1.stream.vidzi.tv": "INACTIVE",
+            "m1.streaming.estream.to": "INACTIVE",
+            "m1.videos.vidto.me": "INACTIVE",
+            "m1x.suprnova.cc": "INACTIVE"
+        },
+        "1575223069": {
+            "m2.cdn-jquery.host": "INACTIVE",
+            "m2.moneropool.com": "INACTIVE",
+            "m2.streaming.estream.to": "INACTIVE"
+        },
+        "1575223070": {
+            "m2.stream.vidzi.tv": "INACTIVE",
+            "m2.videos.vidto.me": "INACTIVE",
+            "m3.cdn-jquery.host": "INACTIVE"
+        },
+        "1575223071": {
+            "m4.cd": "INACTIVE",
+            "m4.cdn-jquery.host": "INACTIVE",
+            "m5.cdn-jquery.host": "INACTIVE"
+        },
+        "1575223072": {
+            "m95184om.beget.tech": "INACTIVE"
+        },
+        "1575223073": {
+            "ma.herphemiste.com": "INACTIVE",
+            "maaapi.mooo.com": "INACTIVE",
+            "mac.lightninghash.com": "INACTIVE",
+            "mac.suprnova.cc": "INACTIVE"
+        },
+        "1575223075": {
+            "macs.proxpool.com": "INACTIVE"
+        },
+        "1575223076": {
+            "mag.coin-miners.info": "INACTIVE",
+            "mag.node.coin-miners.info": "INACTIVE",
+            "magento.ac.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1575223077": {
+            "magento.internet.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1575223078": {
+            "magento.xn--1xa.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1575223079": {
+            "magipool.raspi-ninja.com": "INACTIVE",
+            "magnet.multipools.club": "INACTIVE"
+        },
+        "1575223080": {
+            "maia.suprnova.cc": "INACTIVE",
+            "mail.99btc.net": "INACTIVE",
+            "mail.altcoinix.com": "INACTIVE"
+        },
+        "1575223081": {
+            "mail.beertendr.com": "INACTIVE",
+            "mail.bitcoad.fun": "INACTIVE"
+        },
+        "1575223082": {
+            "mail.coinstop.me": "INACTIVE",
+            "mail.cryptominingpool.eu": "INACTIVE"
+        },
+        "1575223083": {
+            "mail.forum.biblepay.org": "INACTIVE",
+            "mail.hashpool.eu": "INACTIVE",
+            "mail.minerall.io": "INACTIVE"
+        },
+        "1575223084": {
+            "mail.nlpool.nl": "INACTIVE",
+            "mail.pool.gntl.co.uk": "INACTIVE",
+            "mail.poolx.com": "INACTIVE"
+        },
+        "1575223085": {
+            "mail.solopool.org": "INACTIVE",
+            "mail.steadyhash.org": "INACTIVE",
+            "mail.sushipool.com": "INACTIVE",
+            "mail.the-miners.de": "INACTIVE"
+        },
+        "1575223086": {
+            "mail.ukkey3.space": "INACTIVE",
+            "mail.xpoolx.com": "INACTIVE",
+            "mail.zinntikumugai.xyz": "INACTIVE"
+        },
+        "1575223087": {
+            "mail2.nicehash.com": "INACTIVE",
+            "mail2.pool.gntl.co.uk": "INACTIVE",
+            "main.bpool.site": "INACTIVE",
+            "main.etn.semipool.com": "INACTIVE"
+        },
+        "1575223088": {
+            "main.gntl.co.uk": "INACTIVE",
+            "main.minero.cc": "INACTIVE"
+        },
+        "1575223089": {
+            "main.pool.gold": "INACTIVE"
         }
     }
 }
