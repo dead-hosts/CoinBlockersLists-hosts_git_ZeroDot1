@@ -6025,7 +6025,7 @@
         "state": "future"
     },
     "globalpool.org": {
-        "epoch": 1602288000,
+        "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
@@ -6035,42 +6035,47 @@
         "state": "past"
     },
     "globefx24.com": {
-        "epoch": "1583625600",
+        "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "gltminer.com": {
-        "epoch": 1575417600,
+        "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
     "gnark-mining.com": {
-        "epoch": 1592352000,
+        "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "gnrdomimplementation.com": {
-        "epoch": "1584057600",
+        "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "gntl.co.uk": {
-        "epoch": "1636502400",
+        "epoch": 1636502400.0,
         "expiration_date": "10-nov-2021",
         "state": "future"
     },
     "go-mine.it": {
-        "epoch": 1587513600,
+        "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
         "state": "future"
     },
     "goldennoncepool.com": {
-        "epoch": "1581552000",
+        "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "goldiam.org": {
+        "epoch": 1575849600.0,
+        "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
     "goldoffer.online": {
-        "epoch": 1595116800,
+        "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
@@ -6078,6 +6083,11 @@
         "epoch": "1548374400",
         "expiration_date": "25-jan-2019",
         "state": "past"
+    },
+    "gonsmine.com": {
+        "epoch": 1579996800.0,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
     },
     "gonspool.com": {
         "epoch": "1581552000",
