@@ -3300,8 +3300,13 @@
         "state": "future"
     },
     "ccminer.org": {
-        "epoch": "1612656000",
+        "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "ccmpool.ro": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "ccvwtdtwyu.trade": {
@@ -3320,37 +3325,37 @@
         "state": "future"
     },
     "cdn-code.host": {
-        "epoch": 1591574400,
+        "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "cdncounter.top": {
-        "epoch": "1579824000",
+        "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
         "state": "future"
     },
     "cdns.ws": {
-        "epoch": "1575849600",
+        "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
     "cecked.men": {
-        "epoch": "1679184000",
+        "epoch": 1679184000.0,
         "expiration_date": "19-mar-2023",
         "state": "future"
     },
     "celasllc.com": {
-        "epoch": 1590710400,
+        "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
         "state": "future"
     },
     "cfcdist.gdn": {
-        "epoch": "1585699200",
+        "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
     "cfcdist.loan": {
-        "epoch": "1582329600",
+        "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
         "state": "future"
     },
@@ -3360,8 +3365,13 @@
         "state": "past"
     },
     "cfcnet.top": {
-        "epoch": "1579996800",
+        "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "chain-pool.com": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "chainblock.science": {
@@ -3370,17 +3380,17 @@
         "state": "past"
     },
     "challengecoin.io": {
-        "epoch": "1576713600",
+        "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
         "state": "future"
     },
     "changelly.com": {
-        "epoch": "1577318400",
+        "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
         "state": "future"
     },
     "chekazpools.com": {
-        "epoch": "1578441600",
+        "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
         "state": "future"
     },
@@ -3390,12 +3400,12 @@
         "state": "past"
     },
     "chimachinenow.com": {
-        "epoch": "1579651200",
+        "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
     "chinaenter.cn": {
-        "epoch": "1724976000",
+        "epoch": 1724976000.0,
         "expiration_date": "30-aug-2024",
         "state": "future"
     },
@@ -3405,32 +3415,32 @@
         "state": "past"
     },
     "cieh.mx": {
-        "epoch": 1600732800,
+        "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "cipherpool.io": {
-        "epoch": 1580083200,
+        "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
         "state": "future"
     },
     "ckpool.com": {
-        "epoch": "1588636800",
+        "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
         "state": "future"
     },
     "ckpool.org": {
-        "epoch": 1597449600,
+        "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "classicpool.io": {
-        "epoch": "1577145600",
+        "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
         "state": "future"
     },
     "clgserv.pro": {
-        "epoch": "1575590400",
+        "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
         "state": "future"
     },
@@ -3445,17 +3455,17 @@
         "state": "past"
     },
     "clickfight.net": {
-        "epoch": 1603324800,
+        "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "clickgem.com": {
-        "epoch": "1828396800",
+        "epoch": 1828396800.0,
         "expiration_date": "10-dec-2027",
         "state": "future"
     },
     "clicktrackerfast.pro": {
-        "epoch": "1578960000",
+        "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
