@@ -8125,108 +8125,6 @@
         "1572901208": {
             "ec2-13-58-215-234.us-east-2.compute.amazonaws.com": "INACTIVE"
         },
-        "1572907272": {
-            "front2.coinfirm.io": "INACTIVE",
-            "frontend01.coinmine.pl": "INACTIVE"
-        },
-        "1572907279": {
-            "frontend02.coinmine.pl": "INACTIVE"
-        },
-        "1572907281": {
-            "frontend02.hashto.cash": "INACTIVE"
-        },
-        "1572907282": {
-            "frontend-staging.node.xmr.to": "INACTIVE",
-            "frontend-staging.staging.xmr.to": "INACTIVE"
-        },
-        "1572907288": {
-            "frontend-staging.xmr.to": "INACTIVE"
-        },
-        "1572907295": {
-            "front.hashflare.io": "INACTIVE"
-        },
-        "1572907301": {
-            "front-stage.hashflare.io": "INACTIVE"
-        },
-        "1572907302": {
-            "frost.suprnova.cc": "INACTIVE"
-        },
-        "1572907304": {
-            "fruitice.realnetwrk.com": "INACTIVE"
-        },
-        "1572907305": {
-            "frx.hashfaster.com": "INACTIVE"
-        },
-        "1572907306": {
-            "frx-x11.hashfaster.com": "INACTIVE"
-        },
-        "1572907307": {
-            "fsc2.suprnova.cc": "INACTIVE"
-        },
-        "1572907308": {
-            "fsc.mpool.su": "INACTIVE"
-        },
-        "1572907314": {
-            "fsc.pool.mn": "INACTIVE"
-        },
-        "1572907315": {
-            "fs.hiveon.net": "INACTIVE"
-        },
-        "1572907316": {
-            "fs.node.hiveon.net": "INACTIVE",
-            "fsp.hiveon.net": "INACTIVE"
-        },
-        "1572907317": {
-            "fsp.node.hiveon.net": "INACTIVE",
-            "fst.coinstop.me": "INACTIVE"
-        },
-        "1572907318": {
-            "fst.hashfaster.com": "INACTIVE"
-        },
-        "1572907319": {
-            "fst.poolto.be": "INACTIVE"
-        },
-        "1572907321": {
-            "fsx.coin-miners.info": "INACTIVE",
-            "fsx.node.coin-miners.info": "INACTIVE"
-        },
-        "1572907322": {
-            "ftc-ca.hashing.space": "INACTIVE",
-            "ftc.crypto-mining-pool.com": "INACTIVE"
-        },
-        "1572907323": {
-            "ftc-de.hashing.space": "INACTIVE",
-            "ftc.cybtc.info": "INACTIVE"
-        },
-        "1572907324": {
-            "ftc.dnb.io": "INACTIVE",
-            "ftc.give-me-coins.com": "INACTIVE"
-        },
-        "1572907325": {
-            "ftc-il.hashing.space": "INACTIVE",
-            "ftc.hashfaster.com": "INACTIVE",
-            "ftc.hashing.space": "INACTIVE"
-        },
-        "1572907326": {
-            "ftc.lightspeedmining.com": "INACTIVE",
-            "ftc.mine-vn.com": "INACTIVE"
-        },
-        "1572907327": {
-            "ftc.miningfield.com": "INACTIVE"
-        },
-        "1572907328": {
-            "ftc-neo.give-me-coins.com": "INACTIVE",
-            "ftc-nl.hashing.space": "INACTIVE"
-        },
-        "1572907329": {
-            "ftc-sg.hashing.space": "INACTIVE",
-            "ftc.suprnova.cc": "INACTIVE",
-            "ftc.theblocksfactory.com": "INACTIVE"
-        },
-        "1572907330": {
-            "ftc-tx.hashing.space": "INACTIVE",
-            "ftc-wa.hashing.space": "INACTIVE"
-        },
         "1572907331": {
             "ftp0.hiveon.net": "INACTIVE",
             "ftp0.node.hiveon.net": "INACTIVE"
@@ -8235,63 +8133,7 @@
             "ftp2.hiveon.net": "INACTIVE"
         },
         "1572907333": {
-            "ftp.binet211.com": "INACTIVE",
             "ftp2.node.hiveon.net": "INACTIVE"
-        },
-        "1572907334": {
-            "ftp.bitclub.network": "INACTIVE"
-        },
-        "1572907336": {
-            "ftp.clona.ru": "INACTIVE",
-            "ftp.cocozuma.net": "INACTIVE"
-        },
-        "1572907337": {
-            "ftp.coinimp.com": "INACTIVE"
-        },
-        "1572907338": {
-            "ftp.coin-miners.info": "INACTIVE"
-        },
-        "1572907339": {
-            "ftp.coinminerz.com": "INACTIVE"
-        },
-        "1572907345": {
-            "ftp.crypto-coins.club": "INACTIVE"
-        },
-        "1572907347": {
-            "ftp.deltapool.net": "INACTIVE",
-            "ftp.directprimal.com": "INACTIVE"
-        },
-        "1572907348": {
-            "ftp.extremepool.org": "INACTIVE"
-        },
-        "1572907349": {
-            "ftp.freecontent.info": "INACTIVE"
-        },
-        "1572907351": {
-            "ftp.grcpool.com": "INACTIVE",
-            "ftp.hashbook.net": "INACTIVE"
-        },
-        "1572907352": {
-            "ftp-.hiveon.net": "INACTIVE",
-            "ftp.hiveon.net": "INACTIVE"
-        },
-        "1572907354": {
-            "ftp.krunzy.com": "INACTIVE"
-        },
-        "1572907355": {
-            "ftp.litecoinp2pool.com": "INACTIVE"
-        },
-        "1572907356": {
-            "ftp.majanetwork.com": "INACTIVE"
-        },
-        "1572907357": {
-            "ftp.maupool.com": "INACTIVE",
-            "ftp.miningclub.cc": "INACTIVE"
-        },
-        "1572907359": {
-            "ftp.mining.sg": "INACTIVE",
-            "ftp.miningmania.net": "INACTIVE",
-            "ftp.miningpoolhub.com": "INACTIVE"
         },
         "1572907369": {
             "ftp.multipool.com": "INACTIVE"
@@ -8301,7 +8143,6 @@
             "ftp.node.grcpool.com": "INACTIVE"
         },
         "1572907372": {
-            "ftp-.node.hiveon.net": "INACTIVE",
             "ftp.node.hiveon.net": "INACTIVE"
         },
         "1572907374": {
@@ -45213,298 +45054,6 @@
         "1572962796": {
             "zzzthxsyvbzk.cf": "INACTIVE"
         },
-        "1575120946": {
-            "0-100-195.btcc.com": "INACTIVE"
-        },
-        "1575120947": {
-            "0-100-disc.foxypool.cf": "INACTIVE",
-            "0-104.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120948": {
-            "0-131.openvpn.f2pool.com": "INACTIVE",
-            "0-133.openvpn.f2pool.com": "INACTIVE",
-            "0-208.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120949": {
-            "0-201.openvpn.f2pool.com": "INACTIVE",
-            "0-224.openvpn.f2pool.com": "INACTIVE",
-            "0-227.openvpn.f2pool.com": "INACTIVE",
-            "0-232.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120950": {
-            "0-231.openvpn.f2pool.com": "INACTIVE",
-            "0-26.openvpn.f2pool.com": "INACTIVE",
-            "0-32.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120951": {
-            "0-66.openvpn.f2pool.com": "INACTIVE",
-            "0-82.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120952": {
-            "00-198.btcc.com": "INACTIVE",
-            "00.0x1f4b0.com": "INACTIVE",
-            "0001122com.btcc.com": "INACTIVE"
-        },
-        "1575120953": {
-            "00.bitcoin.co.pt": "INACTIVE",
-            "0006.openvpn.f2pool.com": "INACTIVE",
-            "00073.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120954": {
-            "0010.openvpn.f2pool.com": "INACTIVE",
-            "0015.openvpn.f2pool.com": "INACTIVE",
-            "0017.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120955": {
-            "0025.openvpn.f2pool.com": "INACTIVE",
-            "003.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120956": {
-            "0045.openvpn.f2pool.com": "INACTIVE",
-            "0048.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120957": {
-            "0060.openvpn.f2pool.com": "INACTIVE",
-            "007.suprnova.cc": "INACTIVE",
-            "007xiliezhihuangjiaduchang.btcc.com": "INACTIVE"
-        },
-        "1575120958": {
-            "01.bitcoin.co.pt": "INACTIVE",
-            "011.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120959": {
-            "0116.openvpn.f2pool.com": "INACTIVE",
-            "014.openvpn.f2pool.com": "INACTIVE",
-            "0146.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120960": {
-            "0160.openvpn.f2pool.com": "INACTIVE",
-            "01ce1.openvpn.f2pool.com": "INACTIVE",
-            "01ce2.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120961": {
-            "01xmrpool.com": "INACTIVE",
-            "02.cryptobrowser.site": "INACTIVE",
-            "03.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575120962": {
-            "0227.openvpn.f2pool.com": "INACTIVE",
-            "030-4.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120963": {
-            "035-166us.btcc.com": "INACTIVE",
-            "035.openvpn.f2pool.com": "INACTIVE",
-            "03777.openvpn.f2pool.com": "INACTIVE",
-            "0394.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120964": {
-            "044.btcc.com": "INACTIVE",
-            "04bcc.btcc.com": "INACTIVE",
-            "0519.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120965": {
-            "050.openvpn.f2pool.com": "INACTIVE",
-            "0533.openvpn.f2pool.com": "INACTIVE",
-            "054-3.openvpn.f2pool.com": "INACTIVE",
-            "054.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120966": {
-            "056e.openvpn.f2pool.com": "INACTIVE",
-            "0573.openvpn.f2pool.com": "INACTIVE",
-            "0589.btcc.com": "INACTIVE"
-        },
-        "1575120967": {
-            "0622.openvpn.f2pool.com": "INACTIVE",
-            "067.btcc.com": "INACTIVE",
-            "067.openvpn.f2pool.com": "INACTIVE",
-            "072-141.btcc.com": "INACTIVE"
-        },
-        "1575120968": {
-            "0711.openvpn.f2pool.com": "INACTIVE",
-            "073.openvpn.f2pool.com": "INACTIVE",
-            "0732.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120969": {
-            "0737.openvpn.f2pool.com": "INACTIVE",
-            "074.openvpn.f2pool.com": "INACTIVE",
-            "0756.openvpn.f2pool.com": "INACTIVE",
-            "0768.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120970": {
-            "07kkk.openvpn.f2pool.com": "INACTIVE",
-            "08-85.openvpn.f2pool.com": "INACTIVE",
-            "080jinbaoboyulechengxianjinbaijiale.btcc.com": "INACTIVE"
-        },
-        "1575120971": {
-            "0815.openvpn.f2pool.com": "INACTIVE",
-            "086.openvpn.f2pool.com": "INACTIVE",
-            "08g9.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120972": {
-            "090.openvpn.f2pool.com": "INACTIVE",
-            "09364.btcc.com": "INACTIVE",
-            "09m.btcc.com": "INACTIVE",
-            "0a-api-4-.btcc.com": "INACTIVE"
-        },
-        "1575120973": {
-            "0a-api-4-3.btcc.com": "INACTIVE",
-            "0a-api-4.btcc.com": "INACTIVE",
-            "0a709.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120974": {
-            "0d280.openvpn.f2pool.com": "INACTIVE",
-            "0inssl-91.btcc.com": "INACTIVE"
-        },
-        "1575120975": {
-            "0ta-api.btcc.com": "INACTIVE",
-            "0x1.luckyaltcoin.com": "INACTIVE",
-            "0xbtc.poolofd32th.club": "INACTIVE",
-            "0zyxwvutsrqpon.btcc.com": "INACTIVE"
-        },
-        "1575120976": {
-            "1-107.openvpn.f2pool.com": "INACTIVE",
-            "1-134.openvpn.f2pool.com": "INACTIVE",
-            "1-2.btcc.com": "INACTIVE"
-        },
-        "1575120977": {
-            "1-39.openvpn.f2pool.com": "INACTIVE",
-            "1-62.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120978": {
-            "1.monerise.com": "INACTIVE",
-            "10-60.openvpn.f2pool.com": "INACTIVE",
-            "10-92.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120979": {
-            "100-3x.com": "INACTIVE",
-            "10018.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120980": {
-            "10030.openvpn.f2pool.com": "INACTIVE",
-            "10066.openvpn.f2pool.com": "INACTIVE",
-            "10072.openvpn.f2pool.com": "INACTIVE",
-            "10077.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120981": {
-            "100h3x.com": "INACTIVE",
-            "100timesbitcoins.com": "INACTIVE"
-        },
-        "1575120982": {
-            "100x-bitcoin.com": "INACTIVE",
-            "100x-btc.pw": "INACTIVE",
-            "100x.btc-flow.in": "INACTIVE"
-        },
-        "1575120983": {
-            "100xbtc.sytes.net": "INACTIVE",
-            "100xdoge.com": "INACTIVE",
-            "10145.btcc.com": "INACTIVE",
-            "10179.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120984": {
-            "101games.xyz": "INACTIVE",
-            "10262.openvpn.f2pool.com": "INACTIVE",
-            "10292.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120985": {
-            "10299.openvpn.f2pool.com": "INACTIVE",
-            "10396.openvpn.f2pool.com": "INACTIVE",
-            "104.phoneum.io": "INACTIVE"
-        },
-        "1575120986": {
-            "10650.openvpn.f2pool.com": "INACTIVE",
-            "1069.openvpn.f2pool.com": "INACTIVE",
-            "107-139.btcc.com": "INACTIVE",
-            "1071.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120987": {
-            "10779.openvpn.f2pool.com": "INACTIVE",
-            "108.177.15.108.coinminerz.com": "INACTIVE",
-            "108.177.15.108.krunzy.com": "INACTIVE"
-        },
-        "1575120988": {
-            "10811.openvpn.f2pool.com": "INACTIVE",
-            "10853.openvpn.f2pool.com": "INACTIVE",
-            "1093.openvpn.f2pool.com": "INACTIVE",
-            "109c6.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120989": {
-            "10a3.openvpn.f2pool.com": "INACTIVE",
-            "10bit.pw": "INACTIVE",
-            "10dayprofits.com": "INACTIVE"
-        },
-        "1575120990": {
-            "10dollarbillionair.com": "INACTIVE",
-            "10k.coin-miners.info": "INACTIVE",
-            "10k.node.coin-miners.info": "INACTIVE"
-        },
-        "1575120991": {
-            "10k.suprnova.cc": "INACTIVE",
-            "10percentbtc.com": "INACTIVE",
-            "10x-bitco.in": "INACTIVE"
-        },
-        "1575120992": {
-            "10x11.biz": "INACTIVE",
-            "10xbtc.ga": "INACTIVE",
-            "10xbtc.ru": "INACTIVE"
-        },
-        "1575120993": {
-            "11-180.btcc.com": "INACTIVE",
-            "11-52.openvpn.f2pool.com": "INACTIVE",
-            "110-239.btcc.com": "INACTIVE"
-        },
-        "1575120994": {
-            "11378.openvpn.f2pool.com": "INACTIVE",
-            "11471.openvpn.f2pool.com": "INACTIVE",
-            "11485.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120995": {
-            "114a.openvpn.f2pool.com": "INACTIVE",
-            "11531.btcc.com": "INACTIVE",
-            "116-186.btcc.com": "INACTIVE",
-            "1177.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120996": {
-            "1169.openvpn.f2pool.com": "INACTIVE",
-            "11805.openvpn.f2pool.com": "INACTIVE",
-            "11927.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120997": {
-            "12-184.btcc.com": "INACTIVE",
-            "12.bitcoin.co.pt": "INACTIVE",
-            "12075.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575120998": {
-            "12002.openvpn.f2pool.com": "INACTIVE",
-            "120cycle.net": "INACTIVE"
-        },
-        "1575120999": {
-            "12117.openvpn.f2pool.com": "INACTIVE",
-            "122-6.openvpn.f2pool.com": "INACTIVE",
-            "122-66.btcc.com": "INACTIVE",
-            "12223.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575121000": {
-            "12229.openvpn.f2pool.com": "INACTIVE",
-            "12238.btcc.com": "INACTIVE",
-            "12246.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575121001": {
-            "12284.openvpn.f2pool.com": "INACTIVE",
-            "123-0.openvpn.f2pool.com": "INACTIVE",
-            "123-83.btcc.com": "INACTIVE",
-            "12343.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575121002": {
-            "12375.openvpn.f2pool.com": "INACTIVE",
-            "12641.openvpn.f2pool.com": "INACTIVE",
-            "1289.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1575121003": {
-            "129-242-221.btcc.com": "INACTIVE",
-            "129-2421.btcc.com": "INACTIVE",
-            "12bb4.openvpn.f2pool.com": "INACTIVE",
-            "12f4.openvpn.f2pool.com": "INACTIVE"
-        },
         "1575124126": {
             "13.bitcoin.co.pt": "INACTIVE",
             "13016-eu.btcc.com": "INACTIVE"
@@ -52688,6 +52237,358 @@
         "1575207258": {
             "frn.suprnova.cc": "INACTIVE",
             "frog.suprnova.cc": "INACTIVE"
+        },
+        "1575208357": {
+            "0-100-195.btcc.com": "INACTIVE",
+            "0-100-disc.foxypool.cf": "INACTIVE"
+        },
+        "1575208358": {
+            "0-104.openvpn.f2pool.com": "INACTIVE",
+            "0-131.openvpn.f2pool.com": "INACTIVE",
+            "0-133.openvpn.f2pool.com": "INACTIVE",
+            "0-201.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208359": {
+            "0-208.openvpn.f2pool.com": "INACTIVE",
+            "0-224.openvpn.f2pool.com": "INACTIVE",
+            "0-227.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208360": {
+            "0-231.openvpn.f2pool.com": "INACTIVE",
+            "0-232.openvpn.f2pool.com": "INACTIVE",
+            "0-26.openvpn.f2pool.com": "INACTIVE",
+            "0-32.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208361": {
+            "0-66.openvpn.f2pool.com": "INACTIVE",
+            "0-82.openvpn.f2pool.com": "INACTIVE",
+            "00-198.btcc.com": "INACTIVE",
+            "00.0x1f4b0.com": "INACTIVE"
+        },
+        "1575208362": {
+            "00.bitcoin.co.pt": "INACTIVE",
+            "0006.openvpn.f2pool.com": "INACTIVE",
+            "0010.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208363": {
+            "00073.openvpn.f2pool.com": "INACTIVE",
+            "0015.openvpn.f2pool.com": "INACTIVE",
+            "0017.openvpn.f2pool.com": "INACTIVE",
+            "0025.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208364": {
+            "003.openvpn.f2pool.com": "INACTIVE",
+            "0045.openvpn.f2pool.com": "INACTIVE",
+            "0048.openvpn.f2pool.com": "INACTIVE",
+            "007.suprnova.cc": "INACTIVE"
+        },
+        "1575208365": {
+            "0060.openvpn.f2pool.com": "INACTIVE",
+            "01.bitcoin.co.pt": "INACTIVE",
+            "011.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208366": {
+            "0116.openvpn.f2pool.com": "INACTIVE",
+            "014.openvpn.f2pool.com": "INACTIVE",
+            "0146.openvpn.f2pool.com": "INACTIVE",
+            "01ce1.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208367": {
+            "0160.openvpn.f2pool.com": "INACTIVE",
+            "01ce2.openvpn.f2pool.com": "INACTIVE",
+            "01xmrpool.com": "INACTIVE",
+            "02.cryptobrowser.site": "INACTIVE"
+        },
+        "1575208368": {
+            "0227.openvpn.f2pool.com": "INACTIVE",
+            "03.bitcoin.co.pt": "INACTIVE",
+            "030-4.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208369": {
+            "035-166us.btcc.com": "INACTIVE",
+            "035.openvpn.f2pool.com": "INACTIVE",
+            "03777.openvpn.f2pool.com": "INACTIVE",
+            "0394.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208370": {
+            "044.btcc.com": "INACTIVE",
+            "04bcc.btcc.com": "INACTIVE",
+            "050.openvpn.f2pool.com": "INACTIVE",
+            "0519.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208371": {
+            "0533.openvpn.f2pool.com": "INACTIVE",
+            "054-3.openvpn.f2pool.com": "INACTIVE",
+            "054.openvpn.f2pool.com": "INACTIVE",
+            "056e.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208372": {
+            "0573.openvpn.f2pool.com": "INACTIVE",
+            "0589.btcc.com": "INACTIVE",
+            "067.btcc.com": "INACTIVE"
+        },
+        "1575208373": {
+            "0622.openvpn.f2pool.com": "INACTIVE",
+            "067.openvpn.f2pool.com": "INACTIVE",
+            "0711.openvpn.f2pool.com": "INACTIVE",
+            "072-141.btcc.com": "INACTIVE"
+        },
+        "1575208374": {
+            "073.openvpn.f2pool.com": "INACTIVE",
+            "0732.openvpn.f2pool.com": "INACTIVE",
+            "0737.openvpn.f2pool.com": "INACTIVE",
+            "0756.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208375": {
+            "074.openvpn.f2pool.com": "INACTIVE",
+            "0768.openvpn.f2pool.com": "INACTIVE",
+            "07kkk.openvpn.f2pool.com": "INACTIVE",
+            "080jinbaoboyulechengxianjinbaijiale.btcc.com": "INACTIVE"
+        },
+        "1575208376": {
+            "08-85.openvpn.f2pool.com": "INACTIVE",
+            "0815.openvpn.f2pool.com": "INACTIVE",
+            "086.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208377": {
+            "08g9.openvpn.f2pool.com": "INACTIVE",
+            "090.openvpn.f2pool.com": "INACTIVE",
+            "09364.btcc.com": "INACTIVE",
+            "0a-api-4-.btcc.com": "INACTIVE"
+        },
+        "1575208378": {
+            "0a-api-4-3.btcc.com": "INACTIVE",
+            "0a-api-4.btcc.com": "INACTIVE",
+            "0a709.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208379": {
+            "0d280.openvpn.f2pool.com": "INACTIVE",
+            "0inssl-91.btcc.com": "INACTIVE",
+            "0ta-api.btcc.com": "INACTIVE",
+            "0x1.luckyaltcoin.com": "INACTIVE"
+        },
+        "1575208380": {
+            "0xbtc.poolofd32th.club": "INACTIVE",
+            "0zyxwvutsrqpon.btcc.com": "INACTIVE",
+            "1-107.openvpn.f2pool.com": "INACTIVE",
+            "1-134.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208381": {
+            "1-2.btcc.com": "INACTIVE",
+            "1-39.openvpn.f2pool.com": "INACTIVE",
+            "1-62.openvpn.f2pool.com": "INACTIVE",
+            "1.monerise.com": "INACTIVE"
+        },
+        "1575208382": {
+            "10-60.openvpn.f2pool.com": "INACTIVE",
+            "10-92.openvpn.f2pool.com": "INACTIVE",
+            "100-3x.com": "INACTIVE"
+        },
+        "1575208383": {
+            "10018.openvpn.f2pool.com": "INACTIVE",
+            "10030.openvpn.f2pool.com": "INACTIVE",
+            "10066.openvpn.f2pool.com": "INACTIVE",
+            "10072.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208384": {
+            "10077.openvpn.f2pool.com": "INACTIVE",
+            "100h3x.com": "INACTIVE",
+            "100timesbitcoins.com": "INACTIVE",
+            "100x-bitcoin.com": "INACTIVE"
+        },
+        "1575208385": {
+            "100x-btc.pw": "INACTIVE",
+            "100x.btc-flow.in": "INACTIVE",
+            "100xbtc.sytes.net": "INACTIVE",
+            "100xdoge.com": "INACTIVE"
+        },
+        "1575208386": {
+            "10145.btcc.com": "INACTIVE",
+            "10179.openvpn.f2pool.com": "INACTIVE",
+            "101games.xyz": "INACTIVE"
+        },
+        "1575208387": {
+            "10262.openvpn.f2pool.com": "INACTIVE",
+            "10292.openvpn.f2pool.com": "INACTIVE",
+            "10299.openvpn.f2pool.com": "INACTIVE",
+            "10396.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208388": {
+            "104.phoneum.io": "INACTIVE",
+            "10650.openvpn.f2pool.com": "INACTIVE",
+            "1069.openvpn.f2pool.com": "INACTIVE",
+            "107-139.btcc.com": "INACTIVE"
+        },
+        "1575208389": {
+            "1071.openvpn.f2pool.com": "INACTIVE",
+            "10779.openvpn.f2pool.com": "INACTIVE",
+            "108.177.15.108.coinminerz.com": "INACTIVE"
+        },
+        "1575208390": {
+            "108.177.15.108.krunzy.com": "INACTIVE",
+            "10811.openvpn.f2pool.com": "INACTIVE",
+            "10853.openvpn.f2pool.com": "INACTIVE",
+            "109c6.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208391": {
+            "1093.openvpn.f2pool.com": "INACTIVE",
+            "10a3.openvpn.f2pool.com": "INACTIVE",
+            "10bit.pw": "INACTIVE"
+        },
+        "1575208392": {
+            "10dayprofits.com": "INACTIVE",
+            "10dollarbillionair.com": "INACTIVE",
+            "10k.coin-miners.info": "INACTIVE",
+            "10k.node.coin-miners.info": "INACTIVE"
+        },
+        "1575208393": {
+            "10k.suprnova.cc": "INACTIVE",
+            "10percentbtc.com": "INACTIVE",
+            "10x-bitco.in": "INACTIVE",
+            "10x11.biz": "INACTIVE"
+        },
+        "1575208394": {
+            "10xbtc.ga": "INACTIVE",
+            "10xbtc.ru": "INACTIVE",
+            "11-52.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208395": {
+            "110-239.btcc.com": "INACTIVE",
+            "11378.openvpn.f2pool.com": "INACTIVE",
+            "11471.openvpn.f2pool.com": "INACTIVE",
+            "11485.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208396": {
+            "114a.openvpn.f2pool.com": "INACTIVE",
+            "11531.btcc.com": "INACTIVE",
+            "1169.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208397": {
+            "1177.openvpn.f2pool.com": "INACTIVE",
+            "11805.openvpn.f2pool.com": "INACTIVE",
+            "11927.openvpn.f2pool.com": "INACTIVE",
+            "12-184.btcc.com": "INACTIVE"
+        },
+        "1575208398": {
+            "12.bitcoin.co.pt": "INACTIVE",
+            "12002.openvpn.f2pool.com": "INACTIVE",
+            "120cycle.net": "INACTIVE"
+        },
+        "1575208399": {
+            "12075.openvpn.f2pool.com": "INACTIVE",
+            "12117.openvpn.f2pool.com": "INACTIVE",
+            "122-6.openvpn.f2pool.com": "INACTIVE",
+            "122-66.btcc.com": "INACTIVE"
+        },
+        "1575208400": {
+            "12223.openvpn.f2pool.com": "INACTIVE",
+            "12229.openvpn.f2pool.com": "INACTIVE",
+            "12238.btcc.com": "INACTIVE",
+            "12284.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208401": {
+            "12246.openvpn.f2pool.com": "INACTIVE",
+            "123-0.openvpn.f2pool.com": "INACTIVE",
+            "123-83.btcc.com": "INACTIVE"
+        },
+        "1575208402": {
+            "12343.openvpn.f2pool.com": "INACTIVE",
+            "12375.openvpn.f2pool.com": "INACTIVE",
+            "12641.openvpn.f2pool.com": "INACTIVE",
+            "1289.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208403": {
+            "129-242-221.btcc.com": "INACTIVE",
+            "129-2421.btcc.com": "INACTIVE",
+            "12bb4.openvpn.f2pool.com": "INACTIVE",
+            "12f4.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575208404": {
+            "front2.coinfirm.io": "INACTIVE",
+            "frontend-staging.node.xmr.to": "INACTIVE"
+        },
+        "1575208405": {
+            "frontend-staging.staging.xmr.to": "INACTIVE",
+            "frontend01.coinmine.pl": "INACTIVE",
+            "frost.suprnova.cc": "INACTIVE"
+        },
+        "1575208406": {
+            "frontend02.hashto.cash": "INACTIVE",
+            "fruitice.realnetwrk.com": "INACTIVE"
+        },
+        "1575208407": {
+            "fsc.mpool.su": "INACTIVE",
+            "fsc2.suprnova.cc": "INACTIVE"
+        },
+        "1575208408": {
+            "fst.coinstop.me": "INACTIVE",
+            "fst.poolto.be": "INACTIVE"
+        },
+        "1575208409": {
+            "fsx.coin-miners.info": "INACTIVE",
+            "fsx.node.coin-miners.info": "INACTIVE",
+            "ftc-ca.hashing.space": "INACTIVE"
+        },
+        "1575208410": {
+            "ftc-de.hashing.space": "INACTIVE",
+            "ftc-il.hashing.space": "INACTIVE",
+            "ftc-nl.hashing.space": "INACTIVE"
+        },
+        "1575208411": {
+            "ftc-sg.hashing.space": "INACTIVE",
+            "ftc-tx.hashing.space": "INACTIVE",
+            "ftc-wa.hashing.space": "INACTIVE",
+            "ftc.crypto-mining-pool.com": "INACTIVE"
+        },
+        "1575208412": {
+            "ftc.cybtc.info": "INACTIVE",
+            "ftc.dnb.io": "INACTIVE",
+            "ftc.hashing.space": "INACTIVE"
+        },
+        "1575208413": {
+            "ftc.lightspeedmining.com": "INACTIVE",
+            "ftc.mine-vn.com": "INACTIVE",
+            "ftc.miningfield.com": "INACTIVE",
+            "ftc.suprnova.cc": "INACTIVE"
+        },
+        "1575208414": {
+            "ftc.theblocksfactory.com": "INACTIVE",
+            "ftp.99btc.net": "INACTIVE"
+        },
+        "1575208415": {
+            "ftp.binet211.com": "INACTIVE",
+            "ftp.bitclub.network": "INACTIVE",
+            "ftp.cocozuma.net": "INACTIVE"
+        },
+        "1575208416": {
+            "ftp.clona.ru": "INACTIVE",
+            "ftp.coin-miners.info": "INACTIVE",
+            "ftp.coinhive-manager.com": "INACTIVE",
+            "ftp.coinimp.com": "INACTIVE"
+        },
+        "1575208417": {
+            "ftp.coinlab.biz": "INACTIVE",
+            "ftp.coinminerz.com": "INACTIVE"
+        },
+        "1575208418": {
+            "ftp.cryptominingpool.eu": "INACTIVE",
+            "ftp.directprimal.com": "INACTIVE"
+        },
+        "1575208419": {
+            "ftp.grcpool.com": "INACTIVE",
+            "ftp.hashbook.net": "INACTIVE"
+        },
+        "1575208420": {
+            "ftp.krunzy.com": "INACTIVE",
+            "ftp.litecoinp2pool.com": "INACTIVE",
+            "ftp.majanetwork.com": "INACTIVE",
+            "ftp.maupool.com": "INACTIVE"
+        },
+        "1575208421": {
+            "ftp.mining.sg": "INACTIVE",
+            "ftp.miningclub.cc": "INACTIVE",
+            "ftp.miningmania.net": "INACTIVE",
+            "ftp.miningpoolhub.com": "INACTIVE"
         }
     }
 }
