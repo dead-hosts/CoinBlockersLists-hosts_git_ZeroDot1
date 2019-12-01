@@ -4660,7 +4660,7 @@
         "state": "future"
     },
     "dekoder.ws": {
-        "epoch": "1577145600",
+        "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
         "state": "future"
     },
@@ -4675,22 +4675,22 @@
         "state": "past"
     },
     "deltapool.net": {
-        "epoch": "1589846400",
+        "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
         "state": "future"
     },
     "democats.org": {
-        "epoch": 1604534400,
+        "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "deris.info": {
-        "epoch": 1602892800,
+        "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "devappgrant.space": {
-        "epoch": "1601510400",
+        "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
@@ -4700,7 +4700,7 @@
         "state": "future"
     },
     "dgb-sonicpool.com": {
-        "epoch": 1615075200,
+        "epoch": 1615075200.0,
         "expiration_date": "07-mar-2021",
         "state": "future"
     },
