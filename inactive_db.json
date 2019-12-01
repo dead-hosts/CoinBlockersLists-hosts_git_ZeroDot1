@@ -8127,489 +8127,7 @@
         "1572910919": {
             "hostingcloud.do": "INACTIVE"
         },
-        "1572922463": {
-            "nlb01.east-us.hashfaster.com": "INACTIVE",
-            "nlb01.west-us.hashfaster.com": "INACTIVE"
-        },
-        "1572922464": {
-            "nlb03.us-west.hashfaster.com": "INACTIVE"
-        },
-        "1572922470": {
-            "nlbc.pool.mn": "INACTIVE"
-        },
-        "1572923155": {
-            "nlbk3.eu.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923156": {
-            "nlbk3.mine.zpool.ca": "INACTIVE",
-            "nlbk3.na.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923157": {
-            "nlb.node.hiveon.net": "INACTIVE",
-            "nlbk3.us.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923164": {
-            "nlb.pool.mn": "INACTIVE",
-            "nlbr.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923170": {
-            "nlbr.pool.mn": "INACTIVE"
-        },
-        "1572923171": {
-            "nlbry.eu.mine.zpool.ca": "INACTIVE",
-            "nlbry.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923172": {
-            "nlbry.na.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923178": {
-            "nlbry.pool.mn": "INACTIVE"
-        },
-        "1572923185": {
-            "nlbty.pool.mn": "INACTIVE"
-        },
-        "1572923191": {
-            "nlbx.pool.mn": "INACTIVE"
-        },
-        "1572923197": {
-            "nlbyr.pool.mn": "INACTIVE"
-        },
-        "1572923199": {
-            "nlc.hiveon.net": "INACTIVE",
-            "nlc.node.hiveon.net": "INACTIVE"
-        },
-        "1572923206": {
-            "nlcx.turbomine.co": "INACTIVE"
-        },
-        "1572923207": {
-            "nlegal.hiveon.net": "INACTIVE",
-            "nlegal.node.hiveon.net": "INACTIVE"
-        },
-        "1572923208": {
-            "nleo.hiveon.net": "INACTIVE",
-            "nleo.node.hiveon.net": "INACTIVE"
-        },
-        "1572923209": {
-            "nlethean.fairhash.org": "INACTIVE"
-        },
-        "1572923210": {
-            "nleviar.fairhash.org": "INACTIVE",
-            "nlg.coinstop.me": "INACTIVE"
-        },
-        "1572923217": {
-            "nlgc.pool.mn": "INACTIVE"
-        },
-        "1572923223": {
-            "nlg.pool.mn": "INACTIVE"
-        },
-        "1572923224": {
-            "nlg.suprnova.cc": "INACTIVE"
-        },
-        "1572923225": {
-            "nlib.hiveon.net": "INACTIVE"
-        },
-        "1572923226": {
-            "nlib.node.hiveon.net": "INACTIVE",
-            "nlibrary.hiveon.net": "INACTIVE"
-        },
-        "1572923227": {
-            "nlibrary.node.hiveon.net": "INACTIVE"
-        },
-        "1572923233": {
-            "nlimi.z.pool.mn": "INACTIVE"
-        },
-        "1572923240": {
-            "nlimx.pool.mn": "INACTIVE"
-        },
-        "1572923241": {
-            "nlinux02.hiveon.net": "INACTIVE",
-            "nlinux02.node.hiveon.net": "INACTIVE"
-        },
-        "1572923242": {
-            "nlinux2.hiveon.net": "INACTIVE",
-            "nlinux2.node.hiveon.net": "INACTIVE"
-        },
-        "1572923243": {
-            "nlinx.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923250": {
-            "nlion.pool.mn": "INACTIVE"
-        },
-        "1572923252": {
-            "nli.openvpn.f2pool.com": "INACTIVE",
-            "nlira2v2.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923258": {
-            "nlira.pool.mn": "INACTIVE"
-        },
-        "1572923259": {
-            "nlist.aikapool.com": "INACTIVE",
-            "nlists.hiveon.net": "INACTIVE"
-        },
-        "1572923260": {
-            "nlists.node.hiveon.net": "INACTIVE"
-        },
-        "1572923267": {
-            "nlit.pool.mn": "INACTIVE",
-            "nlive.hiveon.net": "INACTIVE"
-        },
-        "1572923268": {
-            "nlive.node.hiveon.net": "INACTIVE"
-        },
-        "1572923269": {
-            "nlk.hiveon.net": "INACTIVE",
-            "nlk.node.hiveon.net": "INACTIVE"
-        },
-        "1572923276": {
-            "nlnc.pool.mn": "INACTIVE"
-        },
-        "1572923277": {
-            "nlocal.minandoando.com": "INACTIVE"
-        },
-        "1572923284": {
-            "nlock.pool.mn": "INACTIVE",
-            "nlog01.hiveon.net": "INACTIVE"
-        },
-        "1572923285": {
-            "nlog01.node.hiveon.net": "INACTIVE",
-            "nlog02.hiveon.net": "INACTIVE",
-            "nlog02.node.hiveon.net": "INACTIVE"
-        },
-        "1572923286": {
-            "nlog1.hiveon.net": "INACTIVE",
-            "nlog1.node.hiveon.net": "INACTIVE"
-        },
-        "1572923287": {
-            "nlog2.hiveon.net": "INACTIVE"
-        },
-        "1572923288": {
-            "nlog2.node.hiveon.net": "INACTIVE",
-            "nlogfile.hiveon.net": "INACTIVE"
-        },
-        "1572923289": {
-            "nlogfile.node.hiveon.net": "INACTIVE",
-            "nlogger.hiveon.net": "INACTIVE"
-        },
-        "1572923290": {
-            "nlogger.node.hiveon.net": "INACTIVE",
-            "nlogging.hiveon.net": "INACTIVE"
-        },
-        "1572923291": {
-            "nlog.hiveon.net": "INACTIVE",
-            "nlogging.node.hiveon.net": "INACTIVE"
-        },
-        "1572923292": {
-            "nloghouse.k8s.sigmapool.com": "INACTIVE",
-            "nlogin.hiveon.net": "INACTIVE"
-        },
-        "1572923293": {
-            "nlog.node.hiveon.net": "INACTIVE",
-            "nlogin.node.hiveon.net": "INACTIVE"
-        },
-        "1572923294": {
-            "nlogs.hiveon.net": "INACTIVE",
-            "nlogs.node.hiveon.net": "INACTIVE"
-        },
-        "1572923295": {
-            "nlok.fairhash.org": "INACTIVE",
-            "nloki.easyhash.io": "INACTIVE"
-        },
-        "1572923296": {
-            "nloki.fairhash.org": "INACTIVE",
-            "nloki.minandoando.com": "INACTIVE"
-        },
-        "1572923303": {
-            "nlol.pool.mn": "INACTIVE",
-            "nlot.hashfaster.com": "INACTIVE"
-        },
-        "1572923309": {
-            "nlot.pool.mn": "INACTIVE"
-        },
-        "1572923310": {
-            "nlotus.hiveon.net": "INACTIVE",
-            "nlotus.node.hiveon.net": "INACTIVE"
-        },
-        "1572923317": {
-            "nlove.pool.mn": "INACTIVE"
-        },
-        "1572923324": {
-            "nlr.hiveon.net": "INACTIVE"
-        },
-        "1572923325": {
-            "nlr.node.hiveon.net": "INACTIVE",
-            "nls.hiveon.net": "INACTIVE"
-        },
-        "1572923326": {
-            "nls.node.hiveon.net": "INACTIVE"
-        },
-        "1572923327": {
-            "nltc.hashfaster.com": "INACTIVE"
-        },
-        "1572923333": {
-            "nltc.pool.mn": "INACTIVE"
-        },
-        "1572923340": {
-            "nltcx.pool.mn": "INACTIVE"
-        },
-        "1572923341": {
-            "nlt.hiveon.net": "INACTIVE",
-            "nlt.node.hiveon.net": "INACTIVE"
-        },
-        "1572923348": {
-            "nlts.pool.mn": "INACTIVE"
-        },
-        "1572923349": {
-            "nlu.hiveon.net": "INACTIVE",
-            "nlu.node.hiveon.net": "INACTIVE",
-            "nlux.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923356": {
-            "nlvc.mining.garden": "INACTIVE"
-        },
-        "1572923357": {
-            "nlv.hiveon.net": "INACTIVE",
-            "nlv.node.hiveon.net": "INACTIVE"
-        },
-        "1572923358": {
-            "nly.hiveon.net": "INACTIVE",
-            "nly.node.hiveon.net": "INACTIVE"
-        },
-        "1572923365": {
-            "nlyr2v2.us.hashrefinery.com": "INACTIVE",
-            "nlyra2.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923366": {
-            "nlyra2rev2.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923372": {
-            "nlyra2rev2.us.hashrefinery.com": "INACTIVE"
-        },
-        "1572923378": {
-            "nlyra2.us.hashrefinery.com": "INACTIVE"
-        },
-        "1572923379": {
-            "nlyra2v2.eu.mine.zpool.ca": "INACTIVE",
-            "nlyra2v2.jp.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923380": {
-            "nlyra2v2.mine.zpool.ca": "INACTIVE",
-            "nlyra2v2.na.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923386": {
-            "nlyra2v2.us.hashrefinery.com": "INACTIVE"
-        },
-        "1572923387": {
-            "nlyra2v2.us.mine.zpool.ca": "INACTIVE",
-            "nlyra2v3.eu.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923388": {
-            "nlyra2v3.jp.mine.zpool.ca": "INACTIVE",
-            "nlyra2v3.na.mine.zpool.ca": "INACTIVE",
-            "nlyra2z.eu.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923389": {
-            "nlyra2z.jp.mine.zpool.ca": "INACTIVE",
-            "nlyra2z.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923390": {
-            "nlyra2z.na.mine.zpool.ca": "INACTIVE",
-            "nlyra2z.sea.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923397": {
-            "nlyra2z.us.hashrefinery.com": "INACTIVE",
-            "nlyris.hiveon.net": "INACTIVE",
-            "nlyris.node.hiveon.net": "INACTIVE"
-        },
-        "1572923398": {
-            "nm001.monerise.com": "INACTIVE"
-        },
-        "1572923399": {
-            "nm1.monerise.com": "INACTIVE"
-        },
-        "1572923400": {
-            "nm7m.eu.mine.zpool.ca": "INACTIVE",
-            "nm7m.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923401": {
-            "nm7m.na.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923407": {
-            "nm7m.us.hashrefinery.com": "INACTIVE",
-            "nmac10.hiveon.net": "INACTIVE"
-        },
-        "1572923408": {
-            "nmac10.node.hiveon.net": "INACTIVE",
-            "nmac11.hiveon.net": "INACTIVE"
-        },
-        "1572923409": {
-            "nmac11.node.hiveon.net": "INACTIVE",
-            "nmac2.hiveon.net": "INACTIVE"
-        },
-        "1572923410": {
-            "nmac2.node.hiveon.net": "INACTIVE",
-            "nmac5.hiveon.net": "INACTIVE"
-        },
-        "1572923411": {
-            "nmac5.node.hiveon.net": "INACTIVE"
-        },
-        "1572923417": {
-            "nmad.pool.mn": "INACTIVE"
-        },
-        "1572923418": {
-            "nmadrid.hiveon.net": "INACTIVE",
-            "nmadrid.node.hiveon.net": "INACTIVE"
-        },
-        "1572923419": {
-            "nmagi.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923425": {
-            "nmag.pool.mn": "INACTIVE"
-        },
-        "1572923432": {
-            "nm.aikapool.com": "INACTIVE",
-            "nmaia.pool.mn": "INACTIVE"
-        },
-        "1572923433": {
-            "nmain.hiveon.net": "INACTIVE",
-            "nmain.node.hiveon.net": "INACTIVE"
-        },
-        "1572923439": {
-            "nmaki.pool.mn": "INACTIVE"
-        },
-        "1572923440": {
-            "nmall.hiveon.net": "INACTIVE",
-            "nmall.node.hiveon.net": "INACTIVE"
-        },
-        "1572923447": {
-            "nmamm.pool.mn": "INACTIVE",
-            "nmanager.hiveon.net": "INACTIVE"
-        },
-        "1572923448": {
-            "nmanager.node.hiveon.net": "INACTIVE"
-        },
-        "1572923449": {
-            "nmapas.hiveon.net": "INACTIVE",
-            "nmapas.node.hiveon.net": "INACTIVE"
-        },
-        "1572923450": {
-            "nmaps.hiveon.net": "INACTIVE"
-        },
-        "1572923451": {
-            "nmaps.node.hiveon.net": "INACTIVE",
-            "nmars.hiveon.net": "INACTIVE"
-        },
-        "1572923452": {
-            "nmars.node.hiveon.net": "INACTIVE",
-            "nmary.hiveon.net": "INACTIVE"
-        },
-        "1572923453": {
-            "nmary.node.hiveon.net": "INACTIVE"
-        },
-        "1572923454": {
-            "nmasari.crypto-webminer.com": "INACTIVE",
-            "nmasari.fairhash.org": "INACTIVE"
-        },
-        "1572923456": {
-            "nmaster.hiveon.net": "INACTIVE",
-            "nmaster.node.hiveon.net": "INACTIVE",
-            "nmax.hashfaster.com": "INACTIVE"
-        },
-        "1572923457": {
-            "nmax.hiveon.net": "INACTIVE",
-            "nmax.node.hiveon.net": "INACTIVE"
-        },
-        "1572923464": {
-            "nmax.pool.mn": "INACTIVE"
-        },
-        "1572923465": {
-            "nmaza.hashfaster.com": "INACTIVE"
-        },
-        "1572923472": {
-            "nmca.pool.mn": "INACTIVE"
-        },
-        "1572923478": {
-            "nmcc.pool.mn": "INACTIVE"
-        },
-        "1572923479": {
-            "nmc.hiveon.net": "INACTIVE"
-        },
-        "1572923480": {
-            "nmc.node.hiveon.net": "INACTIVE",
-            "nmc.p2pool.org": "INACTIVE"
-        },
-        "1572923487": {
-            "nmc.pool.mn": "INACTIVE",
-            "nmd.cryptobrowser.site": "INACTIVE"
-        },
-        "1572923488": {
-            "nme.hiveon.net": "INACTIVE"
-        },
-        "1572923489": {
-            "nmember.hiveon.net": "INACTIVE",
-            "nmember.node.hiveon.net": "INACTIVE"
-        },
-        "1572923490": {
-            "nmembers.hiveon.net": "INACTIVE",
-            "nmembers.node.hiveon.net": "INACTIVE"
-        },
-        "1572923491": {
-            "nmemphis.hiveon.net": "INACTIVE",
-            "nmemphis.node.hiveon.net": "INACTIVE"
-        },
-        "1572923492": {
-            "nme.node.hiveon.net": "INACTIVE",
-            "nmercury.hiveon.net": "INACTIVE"
-        },
-        "1572923493": {
-            "nmercury.node.hiveon.net": "INACTIVE",
-            "nmesgmy.aikapool.com": "INACTIVE"
-        },
-        "1572923495": {
-            "nm.hiveon.net": "INACTIVE",
-            "nmh.hiveon.net": "INACTIVE"
-        },
-        "1572923496": {
-            "nmh.node.hiveon.net": "INACTIVE"
-        },
-        "1572923502": {
-            "nmhyc.pool.mn": "INACTIVE",
-            "nmiami.hiveon.net": "INACTIVE"
-        },
-        "1572923503": {
-            "nmiami.node.hiveon.net": "INACTIVE",
-            "nmickey.hiveon.net": "INACTIVE"
-        },
-        "1572923504": {
-            "nmi.hiveon.net": "INACTIVE",
-            "nmickey.node.hiveon.net": "INACTIVE"
-        },
-        "1572923511": {
-            "nmil.pool.mn": "INACTIVE"
-        },
-        "1572923521": {
-            "nmine.pool.mn": "INACTIVE"
-        },
-        "1572923526": {
-            "nmine.thetechnicalspool.com": "INACTIVE"
-        },
-        "1572923528": {
-            "nmine.xmr.life": "INACTIVE"
-        },
-        "1572923530": {
-            "nmining.mine.zpool.ca": "INACTIVE"
-        },
-        "1572923531": {
-            "nmi.node.hiveon.net": "INACTIVE"
-        },
-        "1572923533": {
-            "nmirror.hiveon.net": "INACTIVE",
-            "nmirror.node.hiveon.net": "INACTIVE"
-        },
-        "1572923540": {
-            "nmixin.lindon-pool.win": "INACTIVE"
-        },
         "1572923547": {
-            "nmj.pool.mn": "INACTIVE",
             "nmk.hiveon.net": "INACTIVE"
         },
         "1572923548": {
@@ -8623,7 +8141,6 @@
             "nmngt.node.hiveon.net": "INACTIVE"
         },
         "1572923557": {
-            "nm.node.hiveon.net": "INACTIVE",
             "nmn.node.hiveon.net": "INACTIVE",
             "nmnm.pool.mn": "INACTIVE"
         },
@@ -8704,7 +8221,6 @@
             "nmp.node.hiveon.net": "INACTIVE"
         },
         "1572923622": {
-            "nm.pool.mn": "INACTIVE",
             "nmpos.coinminerz.com": "INACTIVE"
         },
         "1572923623": {
@@ -8740,7 +8256,6 @@
             "nmssql1.node.hiveon.net": "INACTIVE"
         },
         "1572923638": {
-            "nm.suprnova.cc": "INACTIVE",
             "nmssql.node.hiveon.net": "INACTIVE",
             "nmta21.cryptobrowser.site": "INACTIVE"
         },
@@ -45617,6 +45132,41 @@
         "1575232176": {
             "nl3.litecoinpool.org": "INACTIVE",
             "nlab-explorer.arcpool.com": "INACTIVE"
+        },
+        "1575232887": {
+            "nlg.coinstop.me": "INACTIVE"
+        },
+        "1575232888": {
+            "nlg.suprnova.cc": "INACTIVE",
+            "nli.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575232890": {
+            "nlist.aikapool.com": "INACTIVE"
+        },
+        "1575232895": {
+            "nloki.easyhash.io": "INACTIVE"
+        },
+        "1575232902": {
+            "nm.aikapool.com": "INACTIVE",
+            "nm.suprnova.cc": "INACTIVE",
+            "nm001.monerise.com": "INACTIVE"
+        },
+        "1575232903": {
+            "nm1.monerise.com": "INACTIVE"
+        },
+        "1575232908": {
+            "nmasari.labbinarymining.com": "INACTIVE"
+        },
+        "1575232910": {
+            "nmc.p2pool.org": "INACTIVE",
+            "nmd.cryptobrowser.site": "INACTIVE"
+        },
+        "1575232912": {
+            "nmesgmy.aikapool.com": "INACTIVE"
+        },
+        "1575232915": {
+            "nmine.thetechnicalspool.com": "INACTIVE",
+            "nmine.xmr.life": "INACTIVE"
         }
     }
 }
