@@ -11835,12 +11835,12 @@
         "state": "future"
     },
     "wallpool.com": {
-        "epoch": 1644969600,
+        "epoch": 1644969600.0,
         "expiration_date": "16-feb-2022",
         "state": "future"
     },
     "wasm.stream": {
-        "epoch": "1575936000",
+        "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
         "state": "future"
     },
@@ -11850,32 +11850,37 @@
         "state": "future"
     },
     "waterhole.io": {
-        "epoch": "1611100800",
+        "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "waterparkmining.com": {
-        "epoch": 1596672000,
+        "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
         "state": "future"
     },
+    "wattpool.net": {
+        "epoch": 1699920000.0,
+        "expiration_date": "14-nov-2023",
+        "state": "future"
+    },
     "webassembly.stream": {
-        "epoch": "1575936000",
+        "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "webchain.live": {
-        "epoch": "1576886400",
+        "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
     "webchain.network": {
-        "epoch": "1584748800",
+        "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
         "state": "future"
     },
     "webcoin.me": {
-        "epoch": "1583452800",
+        "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
@@ -11885,17 +11890,17 @@
         "state": "future"
     },
     "webmine.cz": {
-        "epoch": 1601683200,
+        "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "webmine.pro": {
-        "epoch": "1582416000",
+        "epoch": 1582416000.0,
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "webminepool.com": {
-        "epoch": 1604102400,
+        "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
