@@ -10389,18 +10389,23 @@
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "sandpool.org": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
     "satowallet.com": {
-        "epoch": "1586995200",
+        "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
     "saturnpool.com": {
-        "epoch": 1575504000,
+        "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
         "state": "future"
     },
     "sberex.com": {
-        "epoch": 1612137600,
+        "epoch": 1612137600.0,
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
@@ -10410,22 +10415,22 @@
         "state": "future"
     },
     "scaleway.ovh": {
-        "epoch": "1584576000",
+        "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
     "scryptpool.com": {
-        "epoch": 1603584000,
+        "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "sdgndsfajfsdf.info": {
-        "epoch": 1592006400,
+        "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "sdgsafdsf.pw": {
-        "epoch": 1587945600,
+        "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
@@ -10445,7 +10450,7 @@
         "state": "future"
     },
     "securepayment.cc": {
-        "epoch": "1662854400",
+        "epoch": 1662854400.0,
         "expiration_date": "11-sep-2022",
         "state": "future"
     },
