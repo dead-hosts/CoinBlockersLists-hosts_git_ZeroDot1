@@ -11625,17 +11625,17 @@
         "state": "future"
     },
     "usxmrpool.com": {
-        "epoch": "1704326400",
+        "epoch": 1704326400.0,
         "expiration_date": "04-jan-2024",
         "state": "future"
     },
     "uupool.cn": {
-        "epoch": "1582502400",
+        "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
     "uupool.com": {
-        "epoch": 1606867200,
+        "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
@@ -11645,7 +11645,7 @@
         "state": "past"
     },
     "v7kingsun.com": {
-        "epoch": 1595462400,
+        "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
