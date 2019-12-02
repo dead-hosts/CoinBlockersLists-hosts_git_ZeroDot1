@@ -11905,42 +11905,47 @@
         "state": "future"
     },
     "webminer.pro": {
-        "epoch": "1586390400",
+        "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "webminerpool.com": {
-        "epoch": "1577318400",
+        "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
         "state": "future"
     },
     "webmining.co": {
-        "epoch": "1573171200",
-        "expiration_date": "08-nov-2019",
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "webmonero.com": {
-        "epoch": 1604534400,
+        "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "webxmr.com": {
-        "epoch": 1586563200,
+        "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
+    "weekendpool.info": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "weipool.org": {
-        "epoch": 1598140800,
+        "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "wemine.uk": {
-        "epoch": 1601596800,
+        "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "whalesburg.com": {
-        "epoch": 1624406400,
+        "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
         "state": "future"
     },
@@ -11950,27 +11955,27 @@
         "state": "past"
     },
     "whibbit.cn": {
-        "epoch": 1640390400,
+        "epoch": 1640390400.0,
         "expiration_date": "25-dec-2021",
         "state": "future"
     },
     "wildianing.ru": {
-        "epoch": 1594425600,
+        "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "wilf.cn": {
-        "epoch": "1583712000",
+        "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "willacrit.com": {
-        "epoch": "1579305600",
+        "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
     "witthethim.com": {
-        "epoch": "1579305600",
+        "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
@@ -11985,7 +11990,7 @@
         "state": "future"
     },
     "wmikrut.com": {
-        "epoch": "1616198400",
+        "epoch": 1616198400.0,
         "expiration_date": "20-mar-2021",
         "state": "future"
     },
@@ -12004,13 +12009,18 @@
         "expiration_date": "15-apr-2019",
         "state": "future"
     },
+    "woolypooly.com": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "wordc.ga": {
-        "epoch": 1604361600,
+        "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "worldonsearch.com": {
-        "epoch": 1595289600,
+        "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
         "state": "future"
     },
