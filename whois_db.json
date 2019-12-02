@@ -10324,28 +10324,33 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "rupool.org": {
+        "epoch": 1588291200.0,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
     "rushhourmining.com": {
-        "epoch": "1583366400",
+        "epoch": 1583366400.0,
         "expiration_date": "05-mar-2020",
         "state": "future"
     },
     "ryo-currency.com": {
-        "epoch": 1589760000,
+        "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
         "state": "future"
     },
     "ryo-currency.ru": {
-        "epoch": 1593907200,
+        "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "ryoblocks.com": {
-        "epoch": 1590278400,
+        "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
         "state": "future"
     },
     "ryowebwallet.com": {
-        "epoch": 1584316800,
+        "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
         "state": "future"
     },
@@ -10355,22 +10360,22 @@
         "state": "past"
     },
     "s7ven.com": {
-        "epoch": "1820793600",
+        "epoch": 1820793600.0,
         "expiration_date": "13-sep-2027",
         "state": "future"
     },
     "s9pool.com": {
-        "epoch": "1581552000",
+        "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
     "safelinkconverter.com": {
-        "epoch": 1592352000,
+        "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "sakthikaa.com": {
-        "epoch": "1753401600",
+        "epoch": 1753401600.0,
         "expiration_date": "25-jul-2025",
         "state": "future"
     },
@@ -10380,7 +10385,7 @@
         "state": "past"
     },
     "saltpool.net": {
-        "epoch": 1581552000,
+        "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
