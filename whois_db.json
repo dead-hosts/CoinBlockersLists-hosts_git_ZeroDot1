@@ -11045,48 +11045,58 @@
         "state": "future"
     },
     "swampthing.net": {
-        "epoch": 1590105600,
+        "epoch": 1590105600.0,
         "expiration_date": "22-may-2020",
         "state": "future"
     },
     "sweetbook.net": {
-        "epoch": "1573516800",
-        "expiration_date": "12-nov-2019",
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "swiftmining.win": {
-        "epoch": 1588204800,
+        "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "swinemine.com": {
-        "epoch": 1579737600,
+        "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
+    "switchercoin.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
     "synconnector.com": {
-        "epoch": "1582502400",
+        "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
     "system-check.services": {
-        "epoch": 1582502400,
+        "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
     "system-update.info": {
-        "epoch": 1590278400,
+        "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
         "state": "future"
     },
     "system-update.is": {
-        "epoch": 1585008000,
+        "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
         "state": "future"
     },
     "systemlog.host": {
         "epoch": "1561766400",
         "expiration_date": "29-jun-2019",
+        "state": "future"
+    },
+    "systemten.org": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "tainiesonline.pw": {
@@ -11100,17 +11110,22 @@
         "state": "past"
     },
     "talerpool.by": {
-        "epoch": 1574208000,
+        "epoch": 1574208000.0,
         "expiration_date": "20-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "tazm9p7tso.trade": {
         "epoch": "1547164800",
         "expiration_date": "11-jan-2019",
         "state": "past"
     },
+    "tbdice.org": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "techtricksworld.com": {
-        "epoch": "1588982400",
+        "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
         "state": "future"
     },
@@ -11120,7 +11135,7 @@
         "state": "future"
     },
     "template-download.top": {
-        "epoch": 1593993600,
+        "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
@@ -11129,13 +11144,18 @@
         "expiration_date": "11-jun-2019",
         "state": "past"
     },
+    "terahashers.com": {
+        "epoch": 1570838400.0,
+        "expiration_date": "12-oct-2019",
+        "state": "past"
+    },
     "tercabilis.info": {
-        "epoch": 1601596800,
+        "epoch": 1601596800.0,
         "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "terethat.ru": {
-        "epoch": 1594252800,
+        "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
