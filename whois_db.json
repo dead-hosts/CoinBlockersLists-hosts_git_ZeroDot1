@@ -12530,22 +12530,37 @@
         "state": "future"
     },
     "zergpool.com": {
-        "epoch": "1577232000",
+        "epoch": 1577232000.0,
         "expiration_date": "25-dec-2019",
         "state": "future"
     },
     "zeropool.io": {
-        "epoch": 1579651200,
+        "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "zeropool.org": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "zeroxeos.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "zettapool.com": {
+        "epoch": 1656547200.0,
+        "expiration_date": "30-jun-2022",
+        "state": "future"
+    },
     "zgdfz6h7po.me": {
-        "epoch": "1577404800",
+        "epoch": 1577404800.0,
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
     "zhash.pro": {
-        "epoch": 1597881600,
+        "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
@@ -12560,12 +12575,12 @@
         "state": "future"
     },
     "zlx.com.br": {
-        "epoch": "1602979200",
+        "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "zmine.io": {
-        "epoch": 1600300800,
+        "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
@@ -12575,37 +12590,37 @@
         "state": "past"
     },
     "zombiepool.run": {
-        "epoch": 1599177600,
+        "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "zona.pl": {
-        "epoch": 1662336000,
+        "epoch": 1662336000.0,
         "expiration_date": "05-sep-2022",
         "state": "future"
     },
     "zona.plus": {
-        "epoch": "1580515200",
+        "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
         "state": "future"
     },
     "zpool.ca": {
-        "epoch": "1688342400",
+        "epoch": 1688342400.0,
         "expiration_date": "03-jul-2023",
         "state": "future"
     },
     "zpool.guru": {
-        "epoch": "1576713600",
+        "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
         "state": "future"
     },
     "zsolo.bid": {
-        "epoch": 1598745600,
+        "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "zsw8.cc": {
-        "epoch": 1603324800,
+        "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
@@ -12645,7 +12660,7 @@
         "state": "past"
     },
     "zyrkminer.com": {
-        "epoch": 1592265600,
+        "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
         "state": "future"
     },
