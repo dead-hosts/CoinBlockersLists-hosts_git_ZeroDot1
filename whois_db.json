@@ -4239,6 +4239,11 @@
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
+    "cpu-pool.club": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
     "cpu-pool.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
@@ -4272,6 +4277,11 @@
     "crabs.pro": {
         "epoch": 1602633600.0,
         "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
+    "crackcrypto.com": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "cranepay.io": {
@@ -4354,6 +4364,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "crypto-court.com": {
+        "epoch": 1572393600.0,
+        "expiration_date": "30-oct-2019",
+        "state": "past"
+    },
     "crypto-daio.co.uk": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -4362,6 +4377,11 @@
     "crypto-loot.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "crypto-me.com": {
+        "epoch": 1576540800.0,
+        "expiration_date": "17-dec-2019",
         "state": "future"
     },
     "crypto-mining-pool.com": {
@@ -4434,6 +4454,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "cryptocartel.one": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
     "cryptocatalyst.net": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
@@ -4447,6 +4472,11 @@
     "cryptocoinabout.com": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "cryptocoinpools.com": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
         "state": "future"
     },
     "cryptocoinsclub.com": {
@@ -4469,14 +4499,29 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "cryptocrowdclub.com": {
+        "epoch": 1575676800.0,
+        "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
     "cryptocurrencyocean.net": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "cryptodig.ru": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "cryptofriends.org": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "cryptogreek.cafe": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "cryptogrot.io": {
@@ -4614,6 +4659,11 @@
         "expiration_date": "10-nov-2020",
         "state": "future"
     },
+    "cryptopool.network": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "cryptopool.online": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
@@ -4649,14 +4699,29 @@
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
+    "cryptopoolclub.com": {
+        "epoch": 1577923200.0,
+        "expiration_date": "02-jan-2020",
+        "state": "future"
+    },
     "cryptopoolmining.com": {
         "epoch": 1576972800.0,
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
+    "cryptopoolpond.com": {
+        "epoch": 1569888000.0,
+        "expiration_date": "01-oct-2019",
+        "state": "past"
+    },
     "cryptopools.com": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
+    "cryptopools.info": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "cryptopowered.club": {
