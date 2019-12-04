@@ -8073,312 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575207223": {
-            "forums.nodes.hashvault.pro": "INACTIVE",
-            "forums.sonofatech.com": "INACTIVE",
-            "fot.em.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575207224": {
-            "foxton.nimiqpool.com": "INACTIVE",
-            "foxton.node.nimiqpool.com": "INACTIVE",
-            "foxx.to": "INACTIVE",
-            "fr-db0.suprnova.cc": "INACTIVE"
-        },
-        "1575207225": {
-            "fr-db1.suprnova.cc": "INACTIVE",
-            "fr-db2.suprnova.cc": "INACTIVE"
-        },
-        "1575207227": {
-            "fr-zecdcr-backup.suprnova.cc": "INACTIVE"
-        },
-        "1575207228": {
-            "fr.cryptopool.ru": "INACTIVE",
-            "fr.litecoinpool.org": "INACTIVE"
-        },
-        "1575207229": {
-            "fr.mn.powermining.pw": "INACTIVE",
-            "fr.myzen.cash": "INACTIVE"
-        },
-        "1575207230": {
-            "fr.node.minexmr.com": "INACTIVE",
-            "fr.wdc.theblocksfactory.com": "INACTIVE",
-            "fr01.beta.supportxmr.com": "INACTIVE"
-        },
-        "1575207231": {
-            "fr01.c3pool.com": "INACTIVE",
-            "fr01.node.supportxmr.com": "INACTIVE",
-            "fr02.beta.supportxmr.com": "INACTIVE"
-        },
-        "1575207232": {
-            "fr02.node.supportxmr.com": "INACTIVE",
-            "fr03.beta.supportxmr.com": "INACTIVE",
-            "fr03.node.supportxmr.com": "INACTIVE"
-        },
-        "1575207233": {
-            "fr04.beta.supportxmr.com": "INACTIVE",
-            "fr04.node.supportxmr.com": "INACTIVE",
-            "fr05.beta.supportxmr.com": "INACTIVE",
-            "fr05.node.supportxmr.com": "INACTIVE"
-        },
-        "1575207234": {
-            "fr06.beta.supportxmr.com": "INACTIVE",
-            "fr06.node.supportxmr.com": "INACTIVE"
-        },
-        "1575207235": {
-            "fr1.monerise.com": "INACTIVE",
-            "frac.miningpoolhub.com": "INACTIVE",
-            "fracmine.ckpool.org": "INACTIVE"
-        },
-        "1575207236": {
-            "fracmine.node.ckpool.org": "INACTIVE",
-            "france.aeon.semipool.com": "INACTIVE",
-            "france.etn.semipool.com": "INACTIVE"
-        },
-        "1575207237": {
-            "france.sumo.semipool.com": "INACTIVE",
-            "france01.sumokoin.hashvault.pro": "INACTIVE",
-            "france01.sumokoin.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt-1.xmrbackb.one": "INACTIVE"
-        },
-        "1575207238": {
-            "frankfurt.aeon.hashvault.pro": "INACTIVE",
-            "frankfurt.aeon.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt.minemonero.pro": "INACTIVE"
-        },
-        "1575207239": {
-            "frankfurt.monero.hashvault.pro": "INACTIVE",
-            "frankfurt.monero.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt.myzen.cash": "INACTIVE",
-            "frankfurt01.aeon.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575207240": {
-            "frankfurt01.bittube.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.electroneum.hashvault.pro": "INACTIVE",
-            "frankfurt01.electroneum.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575207241": {
-            "frankfurt01.graft.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.intense.hashvault.pro": "INACTIVE"
-        },
-        "1575207242": {
-            "frankfurt01.intense.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.karbo.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.lethean.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575207243": {
-            "frankfurt01.loki.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.masari.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.minemonero.pro": "INACTIVE"
-        },
-        "1575207244": {
-            "frankfurt01.monero.hashvault.pro": "INACTIVE",
-            "frankfurt01.monero.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.ryo.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575207245": {
-            "frankfurt01.stellite.hashvault.pro": "INACTIVE",
-            "frankfurt01.stellite.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.sumo.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575207246": {
-            "frankfurt01.sumokoin.hashvault.pro": "INACTIVE",
-            "frankfurt01.sumokoin.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.triton.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575207247": {
-            "frankfurt01.turtle.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt01.x-cash.hashvault.pro": "INACTIVE",
-            "frankfurt01.xcash.hashvault.pro": "INACTIVE",
-            "frankfurt01.xcash.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575207248": {
-            "frankfurt02.electroneum.hashvault.pro": "INACTIVE",
-            "frankfurt02.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "frankfurt02.minemonero.pro": "INACTIVE"
-        },
-        "1575207249": {
-            "frankfurt03.electroneum.hashvault.pro": "INACTIVE",
-            "frankfurt03.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "franko.youcrazy.me": "INACTIVE",
-            "fred-trtl.cool-pool.net": "INACTIVE"
-        },
-        "1575207250": {
-            "fred.bluerockpools.net": "INACTIVE",
-            "fred.communitypool.org": "INACTIVE",
-            "fred.youpool.io": "INACTIVE"
-        },
-        "1575207251": {
-            "free.servegame.com": "INACTIVE",
-            "free4fraucet.com": "INACTIVE"
-        },
-        "1575207252": {
-            "freecontent.bi": "INACTIVE",
-            "freecontent.loan": "INACTIVE"
-        },
-        "1575207253": {
-            "freecontent.racing": "INACTIVE",
-            "freecontent.science": "INACTIVE",
-            "freecontent.st": "INACTIVE"
-        },
-        "1575207254": {
-            "freecontent.win": "INACTIVE",
-            "freedom.wemineltc.com": "INACTIVE",
-            "freehaven.bitkitten.xyz": "INACTIVE",
-            "freehaven.node.pocketwhale.info": "INACTIVE"
-        },
-        "1575207255": {
-            "frenchmedicalexcellence.moneroseeds.ae.org": "INACTIVE",
-            "fresh.suprnova.cc": "INACTIVE"
-        },
-        "1575207256": {
-            "frin31-vouzhubili.btcc.com": "INACTIVE"
-        },
-        "1575207257": {
-            "frk-east.majorminers.com": "INACTIVE",
-            "frk.hash-to-coins.com": "INACTIVE",
-            "frk.majorminers.com": "INACTIVE"
-        },
-        "1575207258": {
-            "frn.suprnova.cc": "INACTIVE",
-            "frog.suprnova.cc": "INACTIVE"
-        },
-        "1575208404": {
-            "front2.coinfirm.io": "INACTIVE",
-            "frontend-staging.node.xmr.to": "INACTIVE"
-        },
-        "1575208405": {
-            "frontend-staging.staging.xmr.to": "INACTIVE",
-            "frontend01.coinmine.pl": "INACTIVE",
-            "frost.suprnova.cc": "INACTIVE"
-        },
-        "1575208406": {
-            "frontend02.hashto.cash": "INACTIVE",
-            "fruitice.realnetwrk.com": "INACTIVE"
-        },
-        "1575208407": {
-            "fsc.mpool.su": "INACTIVE",
-            "fsc2.suprnova.cc": "INACTIVE"
-        },
-        "1575208408": {
-            "fst.coinstop.me": "INACTIVE",
-            "fst.poolto.be": "INACTIVE"
-        },
-        "1575208409": {
-            "fsx.coin-miners.info": "INACTIVE",
-            "fsx.node.coin-miners.info": "INACTIVE",
-            "ftc-ca.hashing.space": "INACTIVE"
-        },
-        "1575208410": {
-            "ftc-de.hashing.space": "INACTIVE",
-            "ftc-il.hashing.space": "INACTIVE",
-            "ftc-nl.hashing.space": "INACTIVE"
-        },
-        "1575208411": {
-            "ftc-sg.hashing.space": "INACTIVE",
-            "ftc-tx.hashing.space": "INACTIVE",
-            "ftc-wa.hashing.space": "INACTIVE",
-            "ftc.crypto-mining-pool.com": "INACTIVE"
-        },
-        "1575208412": {
-            "ftc.cybtc.info": "INACTIVE",
-            "ftc.dnb.io": "INACTIVE",
-            "ftc.hashing.space": "INACTIVE"
-        },
-        "1575208413": {
-            "ftc.lightspeedmining.com": "INACTIVE",
-            "ftc.mine-vn.com": "INACTIVE",
-            "ftc.miningfield.com": "INACTIVE",
-            "ftc.suprnova.cc": "INACTIVE"
-        },
-        "1575208414": {
-            "ftc.theblocksfactory.com": "INACTIVE",
-            "ftp.99btc.net": "INACTIVE"
-        },
-        "1575208415": {
-            "ftp.binet211.com": "INACTIVE",
-            "ftp.bitclub.network": "INACTIVE",
-            "ftp.cocozuma.net": "INACTIVE"
-        },
-        "1575208416": {
-            "ftp.clona.ru": "INACTIVE",
-            "ftp.coin-miners.info": "INACTIVE",
-            "ftp.coinhive-manager.com": "INACTIVE",
-            "ftp.coinimp.com": "INACTIVE"
-        },
-        "1575208417": {
-            "ftp.coinlab.biz": "INACTIVE",
-            "ftp.coinminerz.com": "INACTIVE"
-        },
-        "1575208418": {
-            "ftp.cryptominingpool.eu": "INACTIVE",
-            "ftp.directprimal.com": "INACTIVE"
-        },
-        "1575208419": {
-            "ftp.grcpool.com": "INACTIVE",
-            "ftp.hashbook.net": "INACTIVE"
-        },
-        "1575208420": {
-            "ftp.krunzy.com": "INACTIVE",
-            "ftp.litecoinp2pool.com": "INACTIVE",
-            "ftp.majanetwork.com": "INACTIVE",
-            "ftp.maupool.com": "INACTIVE"
-        },
-        "1575208421": {
-            "ftp.mining.sg": "INACTIVE",
-            "ftp.miningclub.cc": "INACTIVE",
-            "ftp.miningmania.net": "INACTIVE",
-            "ftp.miningpoolhub.com": "INACTIVE"
-        },
-        "1575209859": {
-            "ftp.multipool.com": "INACTIVE",
-            "ftp.node.coin-miners.info": "INACTIVE",
-            "ftp.node.grcpool.com": "INACTIVE"
-        },
-        "1575209860": {
-            "ftp.pool.sexy": "INACTIVE"
-        },
-        "1575209861": {
-            "ftp.poolmining.net": "INACTIVE",
-            "ftp.ruisgood.ru": "INACTIVE"
-        },
-        "1575209862": {
-            "ftp.takebigfish.stream": "INACTIVE",
-            "ftp.wallpool.com": "INACTIVE"
-        },
-        "1575209863": {
-            "ftzivuesohvebj.ru": "INACTIVE",
-            "fubili.btcc.com": "INACTIVE",
-            "fud.suprnova.cc": "INACTIVE"
-        },
-        "1575209864": {
-            "fund.coin-miners.info": "INACTIVE"
-        },
-        "1575209865": {
-            "fund.node.coin-miners.info": "INACTIVE",
-            "fund.suprnova.cc": "INACTIVE",
-            "funk.majorminers.com": "INACTIVE"
-        },
-        "1575209866": {
-            "funtoche.em.bitcoin.co.pt": "INACTIVE",
-            "fury.youpool.io": "INACTIVE",
-            "fuse.clona.ru": "INACTIVE"
-        },
-        "1575209867": {
-            "fuzz.suprnova.cc": "INACTIVE",
-            "fw-01.coinstop.me": "INACTIVE"
-        },
-        "1575209869": {
-            "fy.btcc.com": "INACTIVE",
-            "fz.coinmine.pl": "INACTIVE"
-        },
-        "1575209870": {
-            "g-191.btcc.com": "INACTIVE",
-            "g-content.bi": "INACTIVE",
-            "g.bitcoin.co.pt": "INACTIVE"
-        },
         "1575209871": {
-            "g.pool.sexy": "INACTIVE",
             "g.suprnova.cc": "INACTIVE",
             "g.zinntikumugai.xyz": "INACTIVE",
             "g11.openvpn.f2pool.com": "INACTIVE"
@@ -27958,6 +27653,239 @@
             "forum.minertopia.org": "INACTIVE",
             "forum.nodes.hashvault.pro": "INACTIVE",
             "forum.sonofatech.com": "INACTIVE"
+        },
+        "1575496807": {
+            "forums.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1575496808": {
+            "forums.sonofatech.com": "INACTIVE",
+            "fot.em.bitcoin.co.pt": "INACTIVE",
+            "foxton.nimiqpool.com": "INACTIVE",
+            "foxton.node.nimiqpool.com": "INACTIVE",
+            "foxx.to": "INACTIVE",
+            "fr-db0.suprnova.cc": "INACTIVE",
+            "fr-db1.suprnova.cc": "INACTIVE"
+        },
+        "1575496809": {
+            "fr-db2.suprnova.cc": "INACTIVE",
+            "fr-zecdcr-backup.suprnova.cc": "INACTIVE",
+            "fr.cryptopool.ru": "INACTIVE",
+            "fr.litecoinpool.org": "INACTIVE"
+        },
+        "1575496810": {
+            "fr.mn.powermining.pw": "INACTIVE",
+            "fr.myzen.cash": "INACTIVE",
+            "fr.node.minexmr.com": "INACTIVE",
+            "fr.wdc.theblocksfactory.com": "INACTIVE",
+            "fr01.beta.supportxmr.com": "INACTIVE",
+            "fr01.c3pool.com": "INACTIVE",
+            "fr01.node.supportxmr.com": "INACTIVE"
+        },
+        "1575496811": {
+            "fr02.beta.supportxmr.com": "INACTIVE",
+            "fr02.node.supportxmr.com": "INACTIVE",
+            "fr03.beta.supportxmr.com": "INACTIVE",
+            "fr03.node.supportxmr.com": "INACTIVE",
+            "fr04.beta.supportxmr.com": "INACTIVE",
+            "fr04.node.supportxmr.com": "INACTIVE",
+            "fr05.beta.supportxmr.com": "INACTIVE"
+        },
+        "1575496812": {
+            "fr05.node.supportxmr.com": "INACTIVE",
+            "fr06.beta.supportxmr.com": "INACTIVE",
+            "fr06.node.supportxmr.com": "INACTIVE",
+            "fr1.monerise.com": "INACTIVE",
+            "frac.miningpoolhub.com": "INACTIVE",
+            "fracmine.ckpool.org": "INACTIVE",
+            "fracmine.node.ckpool.org": "INACTIVE"
+        },
+        "1575496813": {
+            "france.aeon.semipool.com": "INACTIVE",
+            "france.etn.semipool.com": "INACTIVE",
+            "france.sumo.semipool.com": "INACTIVE",
+            "france01.sumokoin.hashvault.pro": "INACTIVE",
+            "france01.sumokoin.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt-1.xmrbackb.one": "INACTIVE",
+            "frankfurt.aeon.hashvault.pro": "INACTIVE"
+        },
+        "1575496814": {
+            "frankfurt.aeon.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt.minemonero.pro": "INACTIVE",
+            "frankfurt.monero.hashvault.pro": "INACTIVE",
+            "frankfurt.monero.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt.myzen.cash": "INACTIVE",
+            "frankfurt01.aeon.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.bittube.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.electroneum.hashvault.pro": "INACTIVE"
+        },
+        "1575496815": {
+            "frankfurt01.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.graft.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.intense.hashvault.pro": "INACTIVE",
+            "frankfurt01.intense.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.karbo.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.lethean.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.loki.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1575496816": {
+            "frankfurt01.masari.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.minemonero.pro": "INACTIVE",
+            "frankfurt01.monero.hashvault.pro": "INACTIVE",
+            "frankfurt01.monero.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.ryo.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.stellite.hashvault.pro": "INACTIVE"
+        },
+        "1575496817": {
+            "frankfurt01.stellite.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.sumo.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.sumokoin.hashvault.pro": "INACTIVE",
+            "frankfurt01.sumokoin.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.triton.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.turtle.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt01.x-cash.hashvault.pro": "INACTIVE"
+        },
+        "1575496818": {
+            "frankfurt01.xcash.hashvault.pro": "INACTIVE",
+            "frankfurt01.xcash.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt02.electroneum.hashvault.pro": "INACTIVE",
+            "frankfurt02.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "frankfurt02.minemonero.pro": "INACTIVE",
+            "frankfurt03.electroneum.hashvault.pro": "INACTIVE",
+            "frankfurt03.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "franko.youcrazy.me": "INACTIVE"
+        },
+        "1575496819": {
+            "freakhouse.us": "INACTIVE",
+            "fred-trtl.cool-pool.net": "INACTIVE",
+            "fred.bluerockpools.net": "INACTIVE",
+            "fred.communitypool.org": "INACTIVE",
+            "fred.youpool.io": "INACTIVE",
+            "free.servegame.com": "INACTIVE"
+        },
+        "1575496820": {
+            "free4fraucet.com": "INACTIVE",
+            "freecontent.bi": "INACTIVE",
+            "freecontent.loan": "INACTIVE",
+            "freecontent.racing": "INACTIVE",
+            "freecontent.science": "INACTIVE"
+        },
+        "1575496821": {
+            "freecontent.st": "INACTIVE",
+            "freecontent.win": "INACTIVE",
+            "freedom.wemineltc.com": "INACTIVE",
+            "freehaven.bitkitten.xyz": "INACTIVE",
+            "freehaven.node.pocketwhale.info": "INACTIVE"
+        },
+        "1575496822": {
+            "frenchmedicalexcellence.moneroseeds.ae.org": "INACTIVE",
+            "fresh.suprnova.cc": "INACTIVE",
+            "frk-east.majorminers.com": "INACTIVE",
+            "frk.hash-to-coins.com": "INACTIVE",
+            "frk.majorminers.com": "INACTIVE"
+        },
+        "1575496823": {
+            "frn.suprnova.cc": "INACTIVE",
+            "frog.suprnova.cc": "INACTIVE",
+            "front2.coinfirm.io": "INACTIVE",
+            "frontend-staging.node.xmr.to": "INACTIVE",
+            "frontend-staging.staging.xmr.to": "INACTIVE",
+            "frontend01.coinmine.pl": "INACTIVE",
+            "frost.suprnova.cc": "INACTIVE"
+        },
+        "1575496824": {
+            "frontend02.hashto.cash": "INACTIVE",
+            "fruitice.realnetwrk.com": "INACTIVE",
+            "fsc.mpool.su": "INACTIVE",
+            "fsc2.suprnova.cc": "INACTIVE",
+            "fst.coinstop.me": "INACTIVE"
+        },
+        "1575496825": {
+            "fst.poolto.be": "INACTIVE",
+            "fsx.coin-miners.info": "INACTIVE",
+            "fsx.node.coin-miners.info": "INACTIVE",
+            "ftc-ca.hashing.space": "INACTIVE",
+            "ftc-de.hashing.space": "INACTIVE",
+            "ftc-il.hashing.space": "INACTIVE",
+            "ftc-nl.hashing.space": "INACTIVE",
+            "ftc-sg.hashing.space": "INACTIVE"
+        },
+        "1575496826": {
+            "ftc-tx.hashing.space": "INACTIVE",
+            "ftc-wa.hashing.space": "INACTIVE",
+            "ftc.crypto-mining-pool.com": "INACTIVE",
+            "ftc.cybtc.info": "INACTIVE",
+            "ftc.dnb.io": "INACTIVE",
+            "ftc.hashing.space": "INACTIVE",
+            "ftc.lightspeedmining.com": "INACTIVE"
+        },
+        "1575496827": {
+            "ftc.mine-vn.com": "INACTIVE",
+            "ftc.miningfield.com": "INACTIVE",
+            "ftc.suprnova.cc": "INACTIVE",
+            "ftc.theblocksfactory.com": "INACTIVE",
+            "ftp.99btc.net": "INACTIVE",
+            "ftp.binet211.com": "INACTIVE",
+            "ftp.bitclub.network": "INACTIVE"
+        },
+        "1575496828": {
+            "ftp.clona.ru": "INACTIVE",
+            "ftp.cocozuma.net": "INACTIVE",
+            "ftp.coin-miners.info": "INACTIVE",
+            "ftp.coinhive-manager.com": "INACTIVE",
+            "ftp.coinimp.com": "INACTIVE",
+            "ftp.coinlab.biz": "INACTIVE",
+            "ftp.coinminerz.com": "INACTIVE"
+        },
+        "1575496829": {
+            "ftp.crypto-coins.club": "INACTIVE",
+            "ftp.cryptominingpool.eu": "INACTIVE",
+            "ftp.directprimal.com": "INACTIVE",
+            "ftp.grcpool.com": "INACTIVE",
+            "ftp.hashbook.net": "INACTIVE",
+            "ftp.litecoinp2pool.com": "INACTIVE"
+        },
+        "1575496830": {
+            "ftp.krunzy.com": "INACTIVE",
+            "ftp.majanetwork.com": "INACTIVE",
+            "ftp.maupool.com": "INACTIVE",
+            "ftp.mining.sg": "INACTIVE",
+            "ftp.miningclub.cc": "INACTIVE",
+            "ftp.miningmania.net": "INACTIVE",
+            "ftp.miningpoolhub.com": "INACTIVE"
+        },
+        "1575496831": {
+            "ftp.multipool.com": "INACTIVE",
+            "ftp.node.coin-miners.info": "INACTIVE",
+            "ftp.node.grcpool.com": "INACTIVE",
+            "ftp.pool.sexy": "INACTIVE",
+            "ftp.poolmining.net": "INACTIVE"
+        },
+        "1575496832": {
+            "ftp.ruisgood.ru": "INACTIVE",
+            "ftp.takebigfish.stream": "INACTIVE",
+            "ftp.wallpool.com": "INACTIVE",
+            "ftzivuesohvebj.ru": "INACTIVE",
+            "fud.suprnova.cc": "INACTIVE"
+        },
+        "1575496833": {
+            "fund.coin-miners.info": "INACTIVE",
+            "fund.node.coin-miners.info": "INACTIVE",
+            "fund.suprnova.cc": "INACTIVE",
+            "funk.majorminers.com": "INACTIVE",
+            "funtoche.em.bitcoin.co.pt": "INACTIVE",
+            "fury.youpool.io": "INACTIVE",
+            "fuse.clona.ru": "INACTIVE"
+        },
+        "1575496834": {
+            "fuzz.suprnova.cc": "INACTIVE",
+            "fw-01.coinstop.me": "INACTIVE",
+            "fz.coinmine.pl": "INACTIVE"
+        },
+        "1575496835": {
+            "g-content.bi": "INACTIVE",
+            "g.bitcoin.co.pt": "INACTIVE",
+            "g.pool.sexy": "INACTIVE"
         }
     }
 }
