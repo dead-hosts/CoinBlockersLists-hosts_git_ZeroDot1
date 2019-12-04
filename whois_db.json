@@ -5434,6 +5434,11 @@
         "expiration_date": "25-feb-2020",
         "state": "future"
     },
+    "esprezzo.io": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
     "estream.nu": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -5462,6 +5467,11 @@
     "etcpool.pl": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "etgd.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "eth-pocket.com": {

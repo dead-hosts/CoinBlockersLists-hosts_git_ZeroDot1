@@ -8073,155 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575199407": {
-            "esp.suprnova.cc": "INACTIVE",
-            "esr.ipadi.xyz": "INACTIVE",
-            "est.pool.ethfans.org": "INACTIVE"
-        },
-        "1575199408": {
-            "estream.to": "INACTIVE",
-            "esxi.n3rd3d.com": "INACTIVE"
-        },
-        "1575199409": {
-            "et.cryptobrowser.site": "INACTIVE"
-        },
-        "1575199410": {
-            "etc-api.semipool.com": "INACTIVE",
-            "etc-chart1.epool.io": "INACTIVE",
-            "etc-eu.pool.sexy": "INACTIVE"
-        },
-        "1575199411": {
-            "etc-eu.suprnova.cc": "INACTIVE"
-        },
-        "1575199412": {
-            "etc-solo-eu.wattpool.net": "INACTIVE"
-        },
-        "1575199413": {
-            "etc-us.pool.sexy": "INACTIVE",
-            "etc-us.suprnova.cc": "INACTIVE"
-        },
-        "1575199414": {
-            "etc.anorak.tech": "INACTIVE",
-            "etc.bw.com": "INACTIVE",
-            "etc.chileminers.cl": "INACTIVE"
-        },
-        "1575199415": {
-            "etc.cryptopool.online": "INACTIVE",
-            "etc.cybtc.info": "INACTIVE",
-            "etc.ehashcoins.org": "INACTIVE"
-        },
-        "1575199416": {
-            "etc.epool.io": "INACTIVE"
-        },
-        "1575199417": {
-            "etc.labaleine.gg": "INACTIVE",
-            "etc.lucky-mining.com.ua": "INACTIVE",
-            "etc.mine-vn.com": "INACTIVE",
-            "etc.minertopia.org": "INACTIVE"
-        },
-        "1575199418": {
-            "etc.p00l.org": "INACTIVE"
-        },
-        "1575199419": {
-            "etc.prod.2miners.com": "INACTIVE",
-            "etc.semipool.com": "INACTIVE",
-            "etc.staging.pool.whalesburg.com": "INACTIVE",
-            "etc.suprnova.cc": "INACTIVE"
-        },
-        "1575199420": {
-            "etc.thetechnicalspool.com": "INACTIVE",
-            "etc2.solopool.org": "INACTIVE"
-        },
-        "1575199421": {
-            "etc2.uleypool.com": "INACTIVE",
-            "etcstats.epool.io": "INACTIVE"
-        },
-        "1575199422": {
-            "etd.suprnova.cc": "INACTIVE"
-        },
-        "1575199424": {
-            "eth-apac.suprnova.cc": "INACTIVE",
-            "eth-api.baikalmine.com": "INACTIVE"
-        },
-        "1575199425": {
-            "eth-asia1.ethermine.org": "INACTIVE",
-            "eth-au.suprnova.cc": "INACTIVE"
-        },
-        "1575199426": {
-            "eth-bj-prod.poolin.com": "INACTIVE"
-        },
-        "1575199427": {
-            "eth-est.pool.ethfans.org": "INACTIVE",
-            "eth-eu.pool.sexy": "INACTIVE"
-        },
-        "1575199429": {
-            "eth-latest-height2.poolin.com": "INACTIVE",
-            "eth-mine.alpereum.ch": "INACTIVE",
-            "eth-mine.suprnova.cc": "INACTIVE",
-            "eth-nl.altpool.pro": "INACTIVE"
-        },
-        "1575199431": {
-            "eth-rus.uleypool.com": "INACTIVE"
-        },
-        "1575199432": {
-            "eth-testnet.cncoin.farm": "INACTIVE"
-        },
-        "1575199433": {
-            "eth-us.pool.sexy": "INACTIVE",
-            "eth-us.suprnova.cc": "INACTIVE",
-            "eth-us1.dwarfpool.com": "INACTIVE"
-        },
-        "1575199434": {
-            "eth-us21.dwarfpool.com": "INACTIVE",
-            "eth.1stpool.org": "INACTIVE"
-        },
-        "1575199435": {
-            "eth.alpereum.ch": "INACTIVE",
-            "eth.anorak.tech": "INACTIVE",
-            "eth.bw.com": "INACTIVE"
-        },
-        "1575199436": {
-            "eth.chileminers.cl": "INACTIVE",
-            "eth.cncoin.farm": "INACTIVE",
-            "eth.crazypool.ca": "INACTIVE"
-        },
-        "1575199437": {
-            "eth.eu.nicehash.com": "INACTIVE"
-        },
-        "1575199438": {
-            "eth.fairpool.xyz": "INACTIVE"
-        },
-        "1575199439": {
-            "eth.labaleine.gg": "INACTIVE"
-        },
-        "1575199440": {
-            "eth.minertopia.org": "INACTIVE"
-        },
-        "1575200970": {
-            "eth.miningpoolhub.com": "INACTIVE",
-            "eth.multipooler.com": "INACTIVE"
-        },
-        "1575200971": {
-            "eth.node.coin-miners.info": "INACTIVE",
-            "eth.p00l.org": "INACTIVE",
-            "eth.penguinpool.net": "INACTIVE"
-        },
-        "1575200972": {
-            "eth.pool.hashto.cash": "INACTIVE",
-            "eth.poolmate.online": "INACTIVE",
-            "eth.poolmining.eu": "INACTIVE"
-        },
-        "1575200973": {
-            "eth.pp.ua": "INACTIVE",
-            "eth.prod.2miners.com": "INACTIVE"
-        },
-        "1575200974": {
-            "eth.soyminero.es": "INACTIVE",
-            "eth.spacepools.org": "INACTIVE"
-        },
-        "1575200975": {
-            "eth.test.2miners.com": "INACTIVE"
-        },
         "1575200976": {
             "eth2.suprnova.cc": "INACTIVE"
         },
@@ -28242,6 +28093,109 @@
             "esn.cubepool.eu": "INACTIVE",
             "esn.ehashcoins.org": "INACTIVE",
             "esn.solopool.org": "INACTIVE"
+        },
+        "1575490915": {
+            "esp.suprnova.cc": "INACTIVE",
+            "esr.ipadi.xyz": "INACTIVE",
+            "est.pool.ethfans.org": "INACTIVE"
+        },
+        "1575490916": {
+            "estream.to": "INACTIVE",
+            "esxi.n3rd3d.com": "INACTIVE",
+            "et.cryptobrowser.site": "INACTIVE",
+            "etc-api.semipool.com": "INACTIVE",
+            "etc-chart1.epool.io": "INACTIVE"
+        },
+        "1575490917": {
+            "etc-eu.pool.sexy": "INACTIVE",
+            "etc-eu.suprnova.cc": "INACTIVE",
+            "etc-solo-eu.wattpool.net": "INACTIVE",
+            "etc-us.pool.sexy": "INACTIVE",
+            "etc-us.suprnova.cc": "INACTIVE"
+        },
+        "1575490918": {
+            "etc.bw.com": "INACTIVE",
+            "etc.chileminers.cl": "INACTIVE",
+            "etc.cryptopool.online": "INACTIVE",
+            "etc.cybtc.info": "INACTIVE",
+            "etc.ehashcoins.org": "INACTIVE",
+            "etc.epool.io": "INACTIVE"
+        },
+        "1575490919": {
+            "etc.labaleine.gg": "INACTIVE",
+            "etc.lucky-mining.com.ua": "INACTIVE",
+            "etc.mine-vn.com": "INACTIVE",
+            "etc.minertopia.org": "INACTIVE",
+            "etc.p00l.org": "INACTIVE",
+            "etc.prod.2miners.com": "INACTIVE"
+        },
+        "1575490920": {
+            "etc.semipool.com": "INACTIVE",
+            "etc.staging.pool.whalesburg.com": "INACTIVE",
+            "etc.suprnova.cc": "INACTIVE",
+            "etc.thetechnicalspool.com": "INACTIVE",
+            "etc2.solopool.org": "INACTIVE",
+            "etc2.uleypool.com": "INACTIVE"
+        },
+        "1575490921": {
+            "etcstats.epool.io": "INACTIVE",
+            "etd.suprnova.cc": "INACTIVE",
+            "eth-apac.suprnova.cc": "INACTIVE"
+        },
+        "1575490922": {
+            "eth-api.baikalmine.com": "INACTIVE",
+            "eth-asia1.ethermine.org": "INACTIVE",
+            "eth-au.suprnova.cc": "INACTIVE",
+            "eth-bj-prod.poolin.com": "INACTIVE",
+            "eth-est.pool.ethfans.org": "INACTIVE"
+        },
+        "1575490923": {
+            "eth-eu.pool.sexy": "INACTIVE",
+            "eth-latest-height2.poolin.com": "INACTIVE",
+            "eth-mine.alpereum.ch": "INACTIVE",
+            "eth-mine.suprnova.cc": "INACTIVE",
+            "eth-nl.altpool.pro": "INACTIVE"
+        },
+        "1575490924": {
+            "eth-rus.uleypool.com": "INACTIVE",
+            "eth-testnet.cncoin.farm": "INACTIVE",
+            "eth-us.pool.sexy": "INACTIVE",
+            "eth-us.suprnova.cc": "INACTIVE"
+        },
+        "1575490925": {
+            "eth-us1.dwarfpool.com": "INACTIVE",
+            "eth-us21.dwarfpool.com": "INACTIVE",
+            "eth.1stpool.org": "INACTIVE",
+            "eth.alpereum.ch": "INACTIVE",
+            "eth.bw.com": "INACTIVE"
+        },
+        "1575490926": {
+            "eth.chileminers.cl": "INACTIVE",
+            "eth.cncoin.farm": "INACTIVE",
+            "eth.crazypool.ca": "INACTIVE",
+            "eth.eu.nicehash.com": "INACTIVE",
+            "eth.fairpool.xyz": "INACTIVE"
+        },
+        "1575490927": {
+            "eth.labaleine.gg": "INACTIVE",
+            "eth.minertopia.org": "INACTIVE",
+            "eth.miningpoolhub.com": "INACTIVE",
+            "eth.multipooler.com": "INACTIVE",
+            "eth.node.coin-miners.info": "INACTIVE",
+            "eth.p00l.org": "INACTIVE"
+        },
+        "1575490928": {
+            "eth.penguinpool.net": "INACTIVE",
+            "eth.pool.hashto.cash": "INACTIVE",
+            "eth.poolmate.online": "INACTIVE",
+            "eth.poolmining.eu": "INACTIVE",
+            "eth.pp.ua": "INACTIVE",
+            "eth.prod.2miners.com": "INACTIVE"
+        },
+        "1575490929": {
+            "eth.soyminero.es": "INACTIVE",
+            "eth.spacepools.org": "INACTIVE",
+            "eth.test.2miners.com": "INACTIVE"
         }
     }
 }
