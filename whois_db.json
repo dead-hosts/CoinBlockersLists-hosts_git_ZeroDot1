@@ -3369,6 +3369,11 @@
         "expiration_date": "30-aug-2021",
         "state": "future"
     },
+    "c0banpool.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
     "c0i8h8ac7e.bid": {
         "epoch": "1543276800",
         "expiration_date": "27-nov-2018",
@@ -3382,6 +3387,11 @@
     "c3pool.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
+    "callistopool.org": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "camillesanz.com": {
@@ -3472,6 +3482,16 @@
     "celasllc.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "celcoin.io": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "centrys.io": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
         "state": "future"
     },
     "cfcdist.gdn": {
