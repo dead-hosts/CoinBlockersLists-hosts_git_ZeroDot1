@@ -3524,6 +3524,11 @@
         "expiration_date": "10-dec-2018",
         "state": "past"
     },
+    "chainz.ge": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
     "challengecoin.io": {
         "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
@@ -3632,6 +3637,16 @@
     "clona.ru": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "cloneempirecryptomining.com": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "clopool.pro": {
+        "epoch": 1584144000.0,
+        "expiration_date": "14-mar-2020",
         "state": "future"
     },
     "cloud-wp.org": {
