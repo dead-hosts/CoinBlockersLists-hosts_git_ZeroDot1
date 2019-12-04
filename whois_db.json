@@ -6759,6 +6759,16 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "hashing.center": {
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "state": "future"
+    },
+    "hashing.network": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "hashing.win": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
@@ -6794,6 +6804,11 @@
         "expiration_date": "27-jul-2027",
         "state": "future"
     },
+    "hashnetwork.net": {
+        "epoch": 1585699200.0,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
     "hashon.me": {
         "epoch": 1576800000.0,
         "expiration_date": "20-dec-2019",
@@ -6814,6 +6829,11 @@
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
+    "hashpool.cc": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
     "hashpool.com": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
@@ -6822,6 +6842,11 @@
     "hashpower.co": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
+    "hashpump.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "hashrefinery.com": {
@@ -6903,6 +6928,11 @@
         "epoch": 1566777600,
         "expiration_date": "26-aug-2019",
         "state": "past"
+    },
+    "hellburn.ru": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
     },
     "hellominer.com": {
         "epoch": 1593820800.0,
