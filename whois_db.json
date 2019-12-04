@@ -5725,8 +5725,8 @@
         "state": "future"
     },
     "fairhash.org": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "fairmine.pro": {
@@ -5762,6 +5762,11 @@
     "fastandcoolest.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "fasterpool.com": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "fastlink.pl": {
@@ -5824,9 +5829,19 @@
         "expiration_date": "26-feb-2020",
         "state": "future"
     },
+    "findblocks.co.uk": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "findblocks.com": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "firehash.net": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
         "state": "future"
     },
     "firepool.com": {
@@ -5837,6 +5852,11 @@
     "firmware.center": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "firstordermineroutlook.com": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "firstpool.ru": {
