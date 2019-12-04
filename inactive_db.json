@@ -8073,9 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575169215": {
-            "bc.fix.btcc.com": "INACTIVE"
-        },
         "1575171813": {
             "bills.fix.btcc.com": "INACTIVE"
         },
@@ -15618,49 +15615,6 @@
             "ncrepcoin.labbinarymining.com": "INACTIVE",
             "ncrm.aikapool.com": "INACTIVE"
         },
-        "1575229544": {
-            "baou.openvpn.f2pool.com": "INACTIVE",
-            "barloworld.btc.com": "INACTIVE",
-            "bas.e-pool.net": "INACTIVE",
-            "bauersagtnein.myeffect.net": "INACTIVE"
-        },
-        "1575229545": {
-            "bayhypertpb.be": "INACTIVE",
-            "bayunblocked.eu": "INACTIVE",
-            "baywttgdhe.do": "INACTIVE",
-            "baywttgdhe.download": "INACTIVE",
-            "bb.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575229546": {
-            "bbb.poolin.com": "INACTIVE",
-            "bbc.suprnova.cc": "INACTIVE",
-            "bbk.suprnova.cc": "INACTIVE",
-            "bbl.suprnova.cc": "INACTIVE"
-        },
-        "1575229547": {
-            "bbr.cncoin.farm": "INACTIVE",
-            "bbr.crypto-coins.club": "INACTIVE",
-            "bbr.crypto-pool.fr": "INACTIVE",
-            "bbr.gonspool.com": "INACTIVE"
-        },
-        "1575229548": {
-            "bbr.mbkpool.info": "INACTIVE",
-            "bbr.node.crypto-pool.fr": "INACTIVE",
-            "bbr.rupool.tk": "INACTIVE",
-            "bbr.suprnova.cc": "INACTIVE",
-            "bbr1.mbkpool.info": "INACTIVE"
-        },
-        "1575229549": {
-            "bbr2.mbkpool.info": "INACTIVE",
-            "bbrc.luckypool.io": "INACTIVE",
-            "bbs.bixin.com": "INACTIVE",
-            "bbs.c1d2.com": "INACTIVE"
-        },
-        "1575229550": {
-            "bbs.ethfans.org": "INACTIVE",
-            "bbs.flyhash.cc": "INACTIVE",
-            "bbs.haobtc.com": "INACTIVE"
-        },
         "1575229569": {
             "nd.steadyhash.org": "INACTIVE",
             "ndam.cryptobrowser.site": "INACTIVE"
@@ -15906,121 +15860,7 @@
             "niobio.ingest.cryptoknight.cc": "INACTIVE",
             "niobio.luckypool.org": "INACTIVE"
         },
-        "1575232120": {
-            "bbs.ingest.cryptoknight.cc": "INACTIVE",
-            "bbs.semipool.com": "INACTIVE",
-            "bbscoin.labbinarymining.com": "INACTIVE"
-        },
-        "1575232121": {
-            "bbt.openvpn.f2pool.com": "INACTIVE",
-            "bbw.openvpn.f2pool.com": "INACTIVE",
-            "bc.bitcoin.co.pt": "INACTIVE",
-            "bca.bcmonster.com": "INACTIVE"
-        },
-        "1575232122": {
-            "bcc-insight.btc.com": "INACTIVE",
-            "bcc-recovery.btc.com": "INACTIVE",
-            "bcc-wallet.btc.com": "INACTIVE"
-        },
-        "1575232123": {
-            "bcc.coin-miners.info": "INACTIVE",
-            "bcc.coinstop.me": "INACTIVE",
-            "bcc.cybtc.info": "INACTIVE",
-            "bcc.node.coin-miners.info": "INACTIVE"
-        },
-        "1575232124": {
-            "bccold.coin-miners.info": "INACTIVE",
-            "bccold.node.coin-miners.info": "INACTIVE",
-            "bccprop.coin-miners.info": "INACTIVE",
-            "bccprop.node.coin-miners.info": "INACTIVE"
-        },
-        "1575232125": {
-            "bcdpool-ali-qd-00.f2pool.com": "INACTIVE",
-            "bch-bj-prod.poolin.com": "INACTIVE",
-            "bch-wallet.btc.com": "INACTIVE",
-            "bch.1stpool.org": "INACTIVE"
-        },
-        "1575232126": {
-            "bch.minertopia.org": "INACTIVE",
-            "bci.mine-vn.com": "INACTIVE",
-            "bci.solopool.org": "INACTIVE",
-            "bcimilk.altpool.pro": "INACTIVE"
-        },
-        "1575232127": {
-            "bckke.99btc.net": "INACTIVE",
-            "bcl.luckypool.io": "INACTIVE",
-            "bcn.cryptonight.net": "INACTIVE",
-            "bcn.cryptowide.io": "INACTIVE"
-        },
-        "1575232128": {
-            "bcn.mypool.name": "INACTIVE",
-            "bco.coin-miners.info": "INACTIVE",
-            "bco.node.coin-miners.info": "INACTIVE",
-            "bcp.luckypool.io": "INACTIVE"
-        },
-        "1575232129": {
-            "bd.bitcoin.co.pt": "INACTIVE",
-            "bdembassy.moneroseeds.ae.org": "INACTIVE",
-            "bdg.suprnova.cc": "INACTIVE",
-            "bdsd.mibpool.com": "INACTIVE"
-        },
-        "1575232130": {
-            "bdx.luckypool.io": "INACTIVE",
-            "be.bitcoin.co.pt": "INACTIVE",
-            "be1.myzen.cash": "INACTIVE",
-            "bea-asia.majorminers.com": "INACTIVE"
-        },
-        "1575232131": {
-            "bea-east.majorminers.com": "INACTIVE",
-            "bea-europe.majorminers.com": "INACTIVE",
-            "bea-west.majorminers.com": "INACTIVE",
-            "bea.majorminers.com": "INACTIVE"
-        },
-        "1575232132": {
-            "beach.mpool.su": "INACTIVE",
-            "bead.openvpn.f2pool.com": "INACTIVE",
-            "beagamer.club": "INACTIVE",
-            "beam.cryptoblock.uk": "INACTIVE"
-        },
-        "1575232133": {
-            "bee.suprnova.cc": "INACTIVE",
-            "bee2.luckypool.cn": "INACTIVE"
-        },
-        "1575232134": {
-            "beemobile.moneroseeds.ae.org": "INACTIVE",
-            "beer.icemining.ca": "INACTIVE",
-            "beldex.luckypool.io": "INACTIVE"
-        },
-        "1575232135": {
-            "bela.mine-vn.com": "INACTIVE",
-            "beldex.universalpool.net": "INACTIVE",
-            "belicimo.pw": "INACTIVE",
-            "bella.suprnova.cc": "INACTIVE"
-        },
-        "1575232136": {
-            "ben-test-dev-cf.z.cash": "INACTIVE",
-            "benharryfinances.moneroseeds.ae.org": "INACTIVE",
-            "benji.suprnova.cc": "INACTIVE"
-        },
-        "1575232137": {
-            "bern.suprnova.cc": "INACTIVE",
-            "berserkpl.net.pl": "INACTIVE",
-            "best-game.xyz": "INACTIVE",
-            "best-p2pool.eu": "INACTIVE"
-        },
-        "1575232138": {
-            "bestonlineserial.ru": "INACTIVE",
-            "beta-etc.ethermine.org": "INACTIVE",
-            "beta-pool.sushipool.com": "INACTIVE",
-            "beta-zcash.flypool.org": "INACTIVE"
-        },
-        "1575232139": {
-            "beta.aeon-pool.com": "INACTIVE",
-            "beta.beta.supportxmr.com": "INACTIVE",
-            "beta.biblepay.org": "INACTIVE"
-        },
         "1575232140": {
-            "beta.coinblind.com": "INACTIVE",
             "beta.coinrail.io": "INACTIVE",
             "beta.cryptopool.party": "INACTIVE",
             "beta.dm.bitcoin.co.pt": "INACTIVE"
@@ -29019,6 +28859,155 @@
             "bam.node.coin-miners.info": "INACTIVE",
             "bam.suprnova.cc": "INACTIVE",
             "bamboo.suprnova.cc": "INACTIVE"
+        },
+        "1575469836": {
+            "baoata-api.btcc.com": "INACTIVE",
+            "baou.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1575469837": {
+            "barbados.fix.btcc.com": "INACTIVE",
+            "barloworld.btc.com": "INACTIVE",
+            "bas.e-pool.net": "INACTIVE",
+            "bauersagtnein.myeffect.net": "INACTIVE",
+            "bayern.fix.btcc.com": "INACTIVE"
+        },
+        "1575469838": {
+            "bayhypertpb.be": "INACTIVE",
+            "bayunblocked.eu": "INACTIVE",
+            "baywttgdhe.do": "INACTIVE",
+            "baywttgdhe.download": "INACTIVE",
+            "bb.bitcoin.co.pt": "INACTIVE",
+            "bbb.poolin.com": "INACTIVE",
+            "bbc.suprnova.cc": "INACTIVE"
+        },
+        "1575469839": {
+            "bbk.suprnova.cc": "INACTIVE",
+            "bbl.suprnova.cc": "INACTIVE",
+            "bbr.cncoin.farm": "INACTIVE",
+            "bbr.crypto-coins.club": "INACTIVE",
+            "bbr.crypto-pool.fr": "INACTIVE",
+            "bbr.gonspool.com": "INACTIVE",
+            "bbr.mbkpool.info": "INACTIVE",
+            "bbr.node.crypto-pool.fr": "INACTIVE"
+        },
+        "1575469840": {
+            "bbr.rupool.tk": "INACTIVE",
+            "bbr.suprnova.cc": "INACTIVE",
+            "bbr1.mbkpool.info": "INACTIVE",
+            "bbr2.mbkpool.info": "INACTIVE",
+            "bbrc.luckypool.io": "INACTIVE",
+            "bbs.bixin.com": "INACTIVE"
+        },
+        "1575469841": {
+            "bbs.c1d2.com": "INACTIVE",
+            "bbs.ethfans.org": "INACTIVE",
+            "bbs.flyhash.cc": "INACTIVE",
+            "bbs.haobtc.com": "INACTIVE",
+            "bbs.ingest.cryptoknight.cc": "INACTIVE",
+            "bbs.semipool.com": "INACTIVE",
+            "bbscoin.labbinarymining.com": "INACTIVE"
+        },
+        "1575469842": {
+            "bbt.openvpn.f2pool.com": "INACTIVE",
+            "bbw.openvpn.f2pool.com": "INACTIVE",
+            "bc.bitcoin.co.pt": "INACTIVE",
+            "bc.fix.btcc.com": "INACTIVE",
+            "bca.bcmonster.com": "INACTIVE",
+            "bca.multipools.club": "INACTIVE",
+            "bcc-recovery.btc.com": "INACTIVE"
+        },
+        "1575469843": {
+            "bcc-insight.btc.com": "INACTIVE",
+            "bcc-wallet.btc.com": "INACTIVE",
+            "bcc.coin-miners.info": "INACTIVE",
+            "bcc.coinstop.me": "INACTIVE",
+            "bcc.cybtc.info": "INACTIVE",
+            "bcc.node.coin-miners.info": "INACTIVE",
+            "bccold.coin-miners.info": "INACTIVE"
+        },
+        "1575469844": {
+            "bccold.node.coin-miners.info": "INACTIVE",
+            "bccprop.coin-miners.info": "INACTIVE",
+            "bccprop.node.coin-miners.info": "INACTIVE",
+            "bcdpool-ali-qd-00.f2pool.com": "INACTIVE",
+            "bch-bj-prod.poolin.com": "INACTIVE"
+        },
+        "1575469845": {
+            "bch-wallet.btc.com": "INACTIVE",
+            "bch.1stpool.org": "INACTIVE",
+            "bch.minertopia.org": "INACTIVE",
+            "bci.mine-vn.com": "INACTIVE",
+            "bci.solopool.org": "INACTIVE"
+        },
+        "1575469846": {
+            "bcimilk.altpool.pro": "INACTIVE",
+            "bckke.99btc.net": "INACTIVE",
+            "bcl.luckypool.io": "INACTIVE",
+            "bcn.cryptonight.net": "INACTIVE",
+            "bcn.cryptowide.io": "INACTIVE",
+            "bcn.mypool.name": "INACTIVE"
+        },
+        "1575469847": {
+            "bco.coin-miners.info": "INACTIVE",
+            "bco.node.coin-miners.info": "INACTIVE",
+            "bcp.luckypool.io": "INACTIVE",
+            "bd.bitcoin.co.pt": "INACTIVE",
+            "bdembassy.moneroseeds.ae.org": "INACTIVE",
+            "bdg.suprnova.cc": "INACTIVE"
+        },
+        "1575469848": {
+            "bdsd.mibpool.com": "INACTIVE",
+            "bdx.luckypool.io": "INACTIVE",
+            "be.bitcoin.co.pt": "INACTIVE",
+            "be1.myzen.cash": "INACTIVE",
+            "bea-asia.majorminers.com": "INACTIVE",
+            "bea-east.majorminers.com": "INACTIVE",
+            "bea-europe.majorminers.com": "INACTIVE"
+        },
+        "1575469849": {
+            "bea-west.majorminers.com": "INACTIVE",
+            "bea.majorminers.com": "INACTIVE",
+            "beach.mpool.su": "INACTIVE",
+            "bead.openvpn.f2pool.com": "INACTIVE",
+            "beagamer.club": "INACTIVE",
+            "beam.cryptoblock.uk": "INACTIVE"
+        },
+        "1575469850": {
+            "bee.fix.btcc.com": "INACTIVE",
+            "bee.suprnova.cc": "INACTIVE",
+            "bee2.luckypool.cn": "INACTIVE",
+            "beemobile.moneroseeds.ae.org": "INACTIVE",
+            "beer.icemining.ca": "INACTIVE"
+        },
+        "1575469851": {
+            "beer.fix.btcc.com": "INACTIVE",
+            "bela.mine-vn.com": "INACTIVE",
+            "beldex.luckypool.io": "INACTIVE",
+            "beldex.universalpool.net": "INACTIVE",
+            "belicimo.pw": "INACTIVE",
+            "bella.suprnova.cc": "INACTIVE"
+        },
+        "1575469852": {
+            "belle.fix.btcc.com": "INACTIVE",
+            "ben-test-dev-cf.z.cash": "INACTIVE",
+            "benharryfinances.moneroseeds.ae.org": "INACTIVE",
+            "benji.suprnova.cc": "INACTIVE",
+            "bern.suprnova.cc": "INACTIVE",
+            "berserkpl.net.pl": "INACTIVE"
+        },
+        "1575469853": {
+            "best-game.xyz": "INACTIVE",
+            "best-p2pool.eu": "INACTIVE",
+            "bestonlineserial.ru": "INACTIVE",
+            "beta-etc.ethermine.org": "INACTIVE",
+            "beta-pool.sushipool.com": "INACTIVE"
+        },
+        "1575469854": {
+            "beta-zcash.flypool.org": "INACTIVE",
+            "beta.aeon-pool.com": "INACTIVE",
+            "beta.beta.supportxmr.com": "INACTIVE",
+            "beta.biblepay.org": "INACTIVE",
+            "beta.coinblind.com": "INACTIVE"
         }
     }
 }
