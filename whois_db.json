@@ -4824,6 +4824,11 @@
         "expiration_date": "30-may-2019",
         "state": "past"
     },
+    "dapool.me": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
     "dark-mine.su": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
