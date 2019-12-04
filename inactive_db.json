@@ -8073,238 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575204301": {
-            "eu2.music.minertopia.org": "INACTIVE"
-        },
-        "1575204302": {
-            "eu2.node.coin-miners.info": "INACTIVE",
-            "eu2.node.turtlepool.space": "INACTIVE",
-            "eu2.siriuspool.net": "INACTIVE"
-        },
-        "1575204303": {
-            "eu2.sushipool.com": "INACTIVE",
-            "eu2.ubiqpool.io": "INACTIVE",
-            "eu2.umine.org": "INACTIVE"
-        },
-        "1575204304": {
-            "eu2.wemineltc.com": "INACTIVE",
-            "eu3.coin-miners.info": "INACTIVE"
-        },
-        "1575204305": {
-            "eu3.node.coin-miners.info": "INACTIVE",
-            "eu3.sushipool.com": "INACTIVE"
-        },
-        "1575204306": {
-            "eu4.coin-miners.info": "INACTIVE",
-            "eu4.node.coin-miners.info": "INACTIVE"
-        },
-        "1575204307": {
-            "euc.poolto.be": "INACTIVE",
-            "eunode.pool.gold": "INACTIVE",
-            "euph.coin-miners.info": "INACTIVE"
-        },
-        "1575204308": {
-            "euph.node.coin-miners.info": "INACTIVE",
-            "euph.suprnova.cc": "INACTIVE",
-            "eur1.ethermine.org": "INACTIVE"
-        },
-        "1575204309": {
-            "eurc.gcpool.eu": "INACTIVE",
-            "euro.poolto.be": "INACTIVE",
-            "europa-east.majorminers.com": "INACTIVE"
-        },
-        "1575204310": {
-            "europa.majorminers.com": "INACTIVE"
-        },
-        "1575204311": {
-            "europe.hush.bitpoolmining.com": "INACTIVE",
-            "europe.minemonero.pro": "INACTIVE"
-        },
-        "1575204312": {
-            "europe.miningpoolhub.com": "INACTIVE",
-            "europe.monerise.com": "INACTIVE",
-            "europe.monero.hashvault.pro": "INACTIVE"
-        },
-        "1575204313": {
-            "europe.monero.nodes.hashvault.pro": "INACTIVE",
-            "europe.node.moneroworld.com": "INACTIVE",
-            "europe.rvn.bitpoolmining.com": "INACTIVE",
-            "europe.siacoin.miningpoolhub.com": "INACTIVE"
-        },
-        "1575204314": {
-            "europe.vtc.bitpoolmining.com": "INACTIVE"
-        },
-        "1575204315": {
-            "europe1.aricoin.miningpoolhub.com": "INACTIVE",
-            "europe1.bitcoincoin.miningpoolhub.com": "INACTIVE",
-            "europe1.checkcoin.miningpoolhub.com": "INACTIVE"
-        },
-        "1575204316": {
-            "europe1.crevacoin.miningpoolhub.com": "INACTIVE",
-            "europe1.digitalcoin.miningpoolhub.com": "INACTIVE",
-            "europe1.dogecoindark.miningpoolhub.com": "INACTIVE"
-        },
-        "1575204317": {
-            "europe1.execoin.miningpoolhub.com": "INACTIVE"
-        },
-        "1575204318": {
-            "europe1.fractalcoin.miningpoolhub.com": "INACTIVE",
-            "europe1.geocoin.miningpoolhub.com": "INACTIVE"
-        },
-        "1575204319": {
-            "europe1.hub.miningpoolhub.com": "INACTIVE",
-            "europe1.jackpotcoin.miningpoolhub.com": "INACTIVE"
-        },
-        "1575204320": {
-            "europe1.myriadcoin-skein.miningpoolhub.com": "INACTIVE",
-            "europe1.potcoin.miningpoolhub.com": "INACTIVE",
-            "europe1.quark.miningpoolhub.com": "INACTIVE"
-        },
-        "1575204321": {
-            "europe1.securecoin.miningpoolhub.com": "INACTIVE",
-            "europe1.solarcoin.miningpoolhub.com": "INACTIVE",
-            "europe1.spaincoin.miningpoolhub.com": "INACTIVE",
-            "europe1.ufocoin.miningpoolhub.com": "INACTIVE"
-        },
-        "1575204322": {
-            "europe1.uro.miningpoolhub.com": "INACTIVE",
-            "europe1.vcash.miningpoolhub.com": "INACTIVE"
-        },
-        "1575204323": {
-            "eva.btcc.com": "INACTIVE",
-            "evengparme.com": "INACTIVE"
-        },
-        "1575204324": {
-            "event.coin-miners.info": "INACTIVE",
-            "event.node.coin-miners.info": "INACTIVE",
-            "event.suprnova.cc": "INACTIVE"
-        },
-        "1575204325": {
-            "evil.suprnova.cc": "INACTIVE",
-            "ex-notify.coinbase.com": "INACTIVE"
-        },
-        "1575204326": {
-            "exbg.suprnova.cc": "INACTIVE",
-            "exc.nosekefik.com": "INACTIVE"
-        },
-        "1575204327": {
-            "exchange.aevocoin.net": "INACTIVE",
-            "exchange.btc.com": "INACTIVE"
-        },
-        "1575204328": {
-            "exchange.btcchina.com": "INACTIVE",
-            "exchange.coinsecure.in": "INACTIVE",
-            "exchange.squashpool.com": "INACTIVE"
-        },
-        "1575204329": {
-            "excl.suprnova.cc": "INACTIVE"
-        },
-        "1575204330": {
-            "exmio.biz": "INACTIVE",
-            "exn.youpool.io": "INACTIVE"
-        },
-        "1575204331": {
-            "exp-pplns.ehashcoins.org": "INACTIVE",
-            "exp-solo.baikalmine.com": "INACTIVE"
-        },
-        "1575204332": {
-            "exp.baikalmine.com": "INACTIVE",
-            "exp.coinmine.pl": "INACTIVE"
-        },
-        "1575204333": {
-            "exp.ehashcoins.org": "INACTIVE",
-            "exp.epool.io": "INACTIVE",
-            "exp.fairpool.xyz": "INACTIVE"
-        },
-        "1575204334": {
-            "exp.labaleine.gg": "INACTIVE",
-            "exp.mine-vn.com": "INACTIVE",
-            "exp.minertopia.org": "INACTIVE"
-        },
-        "1575204335": {
-            "exp.staging.pool.whalesburg.com": "INACTIVE"
-        },
-        "1575204336": {
-            "exp.virtopia.ca": "INACTIVE",
-            "exp2.solopool.org": "INACTIVE"
-        },
-        "1575204337": {
-            "explore.cryptoknight.cc": "INACTIVE"
-        },
-        "1575204338": {
-            "explorer-etig.europool.me": "INACTIVE"
-        },
-        "1575205965": {
-            "explorer.beta.z.cash": "INACTIVE"
-        },
-        "1575205966": {
-            "explorer.btc.com": "INACTIVE",
-            "explorer.cryptopros.us": "INACTIVE"
-        },
-        "1575205967": {
-            "explorer.elphyrecoin.xyz": "INACTIVE",
-            "explorer.fairpool.xyz": "INACTIVE"
-        },
-        "1575205968": {
-            "explorer.fredcoinpool.com": "INACTIVE",
-            "explorer.garlicpool.org": "INACTIVE",
-            "explorer.gridcoin.us": "INACTIVE"
-        },
-        "1575205969": {
-            "explorer.jsecoin.com": "INACTIVE",
-            "explorer.msr.heigh-ho.funkypenguin.co.nz": "INACTIVE"
-        },
-        "1575205970": {
-            "explorer.namecoin.info": "INACTIVE",
-            "explorer.node.expanse.tech": "INACTIVE",
-            "explorer.node.gridcoin.us": "INACTIVE",
-            "explorer.node.xmr.pt": "INACTIVE"
-        },
-        "1575205971": {
-            "explorer.poolofd32th.club": "INACTIVE",
-            "explorer.qrlmining.info": "INACTIVE"
-        },
-        "1575205972": {
-            "explorer.sugarchain.org": "INACTIVE",
-            "explorer.sushipool.com": "INACTIVE"
-        },
-        "1575205973": {
-            "explorer.trtl.heigh-ho.funkypenguin.co.nz": "INACTIVE"
-        },
-        "1575205974": {
-            "explorer01.bitultra.io": "INACTIVE",
-            "explorer02.bitultra.io": "INACTIVE"
-        },
-        "1575205975": {
-            "explorer2.expanse.tech": "INACTIVE",
-            "explorer2.gridcoin.us": "INACTIVE",
-            "explorer2.node.gridcoin.us": "INACTIVE"
-        },
-        "1575205976": {
-            "explorersconvayencing.com.au": "INACTIVE",
-            "exrno.biz": "INACTIVE"
-        },
-        "1575205977": {
-            "external.monerise.com": "INACTIVE"
-        },
-        "1575205978": {
-            "extremeool.org": "INACTIVE",
-            "extrmepool.org": "INACTIVE",
-            "eye.killeee.com": "INACTIVE"
-        },
-        "1575205979": {
-            "ezc.cloudpools.net": "INACTIVE",
-            "f.bitcoin.co.pt": "INACTIVE",
-            "f.pooling.cf": "INACTIVE",
-            "f.sunnyjuly.gq": "INACTIVE"
-        },
-        "1575205980": {
-            "f1.cryptopool.ru": "INACTIVE",
-            "f1.deepbit.net": "INACTIVE"
-        },
         "1575205981": {
-            "f10-194.btcc.com": "INACTIVE",
-            "f10-92-181.btcc.com": "INACTIVE",
             "f2-65.btcc.com": "INACTIVE"
         },
         "1575205982": {
@@ -28111,6 +27880,162 @@
         "1575493618": {
             "eu2.multipool.es": "INACTIVE",
             "eu2.multipool.us": "INACTIVE"
+        },
+        "1575494919": {
+            "eu2.music.minertopia.org": "INACTIVE",
+            "eu2.node.coin-miners.info": "INACTIVE",
+            "eu2.node.turtlepool.space": "INACTIVE"
+        },
+        "1575494920": {
+            "eu2.siriuspool.net": "INACTIVE",
+            "eu2.sushipool.com": "INACTIVE",
+            "eu2.ubiqpool.io": "INACTIVE",
+            "eu2.umine.org": "INACTIVE",
+            "eu2.wemineltc.com": "INACTIVE",
+            "eu3.coin-miners.info": "INACTIVE",
+            "eu3.node.coin-miners.info": "INACTIVE",
+            "eu3.sushipool.com": "INACTIVE"
+        },
+        "1575494921": {
+            "eu4.coin-miners.info": "INACTIVE",
+            "eu4.node.coin-miners.info": "INACTIVE",
+            "euc.poolto.be": "INACTIVE",
+            "eunode.pool.gold": "INACTIVE",
+            "euph.coin-miners.info": "INACTIVE",
+            "euph.node.coin-miners.info": "INACTIVE",
+            "euph.suprnova.cc": "INACTIVE",
+            "eur1.ethermine.org": "INACTIVE"
+        },
+        "1575494922": {
+            "eurc.gcpool.eu": "INACTIVE",
+            "euro.poolto.be": "INACTIVE",
+            "europa-east.majorminers.com": "INACTIVE",
+            "europa.majorminers.com": "INACTIVE",
+            "europe.hush.bitpoolmining.com": "INACTIVE",
+            "europe.minemonero.pro": "INACTIVE",
+            "europe.miningpoolhub.com": "INACTIVE",
+            "europe.monerise.com": "INACTIVE",
+            "europe.monero.hashvault.pro": "INACTIVE"
+        },
+        "1575494923": {
+            "europe.monero.nodes.hashvault.pro": "INACTIVE",
+            "europe.node.moneroworld.com": "INACTIVE",
+            "europe.rvn.bitpoolmining.com": "INACTIVE",
+            "europe.siacoin.miningpoolhub.com": "INACTIVE",
+            "europe.vtc.bitpoolmining.com": "INACTIVE",
+            "europe1.aricoin.miningpoolhub.com": "INACTIVE",
+            "europe1.bitcoincoin.miningpoolhub.com": "INACTIVE",
+            "europe1.checkcoin.miningpoolhub.com": "INACTIVE",
+            "europe1.crevacoin.miningpoolhub.com": "INACTIVE"
+        },
+        "1575494924": {
+            "europe1.digitalcoin.miningpoolhub.com": "INACTIVE",
+            "europe1.dogecoindark.miningpoolhub.com": "INACTIVE",
+            "europe1.execoin.miningpoolhub.com": "INACTIVE",
+            "europe1.fractalcoin.miningpoolhub.com": "INACTIVE",
+            "europe1.geocoin.miningpoolhub.com": "INACTIVE",
+            "europe1.hub.miningpoolhub.com": "INACTIVE",
+            "europe1.jackpotcoin.miningpoolhub.com": "INACTIVE",
+            "europe1.myriadcoin-skein.miningpoolhub.com": "INACTIVE"
+        },
+        "1575494925": {
+            "europe1.potcoin.miningpoolhub.com": "INACTIVE",
+            "europe1.quark.miningpoolhub.com": "INACTIVE",
+            "europe1.securecoin.miningpoolhub.com": "INACTIVE",
+            "europe1.solarcoin.miningpoolhub.com": "INACTIVE",
+            "europe1.spaincoin.miningpoolhub.com": "INACTIVE",
+            "europe1.ufocoin.miningpoolhub.com": "INACTIVE",
+            "europe1.uro.miningpoolhub.com": "INACTIVE",
+            "europe1.vcash.miningpoolhub.com": "INACTIVE"
+        },
+        "1575494926": {
+            "evengparme.com": "INACTIVE",
+            "event.coin-miners.info": "INACTIVE",
+            "event.node.coin-miners.info": "INACTIVE",
+            "event.suprnova.cc": "INACTIVE",
+            "evil.suprnova.cc": "INACTIVE",
+            "ex-notify.coinbase.com": "INACTIVE",
+            "exbg.suprnova.cc": "INACTIVE"
+        },
+        "1575494927": {
+            "exc.nosekefik.com": "INACTIVE",
+            "exchange.aevocoin.net": "INACTIVE",
+            "exchange.btc.com": "INACTIVE",
+            "exchange.btcc.com": "INACTIVE",
+            "exchange.btcchina.com": "INACTIVE",
+            "exchange.coinsecure.in": "INACTIVE",
+            "exchange.squashpool.com": "INACTIVE"
+        },
+        "1575494928": {
+            "excl.suprnova.cc": "INACTIVE",
+            "exmio.biz": "INACTIVE",
+            "exn.youpool.io": "INACTIVE",
+            "exp-pplns.ehashcoins.org": "INACTIVE",
+            "exp-solo.baikalmine.com": "INACTIVE",
+            "exp.baikalmine.com": "INACTIVE"
+        },
+        "1575494929": {
+            "exp.coinmine.pl": "INACTIVE",
+            "exp.ehashcoins.org": "INACTIVE",
+            "exp.epool.io": "INACTIVE",
+            "exp.fairpool.xyz": "INACTIVE",
+            "exp.labaleine.gg": "INACTIVE",
+            "exp.mine-vn.com": "INACTIVE",
+            "exp.minertopia.org": "INACTIVE",
+            "exp.staging.pool.whalesburg.com": "INACTIVE"
+        },
+        "1575494930": {
+            "exp.virtopia.ca": "INACTIVE",
+            "exp2.solopool.org": "INACTIVE",
+            "expenditures.fix.btcc.com": "INACTIVE",
+            "explore.cryptoknight.cc": "INACTIVE",
+            "explorer-etig.europool.me": "INACTIVE",
+            "explorer.beta.z.cash": "INACTIVE"
+        },
+        "1575494931": {
+            "explorer.btc.com": "INACTIVE",
+            "explorer.cryptopros.us": "INACTIVE",
+            "explorer.elphyrecoin.xyz": "INACTIVE",
+            "explorer.fairpool.xyz": "INACTIVE",
+            "explorer.fredcoinpool.com": "INACTIVE",
+            "explorer.garlicpool.org": "INACTIVE"
+        },
+        "1575494932": {
+            "explorer.gridcoin.us": "INACTIVE",
+            "explorer.jsecoin.com": "INACTIVE",
+            "explorer.msr.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "explorer.namecoin.info": "INACTIVE",
+            "explorer.node.expanse.tech": "INACTIVE",
+            "explorer.node.gridcoin.us": "INACTIVE",
+            "explorer.node.xmr.pt": "INACTIVE",
+            "explorer.poolofd32th.club": "INACTIVE"
+        },
+        "1575494933": {
+            "explorer.qrlmining.info": "INACTIVE",
+            "explorer.sugarchain.org": "INACTIVE",
+            "explorer.sushipool.com": "INACTIVE",
+            "explorer.trtl.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "explorer01.bitultra.io": "INACTIVE",
+            "explorer02.bitultra.io": "INACTIVE"
+        },
+        "1575494934": {
+            "explorer2.expanse.tech": "INACTIVE",
+            "explorer2.gridcoin.us": "INACTIVE",
+            "explorer2.node.gridcoin.us": "INACTIVE",
+            "explorersconvayencing.com.au": "INACTIVE",
+            "exrno.biz": "INACTIVE",
+            "external.monerise.com": "INACTIVE",
+            "extremeool.org": "INACTIVE"
+        },
+        "1575494935": {
+            "extrmepool.org": "INACTIVE",
+            "eye.killeee.com": "INACTIVE",
+            "ezc.cloudpools.net": "INACTIVE",
+            "f.bitcoin.co.pt": "INACTIVE",
+            "f.pooling.cf": "INACTIVE",
+            "f.sunnyjuly.gq": "INACTIVE",
+            "f1.cryptopool.ru": "INACTIVE",
+            "f1.deepbit.net": "INACTIVE"
         }
     }
 }
