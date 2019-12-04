@@ -8073,279 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575193992": {
-            "dnsseed.btcc.com": "INACTIVE",
-            "dnsseed.gridcoin.us": "INACTIVE",
-            "dnsseed.guardcoin.trade": "INACTIVE"
-        },
-        "1575193993": {
-            "dnsseed.node.gridcoin.us": "INACTIVE",
-            "dnsseed.superpool.win": "INACTIVE",
-            "do.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575193994": {
-            "docker.f2pool.com": "INACTIVE"
-        },
-        "1575193995": {
-            "docker.pool.golix.com": "INACTIVE",
-            "dockerhub.pool.golix.com": "INACTIVE"
-        },
-        "1575193998": {
-            "docs.aevocoin.net": "INACTIVE",
-            "docs.aikapool.com": "INACTIVE"
-        },
-        "1575194001": {
-            "documents.pool.golix.com": "INACTIVE",
-            "doge.coinspool.co": "INACTIVE"
-        },
-        "1575194002": {
-            "doge.altcoinpool.com": "INACTIVE",
-            "doge.cryptopia.co.nz": "INACTIVE",
-            "doge.e-pool.net": "INACTIVE"
-        },
-        "1575194003": {
-            "doge.hash-to-coins.com": "INACTIVE",
-            "doge.majorminers.com": "INACTIVE",
-            "doge.mine-vn.com": "INACTIVE"
-        },
-        "1575194004": {
-            "doge.miningfield.com": "INACTIVE",
-            "doge.netcodepool.org": "INACTIVE",
-            "doge.p2pmine.com": "INACTIVE",
-            "doge.pool.pm": "INACTIVE"
-        },
-        "1575194005": {
-            "doge.poolto.be": "INACTIVE",
-            "doge.smartmining.net": "INACTIVE",
-            "doge.suprnova.cc": "INACTIVE"
-        },
-        "1575194006": {
-            "dogebc.coin-miners.info": "INACTIVE",
-            "dogebc.node.coin-miners.info": "INACTIVE",
-            "dogecoin.miningpoolhub.com": "INACTIVE"
-        },
-        "1575194007": {
-            "doged.suprnova.cc": "INACTIVE",
-            "doges.netcodepool.org": "INACTIVE",
-            "dogx.europool.me": "INACTIVE",
-            "dogx.mine-vn.com": "INACTIVE"
-        },
-        "1575194008": {
-            "dogx.pool.sexy": "INACTIVE",
-            "dogx.solopool.org": "INACTIVE",
-            "doje.poolto.be": "INACTIVE"
-        },
-        "1575194009": {
-            "dollar.coin-miners.info": "INACTIVE",
-            "dollar.node.coin-miners.info": "INACTIVE",
-            "dom.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1575194010": {
-            "domainkey.aikapool.com": "INACTIVE",
-            "domainkey.phoneum.io": "INACTIVE",
-            "domainpanel.clona.ru": "INACTIVE"
-        },
-        "1575194011": {
-            "domains.nocroom.com": "INACTIVE"
-        },
-        "1575194012": {
-            "donate.xmrminingpool.net": "INACTIVE",
-            "door.c1d2.com": "INACTIVE"
-        },
-        "1575194013": {
-            "doom.suprnova.cc": "INACTIVE",
-            "dope.coinstop.me": "INACTIVE",
-            "dope.poolto.be": "INACTIVE",
-            "dope.suprnova.cc": "INACTIVE"
-        },
-        "1575194014": {
-            "dope3.suprnova.cc": "INACTIVE",
-            "dopecoin.coinstop.me": "INACTIVE",
-            "dorm.bluematt.me": "INACTIVE",
-            "dos.suprnova.cc": "INACTIVE"
-        },
-        "1575194015": {
-            "dosh.youpool.io": "INACTIVE",
-            "dotnet.nosekefik.com": "INACTIVE"
-        },
-        "1575195673": {
-            "download.bitultra.io": "INACTIVE",
-            "download.coinimp.com": "INACTIVE"
-        },
-        "1575195674": {
-            "download.cryptobrowser.site": "INACTIVE",
-            "download.node.gridcoin.us": "INACTIVE"
-        },
-        "1575195675": {
-            "download.sushipool.com": "INACTIVE",
-            "download2.sushipool.com": "INACTIVE",
-            "dox.coin-miners.info": "INACTIVE"
-        },
-        "1575195676": {
-            "dox.node.coin-miners.info": "INACTIVE",
-            "dp.coin-miners.info": "INACTIVE",
-            "dp.fastandcoolest.com": "INACTIVE",
-            "dp.node.coin-miners.info": "INACTIVE"
-        },
-        "1575195677": {
-            "dp.suprnova.cc": "INACTIVE",
-            "dpool.to": "INACTIVE"
-        },
-        "1575195678": {
-            "dq.aikapool.com": "INACTIVE",
-            "dq.bitcoin.co.pt": "INACTIVE",
-            "dqpon.btcc.com": "INACTIVE",
-            "dr.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575195679": {
-            "dra.coin-miners.info": "INACTIVE",
-            "dra.node.coin-miners.info": "INACTIVE",
-            "dra.suprnova.cc": "INACTIVE"
-        },
-        "1575195680": {
-            "dravite.luckyaltcoin.com": "INACTIVE",
-            "drive.pool.golix.com": "INACTIVE"
-        },
-        "1575195681": {
-            "drill.node.moneroworld.com": "INACTIVE",
-            "drk-east.majorminers.com": "INACTIVE",
-            "drk-west.majorminers.com": "INACTIVE"
-        },
-        "1575195682": {
-            "drk.althash.eu": "INACTIVE",
-            "drk.cif8.com": "INACTIVE",
-            "drk.coin-lab.com": "INACTIVE",
-            "drk.coin-miners.info": "INACTIVE"
-        },
-        "1575195683": {
-            "drk.cryptosales.eu": "INACTIVE",
-            "drk.ghash.io": "INACTIVE",
-            "drk.hashfire.us": "INACTIVE"
-        },
-        "1575195684": {
-            "drk.majorminers.com": "INACTIVE",
-            "drk.miningfield.com": "INACTIVE",
-            "drk.miningpoolhub.com": "INACTIVE"
-        },
-        "1575195685": {
-            "drk.node.coin-miners.info": "INACTIVE",
-            "drk.p2pmine.com": "INACTIVE",
-            "drk.p2pool.n00bsys0p.co.uk": "INACTIVE"
-        },
-        "1575195686": {
-            "drk.pool1.goodluckpool.com": "INACTIVE",
-            "drk.poolhash.org": "INACTIVE",
-            "drk.yobapool.net": "INACTIVE",
-            "drk02.p2poolmining.us": "INACTIVE"
-        },
-        "1575195687": {
-            "drk03.p2poolmining.us": "INACTIVE",
-            "drk04.p2poolmining.us": "INACTIVE"
-        },
-        "1575195688": {
-            "drkpool.hopto.org": "INACTIVE",
-            "drm.poolto.be": "INACTIVE",
-            "dronml.ml": "INACTIVE"
-        },
-        "1575195689": {
-            "drop.suprnova.cc": "INACTIVE",
-            "drs.suprnova.cc": "INACTIVE"
-        },
-        "1575195690": {
-            "drupalupdates.tk": "INACTIVE",
-            "drx.coin-miners.info": "INACTIVE",
-            "drx.node.coin-miners.info": "INACTIVE",
-            "drz.coin-miners.info": "INACTIVE"
-        },
-        "1575195691": {
-            "drz.node.coin-miners.info": "INACTIVE",
-            "drz.suprnova.cc": "INACTIVE",
-            "ds.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575195692": {
-            "ds.suprnova.cc": "INACTIVE",
-            "dsb.coin-miners.info": "INACTIVE"
-        },
-        "1575195693": {
-            "dsb.node.coin-miners.info": "INACTIVE",
-            "dsh.coinmine.pl": "INACTIVE",
-            "dsh.cryptonight.net": "INACTIVE",
-            "dsh.democats.org": "INACTIVE"
-        },
-        "1575195694": {
-            "dsh.mypool.name": "INACTIVE",
-            "dsh.pool.minergate.com": "INACTIVE"
-        },
-        "1575195695": {
-            "dsh.tugae2.com": "INACTIVE",
-            "dsm.freeyy.me": "INACTIVE",
-            "dsr.mine-vn.com": "INACTIVE"
-        },
-        "1575195696": {
-            "dt.bitcoin.co.pt": "INACTIVE",
-            "dt.coin-miners.info": "INACTIVE",
-            "dt.node.coin-miners.info": "INACTIVE"
-        },
-        "1575195697": {
-            "dtc.coin-miners.info": "INACTIVE",
-            "dtc.node.coin-miners.info": "INACTIVE",
-            "dtr.coin-miners.info": "INACTIVE"
-        },
-        "1575195698": {
-            "dtr.node.coin-miners.info": "INACTIVE",
-            "dtron.suprnova.cc": "INACTIVE"
-        },
-        "1575195699": {
-            "dubai.moneroseeds.ae.org": "INACTIVE",
-            "dubaiexpo.moneroseeds.ae.org": "INACTIVE",
-            "dubester.pw": "INACTIVE",
-            "dubester.si": "INACTIVE"
-        },
-        "1575195700": {
-            "dubester.site": "INACTIVE",
-            "dubester.space": "INACTIVE",
-            "ducab.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1575195701": {
-            "duck.crypto-pool.fr": "INACTIVE",
-            "duck.pool.minergate.com": "INACTIVE",
-            "ducknote.crypto-pool.fr": "INACTIVE"
-        },
-        "1575195702": {
-            "duck.xnpool.com": "INACTIVE",
-            "duo.coin-miners.info": "INACTIVE"
-        },
-        "1575195703": {
-            "dundee.ac.bitcoin.co.pt": "INACTIVE",
-            "duo.coinstop.me": "INACTIVE",
-            "duo.node.coin-miners.info": "INACTIVE"
-        },
-        "1575195704": {
-            "dweb.skypool.org": "INACTIVE",
-            "dwind.miner.center": "INACTIVE"
-        },
-        "1575195705": {
-            "dxmhkisurxxxhm.ru": "INACTIVE"
-        },
-        "1575195706": {
-            "dyn.spacepools.org": "INACTIVE",
-            "dynox.trofinox.em.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575195707": {
-            "e.bitcoin.co.pt": "INACTIVE"
-        },
-        "1575195708": {
-            "e167-56.btcc.com": "INACTIVE",
-            "e167.btcc.com": "INACTIVE",
-            "e32sg.deliveryclub-6589.download": "INACTIVE"
-        },
-        "1575195709": {
-            "e239.btcc.com": "INACTIVE",
-            "e60.btcc.com": "INACTIVE",
-            "e63809w4.beget.tech": "INACTIVE"
-        },
         "1575195710": {
-            "e7.btcc.com": "INACTIVE",
             "ea.bitcoin.co.pt": "INACTIVE",
             "ea.suprnova.cc": "INACTIVE"
         },
@@ -28402,6 +28130,213 @@
         "1575486547": {
             "dnsadmin.bluematt.me": "INACTIVE",
             "dnsseed-rapid.superpool.win": "INACTIVE"
+        },
+        "1575488031": {
+            "dnsseed.gridcoin.us": "INACTIVE",
+            "dnsseed.guardcoin.trade": "INACTIVE",
+            "dnsseed.node.gridcoin.us": "INACTIVE"
+        },
+        "1575488032": {
+            "dnsseed.superpool.win": "INACTIVE",
+            "do.bitcoin.co.pt": "INACTIVE",
+            "docker.f2pool.com": "INACTIVE",
+            "docker.pool.golix.com": "INACTIVE",
+            "dockerhub.pool.golix.com": "INACTIVE"
+        },
+        "1575488033": {
+            "docs.aevocoin.net": "INACTIVE",
+            "docs.aikapool.com": "INACTIVE",
+            "documents.pool.golix.com": "INACTIVE",
+            "doge.coinspool.co": "INACTIVE"
+        },
+        "1575488034": {
+            "doge.altcoinpool.com": "INACTIVE",
+            "doge.cryptopia.co.nz": "INACTIVE",
+            "doge.e-pool.net": "INACTIVE",
+            "doge.hash-to-coins.com": "INACTIVE",
+            "doge.majorminers.com": "INACTIVE",
+            "doge.mine-vn.com": "INACTIVE",
+            "doge.miningfield.com": "INACTIVE"
+        },
+        "1575488035": {
+            "doge.netcodepool.org": "INACTIVE",
+            "doge.p2pmine.com": "INACTIVE",
+            "doge.pool.pm": "INACTIVE",
+            "doge.poolto.be": "INACTIVE",
+            "doge.smartmining.net": "INACTIVE",
+            "doge.suprnova.cc": "INACTIVE",
+            "dogebc.coin-miners.info": "INACTIVE"
+        },
+        "1575488036": {
+            "dogebc.node.coin-miners.info": "INACTIVE",
+            "dogecoin.miningpoolhub.com": "INACTIVE",
+            "doged.suprnova.cc": "INACTIVE",
+            "doges.netcodepool.org": "INACTIVE",
+            "dogx.europool.me": "INACTIVE",
+            "dogx.mine-vn.com": "INACTIVE",
+            "dogx.pool.sexy": "INACTIVE"
+        },
+        "1575488037": {
+            "dogx.solopool.org": "INACTIVE",
+            "doje.poolto.be": "INACTIVE",
+            "dollar.coin-miners.info": "INACTIVE",
+            "dollar.node.coin-miners.info": "INACTIVE",
+            "dom.moneroseeds.ae.org": "INACTIVE",
+            "domainkey.aikapool.com": "INACTIVE"
+        },
+        "1575488038": {
+            "domainkey.phoneum.io": "INACTIVE",
+            "domainpanel.clona.ru": "INACTIVE",
+            "domains.nocroom.com": "INACTIVE",
+            "donate.xmrminingpool.net": "INACTIVE",
+            "doom.suprnova.cc": "INACTIVE",
+            "door.c1d2.com": "INACTIVE"
+        },
+        "1575488039": {
+            "dope.coinstop.me": "INACTIVE",
+            "dope.poolto.be": "INACTIVE",
+            "dope.suprnova.cc": "INACTIVE",
+            "dope3.suprnova.cc": "INACTIVE",
+            "dopecoin.coinstop.me": "INACTIVE",
+            "dorm.bluematt.me": "INACTIVE",
+            "dos.suprnova.cc": "INACTIVE"
+        },
+        "1575488040": {
+            "dosh.youpool.io": "INACTIVE",
+            "dotnet.nosekefik.com": "INACTIVE",
+            "download.bitultra.io": "INACTIVE",
+            "download.coinimp.com": "INACTIVE"
+        },
+        "1575488041": {
+            "download.cryptobrowser.site": "INACTIVE",
+            "download.node.gridcoin.us": "INACTIVE",
+            "download.sushipool.com": "INACTIVE",
+            "download2.sushipool.com": "INACTIVE",
+            "dox.coin-miners.info": "INACTIVE",
+            "dox.node.coin-miners.info": "INACTIVE"
+        },
+        "1575488042": {
+            "dp.coin-miners.info": "INACTIVE",
+            "dp.node.coin-miners.info": "INACTIVE",
+            "dp.suprnova.cc": "INACTIVE",
+            "dpool.to": "INACTIVE",
+            "dq.aikapool.com": "INACTIVE",
+            "dq.bitcoin.co.pt": "INACTIVE",
+            "dr.bitcoin.co.pt": "INACTIVE"
+        },
+        "1575488043": {
+            "dra.coin-miners.info": "INACTIVE",
+            "dra.node.coin-miners.info": "INACTIVE",
+            "dra.suprnova.cc": "INACTIVE",
+            "dravite.luckyaltcoin.com": "INACTIVE",
+            "drill.node.moneroworld.com": "INACTIVE",
+            "drive.pool.golix.com": "INACTIVE"
+        },
+        "1575488044": {
+            "drk-east.majorminers.com": "INACTIVE",
+            "drk-west.majorminers.com": "INACTIVE",
+            "drk.althash.eu": "INACTIVE",
+            "drk.cif8.com": "INACTIVE",
+            "drk.coin-lab.com": "INACTIVE",
+            "drk.coin-miners.info": "INACTIVE",
+            "drk.cryptosales.eu": "INACTIVE"
+        },
+        "1575488045": {
+            "drk.ghash.io": "INACTIVE",
+            "drk.hashfire.us": "INACTIVE",
+            "drk.majorminers.com": "INACTIVE",
+            "drk.miningfield.com": "INACTIVE",
+            "drk.miningpoolhub.com": "INACTIVE",
+            "drk.node.coin-miners.info": "INACTIVE",
+            "drk.p2pmine.com": "INACTIVE"
+        },
+        "1575488046": {
+            "drk.p2pool.n00bsys0p.co.uk": "INACTIVE",
+            "drk.pool1.goodluckpool.com": "INACTIVE",
+            "drk.poolhash.org": "INACTIVE",
+            "drk.yobapool.net": "INACTIVE",
+            "drk02.p2poolmining.us": "INACTIVE",
+            "drk03.p2poolmining.us": "INACTIVE",
+            "drk04.p2poolmining.us": "INACTIVE"
+        },
+        "1575488047": {
+            "drkpool.hopto.org": "INACTIVE",
+            "drm.poolto.be": "INACTIVE",
+            "dronml.ml": "INACTIVE",
+            "drop.suprnova.cc": "INACTIVE",
+            "drs.suprnova.cc": "INACTIVE",
+            "drunkenpool.me": "INACTIVE"
+        },
+        "1575488048": {
+            "drupalupdates.tk": "INACTIVE",
+            "drx.coin-miners.info": "INACTIVE",
+            "drx.node.coin-miners.info": "INACTIVE",
+            "drz.coin-miners.info": "INACTIVE",
+            "drz.node.coin-miners.info": "INACTIVE",
+            "drz.suprnova.cc": "INACTIVE",
+            "ds.bitcoin.co.pt": "INACTIVE"
+        },
+        "1575488049": {
+            "ds.suprnova.cc": "INACTIVE",
+            "dsb.coin-miners.info": "INACTIVE",
+            "dsb.node.coin-miners.info": "INACTIVE",
+            "dsh.coinmine.pl": "INACTIVE",
+            "dsh.cryptonight.net": "INACTIVE",
+            "dsh.democats.org": "INACTIVE",
+            "dsh.mypool.name": "INACTIVE"
+        },
+        "1575488050": {
+            "dsh.pool.minergate.com": "INACTIVE",
+            "dsh.tugae2.com": "INACTIVE",
+            "dsm.freeyy.me": "INACTIVE",
+            "dsr.mine-vn.com": "INACTIVE",
+            "dt.bitcoin.co.pt": "INACTIVE",
+            "dt.coin-miners.info": "INACTIVE",
+            "dt.node.coin-miners.info": "INACTIVE"
+        },
+        "1575488051": {
+            "dtc.coin-miners.info": "INACTIVE",
+            "dtc.node.coin-miners.info": "INACTIVE",
+            "dtr.coin-miners.info": "INACTIVE",
+            "dtr.node.coin-miners.info": "INACTIVE",
+            "dtron.suprnova.cc": "INACTIVE",
+            "dubai.moneroseeds.ae.org": "INACTIVE",
+            "dubaiexpo.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1575488052": {
+            "dubester.pw": "INACTIVE",
+            "dubester.si": "INACTIVE",
+            "dubester.site": "INACTIVE",
+            "dubester.space": "INACTIVE",
+            "ducab.moneroseeds.ae.org": "INACTIVE",
+            "duck.crypto-pool.fr": "INACTIVE",
+            "duck.pool.minergate.com": "INACTIVE"
+        },
+        "1575488053": {
+            "duck.xnpool.com": "INACTIVE",
+            "ducknote.crypto-pool.fr": "INACTIVE",
+            "dundee.ac.bitcoin.co.pt": "INACTIVE",
+            "duo.coin-miners.info": "INACTIVE",
+            "duo.coinstop.me": "INACTIVE",
+            "duo.node.coin-miners.info": "INACTIVE"
+        },
+        "1575488054": {
+            "dweb.skypool.org": "INACTIVE",
+            "dwind.miner.center": "INACTIVE",
+            "dxmhkisurxxxhm.ru": "INACTIVE",
+            "dyn.spacepools.org": "INACTIVE",
+            "dynox.trofinox.em.bitcoin.co.pt": "INACTIVE"
+        },
+        "1575488055": {
+            "e.bitcoin.co.pt": "INACTIVE",
+            "e167-eu.btcc.com": "INACTIVE",
+            "e167.btcc.com": "INACTIVE",
+            "e239.btcc.com": "INACTIVE",
+            "e32sg.deliveryclub-6589.download": "INACTIVE"
+        },
+        "1575488056": {
+            "e63809w4.beget.tech": "INACTIVE",
+            "e7.btcc.com": "INACTIVE"
         }
     }
 }
