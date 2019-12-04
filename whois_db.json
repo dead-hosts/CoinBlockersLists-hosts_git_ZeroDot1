@@ -754,6 +754,11 @@
         "expiration_date": "24-jun-2019",
         "state": "past"
     },
+    "abcnet.ro": {
+        "epoch": 1594771200.0,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
     "abjcoin.org": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
@@ -797,6 +802,11 @@
     "acruxtdm.ru": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
+        "state": "future"
+    },
+    "actinium.org": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
         "state": "future"
     },
     "active-coin.com": {
