@@ -6524,6 +6524,11 @@
         "expiration_date": "08-aug-2020",
         "state": "future"
     },
+    "graft.community": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
     "graft.network": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
@@ -6542,6 +6547,11 @@
     "gramombird.com": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "gravitycoin.io": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "grcpool.com": {
@@ -6592,6 +6602,11 @@
     "grinmint.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "grlcgang.com": {
+        "epoch": 1584230400.0,
+        "expiration_date": "15-mar-2020",
         "state": "future"
     },
     "guardcoin.trade": {
