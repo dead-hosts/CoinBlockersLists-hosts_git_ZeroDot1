@@ -999,6 +999,11 @@
         "expiration_date": "02-aug-2020",
         "state": "future"
     },
+    "ahash.ru": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
     "ahashpool.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
@@ -1037,6 +1042,11 @@
     "aiomine.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "aionmine.org": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
         "state": "future"
     },
     "airbitclub-official.ru": {
