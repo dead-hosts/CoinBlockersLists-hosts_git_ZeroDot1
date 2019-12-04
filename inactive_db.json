@@ -8073,148 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575202961": {
-            "eu-xmr-1.node.viaxmr.com": "INACTIVE",
-            "eu-xmr-1.viaxmr.com": "INACTIVE",
-            "eu-xmr-2.viaxmr.com": "INACTIVE"
-        },
-        "1575202962": {
-            "eu.asicpool.info": "INACTIVE",
-            "eu.axepool.com": "INACTIVE"
-        },
-        "1575202963": {
-            "eu.black-pool.net": "INACTIVE",
-            "eu.btc.pool.minergate.com": "INACTIVE"
-        },
-        "1575202964": {
-            "eu.centralcavern.uk": "INACTIVE",
-            "eu.cfcnet.to": "INACTIVE"
-        },
-        "1575202965": {
-            "eu.cfcnet.top": "INACTIVE",
-            "eu.coin-miners.info": "INACTIVE",
-            "eu.coin_ticker.cnpool.cc": "INACTIVE"
-        },
-        "1575202966": {
-            "eu.coinmine.pl": "INACTIVE"
-        },
-        "1575202967": {
-            "eu.digitalminingexperts.com": "INACTIVE",
-            "eu.dwarfpool.com": "INACTIVE",
-            "eu.eclipsemc.com": "INACTIVE"
-        },
-        "1575202968": {
-            "eu.elasticpool.com": "INACTIVE",
-            "eu.fairmine.pro": "INACTIVE"
-        },
-        "1575202969": {
-            "eu.focus-pool.com": "INACTIVE",
-            "eu.geekcash.org": "INACTIVE",
-            "eu.happysatoshi.com": "INACTIVE"
-        },
-        "1575202970": {
-            "eu.hushpool.cloud": "INACTIVE"
-        },
-        "1575202971": {
-            "eu.loki.elasticpool.com": "INACTIVE",
-            "eu.madmining.club": "INACTIVE"
-        },
-        "1575202972": {
-            "eu.minermore.com": "INACTIVE",
-            "eu.minerspool.cc": "INACTIVE"
-        },
-        "1575202973": {
-            "eu.miningspeed.com": "INACTIVE",
-            "eu.mintpond.com": "INACTIVE",
-            "eu.mix.wattpool.net": "INACTIVE"
-        },
-        "1575202974": {
-            "eu.monerise.com": "INACTIVE",
-            "eu.mtred.com": "INACTIVE",
-            "eu.multipool.com": "INACTIVE"
-        },
-        "1575202975": {
-            "eu.multipool.es": "INACTIVE",
-            "eu.myzen.cash": "INACTIVE",
-            "eu.netcodepool.org": "INACTIVE"
-        },
-        "1575202976": {
-            "eu.nicehash.com": "INACTIVE",
-            "eu.nimiqpool.com": "INACTIVE",
-            "eu.node.coin-miners.info": "INACTIVE"
-        },
-        "1575202977": {
-            "eu.node.bohemianpool.com": "INACTIVE",
-            "eu.node.moneroworld.com": "INACTIVE",
-            "eu.node.turtlepool.space": "INACTIVE"
-        },
-        "1575202978": {
-            "eu.node.nimiqpool.com": "INACTIVE",
-            "eu.pyx.cnpool.cc": "INACTIVE"
-        },
-        "1575202979": {
-            "eu.pool.sumokoin-pool.com": "INACTIVE",
-            "eu.quantumminingpool.com": "INACTIVE"
-        },
-        "1575202980": {
-            "eu.secumine.net": "INACTIVE",
-            "eu.solo.etc.wattpool.net": "INACTIVE",
-            "eu.solo.eth.wattpool.net": "INACTIVE",
-            "eu.solo.ethereum.wattpool.net": "INACTIVE"
-        },
-        "1575202982": {
-            "eu.stratum.node.viaxmr.com": "INACTIVE",
-            "eu.stratum.viaxmr.com": "INACTIVE",
-            "eu.suprnova.cc": "INACTIVE"
-        },
-        "1575202984": {
-            "eu.viciousminer.com": "INACTIVE",
-            "eu.voidr.net": "INACTIVE"
-        },
-        "1575202985": {
-            "eu.wemineltc.com": "INACTIVE"
-        },
-        "1575202986": {
-            "eu0.nimiq.skypool.org": "INACTIVE"
-        },
-        "1575204292": {
-            "eu04.sushipool.com": "INACTIVE",
-            "eu06.sushipool.com": "INACTIVE",
-            "eu07.sushipool.com": "INACTIVE"
-        },
-        "1575204293": {
-            "eu08.sushipool.com": "INACTIVE"
-        },
-        "1575204294": {
-            "eu1.altminer.net": "INACTIVE",
-            "eu1.arcpool.com": "INACTIVE"
-        },
-        "1575204295": {
-            "eu1.btgminers.eu": "INACTIVE",
-            "eu1.cfcnet.gdn": "INACTIVE"
-        },
-        "1575204296": {
-            "eu1.fairmine.pro": "INACTIVE",
-            "eu1.myzen.cash": "INACTIVE"
-        },
-        "1575204297": {
-            "eu1.multipool.es": "INACTIVE",
-            "eu1.sushipool.com": "INACTIVE",
-            "eu1.swap.miningpool.online": "INACTIVE"
-        },
-        "1575204299": {
-            "eu2.btgminers.eu": "INACTIVE",
-            "eu2.cfcnet.gdn": "INACTIVE",
-            "eu2.coin-miners.info": "INACTIVE"
-        },
-        "1575204300": {
-            "eu2.loki.elasticpool.com": "INACTIVE",
-            "eu2.monerise.com": "INACTIVE"
-        },
         "1575204301": {
-            "eu2.multipool.com": "INACTIVE",
-            "eu2.multipool.es": "INACTIVE",
-            "eu2.multipool.us": "INACTIVE",
             "eu2.music.minertopia.org": "INACTIVE"
         },
         "1575204302": {
@@ -28147,6 +28006,111 @@
             "eu-stratum.viaxmr.com": "INACTIVE",
             "eu-test.sushipool.com": "INACTIVE",
             "eu-west-api.grinmint.com": "INACTIVE"
+        },
+        "1575493605": {
+            "eu-xmr-1.node.viaxmr.com": "INACTIVE",
+            "eu-xmr-1.viaxmr.com": "INACTIVE",
+            "eu-xmr-2.viaxmr.com": "INACTIVE",
+            "eu.asicpool.info": "INACTIVE"
+        },
+        "1575493606": {
+            "eu.axepool.com": "INACTIVE",
+            "eu.black-pool.net": "INACTIVE",
+            "eu.btc.pool.minergate.com": "INACTIVE",
+            "eu.centralcavern.uk": "INACTIVE",
+            "eu.cfcnet.to": "INACTIVE",
+            "eu.cfcnet.top": "INACTIVE"
+        },
+        "1575493607": {
+            "eu.coin-miners.info": "INACTIVE",
+            "eu.coin_ticker.cnpool.cc": "INACTIVE",
+            "eu.coinmine.pl": "INACTIVE",
+            "eu.digitalminingexperts.com": "INACTIVE",
+            "eu.dwarfpool.com": "INACTIVE",
+            "eu.eclipsemc.com": "INACTIVE"
+        },
+        "1575493608": {
+            "eu.elasticpool.com": "INACTIVE",
+            "eu.fairmine.pro": "INACTIVE",
+            "eu.focus-pool.com": "INACTIVE",
+            "eu.geekcash.org": "INACTIVE",
+            "eu.happysatoshi.com": "INACTIVE",
+            "eu.hushpool.cloud": "INACTIVE"
+        },
+        "1575493609": {
+            "eu.loki.elasticpool.com": "INACTIVE",
+            "eu.madmining.club": "INACTIVE",
+            "eu.minermore.com": "INACTIVE",
+            "eu.minerspool.cc": "INACTIVE",
+            "eu.miningspeed.com": "INACTIVE",
+            "eu.mintpond.com": "INACTIVE"
+        },
+        "1575493610": {
+            "eu.mix.wattpool.net": "INACTIVE",
+            "eu.monerise.com": "INACTIVE",
+            "eu.mtred.com": "INACTIVE",
+            "eu.multipool.com": "INACTIVE",
+            "eu.multipool.es": "INACTIVE",
+            "eu.myzen.cash": "INACTIVE",
+            "eu.netcodepool.org": "INACTIVE"
+        },
+        "1575493611": {
+            "eu.nicehash.com": "INACTIVE",
+            "eu.nimiqpool.com": "INACTIVE",
+            "eu.node.bohemianpool.com": "INACTIVE",
+            "eu.node.coin-miners.info": "INACTIVE",
+            "eu.node.moneroworld.com": "INACTIVE",
+            "eu.node.nimiqpool.com": "INACTIVE",
+            "eu.node.turtlepool.space": "INACTIVE"
+        },
+        "1575493612": {
+            "eu.pool.sumokoin-pool.com": "INACTIVE",
+            "eu.pyx.cnpool.cc": "INACTIVE",
+            "eu.quantumminingpool.com": "INACTIVE",
+            "eu.secumine.net": "INACTIVE",
+            "eu.solo.etc.wattpool.net": "INACTIVE",
+            "eu.solo.eth.wattpool.net": "INACTIVE"
+        },
+        "1575493613": {
+            "eu.solo.ethereum.wattpool.net": "INACTIVE",
+            "eu.stratum.node.viaxmr.com": "INACTIVE",
+            "eu.stratum.viaxmr.com": "INACTIVE",
+            "eu.suprnova.cc": "INACTIVE",
+            "eu.viciousminer.com": "INACTIVE"
+        },
+        "1575493614": {
+            "eu.voidr.net": "INACTIVE",
+            "eu.wemineltc.com": "INACTIVE",
+            "eu0.nimiq.skypool.org": "INACTIVE",
+            "eu04.sushipool.com": "INACTIVE",
+            "eu06.sushipool.com": "INACTIVE"
+        },
+        "1575493615": {
+            "eu07.sushipool.com": "INACTIVE",
+            "eu08.sushipool.com": "INACTIVE",
+            "eu1.altminer.net": "INACTIVE",
+            "eu1.arcpool.com": "INACTIVE",
+            "eu1.btgminers.eu": "INACTIVE",
+            "eu1.cfcnet.gdn": "INACTIVE"
+        },
+        "1575493616": {
+            "eu1.fairmine.pro": "INACTIVE",
+            "eu1.multipool.es": "INACTIVE",
+            "eu1.myzen.cash": "INACTIVE",
+            "eu1.sushipool.com": "INACTIVE",
+            "eu1.swap.miningpool.online": "INACTIVE"
+        },
+        "1575493617": {
+            "eu2.btgminers.eu": "INACTIVE",
+            "eu2.cfcnet.gdn": "INACTIVE",
+            "eu2.coin-miners.info": "INACTIVE",
+            "eu2.loki.elasticpool.com": "INACTIVE",
+            "eu2.monerise.com": "INACTIVE",
+            "eu2.multipool.com": "INACTIVE"
+        },
+        "1575493618": {
+            "eu2.multipool.es": "INACTIVE",
+            "eu2.multipool.us": "INACTIVE"
         }
     }
 }
