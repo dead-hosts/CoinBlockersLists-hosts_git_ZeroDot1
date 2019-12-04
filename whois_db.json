@@ -3724,6 +3724,11 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "cnpool.vip": {
+        "epoch": 1685836800.0,
+        "expiration_date": "04-jun-2023",
+        "state": "future"
+    },
     "cnt.st": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
@@ -3752,6 +3757,11 @@
     "cody.services": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "coffeetableminer.com": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "coihive.com": {
@@ -3830,8 +3840,8 @@
         "state": "future"
     },
     "coinblind.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "coinblockers.com": {
@@ -3900,9 +3910,9 @@
         "state": "past"
     },
     "coinhive.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "coinhive.info": {
         "epoch": 1576195200.0,
@@ -3984,6 +3994,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "coinmaster.store": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "coinmine.pl": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
@@ -3997,6 +4012,11 @@
     "coinminer.net": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "coinminers.net": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "coinminerz.com": {
@@ -4082,6 +4102,11 @@
     "coins4u.cc": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "coins4upool.com": {
+        "epoch": 1645142400.0,
+        "expiration_date": "18-feb-2022",
         "state": "future"
     },
     "coinsecure.in": {
@@ -4197,6 +4222,11 @@
     "coolmine.top": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "coolpool.top": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "coorp.io": {
