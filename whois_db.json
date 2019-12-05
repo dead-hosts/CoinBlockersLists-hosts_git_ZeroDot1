@@ -7674,6 +7674,11 @@
         "expiration_date": "20-feb-2019",
         "state": "past"
     },
+    "kmdmonster.com": {
+        "epoch": 1575676800.0,
+        "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
     "koinpool.com": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
@@ -7682,6 +7687,11 @@
     "koinpool.io": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "konjungate.net": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "korbit.click": {
@@ -7722,6 +7732,11 @@
     "kratos.biz": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "kremogskum.com": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "kronstic.bid": {
@@ -7779,14 +7794,29 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "lafuhosting.top": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
     "laintimes.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "lambofactory.com": {
+        "epoch": 1581120000.0,
+        "expiration_date": "08-feb-2020",
+        "state": "future"
+    },
     "lambomoon.club": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "lanacoin.com": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "laserveradedomaina.com": {
@@ -7834,6 +7864,11 @@
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
+    "letsmineco.in": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
     "levcoin.net": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
@@ -7847,6 +7882,11 @@
     "leywapool.com": {
         "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
+        "state": "future"
+    },
+    "lightergame.com": {
+        "epoch": 1653868800.0,
+        "expiration_date": "30-may-2022",
         "state": "future"
     },
     "lightminer.co": {
@@ -7875,8 +7915,8 @@
         "state": "future"
     },
     "linux-repository-updates.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "linuxuclib.com": {
