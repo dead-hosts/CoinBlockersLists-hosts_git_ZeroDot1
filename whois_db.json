@@ -8164,6 +8164,11 @@
         "expiration_date": "11-jun-2019",
         "state": "past"
     },
+    "marketwizards.io": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
     "masari.net": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
@@ -8179,6 +8184,11 @@
         "expiration_date": "14-sep-2019",
         "state": "past"
     },
+    "masons.su": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
     "mastermining.net": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
@@ -8192,6 +8202,11 @@
     "matpool.io": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "matrix-pool.info": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "maupool.com": {
@@ -8229,6 +8244,11 @@
         "expiration_date": "19-jul-2020",
         "state": "future"
     },
+    "mecryptosolo.club": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
     "mediatrackerfast.pro": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
@@ -8259,6 +8279,11 @@
         "expiration_date": "17-jul-2021",
         "state": "future"
     },
+    "mesgo.net": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
     "mfio.cf": {
         "epoch": 1867190400.0,
         "expiration_date": "03-mar-2029",
@@ -8277,6 +8302,11 @@
     "mibpool.com": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "micepool.com": {
+        "epoch": 1599955200.0,
+        "expiration_date": "13-sep-2020",
         "state": "future"
     },
     "microsoft-up-date.ru": {
