@@ -11979,6 +11979,16 @@
         "expiration_date": "20-nov-2019",
         "state": "past"
     },
+    "talleo.org": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "taonacoin.com": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "tazm9p7tso.trade": {
         "epoch": "1547164800",
         "expiration_date": "11-jan-2019",
@@ -11992,6 +12002,11 @@
     "techtricksworld.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "tecracoin.io": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "tekirovaa.ru": {
@@ -12022,6 +12037,11 @@
     "terethat.ru": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "terrahash.cc": {
+        "epoch": 1597708800.0,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "tgtvbngp.ru": {
