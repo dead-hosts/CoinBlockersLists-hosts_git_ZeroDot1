@@ -10684,10 +10684,20 @@
         "expiration_date": "19-dec-2019",
         "state": "future"
     },
+    "prominertools.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "proofly.win": {
         "epoch": 1560816000,
         "expiration_date": "18-jun-2019",
         "state": "past"
+    },
+    "propool.pro": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
+        "state": "future"
     },
     "protonmine.com": {
         "epoch": 1585267200.0,
@@ -10787,6 +10797,11 @@
     "qpmsybxqvlje.ru": {
         "epoch": "1558224000",
         "expiration_date": "19-may-2019",
+        "state": "future"
+    },
+    "qpool.info": {
+        "epoch": 1581552000.0,
+        "expiration_date": "13-feb-2020",
         "state": "future"
     },
     "qrlmining.info": {
