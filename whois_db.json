@@ -11197,7 +11197,7 @@
     "saturnpool.com": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "sberex.com": {
         "epoch": 1612137600.0,
@@ -11212,6 +11212,16 @@
     "scaleway.ovh": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "sccpool.org": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
+    "scecf.org": {
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "scryptpool.com": {
