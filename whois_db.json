@@ -10099,6 +10099,16 @@
         "expiration_date": "05-oct-2020",
         "state": "future"
     },
+    "parsicoin.net": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "parspool.net": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
     "pascal3.science": {
         "epoch": "1543276800",
         "expiration_date": "27-nov-2018",
@@ -10182,6 +10192,11 @@
     "petahash.io": {
         "epoch": 1595376000.0,
         "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "pexaproject.com": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "phi-phi-pool.com": {
