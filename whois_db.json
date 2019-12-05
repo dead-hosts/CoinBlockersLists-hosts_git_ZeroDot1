@@ -11249,6 +11249,11 @@
         "expiration_date": "30-oct-2018",
         "state": "past"
     },
+    "secretpool.ru": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "secumine.net": {
         "epoch": "1566777600",
         "expiration_date": "26-aug-2019",
