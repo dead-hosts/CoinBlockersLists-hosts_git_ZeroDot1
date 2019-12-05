@@ -10234,6 +10234,21 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "pigeoncoin.org": {
+        "epoch": 1584748800.0,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "pinchpool.com": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "pioncoin.org": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "pirata.pw": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
@@ -10254,9 +10269,19 @@
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
+    "piratepool.io": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
     "playerassets.info": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "plpool.org": {
+        "epoch": 1588204800.0,
+        "expiration_date": "30-apr-2020",
         "state": "future"
     },
     "plurapool.com": {
