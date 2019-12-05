@@ -7935,13 +7935,13 @@
         "state": "past"
     },
     "listcool.info": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "listcool.net": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "litecoinp2pool.com": {
@@ -7994,6 +7994,11 @@
         "expiration_date": "05-jan-2019",
         "state": "past"
     },
+    "lolopool.com": {
+        "epoch": 1588032000.0,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
     "lookvision.info": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
@@ -8012,6 +8017,11 @@
     "loudmining.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "louhimo.net": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
         "state": "future"
     },
     "ltcminer.io": {
@@ -8047,6 +8057,11 @@
     "luckyaltcoin.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
+    "luckyfastblocks.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "luckypool.cn": {
