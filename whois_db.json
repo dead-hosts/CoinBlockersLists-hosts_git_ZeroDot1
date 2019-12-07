@@ -2599,6 +2599,11 @@
         "expiration_date": "22-oct-2020",
         "state": "future"
     },
+    "bitcoin-rebooted.xyz": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
     "bitcoin-russia.ru": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
@@ -3020,8 +3025,8 @@
         "state": "future"
     },
     "blockify.xyz": {
-        "epoch": 1566864000,
-        "expiration_date": "27-aug-2019",
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
         "state": "future"
     },
     "blockmasters.co": {
