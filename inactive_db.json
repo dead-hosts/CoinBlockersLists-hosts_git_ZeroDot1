@@ -15689,167 +15689,7 @@
             "us-east.btcp.bitpoolmining.com": "INACTIVE",
             "us-east.btg.bitpoolmining.com": "INACTIVE"
         },
-        "1575595998": {
-            "ethos-na.alpereum.ch": "INACTIVE",
-            "ethpool1.coinmine.pl": "INACTIVE",
-            "ethpool2.coinmine.pl": "INACTIVE",
-            "eti.crypto-mining-pool.com": "INACTIVE",
-            "etig.europool.me": "INACTIVE",
-            "etignode.europool.me": "INACTIVE"
-        },
-        "1575595999": {
-            "etlrsq.ru": "INACTIVE",
-            "etn-80.cryptominingpool.eu": "INACTIVE",
-            "etn-api.multipools.club": "INACTIVE",
-            "etn-api.semipool.com": "INACTIVE",
-            "etn-api.suprnova.cc": "INACTIVE",
-            "etn-api.uax.io": "INACTIVE",
-            "etn-bj-prod.poolin.com": "INACTIVE",
-            "etn-bj.ss.poolin.com": "INACTIVE",
-            "etn-eu.coinblockers.com": "INACTIVE",
-            "etn-eu.cryptominingpool.eu": "INACTIVE"
-        },
-        "1575596000": {
-            "etn-nh.cryptominingpool.eu": "INACTIVE",
-            "etn-nicehash.easyhash.io": "INACTIVE",
-            "etn-old.proxpool.com": "INACTIVE",
-            "etn-pool.proxpool.com": "INACTIVE",
-            "etn-stats.cryptominingpool.eu": "INACTIVE",
-            "etn-stratum.suprnova.cc": "INACTIVE",
-            "etn-us.cryptominingpool.eu": "INACTIVE",
-            "etn.4miner.me": "INACTIVE",
-            "etn.baikalmine.com": "INACTIVE",
-            "etn.coinblockers.com": "INACTIVE"
-        },
-        "1575596001": {
-            "etn.coinstop.me": "INACTIVE",
-            "etn.cool-pool.net": "INACTIVE",
-            "etn.crypto-coins.club": "INACTIVE",
-            "etn.cryptoblock.uk": "INACTIVE",
-            "etn.cryptonote.club": "INACTIVE",
-            "etn.cryptonoter.com": "INACTIVE",
-            "etn.cryptopool.space": "INACTIVE",
-            "etn.easyhash.io": "INACTIVE",
-            "etn.easyhash.pro": "INACTIVE",
-            "etn.f2pool.com": "INACTIVE"
-        },
-        "1575596002": {
-            "etn.fairhash.org": "INACTIVE",
-            "etn.fairpool.xyz": "INACTIVE",
-            "etn.foreverpool.org": "INACTIVE",
-            "etn.hash2mine.com": "INACTIVE",
-            "etn.hashparty.io": "INACTIVE",
-            "etn.herominers.com": "INACTIVE",
-            "etn.ingest.cryptoknight.cc": "INACTIVE",
-            "etn.llama.horse": "INACTIVE",
-            "etn.lucky-mining.com.ua": "INACTIVE",
-            "etn.luckypool.io": "INACTIVE",
-            "etn.mine2gether.com": "INACTIVE"
-        },
-        "1575596003": {
-            "etn.minepool.ch": "INACTIVE",
-            "etn.minepool.live": "INACTIVE",
-            "etn.multipools.club": "INACTIVE",
-            "etn.optimusblue.com": "INACTIVE",
-            "etn.phi-phi-pool.com": "INACTIVE",
-            "etn.pool.gntl.co.uk": "INACTIVE",
-            "etn.pool.pool.gntl.co.uk": "INACTIVE",
-            "etn.proxpool.com": "INACTIVE",
-            "etn.rocketpool.pro": "INACTIVE"
-        },
-        "1575596004": {
-            "etn.smartcoinpool.com": "INACTIVE",
-            "etn.soyminero.es": "INACTIVE",
-            "etn.ss.poolin.com": "INACTIVE",
-            "etn.top-miningpool.eu": "INACTIVE",
-            "etn.uax.io": "INACTIVE",
-            "etn.xzpool.com": "INACTIVE",
-            "etn2-api.uax.io": "INACTIVE",
-            "etn2-pool.proxpool.com": "INACTIVE",
-            "etn2.uax.io": "INACTIVE",
-            "etnbcn.minercountry.com": "INACTIVE"
-        },
-        "1575596005": {
-            "etnc.baikalmine.com": "INACTIVE",
-            "etnc.europool.me": "INACTIVE",
-            "etnhash.net": "INACTIVE",
-            "etnhashpool.tk": "INACTIVE",
-            "etnold.semipool.com": "INACTIVE",
-            "etnsafemode.semipool.com": "INACTIVE",
-            "etnt.semipool.com": "INACTIVE",
-            "etnv2test.semipool.com": "INACTIVE",
-            "etnweb.semipool.com": "INACTIVE",
-            "etnx.easyhash.io": "INACTIVE"
-        },
-        "1575596006": {
-            "etnx.ingest.cryptoknight.cc": "INACTIVE",
-            "etnx.optimusblue.com": "INACTIVE",
-            "etnx.semipool.com": "INACTIVE",
-            "etnxp.semipool.com": "INACTIVE",
-            "etok.smartmining.net": "INACTIVE",
-            "etok.stratum.smartmining.net": "INACTIVE",
-            "etp.comining.io": "INACTIVE",
-            "etp.p00l.org": "INACTIVE",
-            "etp.prod.2miners.com": "INACTIVE"
-        },
-        "1575596007": {
-            "etsc.altpool.pro": "INACTIVE",
-            "etsc.cubepool.eu": "INACTIVE",
-            "etsc.epool.io": "INACTIVE",
-            "etsc.solopool.org": "INACTIVE"
-        },
-        "1575597119": {
-            "etz.altpool.pro": "INACTIVE",
-            "etz.clona.ru": "INACTIVE"
-        },
-        "1575597120": {
-            "etz.crypto-mining-pool.com": "INACTIVE",
-            "etz.ldvpool.com": "INACTIVE",
-            "eu-daemon.node.viaxmr.com": "INACTIVE",
-            "eu-daemon.viaxmr.com": "INACTIVE",
-            "eu-eth.chileminers.cl": "INACTIVE"
-        },
-        "1575597121": {
-            "eu-ncp.4miner.me": "INACTIVE",
-            "eu-new.nicehash.com": "INACTIVE",
-            "eu-new.nicehash.com.nicehash.com": "INACTIVE",
-            "eu-nh.clo.epool.io": "INACTIVE",
-            "eu-pool.bitcoinzguiding.ovh": "INACTIVE",
-            "eu-script.sushipool.com": "INACTIVE",
-            "eu-stratum.node.viaxmr.com": "INACTIVE"
-        },
-        "1575597122": {
-            "eu-stratum.viaxmr.com": "INACTIVE",
-            "eu-swap.sushipool.com": "INACTIVE",
-            "eu-test.sushipool.com": "INACTIVE",
-            "eu-west-api.grinmint.com": "INACTIVE",
-            "eu-xmr-1.node.viaxmr.com": "INACTIVE",
-            "eu-xmr-1.viaxmr.com": "INACTIVE",
-            "eu-xmr-2.viaxmr.com": "INACTIVE",
-            "eu.asicpool.info": "INACTIVE"
-        },
-        "1575597123": {
-            "eu.axepool.com": "INACTIVE",
-            "eu.black-pool.net": "INACTIVE",
-            "eu.btc.pool.minergate.com": "INACTIVE",
-            "eu.centralcavern.uk": "INACTIVE",
-            "eu.cfcnet.to": "INACTIVE",
-            "eu.cfcnet.top": "INACTIVE"
-        },
-        "1575597124": {
-            "eu.coin-miners.info": "INACTIVE",
-            "eu.coin_ticker.cnpool.cc": "INACTIVE",
-            "eu.coinmine.pl": "INACTIVE",
-            "eu.digitalminingexperts.com": "INACTIVE",
-            "eu.dwarfpool.com": "INACTIVE",
-            "eu.eclipsemc.com": "INACTIVE",
-            "eu.elasticpool.com": "INACTIVE",
-            "eu.fairmine.pro": "INACTIVE"
-        },
         "1575597125": {
-            "eu.focus-pool.com": "INACTIVE",
-            "eu.geekcash.org": "INACTIVE",
-            "eu.happysatoshi.com": "INACTIVE",
             "eu.hushpool.cloud": "INACTIVE",
             "eu.loki.elasticpool.com": "INACTIVE",
             "eu.madmining.club": "INACTIVE"
@@ -25782,6 +25622,167 @@
             "ethfw.f2pool.com": "INACTIVE",
             "ethg.clona.ru": "INACTIVE",
             "ethmypool.com": "INACTIVE"
+        },
+        "1575705970": {
+            "ethos-na.alpereum.ch": "INACTIVE"
+        },
+        "1575705971": {
+            "ethpool1.coinmine.pl": "INACTIVE",
+            "ethpool2.coinmine.pl": "INACTIVE",
+            "eti.crypto-mining-pool.com": "INACTIVE",
+            "etig.europool.me": "INACTIVE",
+            "etignode.europool.me": "INACTIVE",
+            "etlrsq.ru": "INACTIVE",
+            "etn-80.cryptominingpool.eu": "INACTIVE"
+        },
+        "1575705972": {
+            "etn-api.multipools.club": "INACTIVE",
+            "etn-api.semipool.com": "INACTIVE",
+            "etn-api.suprnova.cc": "INACTIVE",
+            "etn-api.uax.io": "INACTIVE",
+            "etn-bj-prod.poolin.com": "INACTIVE",
+            "etn-bj.ss.poolin.com": "INACTIVE",
+            "etn-eu.coinblockers.com": "INACTIVE",
+            "etn-eu.cryptominingpool.eu": "INACTIVE"
+        },
+        "1575705973": {
+            "etn-nh.cryptominingpool.eu": "INACTIVE",
+            "etn-old.proxpool.com": "INACTIVE",
+            "etn-pool.proxpool.com": "INACTIVE",
+            "etn-stats.cryptominingpool.eu": "INACTIVE",
+            "etn-stratum.suprnova.cc": "INACTIVE",
+            "etn-us.cryptominingpool.eu": "INACTIVE",
+            "etn.4miner.me": "INACTIVE"
+        },
+        "1575705974": {
+            "etn.baikalmine.com": "INACTIVE",
+            "etn.coinblockers.com": "INACTIVE",
+            "etn.coinstop.me": "INACTIVE",
+            "etn.cool-pool.net": "INACTIVE",
+            "etn.crypto-coins.club": "INACTIVE",
+            "etn.cryptoblock.uk": "INACTIVE",
+            "etn.cryptonote.club": "INACTIVE",
+            "etn.cryptonoter.com": "INACTIVE",
+            "etn.cryptopool.space": "INACTIVE"
+        },
+        "1575705975": {
+            "etn.easyhash.pro": "INACTIVE",
+            "etn.f2pool.com": "INACTIVE",
+            "etn.fairhash.org": "INACTIVE",
+            "etn.fairpool.xyz": "INACTIVE",
+            "etn.foreverpool.org": "INACTIVE",
+            "etn.hash2mine.com": "INACTIVE",
+            "etn.hashparty.io": "INACTIVE",
+            "etn.herominers.com": "INACTIVE"
+        },
+        "1575705976": {
+            "etn.ingest.cryptoknight.cc": "INACTIVE",
+            "etn.llama.horse": "INACTIVE",
+            "etn.lucky-mining.com.ua": "INACTIVE",
+            "etn.luckypool.io": "INACTIVE",
+            "etn.mine2gether.com": "INACTIVE",
+            "etn.minepool.ch": "INACTIVE",
+            "etn.minepool.live": "INACTIVE",
+            "etn.multipools.club": "INACTIVE"
+        },
+        "1575705977": {
+            "etn.optimusblue.com": "INACTIVE",
+            "etn.phi-phi-pool.com": "INACTIVE",
+            "etn.pool.gntl.co.uk": "INACTIVE",
+            "etn.pool.pool.gntl.co.uk": "INACTIVE",
+            "etn.proxpool.com": "INACTIVE",
+            "etn.rocketpool.pro": "INACTIVE",
+            "etn.smartcoinpool.com": "INACTIVE"
+        },
+        "1575705978": {
+            "etn.soyminero.es": "INACTIVE",
+            "etn.ss.poolin.com": "INACTIVE",
+            "etn.top-miningpool.eu": "INACTIVE",
+            "etn.uax.io": "INACTIVE",
+            "etn.xzpool.com": "INACTIVE",
+            "etn2-api.uax.io": "INACTIVE",
+            "etn2-pool.proxpool.com": "INACTIVE",
+            "etn2.uax.io": "INACTIVE"
+        },
+        "1575705979": {
+            "etnbcn.minercountry.com": "INACTIVE",
+            "etnc.baikalmine.com": "INACTIVE",
+            "etnc.europool.me": "INACTIVE",
+            "etnhash.net": "INACTIVE",
+            "etnhashpool.tk": "INACTIVE",
+            "etnold.semipool.com": "INACTIVE",
+            "etnsafemode.semipool.com": "INACTIVE",
+            "etnt.semipool.com": "INACTIVE"
+        },
+        "1575705980": {
+            "etnv2test.semipool.com": "INACTIVE",
+            "etnweb.semipool.com": "INACTIVE",
+            "etnx.ingest.cryptoknight.cc": "INACTIVE",
+            "etnx.optimusblue.com": "INACTIVE",
+            "etnx.semipool.com": "INACTIVE",
+            "etnxp.semipool.com": "INACTIVE",
+            "etok.smartmining.net": "INACTIVE"
+        },
+        "1575705981": {
+            "etok.stratum.smartmining.net": "INACTIVE",
+            "etp.comining.io": "INACTIVE",
+            "etp.p00l.org": "INACTIVE",
+            "etp.prod.2miners.com": "INACTIVE",
+            "etsc.altpool.pro": "INACTIVE",
+            "etsc.cubepool.eu": "INACTIVE",
+            "etsc.epool.io": "INACTIVE"
+        },
+        "1575705982": {
+            "etsc.solopool.org": "INACTIVE",
+            "etz.altpool.pro": "INACTIVE",
+            "etz.clona.ru": "INACTIVE",
+            "etz.crypto-mining-pool.com": "INACTIVE",
+            "etz.ldvpool.com": "INACTIVE",
+            "eu-daemon.node.viaxmr.com": "INACTIVE",
+            "eu-daemon.viaxmr.com": "INACTIVE"
+        },
+        "1575705983": {
+            "eu-eth.chileminers.cl": "INACTIVE",
+            "eu-ncp.4miner.me": "INACTIVE",
+            "eu-new.nicehash.com": "INACTIVE",
+            "eu-new.nicehash.com.nicehash.com": "INACTIVE",
+            "eu-nh.clo.epool.io": "INACTIVE",
+            "eu-pool.bitcoinzguiding.ovh": "INACTIVE"
+        },
+        "1575705984": {
+            "eu-script.sushipool.com": "INACTIVE",
+            "eu-stratum.node.viaxmr.com": "INACTIVE",
+            "eu-stratum.viaxmr.com": "INACTIVE",
+            "eu-swap.sushipool.com": "INACTIVE",
+            "eu-test.sushipool.com": "INACTIVE",
+            "eu-west-api.grinmint.com": "INACTIVE",
+            "eu-xmr-1.node.viaxmr.com": "INACTIVE",
+            "eu-xmr-1.viaxmr.com": "INACTIVE"
+        },
+        "1575705985": {
+            "eu-xmr-2.viaxmr.com": "INACTIVE",
+            "eu.asicpool.info": "INACTIVE",
+            "eu.axepool.com": "INACTIVE",
+            "eu.black-pool.net": "INACTIVE",
+            "eu.btc.pool.minergate.com": "INACTIVE",
+            "eu.centralcavern.uk": "INACTIVE",
+            "eu.cfcnet.to": "INACTIVE"
+        },
+        "1575705986": {
+            "eu.cfcnet.top": "INACTIVE",
+            "eu.coin-miners.info": "INACTIVE",
+            "eu.coin_ticker.cnpool.cc": "INACTIVE",
+            "eu.coinmine.pl": "INACTIVE",
+            "eu.digitalminingexperts.com": "INACTIVE",
+            "eu.dwarfpool.com": "INACTIVE",
+            "eu.eclipsemc.com": "INACTIVE"
+        },
+        "1575705987": {
+            "eu.elasticpool.com": "INACTIVE",
+            "eu.fairmine.pro": "INACTIVE",
+            "eu.focus-pool.com": "INACTIVE",
+            "eu.geekcash.org": "INACTIVE",
+            "eu.happysatoshi.com": "INACTIVE"
         }
     }
 }
