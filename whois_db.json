@@ -12745,8 +12745,8 @@
         "state": "future"
     },
     "vpool.io": {
-        "epoch": 1575504000.0,
-        "expiration_date": "05-dec-2019",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
         "state": "future"
     },
     "vpzccwpyilvoyg.ru": {
@@ -12809,6 +12809,11 @@
         "expiration_date": "16-feb-2022",
         "state": "future"
     },
+    "warphash.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "wasm.stream": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
@@ -12832,6 +12837,11 @@
     "wattpool.net": {
         "epoch": 1699920000.0,
         "expiration_date": "14-nov-2023",
+        "state": "future"
+    },
+    "wazn.io": {
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
         "state": "future"
     },
     "webassembly.stream": {
