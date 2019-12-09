@@ -13534,6 +13534,11 @@
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
+    "zel.cash": {
+        "epoch": 1579478400.0,
+        "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
     "zelerius.org": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -13552,6 +13557,11 @@
     "zenmine.pro": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "zenpool.io": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
         "state": "future"
     },
     "zergpool.com": {
