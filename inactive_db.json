@@ -8073,133 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575293711": {
-            "zip.coin-miners.info": "INACTIVE",
-            "zip.node.coin-miners.info": "INACTIVE"
-        },
-        "1575293712": {
-            "zirk.suprnova.cc": "INACTIVE",
-            "zivbxion.ru": "INACTIVE",
-            "zix-explorer.arcpool.com": "INACTIVE",
-            "zix.gcpool.eu": "INACTIVE",
-            "ziykrgc.ru": "INACTIVE"
-        },
-        "1575293713": {
-            "zjemch.ru": "INACTIVE",
-            "zlc.lucky-mining.com.ua": "INACTIVE",
-            "zls.cryptonote.club": "INACTIVE",
-            "zls.multipools.club": "INACTIVE"
-        },
-        "1575293714": {
-            "zls.youpool.io": "INACTIVE",
-            "zmb.majorminers.com": "INACTIVE",
-            "zmlkjih-9.btcc.com": "INACTIVE",
-            "zndaowjdnf.st": "INACTIVE",
-            "zndaowjdnf.stream": "INACTIVE"
-        },
-        "1575293715": {
-            "znode.coinpool.cloud": "INACTIVE",
-            "znomp.crypto-mining-pool.com": "INACTIVE",
-            "zny.coiner.site": "INACTIVE"
-        },
-        "1575293716": {
-            "znz.cryptoblock.uk": "INACTIVE",
-            "zoi.minepool.ch": "INACTIVE",
-            "zoin.suprnova.cc": "INACTIVE",
-            "zombiepool.ru": "INACTIVE",
-            "zoneedit.com.ckpool.org": "INACTIVE"
-        },
-        "1575293717": {
-            "zoneedit.com.pokemongomongo.tk": "INACTIVE",
-            "zoneminder.pool.gntl.co.uk": "INACTIVE",
-            "zoom.suprnova.cc": "INACTIVE",
-            "zousd-data.btcc.com": "INACTIVE",
-            "zozb.moneroworld.com": "INACTIVE"
-        },
-        "1575293718": {
-            "zpool.aikapool.com": "INACTIVE",
-            "zpool.coinminerz.com": "INACTIVE",
-            "zpool.wfmpools.com": "INACTIVE",
-            "zptest.leafpool.com": "INACTIVE"
-        },
-        "1575293719": {
-            "zrc-stratum.suprnova.cc": "INACTIVE",
-            "zrc.suprnova.cc": "INACTIVE",
-            "ztracker.xyz": "INACTIVE",
-            "zuc.luckypool.io": "INACTIVE"
-        },
-        "1575293720": {
-            "zvezdigr.beget.tech": "INACTIVE",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com": "INACTIVE",
-            "zymerget.bi": "INACTIVE",
-            "zymerget.bid": "INACTIVE",
-            "zymerget.date": "INACTIVE"
-        },
-        "1575293721": {
-            "zymerget.faith": "INACTIVE",
-            "zymerget.pa": "INACTIVE",
-            "zymerget.party": "INACTIVE",
-            "zymerget.st": "INACTIVE",
-            "zymerget.stream": "INACTIVE",
-            "zymerget.win": "INACTIVE"
-        },
-        "1575293722": {
-            "zyrk.solopool.org": "INACTIVE",
-            "zyxw.btcc.com": "INACTIVE",
-            "zz.8282.space": "INACTIVE",
-            "zzc.multipools.club": "INACTIVE",
-            "zzqhsrg.ru": "INACTIVE",
-            "zzz.cryptoblock.uk": "INACTIVE"
-        },
-        "1575293796": {
-            "194.58.122.146\\032stratum.aikapool.com": "INVALID",
-            "s01.hostcontent.li": "INACTIVE",
-            "s07.hostcontent.li": "INACTIVE",
-            "s09.hostcontent.li": "INACTIVE",
-            "s100.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.li": "INACTIVE"
-        },
-        "1575293797": {
-            "POOL.moneropool.com": "INVALID",
-            "VPWCHCDEVWEB001.cryptopia.co.nz": "INVALID",
-            "mail.test5.node.coin-miners.info": "INACTIVE",
-            "s04.hostcontent.li": "INACTIVE",
-            "s08.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.bi": "INACTIVE"
-        },
-        "1575293798": {
-            "mail.node.supportxmr.com": "INACTIVE",
-            "s02.hostcontent.li": "INACTIVE",
-            "s11.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.sc": "INACTIVE",
-            "www.mail.node.coin-miners.info": "INACTIVE"
-        },
-        "1575293799": {
-            "hostingcloud.do": "INACTIVE",
-            "mail.test10.node.coin-miners.info": "INACTIVE",
-            "s03.hostcontent.li": "INACTIVE",
-            "www.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.re": "INACTIVE",
-            "www.mail.coin-miners.info": "INACTIVE"
-        },
-        "1575293800": {
-            "s05.hostcontent.li": "INACTIVE",
-            "s12.hostcontent.li": "INACTIVE",
-            "s13.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.tr": "INACTIVE"
-        },
-        "1575293801": {
-            "_amazonses.btcc.com": "INACTIVE",
-            "s06.hostcontent.li": "INACTIVE",
-            "s10.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.ac": "INACTIVE",
-            "www.hostingcloud.do": "INACTIVE"
-        },
-        "1575293802": {
-            "mail.node.coin-miners.info": "INACTIVE",
-            "www.hostingcloud.pa": "INACTIVE",
-            "www.hostingcloud.st": "INACTIVE"
-        },
         "1575673999": {
             "107-139.btcc.com": "INACTIVE"
         },
@@ -24940,6 +24813,118 @@
             "ziftr.suprnova.cc": "INACTIVE",
             "zil.c3pool.com": "INACTIVE",
             "zinterect.ga": "INACTIVE"
+        },
+        "1575854516": {
+            "zip.coin-miners.info": "INACTIVE",
+            "zip.node.coin-miners.info": "INACTIVE"
+        },
+        "1575854517": {
+            "zirk.suprnova.cc": "INACTIVE",
+            "zivbxion.ru": "INACTIVE",
+            "zix-explorer.arcpool.com": "INACTIVE",
+            "zix.gcpool.eu": "INACTIVE",
+            "ziykrgc.ru": "INACTIVE",
+            "zjemch.ru": "INACTIVE",
+            "zlc.lucky-mining.com.ua": "INACTIVE",
+            "zls.cryptonote.club": "INACTIVE",
+            "zls.multipools.club": "INACTIVE"
+        },
+        "1575854518": {
+            "zls.youpool.io": "INACTIVE",
+            "zmb.majorminers.com": "INACTIVE",
+            "zmlkjih-9.btcc.com": "INACTIVE",
+            "zndaowjdnf.st": "INACTIVE",
+            "zndaowjdnf.stream": "INACTIVE",
+            "znode.coinpool.cloud": "INACTIVE",
+            "znomp.crypto-mining-pool.com": "INACTIVE"
+        },
+        "1575854519": {
+            "zny.coiner.site": "INACTIVE",
+            "znz.cryptoblock.uk": "INACTIVE",
+            "zoi.minepool.ch": "INACTIVE",
+            "zoin.suprnova.cc": "INACTIVE",
+            "zombiepool.ru": "INACTIVE",
+            "zoneedit.com.ckpool.org": "INACTIVE"
+        },
+        "1575854520": {
+            "zoneedit.com.pokemongomongo.tk": "INACTIVE",
+            "zoneminder.pool.gntl.co.uk": "INACTIVE",
+            "zoom.suprnova.cc": "INACTIVE",
+            "zozb.moneroworld.com": "INACTIVE",
+            "zpool.1ds.us": "INACTIVE",
+            "zpool.aikapool.com": "INACTIVE",
+            "zpool.coinminerz.com": "INACTIVE"
+        },
+        "1575854521": {
+            "zpool.wfmpools.com": "INACTIVE",
+            "zptest.leafpool.com": "INACTIVE",
+            "zrc-stratum.suprnova.cc": "INACTIVE",
+            "zrc.suprnova.cc": "INACTIVE",
+            "zsecure1.1ds.us": "INACTIVE",
+            "ztracker.xyz": "INACTIVE",
+            "zuc.luckypool.io": "INACTIVE",
+            "zvezdigr.beget.tech": "INACTIVE"
+        },
+        "1575854522": {
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com": "INACTIVE",
+            "zymerget.bi": "INACTIVE",
+            "zymerget.bid": "INACTIVE",
+            "zymerget.date": "INACTIVE",
+            "zymerget.faith": "INACTIVE",
+            "zymerget.pa": "INACTIVE",
+            "zymerget.party": "INACTIVE",
+            "zymerget.st": "INACTIVE",
+            "zymerget.stream": "INACTIVE"
+        },
+        "1575854523": {
+            "zymerget.win": "INACTIVE",
+            "zyrk.solopool.org": "INACTIVE",
+            "zz.8282.space": "INACTIVE",
+            "zzc.multipools.club": "INACTIVE",
+            "zzqhsrg.ru": "INACTIVE",
+            "zzz.cryptoblock.uk": "INACTIVE"
+        },
+        "1575854587": {
+            "mail.test10.node.coin-miners.info": "INACTIVE",
+            "s03.hostcontent.li": "INACTIVE",
+            "s05.hostcontent.li": "INACTIVE",
+            "s07.hostcontent.li": "INACTIVE",
+            "s09.hostcontent.li": "INACTIVE",
+            "s10.hostcontent.li": "INACTIVE",
+            "www.hostingcloud.do": "INACTIVE",
+            "www.hostingcloud.re": "INACTIVE",
+            "www.hostingcloud.sc": "INACTIVE"
+        },
+        "1575854588": {
+            "POOL.moneropool.com": "INVALID",
+            "hostingcloud.do": "INACTIVE",
+            "mail.node.supportxmr.com": "INACTIVE",
+            "mail.test5.node.coin-miners.info": "INACTIVE",
+            "s04.hostcontent.li": "INACTIVE",
+            "s11.hostcontent.li": "INACTIVE",
+            "www.hostingcloud.ac": "INACTIVE",
+            "www.hostingcloud.bi": "INACTIVE",
+            "www.hostingcloud.tr": "INACTIVE",
+            "www.mail.coin-miners.info": "INACTIVE"
+        },
+        "1575854589": {
+            "s02.hostcontent.li": "INACTIVE",
+            "s08.hostcontent.li": "INACTIVE",
+            "s100.hostcontent.li": "INACTIVE",
+            "s12.hostcontent.li": "INACTIVE",
+            "s13.hostcontent.li": "INACTIVE",
+            "www.hostcontent.li": "INACTIVE",
+            "www.hostingcloud.li": "INACTIVE",
+            "www.hostingcloud.st": "INACTIVE",
+            "www.mail.node.coin-miners.info": "INACTIVE"
+        },
+        "1575854590": {
+            "194.58.122.146\\032stratum.aikapool.com": "INVALID",
+            "VPWCHCDEVWEB001.cryptopia.co.nz": "INVALID",
+            "mail.node.coin-miners.info": "INACTIVE",
+            "s01.hostcontent.li": "INACTIVE",
+            "s06.hostcontent.li": "INACTIVE",
+            "www.hostingcloud.pa": "INACTIVE"
         }
     }
 }
