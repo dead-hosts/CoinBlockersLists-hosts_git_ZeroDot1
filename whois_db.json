@@ -937,7 +937,7 @@
     "aeonpool.net": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "aeonpool.xyz": {
         "epoch": "1571097600",
@@ -1085,9 +1085,9 @@
         "state": "future"
     },
     "airproxyboat.in": {
-        "epoch": 1571961600.0,
-        "expiration_date": "25-oct-2019",
-        "state": "past"
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
     },
     "airproxyproxy.pw": {
         "epoch": 1606608000.0,
