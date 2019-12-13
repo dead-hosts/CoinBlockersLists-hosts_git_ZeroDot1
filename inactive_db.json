@@ -8073,46 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575771245": {
-            "niobiloki.smartcoinpool.com": "INACTIVE"
-        },
-        "1575771246": {
-            "niobio.ingest.cryptoknight.cc": "INACTIVE",
-            "niobio.luckypool.org": "INACTIVE",
-            "nipbc.labbinarymining.com": "INACTIVE"
-        },
-        "1575771247": {
-            "niter.ipadi.xyz": "INACTIVE",
-            "nitsche.top": "INACTIVE"
-        },
-        "1575771248": {
-            "njbtcmine.net": "INACTIVE",
-            "njoin.cryptobrowser.site": "INACTIVE",
-            "nkarbowanec.labbinarymining.com": "INACTIVE"
-        },
-        "1575771249": {
-            "nkindle.cryptobrowser.site": "INACTIVE",
-            "nkj.aikapool.com": "INACTIVE"
-        },
-        "1575771250": {
-            "nkrb.minepool.ch": "INACTIVE",
-            "nkt.coin-miners.info": "INACTIVE",
-            "nkt.node.coin-miners.info": "INACTIVE",
-            "nl1.ghash.io": "INACTIVE",
-            "nl1.monerise.com": "INACTIVE"
-        },
-        "1575771251": {
-            "nl3.litecoinpool.org": "INACTIVE",
-            "nlab-explorer.arcpool.com": "INACTIVE"
-        },
-        "1575773740": {
-            "nlg.coinstop.me": "INACTIVE",
-            "nlg.suprnova.cc": "INACTIVE"
-        },
-        "1575773741": {
-            "nli.openvpn.f2pool.com": "INACTIVE",
-            "nlist.aikapool.com": "INACTIVE"
-        },
         "1575773743": {
             "nm.aikapool.com": "INACTIVE",
             "nm.suprnova.cc": "INACTIVE",
@@ -24996,6 +24956,48 @@
         "1576228263": {
             "ninja.suprnova.cc": "INACTIVE",
             "ninternational.cryptobrowser.site": "INACTIVE"
+        },
+        "1576229142": {
+            "niobiloki.smartcoinpool.com": "INACTIVE",
+            "niobio.ingest.cryptoknight.cc": "INACTIVE",
+            "niobio.luckypool.org": "INACTIVE"
+        },
+        "1576229143": {
+            "nipbc.labbinarymining.com": "INACTIVE"
+        },
+        "1576229144": {
+            "niter.ipadi.xyz": "INACTIVE",
+            "nitsche.top": "INACTIVE",
+            "njbtcmine.net": "INACTIVE",
+            "njoin.cryptobrowser.site": "INACTIVE"
+        },
+        "1576229145": {
+            "nkarbowanec.labbinarymining.com": "INACTIVE",
+            "nkindle.cryptobrowser.site": "INACTIVE",
+            "nkj.aikapool.com": "INACTIVE",
+            "nkrb.minepool.ch": "INACTIVE"
+        },
+        "1576229146": {
+            "nkt.coin-miners.info": "INACTIVE",
+            "nkt.node.coin-miners.info": "INACTIVE",
+            "nl1.ghash.io": "INACTIVE",
+            "nl1.monerise.com": "INACTIVE",
+            "nl3.litecoinpool.org": "INACTIVE",
+            "nlab-explorer.arcpool.com": "INACTIVE"
+        },
+        "1576229147": {
+            "nlcc.magnificentpool.com": "INACTIVE",
+            "nlex.magnificentpool.com": "INACTIVE",
+            "nlg.coinstop.me": "INACTIVE",
+            "nlg.suprnova.cc": "INACTIVE"
+        },
+        "1576229148": {
+            "nli.openvpn.f2pool.com": "INACTIVE",
+            "nlist.aikapool.com": "INACTIVE"
+        },
+        "1576229149": {
+            "nltz.magnificentpool.com": "INACTIVE",
+            "nltzexplorer.magnificentpool.com": "INACTIVE"
         }
     }
 }
