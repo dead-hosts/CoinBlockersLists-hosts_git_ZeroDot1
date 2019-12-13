@@ -8073,43 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575761699": {
-            "nbs.suprnova.cc": "INACTIVE"
-        },
-        "1575761700": {
-            "nbtcz.minepool.ch": "INACTIVE",
-            "nbx.coin-miners.info": "INACTIVE",
-            "nbx.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "nbx.llama.horse": "INACTIVE",
-            "nbx.node.coin-miners.info": "INACTIVE"
-        },
-        "1575761701": {
-            "ncdn.coinminerz.com": "INACTIVE",
-            "ncgi4.aikapool.com": "INACTIVE",
-            "ncheckout.aikapool.com": "INACTIVE"
-        },
-        "1575761702": {
-            "nclients.aikapool.com": "INACTIVE",
-            "ncm.aikapool.com": "INACTIVE",
-            "ncms.aikapool.com": "INACTIVE",
-            "ncommunity.monerise.com": "INACTIVE"
-        },
-        "1575761703": {
-            "ncp.4miner.me": "INACTIVE",
-            "ncp.cryptobrowser.site": "INACTIVE",
-            "ncp.llama.horse": "INACTIVE",
-            "ncp.youpool.io": "INACTIVE",
-            "ncrepcoin.labbinarymining.com": "INACTIVE",
-            "ncrm.aikapool.com": "INACTIVE"
-        },
-        "1575765188": {
-            "nd.steadyhash.org": "INACTIVE",
-            "ndam.cryptobrowser.site": "INACTIVE"
-        },
-        "1575765189": {
-            "ndashboard.monerise.com": "INACTIVE",
-            "ndb.aikapool.com": "INACTIVE"
-        },
         "1575765190": {
             "ndero.monerise.com": "INACTIVE"
         },
@@ -24988,6 +24951,48 @@
         "1576225196": {
             "nbr2.4miner.me": "INACTIVE",
             "nbrazukcoin.labbinarymining.com": "INACTIVE"
+        },
+        "1576226081": {
+            "nbs.suprnova.cc": "INACTIVE"
+        },
+        "1576226082": {
+            "nbtcp.magnificentpool.com": "INACTIVE",
+            "nbtcz.1ds.us": "INACTIVE",
+            "nbtcz.minepool.ch": "INACTIVE",
+            "nbtg.magnificentpool.com": "INACTIVE",
+            "nbx.coin-miners.info": "INACTIVE"
+        },
+        "1576226083": {
+            "nbx.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "nbx.llama.horse": "INACTIVE",
+            "nbx.node.coin-miners.info": "INACTIVE",
+            "ncdn.coinminerz.com": "INACTIVE"
+        },
+        "1576226084": {
+            "ncgi4.aikapool.com": "INACTIVE",
+            "ncheckout.aikapool.com": "INACTIVE",
+            "nclients.aikapool.com": "INACTIVE",
+            "ncm.aikapool.com": "INACTIVE"
+        },
+        "1576226085": {
+            "ncms.aikapool.com": "INACTIVE",
+            "ncommunity.monerise.com": "INACTIVE",
+            "ncp.4miner.me": "INACTIVE",
+            "ncp.cryptobrowser.site": "INACTIVE"
+        },
+        "1576226086": {
+            "ncp.llama.horse": "INACTIVE",
+            "ncp.youpool.io": "INACTIVE",
+            "ncrepcoin.labbinarymining.com": "INACTIVE",
+            "ncrm.aikapool.com": "INACTIVE",
+            "ncryptopool.1ds.us": "INACTIVE"
+        },
+        "1576226089": {
+            "nd.steadyhash.org": "INACTIVE",
+            "ndam.cryptobrowser.site": "INACTIVE",
+            "ndashboard.monerise.com": "INACTIVE",
+            "ndavies.magnificentpool.com": "INACTIVE",
+            "ndb.aikapool.com": "INACTIVE"
         }
     }
 }
