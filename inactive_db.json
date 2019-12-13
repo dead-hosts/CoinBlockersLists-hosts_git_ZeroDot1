@@ -8073,153 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575792120": {
-            "priv.nosekefik.com": "INACTIVE",
-            "priv.stratum.nicehash.com": "INACTIVE",
-            "private.bpool.id": "INACTIVE",
-            "private.coinstop.me": "INACTIVE",
-            "private.equihash.eu.nicehash.com": "INACTIVE",
-            "private.equihash.hk.nicehash.com": "INACTIVE",
-            "private.equihash.jp.nicehash.com": "INACTIVE",
-            "private.equihash.usa.nicehash.com": "INACTIVE"
-        },
-        "1575792121": {
-            "privatepay.cryptoisme.com": "INACTIVE",
-            "privatepay.herominers.com": "INACTIVE",
-            "prkl.europool.me": "INACTIVE",
-            "pro-ws.btcc.com": "INACTIVE",
-            "pro.coin-miners.info": "INACTIVE",
-            "pro.suprnova.cc": "INACTIVE",
-            "probe.suprnova.cc": "INACTIVE",
-            "procn0-7.btcc.com": "INACTIVE"
-        },
-        "1575792122": {
-            "prod.2miners.com": "INACTIVE",
-            "prod.admin.miningexpress.com": "INACTIVE",
-            "prod.api.miningexpress.com": "INACTIVE",
-            "prod.office.miningexpress.com": "INACTIVE",
-            "prod.xmr.to": "INACTIVE",
-            "prod1.lightninghash.com": "INACTIVE",
-            "prog.btcc.com": "INACTIVE",
-            "prog03-1.btcc.com": "INACTIVE",
-            "prog26-1-2.btcc.com": "INACTIVE"
-        },
-        "1575792123": {
-            "prog363.btcc.com": "INACTIVE",
-            "prog86-3-8.btcc.com": "INACTIVE",
-            "prohashing-5.prohashing.com": "INACTIVE",
-            "prohashing-prod1.prohashing.com": "INACTIVE",
-            "projects.coinimp.com": "INACTIVE"
-        },
-        "1575792124": {
-            "promo.hashflare.io": "INACTIVE",
-            "proofly.win": "INACTIVE",
-            "proton.mine-vn.com": "INACTIVE",
-            "protonmine.io": "INACTIVE",
-            "prox.node.coin-miners.info": "INACTIVE",
-            "proxy-can-1.inf.nimiq.net": "INACTIVE"
-        },
-        "1575792125": {
-            "proxy-deu-1.inf.nimiq.net": "INACTIVE",
-            "proxy-deu-2.inf.nimiq.net": "INACTIVE",
-            "proxy-fra-1.inf.nimiq.net": "INACTIVE",
-            "proxy-fra-2.inf.nimiq.net": "INACTIVE",
-            "proxy-fra-3.inf.nimiq.net": "INACTIVE",
-            "proxy-gbr-1.inf.nimiq.net": "INACTIVE",
-            "proxy-gbr-2.inf.nimiq.net": "INACTIVE",
-            "proxy-pol-1.inf.nimiq.net": "INACTIVE"
-        },
-        "1575792126": {
-            "proxy-pol-2.inf.nimiq.net": "INACTIVE",
-            "proxy.ajcryptominer.com": "INACTIVE",
-            "proxy.mineshaft.ml": "INACTIVE",
-            "proxy.mytestminer.xyz": "INACTIVE",
-            "proxy.nicehash.com": "INACTIVE",
-            "proxy.node.minexmr.com": "INACTIVE",
-            "proxy.poolin.com": "INACTIVE"
-        },
-        "1575792127": {
-            "proxy.xmr.pt": "INACTIVE",
-            "proxy01.eu.nicehash.com": "INACTIVE",
-            "proxy01.usa.nicehash.com": "INACTIVE",
-            "proxy02.eu.nicehash.com": "INACTIVE",
-            "prsrjdr.ru": "INACTIVE",
-            "prt.coinmine.pl": "INACTIVE"
-        },
-        "1575792128": {
-            "prt.suprnova.cc": "INACTIVE",
-            "ps00.bitcoindark.ca": "INACTIVE",
-            "ps01.bitcoindark.ca": "INACTIVE",
-            "ps02.bitcoindark.ca": "INACTIVE",
-            "ps03.bitcoindark.ca": "INACTIVE",
-            "ps04.bitcoindark.ca": "INACTIVE",
-            "ps05.bitcoindark.ca": "INACTIVE",
-            "ps06.bitcoindark.ca": "INACTIVE"
-        },
-        "1575792129": {
-            "ps07.bitcoindark.ca": "INACTIVE",
-            "ps08.bitcoindark.ca": "INACTIVE",
-            "ps09.bitcoindark.ca": "INACTIVE",
-            "ps10.bitcoindark.ca": "INACTIVE",
-            "ps11.bitcoindark.ca": "INACTIVE",
-            "ps12.bitcoindark.ca": "INACTIVE",
-            "ps13.bitcoindark.ca": "INACTIVE",
-            "ps14.bitcoindark.ca": "INACTIVE",
-            "ps15.bitcoindark.ca": "INACTIVE",
-            "ps16.bitcoindark.ca": "INACTIVE"
-        },
-        "1575792130": {
-            "ps17.bitcoindark.ca": "INACTIVE",
-            "ps18.bitcoindark.ca": "INACTIVE",
-            "ps19.bitcoindark.ca": "INACTIVE",
-            "ps20.bitcoindark.ca": "INACTIVE",
-            "psc.luckypool.io": "INACTIVE",
-            "pse.coin-miners.info": "INACTIVE",
-            "pse.node.coin-miners.info": "INACTIVE",
-            "psy.suprnova.cc": "INACTIVE"
-        },
-        "1575792131": {
-            "pta.coin-miners.info": "INACTIVE",
-            "pta.node.coin-miners.info": "INACTIVE",
-            "pub.cryptobrowser.site": "INACTIVE",
-            "pub0.eosys.io": "INACTIVE",
-            "pub1.eosys.io": "INACTIVE",
-            "public.deltapool.net": "INACTIVE",
-            "public.dm.bitcoin.co.pt": "INACTIVE",
-            "publicapi-mainnet.sh": "INACTIVE"
-        },
-        "1575792132": {
-            "public.sandbox.exchange.coinbase.com": "INACTIVE"
-        },
-        "1575793562": {
-            "pure.suprnova.cc": "INACTIVE",
-            "purk.miner.rocks": "INACTIVE",
-            "push.poloniex.com": "INACTIVE",
-            "put.mpool.su": "INACTIVE",
-            "pve1.pool.sexy": "INACTIVE"
-        },
-        "1575793563": {
-            "pw.openvpn.dpool.top": "INACTIVE",
-            "pwr.suprnova.cc": "INACTIVE",
-            "px1.papoto.com": "INACTIVE",
-            "px2.papoto.com": "INACTIVE",
-            "pxc.dnb.io": "INACTIVE",
-            "pxc.mine-vn.com": "INACTIVE",
-            "pxc.mpool.su": "INACTIVE"
-        },
-        "1575793564": {
-            "pxc.theblocksfactory.com": "INACTIVE",
-            "pxi.mine-vn.com": "INACTIVE",
-            "pxi.mpool.su": "INACTIVE",
-            "pxl.coin-miners.info": "INACTIVE",
-            "pxl.node.coin-miners.info": "INACTIVE",
-            "pxl.pubnodes.com": "INACTIVE",
-            "pyrex.youpool.io": "INACTIVE"
-        },
         "1575793565": {
-            "pyrite.pw": "INACTIVE",
-            "pyx.cnpool.cc": "INACTIVE",
-            "pyxw.btcc.com": "INACTIVE",
             "q1-6.btcc.com": "INACTIVE",
             "q1.btcc.com": "INACTIVE",
             "q3-9.btcc.com": "INACTIVE"
@@ -25024,6 +24878,168 @@
             "pritunl.eu-west.cryptopay.me": "INACTIVE",
             "pritunl.sandbox-eu-west.cryptopay.me": "INACTIVE",
             "pritunl.staging-eu-west.cryptopay.me": "INACTIVE"
+        },
+        "1576240617": {
+            "priv.nosekefik.com": "INACTIVE",
+            "priv.stratum.nicehash.com": "INACTIVE",
+            "private.bpool.id": "INACTIVE",
+            "private.coinstop.me": "INACTIVE",
+            "private.equihash.eu.nicehash.com": "INACTIVE",
+            "private.equihash.hk.nicehash.com": "INACTIVE"
+        },
+        "1576240618": {
+            "private.equihash.jp.nicehash.com": "INACTIVE",
+            "private.equihash.usa.nicehash.com": "INACTIVE",
+            "privatepay.cryptoisme.com": "INACTIVE",
+            "privatepay.herominers.com": "INACTIVE",
+            "prkl.europool.me": "INACTIVE",
+            "pro-reports.btcc.com": "INACTIVE"
+        },
+        "1576240619": {
+            "pro-ws.btcc.com": "INACTIVE",
+            "pro.coin-miners.info": "INACTIVE",
+            "pro.suprnova.cc": "INACTIVE",
+            "probe.suprnova.cc": "INACTIVE",
+            "procn.btcc.com": "INACTIVE",
+            "procn0-7.btcc.com": "INACTIVE",
+            "prod.2miners.com": "INACTIVE"
+        },
+        "1576240620": {
+            "prod.admin.miningexpress.com": "INACTIVE",
+            "prod.api.miningexpress.com": "INACTIVE",
+            "prod.office.miningexpress.com": "INACTIVE",
+            "prod.xmr.to": "INACTIVE",
+            "prod1.lightninghash.com": "INACTIVE"
+        },
+        "1576240621": {
+            "prog26-1-2.btcc.com": "INACTIVE",
+            "prog66-0-4.btcc.com": "INACTIVE",
+            "prog86-3-8.btcc.com": "INACTIVE",
+            "prog86-6.btcc.com": "INACTIVE",
+            "prog96-0-69.btcc.com": "INACTIVE",
+            "prohashing-5.prohashing.com": "INACTIVE"
+        },
+        "1576240622": {
+            "prohashing-prod1.prohashing.com": "INACTIVE",
+            "projects.coinimp.com": "INACTIVE",
+            "promo.btcc.com": "INACTIVE",
+            "promo.hashflare.io": "INACTIVE"
+        },
+        "1576240623": {
+            "proofly.win": "INACTIVE",
+            "proton.mine-vn.com": "INACTIVE",
+            "protonmine.io": "INACTIVE",
+            "prousd-data.btcc.com": "INACTIVE",
+            "prousd-ws.btcc.com": "INACTIVE",
+            "prox.node.coin-miners.info": "INACTIVE"
+        },
+        "1576240624": {
+            "proxy-can-1.inf.nimiq.net": "INACTIVE",
+            "proxy-deu-1.inf.nimiq.net": "INACTIVE",
+            "proxy-deu-2.inf.nimiq.net": "INACTIVE",
+            "proxy-fra-1.inf.nimiq.net": "INACTIVE",
+            "proxy-fra-2.inf.nimiq.net": "INACTIVE"
+        },
+        "1576240625": {
+            "proxy-fra-3.inf.nimiq.net": "INACTIVE",
+            "proxy-gbr-1.inf.nimiq.net": "INACTIVE",
+            "proxy-gbr-2.inf.nimiq.net": "INACTIVE",
+            "proxy-pol-1.inf.nimiq.net": "INACTIVE",
+            "proxy-pol-2.inf.nimiq.net": "INACTIVE",
+            "proxy.ajcryptominer.com": "INACTIVE"
+        },
+        "1576240626": {
+            "proxy.mineshaft.ml": "INACTIVE",
+            "proxy.mytestminer.xyz": "INACTIVE",
+            "proxy.nicehash.com": "INACTIVE",
+            "proxy.node.minexmr.com": "INACTIVE",
+            "proxy.poolin.com": "INACTIVE"
+        },
+        "1576240627": {
+            "proxy.xmr.pt": "INACTIVE",
+            "proxy01.eu.nicehash.com": "INACTIVE",
+            "proxy01.usa.nicehash.com": "INACTIVE",
+            "proxy02.eu.nicehash.com": "INACTIVE",
+            "prsrjdr.ru": "INACTIVE"
+        },
+        "1576240628": {
+            "prt.coinmine.pl": "INACTIVE",
+            "prt.suprnova.cc": "INACTIVE",
+            "ps00.bitcoindark.ca": "INACTIVE",
+            "ps01.bitcoindark.ca": "INACTIVE",
+            "ps02.bitcoindark.ca": "INACTIVE",
+            "ps03.bitcoindark.ca": "INACTIVE"
+        },
+        "1576240629": {
+            "ps04.bitcoindark.ca": "INACTIVE",
+            "ps05.bitcoindark.ca": "INACTIVE",
+            "ps06.bitcoindark.ca": "INACTIVE",
+            "ps07.bitcoindark.ca": "INACTIVE",
+            "ps08.bitcoindark.ca": "INACTIVE",
+            "ps09.bitcoindark.ca": "INACTIVE",
+            "ps10.bitcoindark.ca": "INACTIVE",
+            "ps11.bitcoindark.ca": "INACTIVE"
+        },
+        "1576240630": {
+            "ps12.bitcoindark.ca": "INACTIVE",
+            "ps13.bitcoindark.ca": "INACTIVE",
+            "ps14.bitcoindark.ca": "INACTIVE",
+            "ps15.bitcoindark.ca": "INACTIVE",
+            "ps16.bitcoindark.ca": "INACTIVE",
+            "ps17.bitcoindark.ca": "INACTIVE",
+            "ps18.bitcoindark.ca": "INACTIVE",
+            "ps19.bitcoindark.ca": "INACTIVE"
+        },
+        "1576240631": {
+            "ps20.bitcoindark.ca": "INACTIVE",
+            "psc.luckypool.io": "INACTIVE",
+            "pse.coin-miners.info": "INACTIVE",
+            "pse.node.coin-miners.info": "INACTIVE",
+            "psy.suprnova.cc": "INACTIVE",
+            "pta.coin-miners.info": "INACTIVE"
+        },
+        "1576240632": {
+            "pta.node.coin-miners.info": "INACTIVE",
+            "pub.cryptobrowser.site": "INACTIVE",
+            "pub0.eosys.io": "INACTIVE",
+            "pub1.eosys.io": "INACTIVE",
+            "public.deltapool.net": "INACTIVE",
+            "public.dm.bitcoin.co.pt": "INACTIVE"
+        },
+        "1576240633": {
+            "public.sandbox.exchange.coinbase.com": "INACTIVE",
+            "publicapi-mainnet.sh": "INACTIVE",
+            "pure.suprnova.cc": "INACTIVE"
+        },
+        "1576240634": {
+            "purk.miner.rocks": "INACTIVE",
+            "push.poloniex.com": "INACTIVE",
+            "put.mpool.su": "INACTIVE",
+            "pve1.pool.sexy": "INACTIVE",
+            "pw.openvpn.dpool.top": "INACTIVE"
+        },
+        "1576240635": {
+            "pwr.suprnova.cc": "INACTIVE",
+            "px1.papoto.com": "INACTIVE",
+            "px2.papoto.com": "INACTIVE",
+            "pxc.dnb.io": "INACTIVE",
+            "pxc.mine-vn.com": "INACTIVE",
+            "pxc.mpool.su": "INACTIVE",
+            "pxc.theblocksfactory.com": "INACTIVE",
+            "pxi.mine-vn.com": "INACTIVE"
+        },
+        "1576240636": {
+            "pxi.mpool.su": "INACTIVE",
+            "pxl.coin-miners.info": "INACTIVE",
+            "pxl.node.coin-miners.info": "INACTIVE",
+            "pxl.pubnodes.com": "INACTIVE",
+            "pyrex.modpool.org": "INACTIVE",
+            "pyrex.youpool.io": "INACTIVE"
+        },
+        "1576240637": {
+            "pyrite.pw": "INACTIVE",
+            "pyx.cnpool.cc": "INACTIVE",
+            "pyxw.btcc.com": "INACTIVE"
         }
     }
 }
