@@ -8073,255 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575752456": {
-            "mon-deu-1.inf.nimiq.net": "INACTIVE",
-            "mon-deu-2.inf.nimiq.net": "INACTIVE",
-            "mon-deu-3.inf.nimiq.net": "INACTIVE",
-            "mon-fra-1.inf.nimiq.net": "INACTIVE"
-        },
-        "1575752457": {
-            "mon-fra-2.inf.nimiq.net": "INACTIVE",
-            "mon-gbr-1.inf.nimiq.net": "INACTIVE",
-            "mon.give-me-coins.com": "INACTIVE",
-            "mon.monerohash.com": "INACTIVE",
-            "mon.pool.sexy": "INACTIVE",
-            "mon.quantumminingpool.com": "INACTIVE",
-            "mon.suprnova.cc": "INACTIVE"
-        },
-        "1575752458": {
-            "mon.virtopia.ca": "INACTIVE",
-            "mona-api.suprnova.cc": "INACTIVE",
-            "mona-nl.hashing.space": "INACTIVE",
-            "mona-tx.hashing.space": "INACTIVE",
-            "mona-wa.hashing.space": "INACTIVE",
-            "moneone.ga": "INACTIVE"
-        },
-        "1575752459": {
-            "monero-core.minemonero.pro": "INACTIVE",
-            "monero-master.node.crypto-pool.fr": "INACTIVE",
-            "monero-pool.theskynet.xyz": "INACTIVE",
-            "monero.backup-pool.com": "INACTIVE",
-            "monero.btgirl.com.cn": "INACTIVE",
-            "monero.crypto-coins.club": "INACTIVE"
-        },
-        "1575752460": {
-            "monero.cryptopool.online": "INACTIVE",
-            "monero.gigsis.net": "INACTIVE",
-            "monero.hashanywhere.com": "INACTIVE",
-            "monero.kippo.eu": "INACTIVE",
-            "monero.labbinarymining.com": "INACTIVE",
-            "monero.miningpool.online": "INACTIVE"
-        },
-        "1575752461": {
-            "monero.minerxmr.ru": "INACTIVE",
-            "monero.miningpool.top": "INACTIVE",
-            "monero.monerise.com": "INACTIVE",
-            "monero.multipooler.com": "INACTIVE",
-            "monero.node.crypto-pool.fr": "INACTIVE",
-            "monero.nodes.hashvault.pro": "INACTIVE",
-            "monero.riefly.id": "INACTIVE"
-        },
-        "1575752462": {
-            "monero.pool.pool.golix.com": "INACTIVE",
-            "monero.spacepools.org": "INACTIVE",
-            "monero.swap.miningpool.online": "INACTIVE",
-            "monero.tugae2.com": "INACTIVE",
-            "moneroclassic.smartcoinpool.com": "INACTIVE",
-            "moneromilk.com": "INACTIVE",
-            "monerominer.life": "INACTIVE"
-        },
-        "1575752463": {
-            "monerominer.ro": "INACTIVE",
-            "moneroocean.st": "INACTIVE",
-            "moneropool.nl": "INACTIVE",
-            "moneroseeds.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1575752464": {
-            "monerov.codpool.com": "INACTIVE",
-            "monerov.herominers.com": "INACTIVE",
-            "monerov.ingest.cryptoknight.cc": "INACTIVE",
-            "monerov.miner.rocks": "INACTIVE",
-            "monerov.rocketpool.pro": "INACTIVE",
-            "monet.suprnova.cc": "INACTIVE"
-        },
-        "1575752465": {
-            "money.suprnova.cc": "INACTIVE",
-            "mongodb.minecrypto.pro": "INACTIVE",
-            "monit.quantumminingpool.com": "INACTIVE",
-            "monitor-eu.btc.com": "INACTIVE",
-            "monitor.btc.com": "INACTIVE",
-            "monitor.coin-miners.info": "INACTIVE",
-            "monitor.cryptopay.me": "INACTIVE"
-        },
-        "1575752466": {
-            "monitor.gcpool.eu": "INACTIVE",
-            "monitor.hn2.einfach-iota.de": "INACTIVE",
-            "monitor.hn2.node.einfach-iota.de": "INACTIVE",
-            "monitor.node.einfach-iota.de": "INACTIVE",
-            "monitor.node.node.einfach-iota.de": "INACTIVE",
-            "monitor.sushipool.com": "INACTIVE",
-            "monitor2.sushipool.com": "INACTIVE"
-        },
-        "1575752467": {
-            "monitoring.minemonero.pro": "INACTIVE",
-            "monitoring.virtopia.ca": "INACTIVE",
-            "monkey.multipools.club": "INACTIVE",
-            "monty.coin-miners.info": "INACTIVE",
-            "monty.node.coin-miners.info": "INACTIVE",
-            "moon.mine-vn.com": "INACTIVE",
-            "moon.suprnova.cc": "INACTIVE"
-        },
-        "1575752468": {
-            "moon.poolto.be": "INACTIVE",
-            "moon.youcrazy.me": "INACTIVE",
-            "moscow.electroneum.hashvault.pro": "INACTIVE",
-            "moscow.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "moscow.graft.hashvault.pro": "INACTIVE"
-        },
-        "1575752469": {
-            "moscow.graft.nodes.hashvault.pro": "INACTIVE",
-            "moscow.minemonero.pro": "INACTIVE",
-            "moscow.monero.hashvault.pro": "INACTIVE",
-            "moscow.monero.nodes.hashvault.pro": "INACTIVE",
-            "moscow01.electroneum.hashvault.pro": "INACTIVE",
-            "moscow01.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "moscow01.graft.nodes.hashvault.pro": "INACTIVE",
-            "moscow01.monero.hashvault.pro": "INACTIVE"
-        },
-        "1575752470": {
-            "moscow01.minemonero.pro": "INACTIVE",
-            "moscow01.monero.nodes.hashvault.pro": "INACTIVE",
-            "moscow01.nodes.hashvault.pro": "INACTIVE",
-            "moscow02.electroneum.hashvault.pro": "INACTIVE",
-            "moscow02.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "moscow02.minemonero.pro": "INACTIVE",
-            "moscow03.electroneum.hashvault.pro": "INACTIVE",
-            "moscow03.electroneum.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575752471": {
-            "moscow04.electroneum.hashvault.pro": "INACTIVE",
-            "moscow04.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "moscow05.electroneum.hashvault.pro": "INACTIVE",
-            "moscow05.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "moscow06.electroneum.hashvault.pro": "INACTIVE",
-            "moscow06.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "moscow07.electroneum.hashvault.pro": "INACTIVE",
-            "moscow07.electroneum.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575752472": {
-            "moscow08.electroneum.hashvault.pro": "INACTIVE",
-            "moscow08.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "moscow09.electroneum.hashvault.pro": "INACTIVE",
-            "moscow09.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "moscow10.electroneum.hashvault.pro": "INACTIVE",
-            "moscow10.electroneum.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1575753995": {
-            "move.coinstop.me": "INACTIVE",
-            "moved.coinstop.me": "INACTIVE"
-        },
-        "1575753996": {
-            "mox.52hash.com": "INACTIVE",
-            "mox.youpool.io": "INACTIVE",
-            "mozz.suprnova.cc": "INACTIVE",
-            "mp-test.multipools.club": "INACTIVE",
-            "mp.majorminers.com": "INACTIVE",
-            "mp.multipool.com": "INACTIVE",
-            "mp.node.moneroworld.com": "INACTIVE"
-        },
-        "1575753997": {
-            "mp2pzq.xyz": "INACTIVE",
-            "mp8.openvpn.f2pool.com": "INACTIVE",
-            "mpos.coinminerz.com": "INACTIVE",
-            "mr-usa.dwarfpool.com": "INACTIVE"
-        },
-        "1575753998": {
-            "mr.crypto-pool.fr": "INACTIVE",
-            "mr01.miningrigrentals.com": "INACTIVE",
-            "mr02.miningrigrentals.com": "INACTIVE",
-            "mrb.suprnova.cc": "INACTIVE",
-            "mrc.luckypool.io": "INACTIVE",
-            "mrmuscle.bitcoin.co.pt": "INACTIVE",
-            "mro.extremeool.org": "INACTIVE"
-        },
-        "1575753999": {
-            "mrp.coin-miners.info": "INACTIVE",
-            "mrp.node.coin-miners.info": "INACTIVE",
-            "mrt.n3rd3d.com": "INACTIVE",
-            "msr-pool.proxpool.com": "INACTIVE",
-            "msr-us.labbinarymining.com": "INACTIVE"
-        },
-        "1575754000": {
-            "msr.bluerockpools.net": "INACTIVE",
-            "msr.crypto-coins.club": "INACTIVE",
-            "msr.go-mine.it": "INACTIVE",
-            "msr.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "msr.luckypool.io": "INACTIVE",
-            "msr.pool.golix.com": "INACTIVE",
-            "msr.pool.pool.gntl.co.uk": "INACTIVE"
-        },
-        "1575754001": {
-            "msr.proxpool.com": "INACTIVE",
-            "msr.semipool.com": "INACTIVE",
-            "msr.solopool.org": "INACTIVE",
-            "msr.soyminero.es": "INACTIVE",
-            "mstdn.pecadol.xyz": "INACTIVE",
-            "mta-sts.cryptopool.cash.cryptopool.cash": "INACTIVE"
-        },
-        "1575754002": {
-            "mta-sts.mail.cryptomininggame.com": "INACTIVE",
-            "mta-sts.mx1.aussie-pools.com": "INACTIVE",
-            "mta2.alpereum.ch": "INACTIVE",
-            "mta21.cryptobrowser.site": "INACTIVE",
-            "mta6.cryptobrowser.site": "INACTIVE",
-            "mth.semipool.com": "INACTIVE",
-            "mtip.llama.horse": "INACTIVE"
-        },
-        "1575754003": {
-            "mtip.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "mtp.br.nicehash.com": "INACTIVE",
-            "mtp.eu.nicehash.com": "INACTIVE",
-            "mtp.hk.nicehash.com": "INACTIVE",
-            "mtp.in.nicehash.com": "INACTIVE",
-            "mtp.jp.nicehash.com": "INACTIVE",
-            "mtp.usa.nicehash.com": "INACTIVE"
-        },
-        "1575754004": {
-            "mtp101.minertopia.org": "INACTIVE",
-            "mtr.suprnova.cc": "INACTIVE",
-            "mts.coin-miners.info": "INACTIVE",
-            "mts.node.coin-miners.info": "INACTIVE",
-            "mue-de.hashing.space": "INACTIVE",
-            "mue-nl.hashing.space": "INACTIVE",
-            "mue-sg.hashing.space": "INACTIVE"
-        },
-        "1575754005": {
-            "mue-tx.hashing.space": "INACTIVE",
-            "mue-wa.hashing.space": "INACTIVE",
-            "mue.coinstop.me": "INACTIVE",
-            "mue.minertopia.org": "INACTIVE",
-            "mue.miningfield.com": "INACTIVE",
-            "mue.suprnova.cc": "INACTIVE",
-            "multi.bitpool.ro": "INACTIVE"
-        },
-        "1575754006": {
-            "multi.btcc.com": "INACTIVE",
-            "multi.cryptomine.pro": "INACTIVE",
-            "multi.ghash.io": "INACTIVE",
-            "multi.lightninghash.com": "INACTIVE",
-            "multi.majorminers.com": "INACTIVE",
-            "multi.minecrypto.pro": "INACTIVE",
-            "multi.suprnova.cc": "INACTIVE",
-            "multicoin.lightninghash.com": "INACTIVE"
-        },
-        "1575754007": {
-            "multipool.blockfoundry.org": "INACTIVE",
-            "multipool.es": "INACTIVE",
-            "multipool.signal2noi.se": "INACTIVE",
-            "multipool.smartcoinpool.com": "INACTIVE",
-            "multipool.sonofatech.com": "INACTIVE",
-            "multipool.su": "INACTIVE"
-        },
         "1575754008": {
             "multipools.cl": "INACTIVE",
             "muroplas.em.bitcoin.co.pt": "INACTIVE",
@@ -24982,6 +24733,254 @@
             "mobile.moneroseeds.ae.org": "INACTIVE",
             "mobileaccess.clona.ru": "INACTIVE",
             "moin.suprnova.cc": "INACTIVE"
+        },
+        "1576223196": {
+            "mon-deu-1.inf.nimiq.net": "INACTIVE",
+            "mon-deu-2.inf.nimiq.net": "INACTIVE",
+            "mon-deu-3.inf.nimiq.net": "INACTIVE",
+            "mon-fra-1.inf.nimiq.net": "INACTIVE",
+            "mon-fra-2.inf.nimiq.net": "INACTIVE",
+            "mon-gbr-1.inf.nimiq.net": "INACTIVE",
+            "mon.give-me-coins.com": "INACTIVE"
+        },
+        "1576223197": {
+            "mon.monerohash.com": "INACTIVE",
+            "mon.pool.sexy": "INACTIVE",
+            "mon.quantumminingpool.com": "INACTIVE",
+            "mon.suprnova.cc": "INACTIVE",
+            "mon.virtopia.ca": "INACTIVE",
+            "mona-api.suprnova.cc": "INACTIVE",
+            "mona-nl.hashing.space": "INACTIVE",
+            "mona-tx.hashing.space": "INACTIVE",
+            "mona-wa.hashing.space": "INACTIVE"
+        },
+        "1576223198": {
+            "moneone.ga": "INACTIVE",
+            "monero-core.minemonero.pro": "INACTIVE",
+            "monero-master.node.crypto-pool.fr": "INACTIVE",
+            "monero-pool.theskynet.xyz": "INACTIVE",
+            "monero.backup-pool.com": "INACTIVE"
+        },
+        "1576223199": {
+            "monero.btgirl.com.cn": "INACTIVE",
+            "monero.cryptopool.online": "INACTIVE",
+            "monero.gigsis.net": "INACTIVE",
+            "monero.hashanywhere.com": "INACTIVE",
+            "monero.kippo.eu": "INACTIVE"
+        },
+        "1576223200": {
+            "monero.labbinarymining.com": "INACTIVE",
+            "monero.minerxmr.ru": "INACTIVE",
+            "monero.miningpool.online": "INACTIVE",
+            "monero.miningpool.top": "INACTIVE",
+            "monero.modpool.org": "INACTIVE",
+            "monero.monerise.com": "INACTIVE",
+            "monero.multipooler.com": "INACTIVE",
+            "monero.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1576223201": {
+            "monero.node.crypto-pool.fr": "INACTIVE",
+            "monero.pool.pool.golix.com": "INACTIVE",
+            "monero.riefly.id": "INACTIVE",
+            "monero.spacepools.org": "INACTIVE",
+            "monero.swap.miningpool.online": "INACTIVE",
+            "monero.tugae2.com": "INACTIVE",
+            "moneroclassic.smartcoinpool.com": "INACTIVE"
+        },
+        "1576223202": {
+            "moneromilk.com": "INACTIVE",
+            "monerominer.life": "INACTIVE",
+            "monerominer.ro": "INACTIVE",
+            "moneroocean.st": "INACTIVE",
+            "moneropool.nl": "INACTIVE"
+        },
+        "1576223203": {
+            "moneroseeds.moneroseeds.ae.org": "INACTIVE",
+            "monerov.codpool.com": "INACTIVE",
+            "monerov.herominers.com": "INACTIVE",
+            "monerov.ingest.cryptoknight.cc": "INACTIVE",
+            "monerov.miner.rocks": "INACTIVE",
+            "monerov.rocketpool.pro": "INACTIVE",
+            "monet.suprnova.cc": "INACTIVE"
+        },
+        "1576223204": {
+            "money.suprnova.cc": "INACTIVE",
+            "mongodb.minecrypto.pro": "INACTIVE",
+            "monit.quantumminingpool.com": "INACTIVE",
+            "monitor-eu.btc.com": "INACTIVE",
+            "monitor.btc.com": "INACTIVE",
+            "monitor.coin-miners.info": "INACTIVE"
+        },
+        "1576223205": {
+            "monitor.cryptopay.me": "INACTIVE",
+            "monitor.gcpool.eu": "INACTIVE",
+            "monitor.hn2.einfach-iota.de": "INACTIVE",
+            "monitor.hn2.node.einfach-iota.de": "INACTIVE",
+            "monitor.node.einfach-iota.de": "INACTIVE",
+            "monitor.node.node.einfach-iota.de": "INACTIVE",
+            "monitor.sushipool.com": "INACTIVE",
+            "monitor2.sushipool.com": "INACTIVE"
+        },
+        "1576223206": {
+            "monitoring.minemonero.pro": "INACTIVE",
+            "monitoring.virtopia.ca": "INACTIVE",
+            "monkey.multipools.club": "INACTIVE",
+            "monty.coin-miners.info": "INACTIVE",
+            "monty.node.coin-miners.info": "INACTIVE",
+            "moon.mine-vn.com": "INACTIVE"
+        },
+        "1576223207": {
+            "moon.poolto.be": "INACTIVE",
+            "moon.suprnova.cc": "INACTIVE",
+            "moon.youcrazy.me": "INACTIVE",
+            "moscow.electroneum.hashvault.pro": "INACTIVE",
+            "moscow.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "moscow.graft.hashvault.pro": "INACTIVE"
+        },
+        "1576223208": {
+            "moscow.graft.nodes.hashvault.pro": "INACTIVE",
+            "moscow.minemonero.pro": "INACTIVE",
+            "moscow.monero.hashvault.pro": "INACTIVE",
+            "moscow.monero.nodes.hashvault.pro": "INACTIVE",
+            "moscow01.electroneum.hashvault.pro": "INACTIVE",
+            "moscow01.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "moscow01.graft.nodes.hashvault.pro": "INACTIVE",
+            "moscow01.minemonero.pro": "INACTIVE"
+        },
+        "1576223209": {
+            "moscow01.monero.hashvault.pro": "INACTIVE",
+            "moscow01.monero.nodes.hashvault.pro": "INACTIVE",
+            "moscow01.nodes.hashvault.pro": "INACTIVE",
+            "moscow02.electroneum.hashvault.pro": "INACTIVE",
+            "moscow02.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "moscow02.minemonero.pro": "INACTIVE",
+            "moscow03.electroneum.hashvault.pro": "INACTIVE",
+            "moscow03.electroneum.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1576223210": {
+            "moscow04.electroneum.hashvault.pro": "INACTIVE",
+            "moscow04.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "moscow05.electroneum.hashvault.pro": "INACTIVE",
+            "moscow05.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "moscow06.electroneum.hashvault.pro": "INACTIVE",
+            "moscow06.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "moscow07.electroneum.hashvault.pro": "INACTIVE",
+            "moscow07.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "moscow08.electroneum.hashvault.pro": "INACTIVE"
+        },
+        "1576223211": {
+            "moscow08.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "moscow09.electroneum.hashvault.pro": "INACTIVE",
+            "moscow09.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "moscow10.electroneum.hashvault.pro": "INACTIVE",
+            "moscow10.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "motion.1ds.us": "INACTIVE",
+            "move.coinstop.me": "INACTIVE",
+            "moved.coinstop.me": "INACTIVE"
+        },
+        "1576223212": {
+            "mox.52hash.com": "INACTIVE",
+            "mox.modpool.org": "INACTIVE",
+            "mox.youpool.io": "INACTIVE",
+            "mozz.suprnova.cc": "INACTIVE",
+            "mp-test.multipools.club": "INACTIVE",
+            "mp.majorminers.com": "INACTIVE",
+            "mp.multipool.com": "INACTIVE",
+            "mp.node.moneroworld.com": "INACTIVE"
+        },
+        "1576223213": {
+            "mp2pzq.xyz": "INACTIVE",
+            "mp8.openvpn.f2pool.com": "INACTIVE",
+            "mpool.1ds.us": "INACTIVE",
+            "mpos.1ds.us": "INACTIVE",
+            "mpos.coinminerz.com": "INACTIVE"
+        },
+        "1576223214": {
+            "mr-usa.dwarfpool.com": "INACTIVE",
+            "mr.crypto-pool.fr": "INACTIVE",
+            "mr01.miningrigrentals.com": "INACTIVE",
+            "mr02.miningrigrentals.com": "INACTIVE",
+            "mrb.suprnova.cc": "INACTIVE",
+            "mrc.luckypool.io": "INACTIVE",
+            "mrmuscle.bitcoin.co.pt": "INACTIVE",
+            "mro.extremeool.org": "INACTIVE"
+        },
+        "1576223215": {
+            "mrp.coin-miners.info": "INACTIVE",
+            "mrp.node.coin-miners.info": "INACTIVE",
+            "mrt.n3rd3d.com": "INACTIVE",
+            "msr-pool.proxpool.com": "INACTIVE",
+            "msr-us.labbinarymining.com": "INACTIVE"
+        },
+        "1576223216": {
+            "msr.bluerockpools.net": "INACTIVE",
+            "msr.crypto-coins.club": "INACTIVE",
+            "msr.go-mine.it": "INACTIVE",
+            "msr.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "msr.luckypool.io": "INACTIVE",
+            "msr.pool.golix.com": "INACTIVE",
+            "msr.pool.pool.gntl.co.uk": "INACTIVE",
+            "msr.proxpool.com": "INACTIVE"
+        },
+        "1576223217": {
+            "msr.semipool.com": "INACTIVE",
+            "msr.solopool.org": "INACTIVE",
+            "msr.soyminero.es": "INACTIVE",
+            "mstdn.pecadol.xyz": "INACTIVE",
+            "mta-sts.cryptopool.cash.cryptopool.cash": "INACTIVE",
+            "mta-sts.mail.cryptomininggame.com": "INACTIVE"
+        },
+        "1576223218": {
+            "mta-sts.mx1.aussie-pools.com": "INACTIVE",
+            "mta2.alpereum.ch": "INACTIVE",
+            "mta21.cryptobrowser.site": "INACTIVE",
+            "mta6.cryptobrowser.site": "INACTIVE",
+            "mth.semipool.com": "INACTIVE",
+            "mtip.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "mtip.llama.horse": "INACTIVE"
+        },
+        "1576223219": {
+            "mtp.br.nicehash.com": "INACTIVE",
+            "mtp.eu.nicehash.com": "INACTIVE",
+            "mtp.hk.nicehash.com": "INACTIVE",
+            "mtp.in.nicehash.com": "INACTIVE",
+            "mtp.jp.nicehash.com": "INACTIVE",
+            "mtp.usa.nicehash.com": "INACTIVE",
+            "mtp101.minertopia.org": "INACTIVE",
+            "mtr.suprnova.cc": "INACTIVE",
+            "mts.coin-miners.info": "INACTIVE"
+        },
+        "1576223220": {
+            "mts.node.coin-miners.info": "INACTIVE",
+            "mue-de.hashing.space": "INACTIVE",
+            "mue-nl.hashing.space": "INACTIVE",
+            "mue-sg.hashing.space": "INACTIVE",
+            "mue-tx.hashing.space": "INACTIVE",
+            "mue-wa.hashing.space": "INACTIVE",
+            "mue.coinstop.me": "INACTIVE"
+        },
+        "1576223221": {
+            "mue.minertopia.org": "INACTIVE",
+            "mue.miningfield.com": "INACTIVE",
+            "mue.suprnova.cc": "INACTIVE",
+            "multi.bitpool.ro": "INACTIVE",
+            "multi.cryptomine.pro": "INACTIVE",
+            "multi.ghash.io": "INACTIVE",
+            "multi.lightninghash.com": "INACTIVE",
+            "multi.majorminers.com": "INACTIVE"
+        },
+        "1576223222": {
+            "multi.minecrypto.pro": "INACTIVE",
+            "multi.suprnova.cc": "INACTIVE",
+            "multicoin.lightninghash.com": "INACTIVE",
+            "multipool.blockfoundry.org": "INACTIVE",
+            "multipool.es": "INACTIVE",
+            "multipool.smartcoinpool.com": "INACTIVE"
+        },
+        "1576223223": {
+            "multipool.signal2noi.se": "INACTIVE",
+            "multipool.sonofatech.com": "INACTIVE",
+            "multipool.su": "INACTIVE"
         }
     }
 }
