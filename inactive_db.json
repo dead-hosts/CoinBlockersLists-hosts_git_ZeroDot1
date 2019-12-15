@@ -8073,150 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575804308": {
-            "skr.mine-vn.com": "INACTIVE"
-        },
-        "1575804309": {
-            "skunk.br.nicehash.com": "INACTIVE",
-            "sky.suprnova.cc": "INACTIVE",
-            "skynet.gonspool.com": "INACTIVE"
-        },
-        "1575804310": {
-            "slack.bittrex.com": "INACTIVE",
-            "slack.expanse.tech": "INACTIVE",
-            "slack.minertopia.org": "INACTIVE",
-            "slave1.asicpool.info": "INACTIVE",
-            "sld.4miner.me": "INACTIVE",
-            "sld.miner.rocks": "INACTIVE",
-            "sle.btcc.com": "INACTIVE"
-        },
-        "1575804311": {
-            "slen.suprnova.cc": "INACTIVE",
-            "slfi.coin-miners.info": "INACTIVE",
-            "slfi.node.coin-miners.info": "INACTIVE",
-            "slg.coin-miners.info": "INACTIVE",
-            "slg.node.coin-miners.info": "INACTIVE",
-            "sling.coin-miners.info": "INACTIVE",
-            "sling.node.coin-miners.info": "INACTIVE",
-            "sling.suprnova.cc": "INACTIVE"
-        },
-        "1575804312": {
-            "slk.coin-miners.info": "INACTIVE",
-            "slk.node.coin-miners.info": "INACTIVE",
-            "slotcat.bid": "INACTIVE",
-            "slotmach.bid": "INACTIVE",
-            "slotmachina.bid": "INACTIVE",
-            "slowandsteady.fun": "INACTIVE"
-        },
-        "1575804313": {
-            "smart.suprnova.cc": "INACTIVE",
-            "smartoffer.si": "INACTIVE",
-            "smc.hash-to-coins.com": "INACTIVE"
-        },
-        "1575804314": {
-            "smc.p2pmine.com": "INACTIVE",
-            "smc.smartmining.net": "INACTIVE",
-            "smc.stratum.smartmining.net": "INACTIVE",
-            "smectapop12.pl": "INACTIVE",
-            "smith.pool.sexy": "INACTIVE",
-            "smly.suprnova.cc": "INACTIVE",
-            "smn.mine-vn.com": "INACTIVE"
-        },
-        "1575804315": {
-            "sms-api.uax.io": "INACTIVE",
-            "smsr.suprnova.cc": "INACTIVE",
-            "smtp-gw.slushpool.com": "INACTIVE",
-            "smtp.bmgpool.com": "INACTIVE"
-        },
-        "1575806366": {
-            "smtp.bpool.com": "INACTIVE",
-            "smtp.cryptominingpool.eu": "INACTIVE",
-            "smtp.miningclub.cc": "INACTIVE",
-            "smtp.pool.sexy": "INACTIVE",
-            "smtp2.slushpool.com": "INACTIVE",
-            "sn.aikapool.com": "INACTIVE"
-        },
-        "1575806367": {
-            "snahome.com": "INACTIVE",
-            "sng.crypto-mining-pool.com": "INACTIVE",
-            "sng.ehashcoins.org": "INACTIVE",
-            "sng.lucky-mining.com.ua": "INACTIVE",
-            "sng.minepool.ch": "INACTIVE",
-            "sng.solopool.org": "INACTIVE",
-            "sng.wfmpools.com": "INACTIVE",
-            "sng.zhash.pro": "INACTIVE"
-        },
-        "1575806368": {
-            "snowgem.axepool.com": "INACTIVE",
-            "snowgem.basementpool.org": "INACTIVE",
-            "snowgem.luckypool.io": "INACTIVE",
-            "snowgem.minerspool.cc": "INACTIVE",
-            "snowgem.miningspeed.com": "INACTIVE",
-            "snowgem.voidr.net": "INACTIVE"
-        },
-        "1575806369": {
-            "sns.aikapool.com": "INACTIVE",
-            "snus.moneroseeds.ae.org": "INACTIVE",
-            "so158.btcc.com": "INACTIVE",
-            "sobit.nocroom.com": "INACTIVE",
-            "socc.gcpool.eu": "INACTIVE",
-            "social.moneroworld.com": "INACTIVE",
-            "socialextensions.top": "INACTIVE",
-            "socket.viabtc.com": "INACTIVE"
-        },
-        "1575806370": {
-            "soil.clona.ru": "INACTIVE",
-            "soil.litepool.ru": "INACTIVE",
-            "soil.mine-vn.com": "INACTIVE",
-            "soil.minertopia.org": "INACTIVE",
-            "soil.suprnova.cc": "INACTIVE",
-            "sol.luckypool.io": "INACTIVE",
-            "solace.ingest.cryptoknight.cc": "INACTIVE",
-            "solace.luckypool.io": "INACTIVE",
-            "solace.saltpool.net": "INACTIVE"
-        },
-        "1575806371": {
-            "solace.smartcoinpool.com": "INACTIVE",
-            "solace.solopool.org": "INACTIVE",
-            "solar.aikapool.com": "INACTIVE",
-            "soldi.labbinarymining.com": "INACTIVE",
-            "solid.mine-for.us": "INACTIVE",
-            "solo-aka.prod.2miners.com": "INACTIVE"
-        },
-        "1575806372": {
-            "solo-btg.prod.2miners.com": "INACTIVE",
-            "solo-clo.prod.2miners.com": "INACTIVE",
-            "solo-eth.prod.2miners.com": "INACTIVE"
-        },
-        "1575806373": {
-            "solo-etp.prod.2miners.com": "INACTIVE",
-            "solo-etsc.altpool.pro": "INACTIVE",
-            "solo-etz.altpool.pro": "INACTIVE",
-            "solo-hush.altpool.pro": "INACTIVE"
-        },
-        "1575806374": {
-            "solo-vic.altpool.pro": "INACTIVE",
-            "solo-whl.altpool.pro": "INACTIVE",
-            "solo-whl.prod.2miners.com": "INACTIVE",
-            "solo-yoc.prod.2miners.com": "INACTIVE",
-            "solo-zcoin.2miners.com": "INACTIVE"
-        },
-        "1575806375": {
-            "solo.clona.ru": "INACTIVE",
-            "solo.nicehash.com": "INACTIVE",
-            "solo.node.ckpool.org": "INACTIVE",
-            "solo.rig.tokyo": "INACTIVE",
-            "solo1.ckpool.org": "INACTIVE",
-            "solo2.ckpool.org": "INACTIVE"
-        },
-        "1575806376": {
-            "solo1.node.ckpool.org": "INACTIVE",
-            "solo2.node.ckpool.org": "INACTIVE",
-            "soloaeon-api.c1d2.com": "INACTIVE",
-            "sologateway.node.ckpool.org": "INACTIVE",
-            "solopass.ckpool.org": "INACTIVE",
-            "solopass.node.ckpool.org": "INACTIVE"
-        },
         "1575806377": {
             "sonvelesa.eu": "INACTIVE",
             "soon.coinstop.me": "INACTIVE",
@@ -25027,6 +24883,156 @@
             "sj.btcc.com": "INACTIVE",
             "skc.coinmine.pl": "INACTIVE",
             "skein.mining-dutch.nl": "INACTIVE"
+        },
+        "1576427449": {
+            "skr.mine-vn.com": "INACTIVE",
+            "sku.btcc.com": "INACTIVE",
+            "skunk.br.nicehash.com": "INACTIVE"
+        },
+        "1576427450": {
+            "sky.suprnova.cc": "INACTIVE",
+            "skynet.gonspool.com": "INACTIVE",
+            "slack.bittrex.com": "INACTIVE",
+            "slack.expanse.tech": "INACTIVE",
+            "slack.minertopia.org": "INACTIVE",
+            "slave1.asicpool.info": "INACTIVE"
+        },
+        "1576427451": {
+            "sld.4miner.me": "INACTIVE",
+            "sld.miner.rocks": "INACTIVE",
+            "sle.btcc.com": "INACTIVE",
+            "slen.suprnova.cc": "INACTIVE",
+            "slfi.coin-miners.info": "INACTIVE",
+            "slfi.node.coin-miners.info": "INACTIVE",
+            "slg.coin-miners.info": "INACTIVE",
+            "slg.node.coin-miners.info": "INACTIVE",
+            "sling.coin-miners.info": "INACTIVE"
+        },
+        "1576427452": {
+            "sling.node.coin-miners.info": "INACTIVE",
+            "sling.suprnova.cc": "INACTIVE",
+            "slk.coin-miners.info": "INACTIVE",
+            "slk.node.coin-miners.info": "INACTIVE",
+            "slotcat.bid": "INACTIVE",
+            "slotmach.bid": "INACTIVE",
+            "slotmachina.bid": "INACTIVE"
+        },
+        "1576427453": {
+            "slowandsteady.fun": "INACTIVE",
+            "smart.suprnova.cc": "INACTIVE",
+            "smartoffer.si": "INACTIVE"
+        },
+        "1576427454": {
+            "smc.hash-to-coins.com": "INACTIVE",
+            "smc.p2pmine.com": "INACTIVE",
+            "smc.smartmining.net": "INACTIVE",
+            "smc.stratum.smartmining.net": "INACTIVE",
+            "smectapop12.pl": "INACTIVE",
+            "smith.pool.sexy": "INACTIVE",
+            "smly.suprnova.cc": "INACTIVE"
+        },
+        "1576427455": {
+            "smn.mine-vn.com": "INACTIVE",
+            "sms-api.uax.io": "INACTIVE",
+            "smsr.suprnova.cc": "INACTIVE",
+            "smtp-gw.slushpool.com": "INACTIVE",
+            "smtp.bmgpool.com": "INACTIVE",
+            "smtp.bpool.com": "INACTIVE",
+            "smtp.cryptominingpool.eu": "INACTIVE"
+        },
+        "1576427456": {
+            "smtp.mining-dutch.nl": "INACTIVE",
+            "smtp.miningclub.cc": "INACTIVE",
+            "smtp.pool.sexy": "INACTIVE",
+            "smtp2.slushpool.com": "INACTIVE",
+            "sn.aikapool.com": "INACTIVE"
+        },
+        "1576427457": {
+            "snahome.com": "INACTIVE",
+            "sng.crypto-mining-pool.com": "INACTIVE",
+            "sng.ehashcoins.org": "INACTIVE",
+            "sng.lucky-mining.com.ua": "INACTIVE",
+            "sng.magnificentpool.com": "INACTIVE",
+            "sng.minepool.ch": "INACTIVE",
+            "sng.solopool.org": "INACTIVE"
+        },
+        "1576427458": {
+            "sng.wfmpools.com": "INACTIVE",
+            "sng.zhash.pro": "INACTIVE",
+            "snowgem.axepool.com": "INACTIVE",
+            "snowgem.basementpool.org": "INACTIVE",
+            "snowgem.luckypool.io": "INACTIVE",
+            "snowgem.miningspeed.com": "INACTIVE"
+        },
+        "1576427459": {
+            "snowgem.minerspool.cc": "INACTIVE",
+            "snowgem.voidr.net": "INACTIVE",
+            "sns.aikapool.com": "INACTIVE",
+            "snus.moneroseeds.ae.org": "INACTIVE",
+            "so-5.btcc.com": "INACTIVE",
+            "so158.btcc.com": "INACTIVE",
+            "sobit.nocroom.com": "INACTIVE"
+        },
+        "1576427460": {
+            "socc.gcpool.eu": "INACTIVE",
+            "social.moneroworld.com": "INACTIVE",
+            "socialextensions.top": "INACTIVE",
+            "socket.viabtc.com": "INACTIVE",
+            "soil.clona.ru": "INACTIVE",
+            "soil.litepool.ru": "INACTIVE",
+            "soil.mine-vn.com": "INACTIVE"
+        },
+        "1576427461": {
+            "soil.minertopia.org": "INACTIVE",
+            "soil.suprnova.cc": "INACTIVE",
+            "sol.luckypool.io": "INACTIVE",
+            "solace.ingest.cryptoknight.cc": "INACTIVE",
+            "solace.luckypool.io": "INACTIVE",
+            "solace.saltpool.net": "INACTIVE",
+            "solace.smartcoinpool.com": "INACTIVE"
+        },
+        "1576427462": {
+            "solace.solopool.org": "INACTIVE",
+            "solar.aikapool.com": "INACTIVE",
+            "soldi.labbinarymining.com": "INACTIVE",
+            "solid.mine-for.us": "INACTIVE",
+            "solo-aka.prod.2miners.com": "INACTIVE"
+        },
+        "1576427463": {
+            "solo-btg.prod.2miners.com": "INACTIVE",
+            "solo-clo.prod.2miners.com": "INACTIVE",
+            "solo-eth.prod.2miners.com": "INACTIVE"
+        },
+        "1576427464": {
+            "solo-etp.prod.2miners.com": "INACTIVE",
+            "solo-etsc.altpool.pro": "INACTIVE",
+            "solo-etz.altpool.pro": "INACTIVE",
+            "solo-hush.altpool.pro": "INACTIVE"
+        },
+        "1576427465": {
+            "solo-vic.altpool.pro": "INACTIVE",
+            "solo-whl.altpool.pro": "INACTIVE",
+            "solo-whl.prod.2miners.com": "INACTIVE"
+        },
+        "1576427466": {
+            "solo-yoc.prod.2miners.com": "INACTIVE",
+            "solo-zcoin.2miners.com": "INACTIVE",
+            "solo.clona.ru": "INACTIVE"
+        },
+        "1576427467": {
+            "solo.nicehash.com": "INACTIVE",
+            "solo.node.ckpool.org": "INACTIVE",
+            "solo.rig.tokyo": "INACTIVE",
+            "solo1.ckpool.org": "INACTIVE",
+            "solo1.node.ckpool.org": "INACTIVE",
+            "solo2.ckpool.org": "INACTIVE",
+            "solo2.node.ckpool.org": "INACTIVE",
+            "soloaeon-api.c1d2.com": "INACTIVE"
+        },
+        "1576427468": {
+            "sologateway.node.ckpool.org": "INACTIVE",
+            "solopass.ckpool.org": "INACTIVE",
+            "solopass.node.ckpool.org": "INACTIVE"
         }
     }
 }
