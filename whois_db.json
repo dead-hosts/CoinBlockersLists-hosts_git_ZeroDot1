@@ -12272,7 +12272,7 @@
     "tpool.io": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "trackerbuzz.info": {
         "epoch": 1581724800.0,
@@ -12290,8 +12290,8 @@
         "state": "future"
     },
     "trackerfastblog.info": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1581897600.0,
+        "expiration_date": "17-feb-2020",
         "state": "future"
     },
     "trackerfastmail.pro": {
