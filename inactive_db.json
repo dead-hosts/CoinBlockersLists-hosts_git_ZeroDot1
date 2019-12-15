@@ -8073,122 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575833028": {
-            "www.burstl.net": "INACTIVE",
-            "www.butcalve.com": "INACTIVE"
-        },
-        "1575834005": {
-            "www.bws.bitpay.com": "INACTIVE",
-            "www.by.bitcoin.co.pt": "INACTIVE",
-            "www.bypass.hashanywhere.com": "INACTIVE"
-        },
-        "1575834006": {
-            "www.c.netcodepool.org": "INACTIVE",
-            "www.ca1.bitminter.com": "INACTIVE",
-            "www.caldari.lksmith.me": "INACTIVE",
-            "www.carrel.services": "INACTIVE",
-            "www.cash.bitaccess.co": "INACTIVE"
-        },
-        "1575834007": {
-            "www.catspool.org": "INACTIVE",
-            "www.cd.freecontent.win": "INACTIVE",
-            "www.cdn-analytics.pl": "INACTIVE",
-            "www.cdn-jquery.host": "INACTIVE",
-            "www.cdn.haobtc.com": "INACTIVE"
-        },
-        "1575834008": {
-            "www.cdnfile.xyz": "INACTIVE",
-            "www.ce.bitcoin.co.pt": "INACTIVE",
-            "www.certificates.freecontent.win": "INACTIVE",
-            "www.cf-protected-coinye.netcodepool.org": "INACTIVE",
-            "www.cf-protected-doge.netcodepool.org": "INACTIVE",
-            "www.cf-protected-ltc.netcodepool.org": "INACTIVE",
-            "www.cf-protected-rpc.netcodepool.org": "INACTIVE"
-        },
-        "1575834009": {
-            "www.cf-ssl52115-protected-www.netcodepool.org": "INACTIVE",
-            "www.cga.lightninghash.com": "INACTIVE",
-            "www.ch.browsermine.com": "INACTIVE",
-            "www.chainblock.science": "INACTIVE",
-            "www.chaintime.epool.io": "INACTIVE",
-            "www.changingbags.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1575834010": {
-            "www.chileminers.cl": "INACTIVE",
-            "www.chmproxy.bid": "INACTIVE",
-            "www.chws.browsermine.com": "INACTIVE",
-            "www.ci.bitcoin.co.pt": "INACTIVE",
-            "www.ci.z.cash": "INACTIVE"
-        },
-        "1575834011": {
-            "www.cib.bitcoin.inc.hk": "INACTIVE",
-            "www.cid005.la.nocroom.com": "INACTIVE",
-            "www.cif.coin-miners.info": "INACTIVE",
-            "www.cif.node.coin-miners.info": "INACTIVE",
-            "www.citrusinvestment.99btc.net": "INACTIVE",
-            "www.clawde.xyz": "INACTIVE"
-        },
-        "1575834012": {
-            "www.clement.antpool.com": "INACTIVE",
-            "www.clgserv.pro": "INACTIVE",
-            "www.cliggi.download": "INACTIVE",
-            "www.clo.epool.io": "INACTIVE",
-            "www.clokin1.ru": "INACTIVE",
-            "www.cloud.getmonero.org": "INACTIVE"
-        },
-        "1575834013": {
-            "www.cloudcoins.co": "INACTIVE",
-            "www.cloudmedia.gdn": "INACTIVE",
-            "www.cloudmediacdn.com": "INACTIVE",
-            "www.clt.coin-miners.info": "INACTIVE",
-            "www.clt.node.coin-miners.info": "INACTIVE",
-            "www.clu.epool.io": "INACTIVE"
-        },
-        "1575834014": {
-            "www.cm.bitcoin.co.pt": "INACTIVE",
-            "www.cmm.bitpool.ro": "INACTIVE",
-            "www.cms.btcchina.com": "INACTIVE",
-            "www.cms.btcprivate.org": "INACTIVE",
-            "www.cn.antpool.com": "INACTIVE",
-            "www.cn.bitclub.network": "INACTIVE",
-            "www.cn.btcchina.com": "INACTIVE"
-        },
-        "1575834015": {
-            "www.cncoin.farm": "INACTIVE",
-            "www.cndhit.xyz": "INACTIVE",
-            "www.cnt.coin-miners.info": "INACTIVE",
-            "www.cnt.node.coin-miners.info": "INACTIVE",
-            "www.cnwww.btcchina.com": "INACTIVE",
-            "www.co.bitcoin.co.pt": "INACTIVE",
-            "www.cocozuma.net": "INACTIVE"
-        },
-        "1575834016": {
-            "www.coihive.com": "INACTIVE",
-            "www.coin-miner.top": "INACTIVE",
-            "www.coiner.site": "INACTIVE"
-        },
-        "1575834017": {
-            "www.coinchecker.backup-pool.com": "INACTIVE",
-            "www.coinhiv.com": "INACTIVE",
-            "www.coinhive-manager.com": "INACTIVE",
-            "www.coinhive-proxy.party": "INACTIVE",
-            "www.coinhive.com": "INACTIVE",
-            "www.coinhive.info": "INACTIVE"
-        },
-        "1575834786": {
-            "www.coinhove.com": "INACTIVE",
-            "www.coinlab.biz": "INACTIVE"
-        },
-        "1575834787": {
-            "www.coinone.live": "INACTIVE",
-            "www.coinone.site": "INACTIVE",
-            "www.coinpool.cloud": "INACTIVE",
-            "www.coinpool.ru": "INACTIVE",
-            "www.coinrail.io": "INACTIVE",
-            "www.coins4u.cc": "INACTIVE",
-            "www.coinsecure.in": "INACTIVE",
-            "www.coinsforhash.gq": "INACTIVE"
-        },
         "1575834788": {
             "www.coinstop.me": "INACTIVE",
             "www.coinye.netcodepool.org": "INACTIVE",
@@ -25078,6 +24962,117 @@
             "www.buck.bitpool.ro": "INACTIVE",
             "www.buck.lucky-mining.com.ua": "INACTIVE",
             "www.build.getmonero.org": "INACTIVE"
+        },
+        "1576454076": {
+            "www.burstl.net": "INACTIVE",
+            "www.butcalve.com": "INACTIVE",
+            "www.bws.bitpay.com": "INACTIVE"
+        },
+        "1576454077": {
+            "www.by.bitcoin.co.pt": "INACTIVE",
+            "www.bypass.hashanywhere.com": "INACTIVE",
+            "www.c.netcodepool.org": "INACTIVE",
+            "www.ca1.bitminter.com": "INACTIVE",
+            "www.caldari.lksmith.me": "INACTIVE"
+        },
+        "1576454078": {
+            "www.carrel.services": "INACTIVE",
+            "www.casadocodigo.tk": "INACTIVE",
+            "www.cash.bitaccess.co": "INACTIVE",
+            "www.catspool.org": "INACTIVE",
+            "www.cd.freecontent.win": "INACTIVE",
+            "www.cdn-analytics.pl": "INACTIVE",
+            "www.cdn-jquery.host": "INACTIVE"
+        },
+        "1576454079": {
+            "www.cdn.haobtc.com": "INACTIVE",
+            "www.cdnfile.xyz": "INACTIVE",
+            "www.ce.bitcoin.co.pt": "INACTIVE",
+            "www.cemsenik.qp.si": "INACTIVE",
+            "www.certificates.freecontent.win": "INACTIVE",
+            "www.cf-protected-coinye.netcodepool.org": "INACTIVE",
+            "www.cf-protected-doge.netcodepool.org": "INACTIVE",
+            "www.cf-protected-ltc.netcodepool.org": "INACTIVE"
+        },
+        "1576454080": {
+            "www.cf-protected-rpc.netcodepool.org": "INACTIVE",
+            "www.cf-ssl52115-protected-www.netcodepool.org": "INACTIVE",
+            "www.cga.lightninghash.com": "INACTIVE",
+            "www.ch.browsermine.com": "INACTIVE",
+            "www.chainblock.science": "INACTIVE",
+            "www.chaintime.epool.io": "INACTIVE",
+            "www.changingbags.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1576454081": {
+            "www.chileminers.cl": "INACTIVE",
+            "www.chmproxy.bid": "INACTIVE",
+            "www.chws.browsermine.com": "INACTIVE",
+            "www.ci.bitcoin.co.pt": "INACTIVE",
+            "www.ci.z.cash": "INACTIVE",
+            "www.cib.bitcoin.inc.hk": "INACTIVE",
+            "www.cid005.la.nocroom.com": "INACTIVE",
+            "www.cif.coin-miners.info": "INACTIVE",
+            "www.cif.node.coin-miners.info": "INACTIVE"
+        },
+        "1576454082": {
+            "www.citrusinvestment.99btc.net": "INACTIVE",
+            "www.clawde.xyz": "INACTIVE",
+            "www.clement.antpool.com": "INACTIVE",
+            "www.clgserv.pro": "INACTIVE",
+            "www.cliggi.download": "INACTIVE",
+            "www.clo.epool.io": "INACTIVE",
+            "www.clokin1.ru": "INACTIVE"
+        },
+        "1576454083": {
+            "www.cloud.getmonero.org": "INACTIVE",
+            "www.cloudcoins.co": "INACTIVE",
+            "www.cloudmedia.gdn": "INACTIVE",
+            "www.cloudmediacdn.com": "INACTIVE",
+            "www.clt.coin-miners.info": "INACTIVE",
+            "www.clt.node.coin-miners.info": "INACTIVE",
+            "www.clu.epool.io": "INACTIVE",
+            "www.cm.bitcoin.co.pt": "INACTIVE"
+        },
+        "1576454084": {
+            "www.cmm.bitpool.ro": "INACTIVE",
+            "www.cms.btcchina.com": "INACTIVE",
+            "www.cms.btcprivate.org": "INACTIVE",
+            "www.cn.antpool.com": "INACTIVE",
+            "www.cn.bitclub.network": "INACTIVE",
+            "www.cn.btcchina.com": "INACTIVE",
+            "www.cncoin.farm": "INACTIVE",
+            "www.cndhit.xyz": "INACTIVE"
+        },
+        "1576454085": {
+            "www.cnt.coin-miners.info": "INACTIVE",
+            "www.cnt.node.coin-miners.info": "INACTIVE",
+            "www.cnwww.btcchina.com": "INACTIVE",
+            "www.co.bitcoin.co.pt": "INACTIVE",
+            "www.cocozuma.net": "INACTIVE",
+            "www.coihive.com": "INACTIVE"
+        },
+        "1576454086": {
+            "www.coin-miner.top": "INACTIVE",
+            "www.coinchecker.backup-pool.com": "INACTIVE",
+            "www.coiner.site": "INACTIVE",
+            "www.coinhiv.com": "INACTIVE",
+            "www.coinhive-proxy.party": "INACTIVE",
+            "www.coinhive.com": "INACTIVE",
+            "www.coinhive.info": "INACTIVE"
+        },
+        "1576454087": {
+            "www.coinhove.com": "INACTIVE",
+            "www.coinlab.biz": "INACTIVE",
+            "www.coinone.live": "INACTIVE",
+            "www.coinone.site": "INACTIVE",
+            "www.coinpool.cloud": "INACTIVE"
+        },
+        "1576454088": {
+            "www.coinpool.ru": "INACTIVE",
+            "www.coinrail.io": "INACTIVE",
+            "www.coins4u.cc": "INACTIVE",
+            "www.coinsecure.in": "INACTIVE",
+            "www.coinsforhash.gq": "INACTIVE"
         }
     }
 }
