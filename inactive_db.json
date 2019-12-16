@@ -8073,89 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1575846232": {
-            "www.travel-offers.review": "INACTIVE",
-            "www.trtl.faucet.llama.horse": "INACTIVE",
-            "www.trtl.llama.horse": "INACTIVE",
-            "www.ts.greengaming.de": "INACTIVE"
-        },
-        "1575846233": {
-            "www.turbo.dm.bitcoin.co.pt": "INACTIVE",
-            "www.turtle.llama.horse": "INACTIVE",
-            "www.turtlecoin.fr": "INACTIVE",
-            "www.turtleminers.club": "INACTIVE",
-            "www.turtlepool.ml": "INACTIVE",
-            "www.turtlepool.space": "INACTIVE"
-        },
-        "1575846945": {
-            "www.ubiq.coin-miners.info": "INACTIVE",
-            "www.ubiq.node.coin-miners.info": "INACTIVE",
-            "www.ubiqpool.io": "INACTIVE",
-            "www.ubiqpool.maxhash.org": "INACTIVE",
-            "www.ublonline.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1575846946": {
-            "www.ubq.epool.io": "INACTIVE",
-            "www.udqgbokvzbnqkf.ru": "INACTIVE",
-            "www.ueb.moneroseeds.ae.org": "INACTIVE",
-            "www.ufo.chekazpools.com": "INACTIVE",
-            "www.ukp2pool.uk": "INACTIVE",
-            "www.ullnot.download": "INACTIVE"
-        },
-        "1575846947": {
-            "www.ultimatepool.io": "INACTIVE",
-            "www.umbru.io": "INACTIVE",
-            "www.umbtc.lightninghash.com": "INACTIVE",
-            "www.unains1748.com": "INACTIVE"
-        },
-        "1575846948": {
-            "www.updates.getmonero.org": "INACTIVE",
-            "www.uplexa.smartcoinpool.com": "INACTIVE",
-            "www.upmwulfalvxy.netcodepool.org": "INACTIVE",
-            "www.upyun-assets.ethfans.org": "INACTIVE",
-            "www.uqrain.moneroseeds.ae.org": "INACTIVE",
-            "www.url.nocroom.com": "INACTIVE"
-        },
-        "1575846949": {
-            "www.urp.best": "INACTIVE",
-            "www.us.antpool.com": "INACTIVE",
-            "www.us.coin-miners.info": "INACTIVE",
-            "www.us.exp.epool.io": "INACTIVE",
-            "www.us.node.coin-miners.info": "INACTIVE"
-        },
-        "1575846950": {
-            "www.us.solo.antpool.com": "INACTIVE",
-            "www.us.stratum.node.viaxmr.com": "INACTIVE",
-            "www.us.stratum.viaxmr.com": "INACTIVE",
-            "www.us1.bitminter.com": "INACTIVE",
-            "www.us2.bitminter.com": "INACTIVE",
-            "www.us2.netcodepool.org": "INACTIVE",
-            "www.usa.alpereum.ch": "INACTIVE"
-        },
-        "1575846951": {
-            "www.usaeast.alpereum.ch": "INACTIVE",
-            "www.usaid-rebuildiraq.moneroseeds.ae.org": "INACTIVE",
-            "www.useast.alpereum.ch": "INACTIVE",
-            "www.useast.loki.blockfoundry.org": "INACTIVE",
-            "www.uswest.alpereum.ch": "INACTIVE",
-            "www.uswest.loki.blockfoundry.org": "INACTIVE"
-        },
-        "1575846952": {
-            "www.utc.pool.pm": "INACTIVE",
-            "www.v90327ux.beget.tech": "INACTIVE",
-            "www.vat.moneroseeds.ae.org": "INACTIVE",
-            "www.veil.coin-miners.info": "INACTIVE",
-            "www.veil.node.coin-miners.info": "INACTIVE"
-        },
-        "1575846953": {
-            "www.verifier.li": "INACTIVE",
-            "www.veritrol.com": "INACTIVE",
-            "www.vertco.in": "INACTIVE",
-            "www.vetshomevisit.moneroseeds.ae.org": "INACTIVE",
-            "www.vi.bitclub.network": "INACTIVE"
-        },
         "1575846954": {
-            "www.viaxmr.com": "INACTIVE",
             "www.vip.antpool.com": "INACTIVE",
             "www.vip.antrouter.antpool.com": "INACTIVE",
             "www.vip.btcchina.com": "INACTIVE",
@@ -25128,6 +25046,91 @@
             "www.tower.burstcoin.ro": "INACTIVE",
             "www.transfer.bitaccess.co": "INACTIVE",
             "www.traumasister.tk": "INACTIVE"
+        },
+        "1576466809": {
+            "www.travel-offers.review": "INACTIVE"
+        },
+        "1576466810": {
+            "www.trtl.faucet.llama.horse": "INACTIVE",
+            "www.trtl.llama.horse": "INACTIVE",
+            "www.ts.greengaming.de": "INACTIVE",
+            "www.turbo.dm.bitcoin.co.pt": "INACTIVE",
+            "www.turtle.llama.horse": "INACTIVE",
+            "www.turtlecoin.fr": "INACTIVE"
+        },
+        "1576466811": {
+            "www.turtleminers.club": "INACTIVE",
+            "www.turtlepool.ml": "INACTIVE",
+            "www.turtlepool.space": "INACTIVE",
+            "www.ubiq.coin-miners.info": "INACTIVE",
+            "www.ubiq.node.coin-miners.info": "INACTIVE",
+            "www.ubiqpool.maxhash.org": "INACTIVE"
+        },
+        "1576466812": {
+            "www.ubiqpool.io": "INACTIVE",
+            "www.ublonline.moneroseeds.ae.org": "INACTIVE",
+            "www.ubq.epool.io": "INACTIVE",
+            "www.udqgbokvzbnqkf.ru": "INACTIVE",
+            "www.ueb.moneroseeds.ae.org": "INACTIVE",
+            "www.ufo.chekazpools.com": "INACTIVE",
+            "www.ukp2pool.uk": "INACTIVE"
+        },
+        "1576466813": {
+            "www.ullnot.download": "INACTIVE",
+            "www.ultimatepool.io": "INACTIVE",
+            "www.umbru.io": "INACTIVE",
+            "www.umbtc.lightninghash.com": "INACTIVE",
+            "www.unains1748.com": "INACTIVE"
+        },
+        "1576466814": {
+            "www.updates.getmonero.org": "INACTIVE",
+            "www.uplexa.smartcoinpool.com": "INACTIVE",
+            "www.upmwulfalvxy.netcodepool.org": "INACTIVE",
+            "www.upyun-assets.ethfans.org": "INACTIVE",
+            "www.uqrain.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1576466815": {
+            "www.url.nocroom.com": "INACTIVE",
+            "www.urp.best": "INACTIVE",
+            "www.us.antpool.com": "INACTIVE",
+            "www.us.coin-miners.info": "INACTIVE",
+            "www.us.exp.epool.io": "INACTIVE"
+        },
+        "1576466816": {
+            "www.us.node.coin-miners.info": "INACTIVE",
+            "www.us.solo.antpool.com": "INACTIVE",
+            "www.us.stratum.node.viaxmr.com": "INACTIVE",
+            "www.us.stratum.viaxmr.com": "INACTIVE",
+            "www.us1.bitminter.com": "INACTIVE",
+            "www.us2.bitminter.com": "INACTIVE",
+            "www.usa.alpereum.ch": "INACTIVE"
+        },
+        "1576466817": {
+            "www.us2.netcodepool.org": "INACTIVE",
+            "www.usaeast.alpereum.ch": "INACTIVE",
+            "www.usaid-rebuildiraq.moneroseeds.ae.org": "INACTIVE",
+            "www.useast.alpereum.ch": "INACTIVE",
+            "www.useast.loki.blockfoundry.org": "INACTIVE",
+            "www.uswest.alpereum.ch": "INACTIVE"
+        },
+        "1576466818": {
+            "www.uswest.loki.blockfoundry.org": "INACTIVE",
+            "www.utc.pool.pm": "INACTIVE",
+            "www.v90327ux.beget.tech": "INACTIVE",
+            "www.vat.moneroseeds.ae.org": "INACTIVE",
+            "www.veil.coin-miners.info": "INACTIVE"
+        },
+        "1576466819": {
+            "www.veil.node.coin-miners.info": "INACTIVE",
+            "www.verifier.li": "INACTIVE",
+            "www.veritrol.com": "INACTIVE",
+            "www.versusafteberr.ga": "INACTIVE",
+            "www.vertco.in": "INACTIVE"
+        },
+        "1576466820": {
+            "www.vetshomevisit.moneroseeds.ae.org": "INACTIVE",
+            "www.vi.bitclub.network": "INACTIVE",
+            "www.viaxmr.com": "INACTIVE"
         }
     }
 }
