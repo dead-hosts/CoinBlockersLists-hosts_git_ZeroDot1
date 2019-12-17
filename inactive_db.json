@@ -8073,214 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576165728": {
-            "api-itns001.cryptogrot.io": "INACTIVE"
-        },
-        "1576165729": {
-            "api-prod-dev.poolin.com": "INACTIVE",
-            "api-prod-proxy.poolin.com": "INACTIVE",
-            "api-slingshot.aikapool.com": "INACTIVE",
-            "api-testnet.xmr.skypool.org": "INACTIVE",
-            "api-xmr.foreverpool.org": "INACTIVE",
-            "api.1beb2a44.space": "INACTIVE",
-            "api.300ca0d0.space": "INACTIVE",
-            "api.310ca263.space": "INACTIVE"
-        },
-        "1576165730": {
-            "api.320ca3f6.space": "INACTIVE",
-            "api.330ca589.space": "INACTIVE",
-            "api.340ca71c.space": "INACTIVE",
-            "api.360caa42.space": "INACTIVE",
-            "api.370cabd5.space": "INACTIVE",
-            "api.3c0cb3b4.space": "INACTIVE",
-            "api.3d0cb547.space": "INACTIVE",
-            "api.aeon.hashvault.pro": "INACTIVE",
-            "api.aeon.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1576165731": {
-            "api.aeon.semipool.com": "INACTIVE",
-            "api.aeon.spacepools.org": "INACTIVE",
-            "api.aeonminingpool.com": "INACTIVE",
-            "api.aeonpool.xyz": "INACTIVE",
-            "api.aether.spacepools.org": "INACTIVE",
-            "api.akumaxmr.com": "INACTIVE",
-            "api.alloy.spacepools.org": "INACTIVE",
-            "api.anorak.tech": "INACTIVE"
-        },
-        "1576168182": {
-            "api.arq.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.athx.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.bhzejltg.info": "INACTIVE",
-            "api.bitpoolmining.com": "INACTIVE"
-        },
-        "1576168183": {
-            "api.btcc.com": "INACTIVE",
-            "api.btcchina.com": "INACTIVE",
-            "api.byte.spacepools.org": "INACTIVE",
-            "api.c1d2.com": "INACTIVE",
-            "api.ccx.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.coal.spacepools.org": "INACTIVE",
-            "api.coin-miners.info": "INACTIVE",
-            "api.coinhive.com": "INACTIVE",
-            "api.coinsecure.in": "INACTIVE",
-            "api.collusion.tech": "INACTIVE"
-        },
-        "1576168184": {
-            "api.cryptomineros.com": "INACTIVE",
-            "api.cryptopia.co.nz": "INACTIVE",
-            "api.demo.cryptokitties.co": "INACTIVE",
-            "api.dero.spacepools.org": "INACTIVE",
-            "api.dev.openvpn.f2pool.com": "INACTIVE",
-            "api.dev.phoneum.io": "INACTIVE",
-            "api.develop.phoneum.io": "INACTIVE",
-            "api.dinasty.spacepools.org": "INACTIVE",
-            "api.durinsmine.com": "INACTIVE",
-            "api.dyn.spacepools.org": "INACTIVE",
-            "api.edollar.spacepools.org": "INACTIVE",
-            "api.einfach-iota.de": "INACTIVE"
-        },
-        "1576168185": {
-            "api.etc.labaleine.gg": "INACTIVE",
-            "api.eth.labaleine.gg": "INACTIVE",
-            "api.eth.spacepools.org": "INACTIVE",
-            "api.ethereum.hashvault.pro": "INACTIVE",
-            "api.ethereum.nodes.hashvault.pro": "INACTIVE",
-            "api.etn.spacepools.org": "INACTIVE",
-            "api.exp.labaleine.gg": "INACTIVE",
-            "api.fix.btcc.com": "INACTIVE",
-            "api.fno.cryptopool.space": "INACTIVE",
-            "api.fonero.spacepools.org": "INACTIVE"
-        },
-        "1576168186": {
-            "api.graft.spacepools.org": "INACTIVE",
-            "api.grft.ultimatepool.io": "INACTIVE",
-            "api.hellominer.com": "INACTIVE",
-            "api.intense.hashvault.pro": "INACTIVE",
-            "api.intense.nodes.hashvault.pro": "INACTIVE",
-            "api.intense.spacepools.org": "INACTIVE",
-            "api.inwemo.com": "INACTIVE",
-            "api.ipbc.spacepools.org": "INACTIVE",
-            "api.itns.spacepools.org": "INACTIVE",
-            "api.karbo.spacepools.org": "INACTIVE",
-            "api.kepl.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.kiwiminers.com": "INACTIVE"
-        },
-        "1576168187": {
-            "api.l33tsite.info": "INACTIVE",
-            "api.labaleine.gg": "INACTIVE",
-            "api.leviar.spacepools.org": "INACTIVE",
-            "api.masari.spacepools.org": "INACTIVE",
-            "api.mempool.com": "INACTIVE",
-            "api.minemonero.pro": "INACTIVE",
-            "api.minero.ru": "INACTIVE",
-            "api.monerise.com": "INACTIVE",
-            "api.monero.hashvault.pro": "INACTIVE",
-            "api.monero.spacepools.org": "INACTIVE",
-            "api.moneropond.com": "INACTIVE"
-        },
-        "1576168188": {
-            "api.moneropool.nl": "INACTIVE",
-            "api.moneroseeds.ae.org": "INACTIVE",
-            "api.moriaxmr.com": "INACTIVE",
-            "api.msr.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.mtip.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.music.labaleine.gg": "INACTIVE",
-            "api.nbx.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.netflare.info": "INACTIVE",
-            "api.node.coin-miners.info": "INACTIVE",
-            "api.node.einfach-iota.de": "INACTIVE",
-            "api.node.minexmr.com": "INACTIVE"
-        },
-        "1576168189": {
-            "api.node.nimiq.watch": "INACTIVE",
-            "api.observer.hashvault.pro": "INACTIVE",
-            "api.observer.nodes.hashvault.pro": "INACTIVE",
-            "api.poloniex.com": "INACTIVE",
-            "api.pool2.arqma.com": "INACTIVE",
-            "api.pooldd.com": "INACTIVE",
-            "api.pzoifaum.info": "INACTIVE",
-            "api.ryo.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.sandbox.coinbase.com": "INACTIVE",
-            "api.slushpool.com": "INACTIVE",
-            "api.stellite.spacepools.org": "INACTIVE"
-        },
-        "1576168190": {
-            "api.sumo.hashvault.pro": "INACTIVE",
-            "api.sumo.spacepools.org": "INACTIVE",
-            "api.sumokoin.hashvault.pro": "INACTIVE",
-            "api.test-trtl.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.test.nicehash.com": "INACTIVE",
-            "api.testnet.arqma.com": "INACTIVE",
-            "api.trtl.flashpool.club": "INACTIVE",
-            "api.trtl.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.tube.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.turtle.spacepools.org": "INACTIVE",
-            "api.ubiq.labaleine.gg": "INACTIVE",
-            "api.ultranote.spacepools.org": "INACTIVE"
-        },
-        "1576168191": {
-            "api.usxmrpool.com": "INACTIVE",
-            "api.viaxmr.com": "INACTIVE",
-            "api.webwallet.arqma.com": "INACTIVE",
-            "api.xca.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.xmr.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "api.xmr.skypool.org": "INACTIVE",
-            "api.xmr.spacepools.org": "INACTIVE",
-            "api.xmrpool.xyz": "INACTIVE",
-            "api.zec.spacepools.org": "INACTIVE",
-            "api.zls.multipools.club": "INACTIVE"
-        },
-        "1576168192": {
-            "api2.checkingsite.site": "INACTIVE",
-            "api2.moneroocean.stream": "INACTIVE",
-            "api2.moriaxmr.com": "INACTIVE",
-            "api3.moneropool.com": "INACTIVE",
-            "api3.slushpool.com": "INACTIVE",
-            "apib.monerise.com": "INACTIVE",
-            "apim.monerise.com": "INACTIVE",
-            "apin.monerise.com": "INACTIVE"
-        },
-        "1576168193": {
-            "apiupx.hashpool.eu": "INACTIVE",
-            "apiwiki.fix.btcc.com": "INACTIVE",
-            "apk-bancodobrasil.com": "INACTIVE",
-            "apollofinanceltd.com": "INACTIVE",
-            "app.assess.moneroseeds.ae.org": "INACTIVE",
-            "app.beta.supportxmr.com": "INACTIVE",
-            "app.btcchina.com": "INACTIVE",
-            "app.multimining.org": "INACTIVE",
-            "app.node.supportxmr.com": "INACTIVE",
-            "app.zdash.cloud": "INACTIVE"
-        },
-        "1576168194": {
-            "app2.aikapool.com": "INACTIVE",
-            "applecoin.li": "INACTIVE",
-            "appleseed.clona.ru": "INACTIVE",
-            "applest.gq": "INACTIVE",
-            "applest.tk": "INACTIVE",
-            "approach.fix.btcc.com": "INACTIVE",
-            "apptexglobal.moneroseeds.ae.org": "INACTIVE",
-            "aq.bitcoin.co.pt": "INACTIVE"
-        },
-        "1576168195": {
-            "ar.bitcoin.co.pt": "INACTIVE",
-            "ar2.suprnova.cc": "INACTIVE",
-            "ara.mine-vn.com": "INACTIVE",
-            "ara.solopool.org": "INACTIVE",
-            "arab-autobank.com": "INACTIVE",
-            "arab-goldmining.com": "INACTIVE",
-            "arab-oilwell.com": "INACTIVE",
-            "aramoney.si": "INACTIVE",
-            "arbit.suprnova.cc": "INACTIVE",
-            "arbitragefinance.net": "INACTIVE"
-        },
         "1576168196": {
-            "archer.rmc.one": "INACTIVE",
-            "arena.fix.btcc.com": "INACTIVE",
-            "arev.fix.btcc.com": "INACTIVE",
-            "arg-argon2d-sg.hashing.space": "INACTIVE",
-            "arg-argon2d-tx.hashing.space": "INACTIVE",
-            "arg-argon2d-wa.hashing.space": "INACTIVE",
             "argo.coin-miners.info": "INACTIVE",
             "argo.node.coin-miners.info": "INACTIVE",
             "argusconsole.fix.btcc.com": "INACTIVE"
@@ -25169,6 +24962,225 @@
             "api-cryptonote2.4miner.me": "INACTIVE",
             "api-cryptonote3.4miner.me": "INACTIVE",
             "api-etn.foreverpool.org": "INACTIVE"
+        },
+        "1576551013": {
+            "api-itns001.cryptogrot.io": "INACTIVE"
+        },
+        "1576551014": {
+            "api-prod-dev.poolin.com": "INACTIVE",
+            "api-prod-proxy.poolin.com": "INACTIVE",
+            "api-slingshot.aikapool.com": "INACTIVE",
+            "api-testnet.xmr.skypool.org": "INACTIVE",
+            "api-xmr.foreverpool.org": "INACTIVE",
+            "api.1beb2a44.space": "INACTIVE",
+            "api.300ca0d0.space": "INACTIVE",
+            "api.310ca263.space": "INACTIVE"
+        },
+        "1576551015": {
+            "api.320ca3f6.space": "INACTIVE",
+            "api.330ca589.space": "INACTIVE",
+            "api.340ca71c.space": "INACTIVE",
+            "api.360caa42.space": "INACTIVE",
+            "api.370cabd5.space": "INACTIVE",
+            "api.3c0cb3b4.space": "INACTIVE",
+            "api.3d0cb547.space": "INACTIVE",
+            "api.aeon.hashvault.pro": "INACTIVE",
+            "api.aeon.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1576551016": {
+            "api.aeon.semipool.com": "INACTIVE",
+            "api.aeon.spacepools.org": "INACTIVE",
+            "api.aeonminingpool.com": "INACTIVE",
+            "api.aeonpool.xyz": "INACTIVE",
+            "api.aether.spacepools.org": "INACTIVE",
+            "api.akumaxmr.com": "INACTIVE",
+            "api.alloy.spacepools.org": "INACTIVE",
+            "api.anorak.tech": "INACTIVE",
+            "api.arq.heigh-ho.funkypenguin.co.nz": "INACTIVE"
+        },
+        "1576551017": {
+            "api.athx.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.bhzejltg.info": "INACTIVE",
+            "api.bitpoolmining.com": "INACTIVE",
+            "api.btcc.com": "INACTIVE",
+            "api.btcchina.com": "INACTIVE",
+            "api.byte.spacepools.org": "INACTIVE",
+            "api.c1d2.com": "INACTIVE"
+        },
+        "1576551018": {
+            "api.ccx.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.coal.spacepools.org": "INACTIVE",
+            "api.coin-miners.info": "INACTIVE",
+            "api.coinhive.com": "INACTIVE",
+            "api.coinsecure.in": "INACTIVE",
+            "api.collusion.tech": "INACTIVE",
+            "api.cryptomineros.com": "INACTIVE",
+            "api.cryptopia.co.nz": "INACTIVE"
+        },
+        "1576551019": {
+            "api.demo.cryptokitties.co": "INACTIVE",
+            "api.dero.spacepools.org": "INACTIVE",
+            "api.dev.openvpn.f2pool.com": "INACTIVE",
+            "api.dev.phoneum.io": "INACTIVE",
+            "api.develop.phoneum.io": "INACTIVE",
+            "api.dinasty.spacepools.org": "INACTIVE",
+            "api.durinsmine.com": "INACTIVE",
+            "api.dyn.spacepools.org": "INACTIVE",
+            "api.edollar.spacepools.org": "INACTIVE"
+        },
+        "1576551020": {
+            "api.einfach-iota.de": "INACTIVE",
+            "api.etc.labaleine.gg": "INACTIVE",
+            "api.eth.labaleine.gg": "INACTIVE",
+            "api.eth.spacepools.org": "INACTIVE",
+            "api.ethereum.hashvault.pro": "INACTIVE",
+            "api.ethereum.nodes.hashvault.pro": "INACTIVE",
+            "api.etn.spacepools.org": "INACTIVE"
+        },
+        "1576551021": {
+            "api.exp.labaleine.gg": "INACTIVE",
+            "api.fno.cryptopool.space": "INACTIVE",
+            "api.fonero.spacepools.org": "INACTIVE",
+            "api.graft.spacepools.org": "INACTIVE",
+            "api.grft.ultimatepool.io": "INACTIVE",
+            "api.hellominer.com": "INACTIVE",
+            "api.intense.hashvault.pro": "INACTIVE",
+            "api.intense.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1576551022": {
+            "api.intense.spacepools.org": "INACTIVE",
+            "api.inwemo.com": "INACTIVE",
+            "api.ipbc.spacepools.org": "INACTIVE",
+            "api.itns.spacepools.org": "INACTIVE",
+            "api.karbo.spacepools.org": "INACTIVE",
+            "api.kepl.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.kiwiminers.com": "INACTIVE",
+            "api.l33tsite.info": "INACTIVE",
+            "api.leviar.spacepools.org": "INACTIVE"
+        },
+        "1576551023": {
+            "api.labaleine.gg": "INACTIVE",
+            "api.masari.spacepools.org": "INACTIVE",
+            "api.mempool.com": "INACTIVE",
+            "api.minemonero.pro": "INACTIVE",
+            "api.minero.ru": "INACTIVE",
+            "api.miningexpress.com": "INACTIVE",
+            "api.monerise.com": "INACTIVE",
+            "api.monero.hashvault.pro": "INACTIVE"
+        },
+        "1576551024": {
+            "api.monero.spacepools.org": "INACTIVE",
+            "api.moneropond.com": "INACTIVE",
+            "api.moneropool.nl": "INACTIVE",
+            "api.moneroseeds.ae.org": "INACTIVE",
+            "api.moriaxmr.com": "INACTIVE",
+            "api.msr.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.mtip.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.music.labaleine.gg": "INACTIVE",
+            "api.mwgrinpool.com": "INACTIVE"
+        },
+        "1576551025": {
+            "api.nbx.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.netflare.info": "INACTIVE",
+            "api.node.coin-miners.info": "INACTIVE",
+            "api.node.einfach-iota.de": "INACTIVE",
+            "api.node.minexmr.com": "INACTIVE",
+            "api.node.nimiq.watch": "INACTIVE",
+            "api.observer.hashvault.pro": "INACTIVE",
+            "api.observer.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1576551026": {
+            "api.poloniex.com": "INACTIVE",
+            "api.pool2.arqma.com": "INACTIVE",
+            "api.pooldd.com": "INACTIVE",
+            "api.pzoifaum.info": "INACTIVE",
+            "api.ryo.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.sandbox.coinbase.com": "INACTIVE",
+            "api.slushpool.com": "INACTIVE",
+            "api.stellite.spacepools.org": "INACTIVE"
+        },
+        "1576551027": {
+            "api.sumo.hashvault.pro": "INACTIVE",
+            "api.sumo.spacepools.org": "INACTIVE",
+            "api.sumokoin.hashvault.pro": "INACTIVE",
+            "api.test-trtl.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.test.nicehash.com": "INACTIVE",
+            "api.testnet.arqma.com": "INACTIVE",
+            "api.trtl.flashpool.club": "INACTIVE",
+            "api.trtl.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.tube.heigh-ho.funkypenguin.co.nz": "INACTIVE"
+        },
+        "1576551028": {
+            "api.turtle.spacepools.org": "INACTIVE",
+            "api.ubiq.labaleine.gg": "INACTIVE",
+            "api.ultranote.spacepools.org": "INACTIVE",
+            "api.usxmrpool.com": "INACTIVE",
+            "api.viaxmr.com": "INACTIVE",
+            "api.webwallet.arqma.com": "INACTIVE",
+            "api.xca.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "api.xmr.heigh-ho.funkypenguin.co.nz": "INACTIVE"
+        },
+        "1576551029": {
+            "api.xmr.skypool.org": "INACTIVE",
+            "api.xmr.spacepools.org": "INACTIVE",
+            "api.xmrpool.xyz": "INACTIVE",
+            "api.zec.spacepools.org": "INACTIVE",
+            "api.zls.multipools.club": "INACTIVE",
+            "api2.checkingsite.site": "INACTIVE",
+            "api2.moneroocean.stream": "INACTIVE",
+            "api2.moriaxmr.com": "INACTIVE"
+        },
+        "1576551030": {
+            "api3.fix.btcc.com": "INACTIVE",
+            "api3.moneropool.com": "INACTIVE",
+            "api3.slushpool.com": "INACTIVE",
+            "apib.monerise.com": "INACTIVE",
+            "apim.monerise.com": "INACTIVE",
+            "apin.monerise.com": "INACTIVE"
+        },
+        "1576551031": {
+            "apiupx.hashpool.eu": "INACTIVE",
+            "apiwiki.fix.btcc.com": "INACTIVE",
+            "apk-bancodobrasil.com": "INACTIVE",
+            "apollofinanceltd.com": "INACTIVE",
+            "app.assess.moneroseeds.ae.org": "INACTIVE",
+            "app.beta.supportxmr.com": "INACTIVE",
+            "app.btcchina.com": "INACTIVE"
+        },
+        "1576551032": {
+            "app.e-libra.ru": "INACTIVE",
+            "app.multimining.org": "INACTIVE",
+            "app.node.supportxmr.com": "INACTIVE",
+            "app.zdash.cloud": "INACTIVE",
+            "app2.aikapool.com": "INACTIVE",
+            "apparently.fix.btcc.com": "INACTIVE",
+            "applecoin.li": "INACTIVE"
+        },
+        "1576551033": {
+            "appleseed.clona.ru": "INACTIVE",
+            "applest.gq": "INACTIVE",
+            "applest.tk": "INACTIVE",
+            "approach.fix.btcc.com": "INACTIVE",
+            "apptexglobal.moneroseeds.ae.org": "INACTIVE",
+            "aq.bitcoin.co.pt": "INACTIVE",
+            "ar.bitcoin.co.pt": "INACTIVE"
+        },
+        "1576551034": {
+            "ar2.suprnova.cc": "INACTIVE",
+            "ara.mine-vn.com": "INACTIVE",
+            "ara.solopool.org": "INACTIVE",
+            "arab-autobank.com": "INACTIVE",
+            "arab-goldmining.com": "INACTIVE",
+            "arab-oilwell.com": "INACTIVE",
+            "aramoney.si": "INACTIVE",
+            "arbit.suprnova.cc": "INACTIVE"
+        },
+        "1576551035": {
+            "arbitragefinance.net": "INACTIVE",
+            "archer.rmc.one": "INACTIVE",
+            "arg-argon2d-sg.hashing.space": "INACTIVE",
+            "arg-argon2d-tx.hashing.space": "INACTIVE",
+            "arg-argon2d-wa.hashing.space": "INACTIVE"
         }
     }
 }
