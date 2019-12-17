@@ -8073,170 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576241615": {
-            "rapid.luckyaltcoin.com": "INACTIVE",
-            "rarog24.ru": "INACTIVE"
-        },
-        "1576241616": {
-            "rarogvip.ru": "INACTIVE",
-            "ras.dev.gntl.co.uk": "INACTIVE",
-            "ras.pool.gntl.co.uk": "INACTIVE",
-            "ratchetcoins.nl": "INACTIVE",
-            "rattrap.ru": "INACTIVE",
-            "raven.coin-miners.info": "INACTIVE"
-        },
-        "1576241617": {
-            "raven.node.coin-miners.info": "INACTIVE",
-            "raven.smartcoinpool.com": "INACTIVE",
-            "raven.suprnova.cc": "INACTIVE",
-            "raw.suprnova.cc": "INACTIVE",
-            "rbc.cryptomine.pro": "INACTIVE",
-            "rbit.suprnova.cc": "INACTIVE"
-        },
-        "1576241618": {
-            "rctfgrazkha.ru": "INACTIVE",
-            "rd.btcchina.com": "INACTIVE",
-            "rd.gcpool.eu": "INACTIVE",
-            "rd.youpool.io": "INACTIVE"
-        },
-        "1576241619": {
-            "rdd.coinmine.pl": "INACTIVE",
-            "rdd.theblocksfactory.com": "INACTIVE",
-            "rddc.coin-miners.info": "INACTIVE",
-            "rddc.node.coin-miners.info": "INACTIVE",
-            "rddc.suprnova.cc": "INACTIVE",
-            "rdn.suprnova.cc": "INACTIVE",
-            "rdns.nocroom.com": "INACTIVE"
-        },
-        "1576241620": {
-            "rds.dev.gntl.co.uk": "INACTIVE",
-            "rds.gntl.co.uk": "INACTIVE",
-            "reasedoper.pw": "INACTIVE",
-            "rebase.aeonminingpool.com": "INACTIVE",
-            "rec.coin-miners.info": "INACTIVE",
-            "rec.node.coin-miners.info": "INACTIVE"
-        },
-        "1576241621": {
-            "recoal.herominers.com": "INACTIVE",
-            "red1r.xyz": "INACTIVE"
-        },
-        "1576242487": {
-            "red1r2.xyz": "INACTIVE",
-            "redeem.aikapool.com": "INACTIVE"
-        },
-        "1576242488": {
-            "redhex.my": "INACTIVE",
-            "redis-uk.node.turtlepool.space": "INACTIVE",
-            "redis-uk.turtlepool.space": "INACTIVE",
-            "redis.p00l.org": "INACTIVE",
-            "redn.mine-vn.com": "INACTIVE",
-            "redweb.em.bitcoin.co.pt": "INACTIVE",
-            "reef.mine-vn.com": "INACTIVE",
-            "reg.happy2mine.com": "INACTIVE"
-        },
-        "1576242489": {
-            "registry.staging-eu-west.cryptopay.me": "INACTIVE",
-            "rekt.suprnova.cc": "INACTIVE",
-            "relay11.clona.ru": "INACTIVE",
-            "relay2.krunzy.com": "INACTIVE",
-            "reliablesurfingext.biz": "INACTIVE",
-            "relic.aeon-pool.com": "INACTIVE",
-            "reluma.bitcoin.co.pt": "INACTIVE"
-        },
-        "1576242490": {
-            "remoteadvisor1.aikapool.com": "INACTIVE",
-            "remoteadvisor2.coinimp.com": "INACTIVE",
-            "reosc.solopool.org": "INACTIVE",
-            "rep.suprnova.cc": "INACTIVE",
-            "reply.moneroseeds.ae.org": "INACTIVE",
-            "reports.clona.ru": "INACTIVE"
-        },
-        "1576242491": {
-            "res.ethfans.org": "INACTIVE",
-            "reservedoffers.cl": "INACTIVE",
-            "resources.aikapool.com": "INACTIVE",
-            "revo.suprnova.cc": "INACTIVE",
-            "rfv2.mine.zergpool.com": "INACTIVE",
-            "rge-scrypt.miningpoolhub.com": "INACTIVE",
-            "rhox.cryptonote.club": "INACTIVE"
-        },
-        "1576242492": {
-            "ric.majorminers.com": "INACTIVE",
-            "ric.suprnova.cc": "INACTIVE",
-            "ric.xpoolx.com": "INACTIVE",
-            "rice.coin-miners.info": "INACTIVE",
-            "rice.node.coin-miners.info": "INACTIVE",
-            "rice.suprnova.cc": "INACTIVE",
-            "riefly.id": "INACTIVE",
-            "rig.to": "INACTIVE"
-        },
-        "1576242493": {
-            "ril.communitypool.org": "INACTIVE",
-            "ril.gcpool.eu": "INACTIVE",
-            "ril.kippo.eu": "INACTIVE",
-            "riot.biblepay.org": "INACTIVE",
-            "riot.coin-miners.info": "INACTIVE",
-            "riot.imhard4.men": "INACTIVE",
-            "ripfg.faucethub.io": "INACTIVE",
-            "ripo.coin-miners.info": "INACTIVE"
-        },
-        "1576242494": {
-            "ripo.node.coin-miners.info": "INACTIVE",
-            "ripo.suprnova.cc": "INACTIVE",
-            "risk.coin-miners.info": "INACTIVE",
-            "risk.node.coin-miners.info": "INACTIVE",
-            "ritamville.ipadi.xyz": "INACTIVE",
-            "rito.skypool.co": "INACTIVE",
-            "ritocoin.minecrypto.pro": "INACTIVE",
-            "riy.btc.com": "INACTIVE",
-            "rknote.miner.center": "INACTIVE",
-            "rls.bitcoin.co.pt": "INACTIVE"
-        },
-        "1576242495": {
-            "rnd.lightninghash.com": "INACTIVE",
-            "rnyethervailet.com": "INACTIVE",
-            "rnyethervaliet.com": "INACTIVE",
-            "rnyethierwaliet.com": "INACTIVE",
-            "rob.bpool.com": "INACTIVE",
-            "roboico.icopool.club": "INACTIVE",
-            "rock.cryptoloot.pro": "INACTIVE"
-        },
-        "1576242496": {
-            "rocketpool.pro": "INACTIVE",
-            "rol64-52.btcc.com": "INACTIVE",
-            "root.axepool.com": "INACTIVE",
-            "root.fairmine.pro": "INACTIVE",
-            "root.fairpool.pro": "INACTIVE",
-            "root.majanetwork.com": "INACTIVE",
-            "root.ns1.persianmine.com": "INACTIVE",
-            "root.ns2.la.nocroom.com": "INACTIVE"
-        },
-        "1576242497": {
-            "root.ns1.ryopool.eu": "INACTIVE",
-            "root.suprnova.cc": "INACTIVE",
-            "root.vps.invest-btcmining.com": "INACTIVE",
-            "root.xmrpool.de": "INACTIVE",
-            "ros.coin-miners.info": "INACTIVE",
-            "ros.node.coin-miners.info": "INACTIVE",
-            "ros.suprnova.cc": "INACTIVE",
-            "roseamor.moneroseeds.ae.org": "INACTIVE",
-            "rothenberger.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1576242498": {
-            "roto2.roto2.org": "INACTIVE",
-            "rottenwhorememe.cf": "INACTIVE",
-            "rox.suprnova.cc": "INACTIVE",
-            "royalradiocash.labbinarymining.com": "INACTIVE",
-            "royalties.mine2gether.com": "INACTIVE",
-            "rp5jxi.xyz": "INACTIVE",
-            "rpc.netcodepool.org": "INACTIVE",
-            "rplant.rplant.xyz": "INACTIVE"
-        },
         "1576242499": {
-            "rrwlndewwfpo.miner.center": "INACTIVE",
-            "rt.e-libra.ru": "INACTIVE",
-            "rt2.suprnova.cc": "INACTIVE",
-            "rtm.aikapool.com": "INACTIVE",
             "rtorrent.coin-miners.info": "INACTIVE",
             "rtorrent.node.coin-miners.info": "INACTIVE"
         },
@@ -25204,6 +25041,182 @@
             "ram.node.gridcoin.us": "INACTIVE",
             "ramadapharmacy.moneroseeds.ae.org": "INACTIVE",
             "randomizer.t00ls.ru": "INACTIVE"
+        },
+        "1576620649": {
+            "rapid.luckyaltcoin.com": "INACTIVE"
+        },
+        "1576620650": {
+            "rarog24.ru": "INACTIVE",
+            "rarogvip.ru": "INACTIVE",
+            "ras.dev.gntl.co.uk": "INACTIVE",
+            "ras.pool.gntl.co.uk": "INACTIVE",
+            "ratchetcoins.nl": "INACTIVE"
+        },
+        "1576620651": {
+            "rattrap.ru": "INACTIVE",
+            "raven.coin-miners.info": "INACTIVE",
+            "raven.node.coin-miners.info": "INACTIVE",
+            "raven.smartcoinpool.com": "INACTIVE",
+            "raven.suprnova.cc": "INACTIVE"
+        },
+        "1576620652": {
+            "raw.suprnova.cc": "INACTIVE",
+            "rbc.cryptomine.pro": "INACTIVE",
+            "rbit.suprnova.cc": "INACTIVE",
+            "rctfgrazkha.ru": "INACTIVE"
+        },
+        "1576620653": {
+            "rd.btcchina.com": "INACTIVE",
+            "rd.gcpool.eu": "INACTIVE",
+            "rd.youpool.io": "INACTIVE",
+            "rdd.coinmine.pl": "INACTIVE"
+        },
+        "1576620654": {
+            "rdd.theblocksfactory.com": "INACTIVE",
+            "rddc.coin-miners.info": "INACTIVE",
+            "rddc.node.coin-miners.info": "INACTIVE",
+            "rddc.suprnova.cc": "INACTIVE",
+            "rdn.suprnova.cc": "INACTIVE",
+            "rdns.nocroom.com": "INACTIVE",
+            "rds.dev.gntl.co.uk": "INACTIVE"
+        },
+        "1576620655": {
+            "rds.gntl.co.uk": "INACTIVE",
+            "reasedoper.pw": "INACTIVE",
+            "rebase.aeonminingpool.com": "INACTIVE",
+            "rec.coin-miners.info": "INACTIVE",
+            "rec.node.coin-miners.info": "INACTIVE"
+        },
+        "1576620656": {
+            "recoal.herominers.com": "INACTIVE",
+            "red1r.xyz": "INACTIVE",
+            "red1r2.xyz": "INACTIVE",
+            "redeem.aikapool.com": "INACTIVE",
+            "redhex.my": "INACTIVE"
+        },
+        "1576620657": {
+            "redis-uk.node.turtlepool.space": "INACTIVE",
+            "redis-uk.turtlepool.space": "INACTIVE",
+            "redis.p00l.org": "INACTIVE",
+            "redn.mine-vn.com": "INACTIVE",
+            "redweb.em.bitcoin.co.pt": "INACTIVE",
+            "reef.mine-vn.com": "INACTIVE"
+        },
+        "1576620658": {
+            "reg.happy2mine.com": "INACTIVE",
+            "registry.staging-eu-west.cryptopay.me": "INACTIVE",
+            "rekt.suprnova.cc": "INACTIVE"
+        },
+        "1576620659": {
+            "relay11.clona.ru": "INACTIVE",
+            "relay2.krunzy.com": "INACTIVE",
+            "reliablesurfingext.biz": "INACTIVE",
+            "relic.aeon-pool.com": "INACTIVE",
+            "reluma.bitcoin.co.pt": "INACTIVE",
+            "remoteadvisor1.aikapool.com": "INACTIVE"
+        },
+        "1576620660": {
+            "remoteadvisor2.coinimp.com": "INACTIVE",
+            "reosc.solopool.org": "INACTIVE",
+            "rep.suprnova.cc": "INACTIVE",
+            "reply.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1576620661": {
+            "reports.clona.ru": "INACTIVE",
+            "res.ethfans.org": "INACTIVE",
+            "reservedoffers.cl": "INACTIVE",
+            "resources.aikapool.com": "INACTIVE",
+            "revo.suprnova.cc": "INACTIVE"
+        },
+        "1576620662": {
+            "rf.btcc.com": "INACTIVE",
+            "rfv2.mine.zergpool.com": "INACTIVE",
+            "rge-scrypt.miningpoolhub.com": "INACTIVE",
+            "rhox.cryptonote.club": "INACTIVE",
+            "ric.majorminers.com": "INACTIVE",
+            "ric.suprnova.cc": "INACTIVE"
+        },
+        "1576620663": {
+            "ric.xpoolx.com": "INACTIVE",
+            "rice.coin-miners.info": "INACTIVE",
+            "rice.node.coin-miners.info": "INACTIVE",
+            "rice.suprnova.cc": "INACTIVE",
+            "riefly.id": "INACTIVE",
+            "rig.to": "INACTIVE"
+        },
+        "1576620664": {
+            "ril.communitypool.org": "INACTIVE",
+            "ril.gcpool.eu": "INACTIVE",
+            "ril.kippo.eu": "INACTIVE",
+            "riot.biblepay.org": "INACTIVE",
+            "riot.coin-miners.info": "INACTIVE"
+        },
+        "1576620665": {
+            "riot.imhard4.men": "INACTIVE",
+            "ripfg.faucethub.io": "INACTIVE",
+            "ripo.coin-miners.info": "INACTIVE",
+            "ripo.node.coin-miners.info": "INACTIVE",
+            "ripo.suprnova.cc": "INACTIVE",
+            "risk.coin-miners.info": "INACTIVE",
+            "risk.node.coin-miners.info": "INACTIVE"
+        },
+        "1576620666": {
+            "ritamville.ipadi.xyz": "INACTIVE",
+            "rito.skypool.co": "INACTIVE",
+            "ritocoin.minecrypto.pro": "INACTIVE",
+            "riy.btc.com": "INACTIVE",
+            "rknote.miner.center": "INACTIVE",
+            "rls.bitcoin.co.pt": "INACTIVE"
+        },
+        "1576620667": {
+            "rnd.lightninghash.com": "INACTIVE",
+            "rnyethervailet.com": "INACTIVE",
+            "rnyethervaliet.com": "INACTIVE",
+            "rnyethierwaliet.com": "INACTIVE",
+            "rob.bpool.com": "INACTIVE",
+            "roboico.icopool.club": "INACTIVE"
+        },
+        "1576620668": {
+            "rock.cryptoloot.pro": "INACTIVE",
+            "rocketpool.pro": "INACTIVE",
+            "rol64-52.btcc.com": "INACTIVE",
+            "root.axepool.com": "INACTIVE"
+        },
+        "1576620669": {
+            "root.fairmine.pro": "INACTIVE",
+            "root.fairpool.pro": "INACTIVE",
+            "root.majanetwork.com": "INACTIVE",
+            "root.ns1.persianmine.com": "INACTIVE",
+            "root.ns1.ryopool.eu": "INACTIVE",
+            "root.ns2.la.nocroom.com": "INACTIVE",
+            "root.suprnova.cc": "INACTIVE"
+        },
+        "1576620670": {
+            "root.vps.invest-btcmining.com": "INACTIVE",
+            "root.xmrpool.de": "INACTIVE",
+            "ros.coin-miners.info": "INACTIVE",
+            "ros.node.coin-miners.info": "INACTIVE",
+            "ros.suprnova.cc": "INACTIVE",
+            "roseamor.moneroseeds.ae.org": "INACTIVE",
+            "rothenberger.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1576620671": {
+            "roto2.roto2.org": "INACTIVE",
+            "rottenwhorememe.cf": "INACTIVE",
+            "rox.suprnova.cc": "INACTIVE",
+            "royalties.mine2gether.com": "INACTIVE"
+        },
+        "1576620672": {
+            "royalradiocash.labbinarymining.com": "INACTIVE",
+            "rp5jxi.xyz": "INACTIVE",
+            "rpc.netcodepool.org": "INACTIVE",
+            "rplant.rplant.xyz": "INACTIVE",
+            "rrwlndewwfpo.miner.center": "INACTIVE"
+        },
+        "1576620673": {
+            "rt.e-libra.ru": "INACTIVE",
+            "rt2.suprnova.cc": "INACTIVE",
+            "rtm.aikapool.com": "INACTIVE"
         }
     }
 }
