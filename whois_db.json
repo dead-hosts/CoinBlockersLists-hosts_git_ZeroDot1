@@ -469,6 +469,11 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "2zo.pw": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
     "333eth.io": {
         "epoch": 1630022400.0,
         "expiration_date": "27-aug-2021",
@@ -500,9 +505,9 @@
         "state": "future"
     },
     "38coins.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "3business.com": {
         "epoch": 1580342400.0,
@@ -525,9 +530,9 @@
         "state": "future"
     },
     "4btc.pw": {
-        "epoch": "1571443200",
+        "epoch": 1571443200.0,
         "expiration_date": "19-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "4dayprofit.com": {
         "epoch": 1585180800.0,
@@ -570,8 +575,8 @@
         "state": "future"
     },
     "50centfreedom.us": {
-        "epoch": "1562630400",
-        "expiration_date": "09-jul-2019",
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "50or500.com": {
@@ -597,7 +602,7 @@
     "5bit.biz": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "5btc.cc": {
         "epoch": 1581811200.0,
