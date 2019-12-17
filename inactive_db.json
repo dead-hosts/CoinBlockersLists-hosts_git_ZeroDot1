@@ -8073,166 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576219124": {
-            "ltc.coinat.com": "INACTIVE",
-            "ltc.coinmine.pl": "INACTIVE",
-            "ltc.cryptopia.co.nz": "INACTIVE",
-            "ltc.e-pool.net": "INACTIVE"
-        },
-        "1576219125": {
-            "ltc.ghash.io": "INACTIVE",
-            "ltc.hashing.space": "INACTIVE",
-            "ltc.mine-vn.com": "INACTIVE",
-            "ltc.netcodepool.org": "INACTIVE",
-            "ltc.p2pmining.com": "INACTIVE",
-            "ltc.p2pool.io": "INACTIVE",
-            "ltc.p2pool.org": "INACTIVE"
-        },
-        "1576219126": {
-            "ltcg.suprnova.cc": "INACTIVE",
-            "ltcx.poolto.be": "INACTIVE",
-            "ltcz.basementpool.org": "INACTIVE",
-            "ltcz.mine-vn.com": "INACTIVE",
-            "lthn-pool.proxpool.com": "INACTIVE",
-            "lthn.bluerockpools.net": "INACTIVE"
-        },
-        "1576219127": {
-            "lthn.pool.pool.gntl.co.uk": "INACTIVE",
-            "lthn.pool.pool.golix.com": "INACTIVE",
-            "ltl.youpool.io": "INACTIVE",
-            "lts.coin-miners.info": "INACTIVE",
-            "lts.node.coin-miners.info": "INACTIVE",
-            "lts.poolto.be": "INACTIVE",
-            "lts.suprnova.cc": "INACTIVE",
-            "ltz-test.ragnarpool.ovh": "INACTIVE"
-        },
-        "1576219128": {
-            "ltz.basementpool.org": "INACTIVE",
-            "ltz.bitpool.ro": "INACTIVE",
-            "ltz.crypto-mining-pool.com": "INACTIVE",
-            "ltz.ehashcoins.org": "INACTIVE",
-            "ltz.magnificentpool.com": "INACTIVE",
-            "ltz.pool.sexy": "INACTIVE",
-            "ltz.ragnarpool.ovh": "INACTIVE",
-            "ltz.solopool.org": "INACTIVE",
-            "ltz.wfmpools.com": "INACTIVE"
-        },
-        "1576219129": {
-            "ltzexplorer.magnificentpool.com": "INACTIVE",
-            "lucky-mining.com.ua": "INACTIVE",
-            "lucky.mine-vn.com": "INACTIVE",
-            "luk.4miner.me": "INACTIVE",
-            "luka.youpool.io": "INACTIVE"
-        },
-        "1576219130": {
-            "luk.llama.horse": "INACTIVE",
-            "lumeneo.blockfoundry.org": "INACTIVE",
-            "lumeneo.modpool.org": "INACTIVE",
-            "lumeneo.smartcoinpool.com": "INACTIVE",
-            "lumeno.blockfoundry.org": "INACTIVE",
-            "lun.suprnova.cc": "INACTIVE",
-            "luna.coin-miners.info": "INACTIVE",
-            "luna.mine-vn.com": "INACTIVE",
-            "luna.node.coin-miners.info": "INACTIVE"
-        },
-        "1576219131": {
-            "luna.suprnova.cc": "INACTIVE",
-            "lux.coin-miners.info": "INACTIVE",
-            "lux.crypto-mining-pool.com": "INACTIVE",
-            "lux.node.coin-miners.info": "INACTIVE",
-            "lux.suprnova.cc": "INACTIVE"
-        },
-        "1576219132": {
-            "ly.suprnova.cc": "INACTIVE",
-            "lyb.suprnova.cc": "INACTIVE",
-            "lyc-east.majorminers.com": "INACTIVE",
-            "lyc-west.majorminers.com": "INACTIVE",
-            "lyc.majorminers.com": "INACTIVE",
-            "lyc.universalpool.net": "INACTIVE",
-            "lychyip.99btc.net": "INACTIVE",
-            "lyncdiscover.alpereum.ch": "INACTIVE"
-        },
-        "1576219133": {
-            "lyncdiscover.ciob.moneroseeds.ae.org": "INACTIVE",
-            "lyncdiscoverinternal.btc.com": "INACTIVE",
-            "lyndsey.bitcoin.inc.hk": "INACTIVE"
-        },
-        "1576219134": {
-            "lyra2z-hub.miningpoolhub.com": "INACTIVE",
-            "lyra2z.miningpoolhub.com": "INACTIVE",
-            "lyrabar.coin-miners.info": "INACTIVE",
-            "lyrabar.node.coin-miners.info": "INACTIVE"
-        },
-        "1576219135": {
-            "m-231.btcc.com": "INACTIVE",
-            "m-2317.btcc.com": "INACTIVE",
-            "m-8-0.btcc.com": "INACTIVE",
-            "m-83.openvpn.f2pool.com": "INACTIVE",
-            "m-a.btcchina.com": "INACTIVE",
-            "m.aikapool.com": "INACTIVE"
-        },
-        "1576219136": {
-            "m.anyfiles.ovh": "INACTIVE"
-        },
-        "1576220185": {
-            "m.bitcoin.co.pt": "INACTIVE",
-            "m.btcchina.com": "INACTIVE",
-            "m.cryptopia.co.nz": "INACTIVE",
-            "m.cryptopool.ru": "INACTIVE"
-        },
-        "1576220186": {
-            "m.de.cryptopool.ru": "INACTIVE",
-            "m.en.cryptopool.ru": "INACTIVE",
-            "m.fjhan.club": "INACTIVE",
-            "m.fr.cryptopool.ru": "INACTIVE",
-            "m.miningpoolhub.com": "INACTIVE",
-            "m.ru.cryptopool.ru": "INACTIVE"
-        },
-        "1576220187": {
-            "m.uk.cryptopool.ru": "INACTIVE",
-            "m0-239.btcc.com": "INACTIVE",
-            "m001.monerise.com": "INACTIVE",
-            "m1.e-libra.ru": "INACTIVE",
-            "m1.mbkpool.info": "INACTIVE",
-            "m1.monerise.com": "INACTIVE",
-            "m1.moneropool.com": "INACTIVE",
-            "m1.streaming.estream.to": "INACTIVE"
-        },
-        "1576220188": {
-            "m1.stream.vidzi.tv": "INACTIVE",
-            "m1.videos.vidto.me": "INACTIVE",
-            "m1x.suprnova.cc": "INACTIVE",
-            "m2.cdn-jquery.host": "INACTIVE",
-            "m2.fjhan.club": "INACTIVE",
-            "m2.moneropool.com": "INACTIVE",
-            "m2.stream.vidzi.tv": "INACTIVE",
-            "m2.streaming.estream.to": "INACTIVE",
-            "m2.videos.vidto.me": "INACTIVE"
-        },
-        "1576220189": {
-            "m3.cdn-jquery.host": "INACTIVE",
-            "m3.fjhan.club": "INACTIVE",
-            "m4.cd": "INACTIVE",
-            "m4.cdn-jquery.host": "INACTIVE",
-            "m5.cdn-jquery.host": "INACTIVE",
-            "m507.btcc.com": "INACTIVE",
-            "ma.herphemiste.com": "INACTIVE"
-        },
-        "1576220190": {
-            "m95184om.beget.tech": "INACTIVE",
-            "maaapi.mooo.com": "INACTIVE",
-            "mac.lightninghash.com": "INACTIVE",
-            "mac.suprnova.cc": "INACTIVE",
-            "macs.proxpool.com": "INACTIVE"
-        },
-        "1576220191": {
-            "mag.coin-miners.info": "INACTIVE",
-            "mag.node.coin-miners.info": "INACTIVE",
-            "magento.ac.moneroseeds.ae.org": "INACTIVE",
-            "magento.internet.moneroseeds.ae.org": "INACTIVE",
-            "magento.xn--1xa.moneroseeds.ae.org": "INACTIVE",
-            "magipool.raspi-ninja.com": "INACTIVE"
-        },
         "1576220192": {
             "magnet.multipools.club": "INACTIVE",
             "maia.suprnova.cc": "INACTIVE",
@@ -25246,6 +25086,161 @@
             "ltc-sz-prod2.poolin.com": "INACTIVE",
             "ltc-sz.poolin.com": "INACTIVE",
             "ltc.bw.com": "INACTIVE"
+        },
+        "1576599516": {
+            "ltc.coinat.com": "INACTIVE",
+            "ltc.coinmine.pl": "INACTIVE",
+            "ltc.cryptopia.co.nz": "INACTIVE",
+            "ltc.e-pool.net": "INACTIVE",
+            "ltc.ghash.io": "INACTIVE"
+        },
+        "1576599517": {
+            "ltc.hashing.space": "INACTIVE",
+            "ltc.mine-vn.com": "INACTIVE",
+            "ltc.netcodepool.org": "INACTIVE",
+            "ltc.p2pmining.com": "INACTIVE",
+            "ltc.p2pool.io": "INACTIVE",
+            "ltc.p2pool.org": "INACTIVE",
+            "ltcg.suprnova.cc": "INACTIVE",
+            "ltcx.poolto.be": "INACTIVE"
+        },
+        "1576599518": {
+            "ltcz.basementpool.org": "INACTIVE",
+            "ltcz.mine-vn.com": "INACTIVE",
+            "lthn-pool.proxpool.com": "INACTIVE",
+            "lthn.bluerockpools.net": "INACTIVE",
+            "lthn.pool.golix.com": "INACTIVE",
+            "lthn.pool.pool.gntl.co.uk": "INACTIVE",
+            "lthn.pool.pool.golix.com": "INACTIVE",
+            "ltl.youpool.io": "INACTIVE",
+            "lts.coin-miners.info": "INACTIVE"
+        },
+        "1576599519": {
+            "lts.node.coin-miners.info": "INACTIVE",
+            "lts.poolto.be": "INACTIVE",
+            "lts.suprnova.cc": "INACTIVE",
+            "ltz-test.ragnarpool.ovh": "INACTIVE",
+            "ltz.basementpool.org": "INACTIVE",
+            "ltz.bitpool.ro": "INACTIVE",
+            "ltz.crypto-mining-pool.com": "INACTIVE",
+            "ltz.ehashcoins.org": "INACTIVE",
+            "ltz.magnificentpool.com": "INACTIVE",
+            "ltz.pool.sexy": "INACTIVE"
+        },
+        "1576599520": {
+            "ltz.ragnarpool.ovh": "INACTIVE",
+            "ltz.solopool.org": "INACTIVE",
+            "ltz.wfmpools.com": "INACTIVE",
+            "ltzexplorer.magnificentpool.com": "INACTIVE",
+            "lucky-mining.com.ua": "INACTIVE",
+            "lucky.mine-vn.com": "INACTIVE",
+            "luk.4miner.me": "INACTIVE"
+        },
+        "1576599521": {
+            "luk.llama.horse": "INACTIVE",
+            "luka.youpool.io": "INACTIVE",
+            "lumeneo.blockfoundry.org": "INACTIVE",
+            "lumeneo.modpool.org": "INACTIVE",
+            "lumeneo.smartcoinpool.com": "INACTIVE",
+            "lumeno.blockfoundry.org": "INACTIVE",
+            "lun.suprnova.cc": "INACTIVE",
+            "luna.coin-miners.info": "INACTIVE",
+            "luna.mine-vn.com": "INACTIVE",
+            "luna.node.coin-miners.info": "INACTIVE",
+            "luna.suprnova.cc": "INACTIVE"
+        },
+        "1576599522": {
+            "lux.coin-miners.info": "INACTIVE",
+            "lux.crypto-mining-pool.com": "INACTIVE",
+            "lux.node.coin-miners.info": "INACTIVE",
+            "lux.suprnova.cc": "INACTIVE",
+            "ly.suprnova.cc": "INACTIVE",
+            "lyb.suprnova.cc": "INACTIVE",
+            "lyc-east.majorminers.com": "INACTIVE"
+        },
+        "1576599523": {
+            "lyc-west.majorminers.com": "INACTIVE",
+            "lyc.majorminers.com": "INACTIVE",
+            "lyc.universalpool.net": "INACTIVE",
+            "lychyip.99btc.net": "INACTIVE",
+            "lyncdiscover.alpereum.ch": "INACTIVE",
+            "lyncdiscover.ciob.moneroseeds.ae.org": "INACTIVE",
+            "lyncdiscoverinternal.btc.com": "INACTIVE",
+            "lyndsey.bitcoin.inc.hk": "INACTIVE"
+        },
+        "1576599524": {
+            "lyra2rev2.mining-dutch.nl": "INACTIVE",
+            "lyra2z-hub.miningpoolhub.com": "INACTIVE",
+            "lyra2z.miningpoolhub.com": "INACTIVE"
+        },
+        "1576599525": {
+            "lyrabar.coin-miners.info": "INACTIVE",
+            "lyrabar.node.coin-miners.info": "INACTIVE",
+            "m-0-35.btcc.com": "INACTIVE",
+            "m-0-57-6.btcc.com": "INACTIVE",
+            "m-1-35.btcc.com": "INACTIVE",
+            "m-83.openvpn.f2pool.com": "INACTIVE",
+            "m-9-467.btcc.com": "INACTIVE",
+            "m-a.btcchina.com": "INACTIVE"
+        },
+        "1576599526": {
+            "m.aikapool.com": "INACTIVE",
+            "m.anyfiles.ovh": "INACTIVE",
+            "m.bitcoin.co.pt": "INACTIVE",
+            "m.btcchina.com": "INACTIVE",
+            "m.cryptopia.co.nz": "INACTIVE",
+            "m.cryptopool.ru": "INACTIVE",
+            "m.de.cryptopool.ru": "INACTIVE",
+            "m.en.cryptopool.ru": "INACTIVE",
+            "m.fjhan.club": "INACTIVE"
+        },
+        "1576599527": {
+            "m.fr.cryptopool.ru": "INACTIVE",
+            "m.miningpoolhub.com": "INACTIVE",
+            "m.ru.cryptopool.ru": "INACTIVE",
+            "m.uk.cryptopool.ru": "INACTIVE",
+            "m0-api.btcc.com": "INACTIVE",
+            "m001.monerise.com": "INACTIVE",
+            "m1.e-libra.ru": "INACTIVE",
+            "m1.mbkpool.info": "INACTIVE"
+        },
+        "1576599528": {
+            "m1.monerise.com": "INACTIVE",
+            "m1.moneropool.com": "INACTIVE",
+            "m1.stream.vidzi.tv": "INACTIVE",
+            "m1.streaming.estream.to": "INACTIVE",
+            "m1.videos.vidto.me": "INACTIVE",
+            "m1x.suprnova.cc": "INACTIVE",
+            "m2.cdn-jquery.host": "INACTIVE",
+            "m2.fjhan.club": "INACTIVE",
+            "m2.moneropool.com": "INACTIVE",
+            "m2.stream.vidzi.tv": "INACTIVE"
+        },
+        "1576599529": {
+            "m2.streaming.estream.to": "INACTIVE",
+            "m2.videos.vidto.me": "INACTIVE",
+            "m3.cdn-jquery.host": "INACTIVE",
+            "m3.fjhan.club": "INACTIVE",
+            "m4.cd": "INACTIVE",
+            "m4.cdn-jquery.host": "INACTIVE",
+            "m5.cdn-jquery.host": "INACTIVE",
+            "m95184om.beget.tech": "INACTIVE",
+            "ma.herphemiste.com": "INACTIVE"
+        },
+        "1576599530": {
+            "maaapi.mooo.com": "INACTIVE",
+            "mac.lightninghash.com": "INACTIVE",
+            "mac.suprnova.cc": "INACTIVE",
+            "macs.proxpool.com": "INACTIVE",
+            "mae.btcc.com": "INACTIVE",
+            "mag.coin-miners.info": "INACTIVE",
+            "mag.node.coin-miners.info": "INACTIVE"
+        },
+        "1576599531": {
+            "magento.ac.moneroseeds.ae.org": "INACTIVE",
+            "magento.internet.moneroseeds.ae.org": "INACTIVE",
+            "magento.xn--1xa.moneroseeds.ae.org": "INACTIVE",
+            "magipool.raspi-ninja.com": "INACTIVE"
         }
     }
 }
