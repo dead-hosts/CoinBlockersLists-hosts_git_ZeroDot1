@@ -8480,8 +8480,8 @@
         "state": "future"
     },
     "mineflowpool.pl": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
         "state": "future"
     },
     "mineiota.com": {
@@ -8605,9 +8605,9 @@
         "state": "future"
     },
     "minereasy.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
-        "state": "past"
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
     },
     "minergate.com": {
         "epoch": 1583280000.0,
@@ -8625,9 +8625,9 @@
         "state": "future"
     },
     "minermaniac.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "minermore.com": {
         "epoch": 1591401600.0,
@@ -8730,7 +8730,7 @@
         "state": "future"
     },
     "minetrtl.us": {
-        "epoch": 1579564800,
+        "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
         "state": "future"
     },
