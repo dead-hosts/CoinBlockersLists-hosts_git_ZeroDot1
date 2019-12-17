@@ -8073,70 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576230177": {
-            "nmine-euro.1ds.us": "INACTIVE"
-        },
-        "1576230178": {
-            "nmine.cryptopool.1ds.us": "INACTIVE",
-            "nmine.mpool.1ds.us": "INACTIVE",
-            "nmine.thetechnicalspool.com": "INACTIVE",
-            "nmine.xmr.life": "INACTIVE"
-        },
-        "1576230179": {
-            "nmoac.thetechnicalspool.com": "INACTIVE",
-            "nmobicontrol.aikapool.com": "INACTIVE",
-            "nmonero.labbinarymining.com": "INACTIVE"
-        },
-        "1576230180": {
-            "nmonero.monerise.com": "INACTIVE",
-            "nmoneroseeds.moneroseeds.ae.org": "INACTIVE",
-            "nmpool.1ds.us": "INACTIVE",
-            "nmpos.coinminerz.com": "INACTIVE"
-        },
-        "1576230181": {
-            "nmta21.cryptobrowser.site": "INACTIVE",
-            "nmta6.cryptobrowser.site": "INACTIVE"
-        },
-        "1576230182": {
-            "nmx.coinminerz.com": "INACTIVE",
-            "nmx02.coinminerz.com": "INACTIVE",
-            "nmy-02.cryptobrowser.site": "INACTIVE",
-            "nmy02.cryptobrowser.site": "INACTIVE"
-        },
-        "1576230183": {
-            "nn.cryptobrowser.site": "INACTIVE",
-            "nna.monerise.com": "INACTIVE",
-            "nnational.cryptobrowser.site": "INACTIVE",
-            "nnc.hashpool.eu": "INACTIVE"
-        },
-        "1576230184": {
-            "nnc.multipool.com": "INACTIVE",
-            "nnc.mypool.name": "INACTIVE",
-            "nne.aikapool.com": "INACTIVE"
-        },
-        "1576230185": {
-            "nnewtoncoin.labbinarymining.com": "INACTIVE"
-        },
-        "1576231257": {
-            "nnl1.monerise.com": "INACTIVE"
-        },
-        "1576231258": {
-            "nns1.cryptmonero.com": "INACTIVE",
-            "nns1.cryptobrowser.site": "INACTIVE"
-        },
-        "1576231259": {
-            "nns2.cryptmonero.com": "INACTIVE",
-            "nns2.cryptobrowser.site": "INACTIVE",
-            "nnxboost.labbinarymining.com": "INACTIVE",
-            "nnyetlherwallet.com": "INACTIVE",
-            "no10.cryptobrowser.site": "INACTIVE"
-        },
         "1576231260": {
-            "noasic.zone": "INACTIVE",
-            "noasis.moneroseeds.ae.org": "INACTIVE",
-            "nobl.majorminers.com": "INACTIVE",
-            "noblock.pro": "INACTIVE",
-            "noc.monerise.com": "INACTIVE",
             "noc.suprnova.cc": "INACTIVE"
         },
         "1576231261": {
@@ -25236,6 +25173,69 @@
         "1576609293": {
             "nmd.cryptobrowser.site": "INACTIVE",
             "nmesgmy.aikapool.com": "INACTIVE"
+        },
+        "1576612271": {
+            "nmine-euro.1ds.us": "INACTIVE"
+        },
+        "1576612272": {
+            "nmine.cryptopool.1ds.us": "INACTIVE",
+            "nmine.mpool.1ds.us": "INACTIVE",
+            "nmine.thetechnicalspool.com": "INACTIVE",
+            "nmine.xmr.life": "INACTIVE",
+            "nmoac.thetechnicalspool.com": "INACTIVE"
+        },
+        "1576612273": {
+            "nmobicontrol.aikapool.com": "INACTIVE",
+            "nmonero.labbinarymining.com": "INACTIVE",
+            "nmonero.monerise.com": "INACTIVE",
+            "nmoneroseeds.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1576612274": {
+            "nmpool.1ds.us": "INACTIVE",
+            "nmpos.coinminerz.com": "INACTIVE"
+        },
+        "1576612275": {
+            "nmta21.cryptobrowser.site": "INACTIVE",
+            "nmta6.cryptobrowser.site": "INACTIVE",
+            "nmx.coinminerz.com": "INACTIVE",
+            "nmx02.coinminerz.com": "INACTIVE"
+        },
+        "1576612276": {
+            "nmy-02.cryptobrowser.site": "INACTIVE",
+            "nmy02.cryptobrowser.site": "INACTIVE",
+            "nn.cryptobrowser.site": "INACTIVE",
+            "nna.monerise.com": "INACTIVE"
+        },
+        "1576612277": {
+            "nnational.cryptobrowser.site": "INACTIVE",
+            "nnc.hashpool.eu": "INACTIVE",
+            "nnc.multipool.com": "INACTIVE",
+            "nnc.mypool.name": "INACTIVE",
+            "nne.aikapool.com": "INACTIVE"
+        },
+        "1576612278": {
+            "nnewtoncoin.labbinarymining.com": "INACTIVE"
+        },
+        "1576612279": {
+            "nnl1.monerise.com": "INACTIVE"
+        },
+        "1576612280": {
+            "nns1.cryptmonero.com": "INACTIVE",
+            "nns1.cryptobrowser.site": "INACTIVE",
+            "nns2.cryptmonero.com": "INACTIVE",
+            "nns2.cryptobrowser.site": "INACTIVE"
+        },
+        "1576612281": {
+            "nnxboost.labbinarymining.com": "INACTIVE",
+            "nnyetlherwallet.com": "INACTIVE",
+            "no10.cryptobrowser.site": "INACTIVE"
+        },
+        "1576612282": {
+            "noasic.zone": "INACTIVE",
+            "noasis.moneroseeds.ae.org": "INACTIVE",
+            "nobl.majorminers.com": "INACTIVE",
+            "noblock.pro": "INACTIVE",
+            "noc.monerise.com": "INACTIVE"
         }
     }
 }
