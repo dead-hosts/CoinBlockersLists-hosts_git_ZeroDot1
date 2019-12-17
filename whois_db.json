@@ -4427,7 +4427,7 @@
     "crypto-me.com": {
         "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "crypto-mining-pool.com": {
         "epoch": 1587686400.0,
@@ -4462,7 +4462,7 @@
     "cryptoactivo.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cryptoadhd.com": {
         "epoch": 1582329600.0,
@@ -4505,8 +4505,8 @@
         "state": "future"
     },
     "cryptocatalyst.net": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "cryptocoin.club": {
@@ -4670,9 +4670,9 @@
         "state": "future"
     },
     "cryptonoter.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "cryptopay.me": {
         "epoch": 1622160000.0,
@@ -4780,8 +4780,8 @@
         "state": "future"
     },
     "cryptopros.us": {
-        "epoch": "1572998400",
-        "expiration_date": "06-nov-2019",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
         "state": "future"
     },
     "cryptorescue.org": {
