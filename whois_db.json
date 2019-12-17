@@ -2960,7 +2960,7 @@
         "state": "future"
     },
     "bloc-mining.us": {
-        "epoch": 1588377600,
+        "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
         "state": "future"
     },
@@ -3010,8 +3010,8 @@
         "state": "past"
     },
     "blockchaiun.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "blockchaiun.info": {
@@ -3020,8 +3020,8 @@
         "state": "future"
     },
     "blockchauin.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "blockchauin.info": {
