@@ -8073,230 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576429170": {
-            "sso.aikapool.com": "INACTIVE",
-            "sss.mine-vn.com": "INACTIVE",
-            "sss.www.freecontent.date": "INACTIVE",
-            "ssss.poolin.com": "INACTIVE",
-            "ssv.suprnova.cc": "INACTIVE"
-        },
-        "1576429171": {
-            "st.kjli.fi": "INACTIVE",
-            "sta-api.btcc.com": "INACTIVE",
-            "stack.crypto-pool.fr": "INACTIVE",
-            "stackoverflow666.sytes.net": "INACTIVE",
-            "stafftest.firewall-gateway.com": "INACTIVE",
-            "stage-grafana.whalesburg.com": "INACTIVE"
-        },
-        "1576429172": {
-            "stage.cross.coinone.co.kr": "INACTIVE",
-            "stage.cryptobrowser.site": "INACTIVE",
-            "stage.ethfans.org": "INACTIVE",
-            "stage.sparkpool.com": "INACTIVE",
-            "stagewallet.arqma.com": "INACTIVE",
-            "staging-wallet-api.btcc.com": "INACTIVE",
-            "staging-wallet.btc.com": "INACTIVE"
-        },
-        "1576429173": {
-            "staging.btcchina.com": "INACTIVE",
-            "staging.community.coinbase.com": "INACTIVE",
-            "staging.frackingminer.com": "INACTIVE",
-            "staging.graft.hashvault.pro": "INACTIVE",
-            "staging.graft.nodes.hashvault.pro": "INACTIVE",
-            "staging.hashvault.pro": "INACTIVE",
-            "staging.haven.hashvault.pro": "INACTIVE"
-        },
-        "1576429174": {
-            "staging.haven.nodes.hashvault.pro": "INACTIVE",
-            "staging.hitbtc.com": "INACTIVE",
-            "staging.internet.moneroseeds.ae.org": "INACTIVE",
-            "staging.mining.sg": "INACTIVE",
-            "staging.monero.hashvault.pro": "INACTIVE",
-            "staging.monero.nodes.hashvault.pro": "INACTIVE",
-            "staging.node.expanse.tech": "INACTIVE",
-            "staging.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1576429175": {
-            "staging.pool.whalesburg.com": "INACTIVE",
-            "staging.tge.whalesburg.com": "INACTIVE",
-            "staging.umine.org": "INACTIVE",
-            "staging.whalesburg.com": "INACTIVE",
-            "staging.xmr.to": "INACTIVE",
-            "staging.z.cash": "INACTIVE"
-        },
-        "1576429176": {
-            "stakepool.btc.com": "INACTIVE",
-            "stamp.suprnova.cc": "INACTIVE",
-            "star.suprnova.cc": "INACTIVE",
-            "staratum.netcodepool.org": "INACTIVE",
-            "stardock.hashwiz.io": "INACTIVE",
-            "stardoge.cc": "INACTIVE",
-            "start.coinmine.pl": "INACTIVE",
-            "start.coinstop.me": "INACTIVE"
-        },
-        "1576429177": {
-            "start.miningfield.com": "INACTIVE"
-        },
-        "1576430923": {
-            "startum.netcodepool.org": "INACTIVE",
-            "stash.bpool.site": "INACTIVE"
-        },
-        "1576430924": {
-            "starwels.minerspool.cc": "INACTIVE",
-            "stash.suprnova.cc": "INACTIVE",
-            "stat.gos.cx": "INACTIVE",
-            "stat.miraben.pw": "INACTIVE",
-            "stat0808.info": "INACTIVE"
-        },
-        "1576430925": {
-            "stati.bid": "INACTIVE",
-            "static-cnt.bid": "INACTIVE",
-            "static.dn.cryptobrowser.site": "INACTIVE"
-        },
-        "1576430926": {
-            "static.hk.rs": "INACTIVE",
-            "static.krunzy.com": "INACTIVE",
-            "static.minergate.com": "INACTIVE",
-            "static.nocroom.com": "INACTIVE"
-        },
-        "1576430927": {
-            "static.reasedoper.pw": "INACTIVE",
-            "static.uax.io": "INACTIVE",
-            "static.z.cash": "INACTIVE",
-            "static1.grcpool.com": "INACTIVE",
-            "static1.millenium.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1576430928": {
-            "static1.node.grcpool.com": "INACTIVE",
-            "statistic.date": "INACTIVE",
-            "statistics.p00l.org": "INACTIVE",
-            "stats-aka.2miners.com": "INACTIVE"
-        },
-        "1576430929": {
-            "stats-clo.2miners.com": "INACTIVE",
-            "stats-dbix.2miners.com": "INACTIVE",
-            "stats-ella.2miners.com": "INACTIVE",
-            "stats-etc.2miners.com": "INACTIVE",
-            "stats-eth.2miners.com": "INACTIVE",
-            "stats-exp.2miners.com": "INACTIVE"
-        },
-        "1576430930": {
-            "stats-moac.2miners.com": "INACTIVE",
-            "stats-music.2miners.com": "INACTIVE",
-            "stats-pirl.2miners.com": "INACTIVE",
-            "stats-whl.2miners.com": "INACTIVE",
-            "stats-yoc.2miners.com": "INACTIVE"
-        },
-        "1576430931": {
-            "stats.fairpool.xyz": "INACTIVE",
-            "stats.gigarho.com": "INACTIVE",
-            "stats.gpool.guru": "INACTIVE"
-        },
-        "1576430932": {
-            "stats.miningrigrentals.com": "INACTIVE",
-            "stats.moriaxmr.com": "INACTIVE",
-            "stats.namecoin.info": "INACTIVE",
-            "stats.node.expanse.tech": "INACTIVE",
-            "stats.node.minexmr.com": "INACTIVE",
-            "stats.pool.gold": "INACTIVE"
-        },
-        "1576430933": {
-            "stats.umine.org": "INACTIVE",
-            "status.aeon-pool.com": "INACTIVE",
-            "status.aikapool.com": "INACTIVE"
-        },
-        "1576430934": {
-            "status.bacm.ro": "INACTIVE",
-            "status.beta.supportxmr.com": "INACTIVE",
-            "status.coin-miners.info": "INACTIVE",
-            "status.collusion.tech": "INACTIVE"
-        },
-        "1576430935": {
-            "status.einfach-iota.de": "INACTIVE",
-            "status.h1.node.einfach-iota.de": "INACTIVE",
-            "status.h1.node.node.einfach-iota.de": "INACTIVE",
-            "status.hn1.einfach-iota.de": "INACTIVE",
-            "status.hn1.node.einfach-iota.de": "INACTIVE"
-        },
-        "1576430936": {
-            "status.hn2.einfach-iota.de": "INACTIVE",
-            "status.hn2.node.einfach-iota.de": "INACTIVE",
-            "status.mine2gether.com": "INACTIVE",
-            "status.minepool.live": "INACTIVE",
-            "status.node.coin-miners.info": "INACTIVE"
-        },
-        "1576430937": {
-            "status.node.einfach-iota.de": "INACTIVE",
-            "status.node.supportxmr.com": "INACTIVE",
-            "status.phoneum.io": "INACTIVE",
-            "stb.coin-miners.info": "INACTIVE"
-        },
-        "1576430938": {
-            "stb.node.coin-miners.info": "INACTIVE",
-            "stc.coinmine.pl": "INACTIVE",
-            "stellite.blockfoundry.org": "INACTIVE"
-        },
-        "1576430939": {
-            "stellite.herominers.com": "INACTIVE",
-            "stellite.miningpool.online": "INACTIVE",
-            "stellite.modpool.org": "INACTIVE",
-            "stellite.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1576430940": {
-            "stellite.spacepools.org": "INACTIVE",
-            "stellite.swap.miningpool.online": "INACTIVE",
-            "stem.coin-miners.info": "INACTIVE",
-            "stem.node.coin-miners.info": "INACTIVE",
-            "ster.suprnova.cc": "INACTIVE"
-        },
-        "1576430941": {
-            "stg.aikapool.com": "INACTIVE",
-            "stg.m.bitcoin.co.pt": "INACTIVE",
-            "stk.suprnova.cc": "INACTIVE",
-            "sto.suprnova.cc": "INACTIVE",
-            "stone.cryptoloot.pro": "INACTIVE"
-        },
-        "1576430942": {
-            "stonk.suprnova.cc": "INACTIVE",
-            "storage.hashcoins.com": "INACTIVE",
-            "storage1.nocroom.com": "INACTIVE",
-            "store.aikapool.com": "INACTIVE"
-        },
-        "1576430943": {
-            "store.btcc.com": "INACTIVE",
-            "store.coinbase.com": "INACTIVE",
-            "store.coinsecure.in": "INACTIVE",
-            "store.flypool.net": "INACTIVE"
-        },
-        "1576430944": {
-            "store.internet.moneroseeds.ae.org": "INACTIVE",
-            "store.luckyaltcoin.com": "INACTIVE",
-            "store.minertopia.org": "INACTIVE",
-            "storj.bitpool.ro": "INACTIVE"
-        },
-        "1576430945": {
-            "store.xn--1xa.moneroseeds.ae.org": "INACTIVE",
-            "storj.pool.gntl.co.uk": "INACTIVE",
-            "storm.1ds.us": "INACTIVE",
-            "str.luckypool.cn": "INACTIVE",
-            "str.majorminers.com": "INACTIVE"
-        },
-        "1576430946": {
-            "str.mine-vn.com": "INACTIVE",
-            "str.pool.sexy": "INACTIVE",
-            "straight.mycelium.com": "INACTIVE",
-            "strakspool.com": "INACTIVE",
-            "strat.dnb.io": "INACTIVE"
-        },
-        "1576430947": {
-            "stratis.suprnova.cc": "INACTIVE",
-            "stratum-161-244.btcc.com": "INACTIVE",
-            "stratum-18507.btcc.com": "INACTIVE",
-            "stratum-48505.btcc.com": "INACTIVE",
-            "stratum-btcp.multipools.club": "INACTIVE"
-        },
         "1576430948": {
-            "stratum-de.rplant.xyz": "INACTIVE",
             "stratum-eu.node.coin-miners.info": "INACTIVE",
             "stratum-eu01.coinmine.pl": "INACTIVE",
             "stratum-eu02.coinmine.pl": "INACTIVE"
@@ -25205,6 +24982,209 @@
             "ssecure.gntl.co.uk": "INACTIVE",
             "ssl.phi-phi-pool.net": "INACTIVE",
             "ssl.pool.ethfans.org": "INACTIVE"
+        },
+        "1576625593": {
+            "sso.aikapool.com": "INACTIVE",
+            "sss.mine-vn.com": "INACTIVE",
+            "sss.www.freecontent.date": "INACTIVE"
+        },
+        "1576625594": {
+            "ssss.poolin.com": "INACTIVE",
+            "ssv.suprnova.cc": "INACTIVE",
+            "st.kjli.fi": "INACTIVE",
+            "sta-api.btcc.com": "INACTIVE",
+            "stack.crypto-pool.fr": "INACTIVE",
+            "stackoverflow666.sytes.net": "INACTIVE",
+            "stafftest.firewall-gateway.com": "INACTIVE"
+        },
+        "1576625595": {
+            "stage-grafana.whalesburg.com": "INACTIVE",
+            "stage.cross.coinone.co.kr": "INACTIVE",
+            "stage.cryptobrowser.site": "INACTIVE",
+            "stage.ethfans.org": "INACTIVE",
+            "stage.sparkpool.com": "INACTIVE",
+            "stagewallet.arqma.com": "INACTIVE",
+            "staging-wallet-api.btcc.com": "INACTIVE",
+            "staging-wallet.btc.com": "INACTIVE"
+        },
+        "1576625596": {
+            "staging.btcchina.com": "INACTIVE",
+            "staging.community.coinbase.com": "INACTIVE",
+            "staging.frackingminer.com": "INACTIVE",
+            "staging.graft.hashvault.pro": "INACTIVE",
+            "staging.graft.nodes.hashvault.pro": "INACTIVE",
+            "staging.hashvault.pro": "INACTIVE",
+            "staging.haven.hashvault.pro": "INACTIVE",
+            "staging.haven.nodes.hashvault.pro": "INACTIVE",
+            "staging.hitbtc.com": "INACTIVE"
+        },
+        "1576625597": {
+            "staging.internet.moneroseeds.ae.org": "INACTIVE",
+            "staging.mining.sg": "INACTIVE",
+            "staging.monero.hashvault.pro": "INACTIVE",
+            "staging.monero.nodes.hashvault.pro": "INACTIVE",
+            "staging.node.expanse.tech": "INACTIVE",
+            "staging.nodes.hashvault.pro": "INACTIVE",
+            "staging.pool.whalesburg.com": "INACTIVE",
+            "staging.tge.whalesburg.com": "INACTIVE",
+            "staging.umine.org": "INACTIVE"
+        },
+        "1576625598": {
+            "staging.whalesburg.com": "INACTIVE",
+            "staging.xmr.to": "INACTIVE",
+            "staging.z.cash": "INACTIVE",
+            "stakepool.btc.com": "INACTIVE",
+            "stamp.suprnova.cc": "INACTIVE",
+            "star.suprnova.cc": "INACTIVE",
+            "staratum.netcodepool.org": "INACTIVE",
+            "stardoge.cc": "INACTIVE"
+        },
+        "1576625599": {
+            "stardock.hashwiz.io": "INACTIVE",
+            "start.coinmine.pl": "INACTIVE",
+            "start.coinstop.me": "INACTIVE",
+            "start.miningfield.com": "INACTIVE",
+            "startum.netcodepool.org": "INACTIVE"
+        },
+        "1576625600": {
+            "starwels.minerspool.cc": "INACTIVE",
+            "stash.bpool.site": "INACTIVE",
+            "stash.suprnova.cc": "INACTIVE",
+            "stat.gos.cx": "INACTIVE",
+            "stat.miraben.pw": "INACTIVE",
+            "stat0808.info": "INACTIVE",
+            "stati.bid": "INACTIVE",
+            "static-cnt.bid": "INACTIVE"
+        },
+        "1576625601": {
+            "static.btcc.com": "INACTIVE",
+            "static.dn.cryptobrowser.site": "INACTIVE",
+            "static.krunzy.com": "INACTIVE",
+            "static.minergate.com": "INACTIVE",
+            "static.nocroom.com": "INACTIVE",
+            "static.reasedoper.pw": "INACTIVE"
+        },
+        "1576625602": {
+            "static.uax.io": "INACTIVE",
+            "static.z.cash": "INACTIVE",
+            "static1.grcpool.com": "INACTIVE",
+            "static1.millenium.moneroseeds.ae.org": "INACTIVE",
+            "static1.node.grcpool.com": "INACTIVE",
+            "statistic.date": "INACTIVE",
+            "statistics.p00l.org": "INACTIVE"
+        },
+        "1576625603": {
+            "stats-aka.2miners.com": "INACTIVE",
+            "stats-clo.2miners.com": "INACTIVE",
+            "stats-dbix.2miners.com": "INACTIVE",
+            "stats-ella.2miners.com": "INACTIVE",
+            "stats-etc.2miners.com": "INACTIVE",
+            "stats-eth.2miners.com": "INACTIVE",
+            "stats-exp.2miners.com": "INACTIVE",
+            "stats-moac.2miners.com": "INACTIVE",
+            "stats-music.2miners.com": "INACTIVE",
+            "stats-pirl.2miners.com": "INACTIVE",
+            "stats-whl.2miners.com": "INACTIVE"
+        },
+        "1576625604": {
+            "stats-yoc.2miners.com": "INACTIVE",
+            "stats.btgpool.pro": "INACTIVE",
+            "stats.fairpool.xyz": "INACTIVE",
+            "stats.gigarho.com": "INACTIVE",
+            "stats.gpool.guru": "INACTIVE",
+            "stats.miningrigrentals.com": "INACTIVE"
+        },
+        "1576625605": {
+            "stats.moriaxmr.com": "INACTIVE",
+            "stats.namecoin.info": "INACTIVE",
+            "stats.node.expanse.tech": "INACTIVE",
+            "stats.node.minexmr.com": "INACTIVE",
+            "stats.pool.gold": "INACTIVE",
+            "stats.umine.org": "INACTIVE",
+            "status.aeon-pool.com": "INACTIVE"
+        },
+        "1576625606": {
+            "status.aikapool.com": "INACTIVE",
+            "status.bacm.ro": "INACTIVE",
+            "status.beta.supportxmr.com": "INACTIVE",
+            "status.btcc.com": "INACTIVE",
+            "status.coin-miners.info": "INACTIVE",
+            "status.collusion.tech": "INACTIVE",
+            "status.einfach-iota.de": "INACTIVE",
+            "status.h1.node.einfach-iota.de": "INACTIVE"
+        },
+        "1576625607": {
+            "status.h1.node.node.einfach-iota.de": "INACTIVE",
+            "status.hn1.einfach-iota.de": "INACTIVE",
+            "status.hn1.node.einfach-iota.de": "INACTIVE",
+            "status.hn2.einfach-iota.de": "INACTIVE",
+            "status.hn2.node.einfach-iota.de": "INACTIVE",
+            "status.mine2gether.com": "INACTIVE",
+            "status.minepool.live": "INACTIVE",
+            "status.node.coin-miners.info": "INACTIVE",
+            "status.node.einfach-iota.de": "INACTIVE"
+        },
+        "1576625608": {
+            "status.node.supportxmr.com": "INACTIVE",
+            "status.phoneum.io": "INACTIVE",
+            "stb.coin-miners.info": "INACTIVE",
+            "stb.node.coin-miners.info": "INACTIVE",
+            "stc.coinmine.pl": "INACTIVE",
+            "stellite.blockfoundry.org": "INACTIVE"
+        },
+        "1576625609": {
+            "stellite.herominers.com": "INACTIVE",
+            "stellite.miningpool.online": "INACTIVE",
+            "stellite.modpool.org": "INACTIVE",
+            "stellite.nodes.hashvault.pro": "INACTIVE",
+            "stellite.spacepools.org": "INACTIVE",
+            "stellite.swap.miningpool.online": "INACTIVE",
+            "stem.coin-miners.info": "INACTIVE",
+            "stem.node.coin-miners.info": "INACTIVE",
+            "ster.suprnova.cc": "INACTIVE"
+        },
+        "1576625610": {
+            "stg.aikapool.com": "INACTIVE",
+            "stg.m.bitcoin.co.pt": "INACTIVE",
+            "stk.suprnova.cc": "INACTIVE",
+            "sto.suprnova.cc": "INACTIVE",
+            "stone.cryptoloot.pro": "INACTIVE",
+            "stonk.suprnova.cc": "INACTIVE",
+            "storage.hashcoins.com": "INACTIVE"
+        },
+        "1576625611": {
+            "storage1.nocroom.com": "INACTIVE",
+            "store.aikapool.com": "INACTIVE",
+            "store.btcc.com": "INACTIVE",
+            "store.coinbase.com": "INACTIVE",
+            "store.coinsecure.in": "INACTIVE",
+            "store.flypool.net": "INACTIVE",
+            "store.internet.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1576625612": {
+            "store.luckyaltcoin.com": "INACTIVE",
+            "store.minertopia.org": "INACTIVE",
+            "store.xn--1xa.moneroseeds.ae.org": "INACTIVE",
+            "storj.bitpool.ro": "INACTIVE",
+            "storj.pool.gntl.co.uk": "INACTIVE",
+            "storm.1ds.us": "INACTIVE",
+            "str.luckypool.cn": "INACTIVE",
+            "str.majorminers.com": "INACTIVE"
+        },
+        "1576625613": {
+            "str.mine-vn.com": "INACTIVE",
+            "str.pool.sexy": "INACTIVE",
+            "straight.mycelium.com": "INACTIVE",
+            "strakspool.com": "INACTIVE",
+            "strat.dnb.io": "INACTIVE",
+            "stratis.suprnova.cc": "INACTIVE",
+            "stratum-161-244.btcc.com": "INACTIVE",
+            "stratum-18507.btcc.com": "INACTIVE",
+            "stratum-48505.btcc.com": "INACTIVE"
+        },
+        "1576625614": {
+            "stratum-btcp.multipools.club": "INACTIVE",
+            "stratum-de.rplant.xyz": "INACTIVE"
         }
     }
 }
