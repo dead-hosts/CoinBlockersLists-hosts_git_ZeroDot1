@@ -8073,85 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576473931": {
-            "zcoin.2miners.com": "INACTIVE"
-        },
-        "1576473932": {
-            "zcoin.skypool.co": "INACTIVE",
-            "zcr.mine-vn.com": "INACTIVE",
-            "zdash.cloud": "INACTIVE",
-            "zdash.coin-miners.info": "INACTIVE",
-            "zdash.miningspeed.com": "INACTIVE",
-            "zdash.node.coin-miners.info": "INACTIVE",
-            "zea18.btcc.com": "INACTIVE"
-        },
-        "1576473933": {
-            "zeb.coin-miners.info": "INACTIVE",
-            "zeb.node.coin-miners.info": "INACTIVE",
-            "zebra.suprnova.cc": "INACTIVE",
-            "zec-api.suprnova.cc": "INACTIVE",
-            "zec-cn.suprnova.cc": "INACTIVE"
-        },
-        "1576473934": {
-            "zec-sz-prod.poolin.com": "INACTIVE"
-        },
-        "1576473935": {
-            "zec.aikapool.com": "INACTIVE",
-            "zec.bitpool.ro": "INACTIVE",
-            "zec.coin-miners.info": "INACTIVE",
-            "zec.crypto-mining-pool.com": "INACTIVE",
-            "zec.cryptoblock.uk": "INACTIVE",
-            "zec.ethfans.org": "INACTIVE",
-            "zec.eu1.nanopool.org": "INACTIVE"
-        },
-        "1576473936": {
-            "zec.magnificentpool.com": "INACTIVE",
-            "zec.mine-vn.com": "INACTIVE",
-            "zec.minertopia.org": "INACTIVE",
-            "zec.miningpoolhub.com": "INACTIVE",
-            "zec.node.coin-miners.info": "INACTIVE"
-        },
-        "1576473937": {
-            "zec.poolmining.eu": "INACTIVE",
-            "zec.saturnpool.com": "INACTIVE",
-            "zec.spacepools.org": "INACTIVE",
-            "zecpool26.coinmine.pl": "INACTIVE"
-        },
-        "1576473938": {
-            "zecpool27.coinmine.pl": "INACTIVE",
-            "zecpool28.coinmine.pl": "INACTIVE",
-            "zed.poolto.be": "INACTIVE",
-            "zed2.poolto.be": "INACTIVE",
-            "zeit.suprnova.cc": "INACTIVE",
-            "zel-solo.forgetop.com": "INACTIVE"
-        },
-        "1576473939": {
-            "zel.crypto-mining-pool.com": "INACTIVE",
-            "zel.forgetop.com": "INACTIVE",
-            "zel.lucky-mining.com.ua": "INACTIVE",
-            "zel.magnificentpool.com": "INACTIVE",
-            "zel.mine-vn.com": "INACTIVE"
-        },
-        "1576473940": {
-            "zel.minepool.ch": "INACTIVE",
-            "zel.pool.sexy": "INACTIVE",
-            "zel.ragnarpool.ovh": "INACTIVE",
-            "zel.wfmpools.com": "INACTIVE",
-            "zelcash-solo.voidr.net": "INACTIVE",
-            "zelcash.axepool.com": "INACTIVE",
-            "zelcash.miningpools.cloud": "INACTIVE"
-        },
-        "1576473941": {
-            "zelcash.miningspeed.com": "INACTIVE",
-            "zelcash.voidr.net": "INACTIVE",
-            "zeltest.miningspeed.com": "INACTIVE",
-            "zen-api.suprnova.cc": "INACTIVE",
-            "zen-eu.catspool.org": "INACTIVE"
-        },
         "1576473942": {
-            "zen-secure-1.hashitmining.com": "INACTIVE",
-            "zen.basementpool.org": "INACTIVE",
-            "zen.catspool.org": "INACTIVE",
             "zen.crypto-mining-pool.com": "INACTIVE",
             "zen.eqpool.cash": "INACTIVE"
         },
@@ -25195,6 +25117,86 @@
             "zclassic.node.coin-miners.info": "INACTIVE",
             "zclexplorer.forgetop.com": "INACTIVE",
             "zclpool01.coinmine.pl": "INACTIVE"
+        },
+        "1576654964": {
+            "zcoin.2miners.com": "INACTIVE"
+        },
+        "1576654965": {
+            "zcoin.skypool.co": "INACTIVE",
+            "zcr.mine-vn.com": "INACTIVE",
+            "zdash.cloud": "INACTIVE",
+            "zdash.coin-miners.info": "INACTIVE",
+            "zdash.miningspeed.com": "INACTIVE",
+            "zdash.node.coin-miners.info": "INACTIVE"
+        },
+        "1576654966": {
+            "zea18.btcc.com": "INACTIVE",
+            "zeb.coin-miners.info": "INACTIVE",
+            "zeb.node.coin-miners.info": "INACTIVE",
+            "zebra.suprnova.cc": "INACTIVE",
+            "zec-api.suprnova.cc": "INACTIVE",
+            "zec-cn.suprnova.cc": "INACTIVE"
+        },
+        "1576654967": {
+            "zec-sz-prod.poolin.com": "INACTIVE"
+        },
+        "1576654968": {
+            "zec.aikapool.com": "INACTIVE",
+            "zec.bitpool.ro": "INACTIVE",
+            "zec.coin-miners.info": "INACTIVE",
+            "zec.crypto-mining-pool.com": "INACTIVE",
+            "zec.cryptoblock.uk": "INACTIVE"
+        },
+        "1576654969": {
+            "zec.ethfans.org": "INACTIVE",
+            "zec.eu1.nanopool.org": "INACTIVE",
+            "zec.magnificentpool.com": "INACTIVE",
+            "zec.mine-vn.com": "INACTIVE",
+            "zec.minertopia.org": "INACTIVE",
+            "zec.miningpoolhub.com": "INACTIVE"
+        },
+        "1576654970": {
+            "zec.node.coin-miners.info": "INACTIVE",
+            "zec.poolmining.eu": "INACTIVE",
+            "zec.saturnpool.com": "INACTIVE",
+            "zec.spacepools.org": "INACTIVE"
+        },
+        "1576654971": {
+            "zecpool26.coinmine.pl": "INACTIVE",
+            "zecpool27.coinmine.pl": "INACTIVE",
+            "zecpool28.coinmine.pl": "INACTIVE",
+            "zed.poolto.be": "INACTIVE",
+            "zed2.poolto.be": "INACTIVE",
+            "zeit.suprnova.cc": "INACTIVE"
+        },
+        "1576654972": {
+            "zel-solo.forgetop.com": "INACTIVE",
+            "zel.crypto-mining-pool.com": "INACTIVE",
+            "zel.forgetop.com": "INACTIVE",
+            "zel.lucky-mining.com.ua": "INACTIVE"
+        },
+        "1576654973": {
+            "zel.magnificentpool.com": "INACTIVE",
+            "zel.mine-vn.com": "INACTIVE",
+            "zel.minepool.ch": "INACTIVE",
+            "zel.pool.sexy": "INACTIVE",
+            "zel.ragnarpool.ovh": "INACTIVE",
+            "zel.wfmpools.com": "INACTIVE",
+            "zelcash-solo.voidr.net": "INACTIVE"
+        },
+        "1576654974": {
+            "zelcash.axepool.com": "INACTIVE",
+            "zelcash.miningpools.cloud": "INACTIVE",
+            "zelcash.miningspeed.com": "INACTIVE",
+            "zelcash.voidr.net": "INACTIVE",
+            "zeltest.miningspeed.com": "INACTIVE"
+        },
+        "1576654975": {
+            "zen-api.suprnova.cc": "INACTIVE",
+            "zen-eu.catspool.org": "INACTIVE",
+            "zen-secure-1.hashitmining.com": "INACTIVE",
+            "zen.basementpool.org": "INACTIVE",
+            "zen.catspool.org": "INACTIVE"
         }
     }
 }
