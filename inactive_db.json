@@ -8073,106 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576453302": {
-            "www.blissbtc.99btc.net": "INACTIVE"
-        },
-        "1576453303": {
-            "www.block-explorer.coin-miners.info": "INACTIVE",
-            "www.blockchain.moneroseeds.ae.org": "INACTIVE",
-            "www.blockchained.pa": "INACTIVE",
-            "www.blockchained.party": "INACTIVE",
-            "www.blockexplorer.funkymonkey.org": "INACTIVE",
-            "www.blockfind.me": "INACTIVE",
-            "www.blockhunter.info": "INACTIVE"
-        },
-        "1576453304": {
-            "www.blockminer.me": "INACTIVE",
-            "www.blockmuncher.com": "INACTIVE",
-            "www.blocks.z.cash": "INACTIVE",
-            "www.blocksofchain.net": "INACTIVE",
-            "www.blocphi-phi-pool.com": "INACTIVE",
-            "www.blog.atomminer.com": "INACTIVE",
-            "www.blog.btc.com": "INACTIVE",
-            "www.blog.connectbtc.com": "INACTIVE"
-        },
-        "1576453305": {
-            "www.blog.llama.horse": "INACTIVE",
-            "www.blog.minergate.com": "INACTIVE",
-            "www.blog.nicehash.com": "INACTIVE",
-            "www.blog.slushpool.com": "INACTIVE",
-            "www.bluematt.me": "INACTIVE",
-            "www.bmcm.pw": "INACTIVE",
-            "www.bmnadutub.ru": "INACTIVE"
-        },
-        "1576453306": {
-            "www.bmnr.pw": "INACTIVE",
-            "www.bmpx.pw": "INACTIVE",
-            "www.bmst.pw": "INACTIVE",
-            "www.bns.lightninghash.com": "INACTIVE",
-            "www.bookdubai.moneroseeds.ae.org": "INACTIVE",
-            "www.boolberry.smartcoinpool.com": "INACTIVE"
-        },
-        "1576453307": {
-            "www.bot.virtopia.ca": "INACTIVE",
-            "www.bottlecapspool.com": "INACTIVE",
-            "www.bowithow.com": "INACTIVE",
-            "www.bp.bitcoin.co.pt": "INACTIVE",
-            "www.bp.eos.minergate.com": "INACTIVE",
-            "www.bpi.coin-miners.info": "INACTIVE"
-        },
-        "1576453308": {
-            "www.br.bitclub.network": "INACTIVE",
-            "www.bri.lightninghash.com": "INACTIVE",
-            "www.btc.btgirl.com.cn": "INACTIVE",
-            "www.btc.coinfoundry.org": "INACTIVE"
-        },
-        "1576453309": {
-            "www.btc.mcdir.ru": "INACTIVE",
-            "www.btc.poolmining.eu": "INACTIVE",
-            "www.btc.ru.sp918.antpool.com": "INACTIVE",
-            "www.btcc.com.whecloud.com": "INACTIVE",
-            "www.btcd.coin-miners.info": "INACTIVE",
-            "www.btcd.node.coin-miners.info": "INACTIVE"
-        },
-        "1576453310": {
-            "www.btcp.axepool.com": "INACTIVE",
-            "www.btcp.bitpool.ro": "INACTIVE",
-            "www.btcp.lucky-mining.com.ua": "INACTIVE",
-            "www.btcpay.flymining.cloud": "INACTIVE",
-            "www.btcpmine.com": "INACTIVE",
-            "www.btcpmining.eu": "INACTIVE"
-        },
-        "1576453311": {
-            "www.btcprivatepool.cl": "INACTIVE",
-            "www.btcsingle.99btc.net": "INACTIVE",
-            "www.btcz.bitpool.ro": "INACTIVE",
-            "www.btcz.city": "INACTIVE",
-            "www.btg.axepool.com": "INACTIVE",
-            "www.btg.cloudhash.eu": "INACTIVE",
-            "www.btg.lucky-mining.com.ua": "INACTIVE"
-        },
-        "1576453312": {
-            "www.btgirl.com.cn": "INACTIVE",
-            "www.btgmine.pro": "INACTIVE",
-            "www.btgminers.eu": "INACTIVE",
-            "www.btgpool.eu": "INACTIVE",
-            "www.btgsolo.cl": "INACTIVE",
-            "www.btv.coin-miners.info": "INACTIVE",
-            "www.btv.node.coin-miners.info": "INACTIVE"
-        },
-        "1576453313": {
-            "www.buck.bitpool.ro": "INACTIVE",
-            "www.buck.lucky-mining.com.ua": "INACTIVE",
-            "www.build.getmonero.org": "INACTIVE"
-        },
-        "1576454076": {
-            "www.burstl.net": "INACTIVE",
-            "www.butcalve.com": "INACTIVE",
-            "www.bws.bitpay.com": "INACTIVE"
-        },
         "1576454077": {
-            "www.by.bitcoin.co.pt": "INACTIVE",
-            "www.bypass.hashanywhere.com": "INACTIVE",
             "www.c.netcodepool.org": "INACTIVE",
             "www.ca1.bitminter.com": "INACTIVE",
             "www.caldari.lksmith.me": "INACTIVE"
@@ -25213,6 +25114,105 @@
             "www.blake256r8vnl.usa.nicehash.com": "INACTIVE",
             "www.blake2s.eu.nicehash.com": "INACTIVE",
             "www.blake2s.hk.nicehash.com": "INACTIVE"
+        },
+        "1576637135": {
+            "www.blissbtc.99btc.net": "INACTIVE"
+        },
+        "1576637136": {
+            "www.block-explorer.coin-miners.info": "INACTIVE",
+            "www.blockchain.moneroseeds.ae.org": "INACTIVE",
+            "www.blockchained.pa": "INACTIVE",
+            "www.blockchained.party": "INACTIVE",
+            "www.blockexplorer.funkymonkey.org": "INACTIVE",
+            "www.blockfind.me": "INACTIVE",
+            "www.blockhunter.info": "INACTIVE"
+        },
+        "1576637137": {
+            "www.blockminer.me": "INACTIVE",
+            "www.blockmuncher.com": "INACTIVE",
+            "www.blocks.z.cash": "INACTIVE",
+            "www.blocksofchain.net": "INACTIVE",
+            "www.blocphi-phi-pool.com": "INACTIVE",
+            "www.blog.atomminer.com": "INACTIVE",
+            "www.blog.btc.com": "INACTIVE"
+        },
+        "1576637138": {
+            "www.blog.connectbtc.com": "INACTIVE",
+            "www.blog.llama.horse": "INACTIVE",
+            "www.blog.minergate.com": "INACTIVE",
+            "www.blog.nicehash.com": "INACTIVE",
+            "www.blog.slushpool.com": "INACTIVE",
+            "www.bluematt.me": "INACTIVE",
+            "www.bmcm.pw": "INACTIVE"
+        },
+        "1576637139": {
+            "www.bmnadutub.ru": "INACTIVE",
+            "www.bmnr.pw": "INACTIVE",
+            "www.bmpx.pw": "INACTIVE",
+            "www.bmst.pw": "INACTIVE",
+            "www.bns.lightninghash.com": "INACTIVE",
+            "www.bookdubai.moneroseeds.ae.org": "INACTIVE",
+            "www.boolberry.smartcoinpool.com": "INACTIVE"
+        },
+        "1576637140": {
+            "www.bot.virtopia.ca": "INACTIVE",
+            "www.bottlecapspool.com": "INACTIVE",
+            "www.bowithow.com": "INACTIVE",
+            "www.bp.bitcoin.co.pt": "INACTIVE",
+            "www.bp.eos.minergate.com": "INACTIVE",
+            "www.bpi.coin-miners.info": "INACTIVE"
+        },
+        "1576637141": {
+            "www.br.bitclub.network": "INACTIVE",
+            "www.bri.lightninghash.com": "INACTIVE",
+            "www.btc.btgirl.com.cn": "INACTIVE"
+        },
+        "1576637142": {
+            "www.btc.coinfoundry.org": "INACTIVE",
+            "www.btc.mcdir.ru": "INACTIVE",
+            "www.btc.poolmining.eu": "INACTIVE",
+            "www.btc.ru.sp918.antpool.com": "INACTIVE",
+            "www.btcc.com.whecloud.com": "INACTIVE",
+            "www.btcd.coin-miners.info": "INACTIVE",
+            "www.btcd.node.coin-miners.info": "INACTIVE"
+        },
+        "1576637143": {
+            "www.btcp.axepool.com": "INACTIVE",
+            "www.btcp.bitpool.ro": "INACTIVE",
+            "www.btcp.lucky-mining.com.ua": "INACTIVE",
+            "www.btcpay.flymining.cloud": "INACTIVE",
+            "www.btcpmine.com": "INACTIVE",
+            "www.btcpmining.eu": "INACTIVE"
+        },
+        "1576637144": {
+            "www.btcprivatepool.cl": "INACTIVE",
+            "www.btcsingle.99btc.net": "INACTIVE",
+            "www.btcz.bitpool.ro": "INACTIVE",
+            "www.btcz.city": "INACTIVE",
+            "www.btg.axepool.com": "INACTIVE"
+        },
+        "1576637145": {
+            "www.btg.cloudhash.eu": "INACTIVE",
+            "www.btg.lucky-mining.com.ua": "INACTIVE",
+            "www.btgirl.com.cn": "INACTIVE",
+            "www.btgmine.pro": "INACTIVE",
+            "www.btgminers.eu": "INACTIVE",
+            "www.btgpool.eu": "INACTIVE",
+            "www.btgsolo.cl": "INACTIVE",
+            "www.btv.coin-miners.info": "INACTIVE"
+        },
+        "1576637146": {
+            "www.btv.node.coin-miners.info": "INACTIVE",
+            "www.buck.bitpool.ro": "INACTIVE",
+            "www.buck.lucky-mining.com.ua": "INACTIVE",
+            "www.build.getmonero.org": "INACTIVE",
+            "www.burstl.net": "INACTIVE",
+            "www.butcalve.com": "INACTIVE"
+        },
+        "1576637147": {
+            "www.bws.bitpay.com": "INACTIVE",
+            "www.by.bitcoin.co.pt": "INACTIVE",
+            "www.bypass.hashanywhere.com": "INACTIVE"
         }
     }
 }
