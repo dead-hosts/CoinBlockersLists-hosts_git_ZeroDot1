@@ -8073,152 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576461826": {
-            "www.multicoin.lightninghash.com": "INACTIVE"
-        },
-        "1576461827": {
-            "www.multimining.org": "INACTIVE",
-            "www.multipool.es": "INACTIVE",
-            "www.multipool.smartcoinpool.com": "INACTIVE",
-            "www.multipools.cl": "INACTIVE",
-            "www.mutex.smartcoinpool.com": "INACTIVE",
-            "www.mutuza.win": "INACTIVE"
-        },
-        "1576462516": {
-            "www.mx.la.nocroom.com": "INACTIVE",
-            "www.mx1.coin-miners.info": "INACTIVE",
-            "www.mx1.node.coin-miners.info": "INACTIVE",
-            "www.mx2.coin-miners.info": "INACTIVE",
-            "www.my.atomminer.com": "INACTIVE",
-            "www.my.emitech.moneroseeds.ae.org": "INACTIVE",
-            "www.myadstats.com": "INACTIVE",
-            "www.mycoinwallet.net": "INACTIVE"
-        },
-        "1576462517": {
-            "www.myeherwalliet.com": "INACTIVE",
-            "www.myeterwalliet.com": "INACTIVE",
-            "www.myetherermwallet.com": "INACTIVE",
-            "www.myetherwallets.net": "INACTIVE",
-            "www.mylovelymommy.tk": "INACTIVE",
-            "www.myo-xmr.com": "INACTIVE",
-            "www.mypool.name": "INACTIVE",
-            "www.mytestminer.xyz": "INACTIVE"
-        },
-        "1576462518": {
-            "www.myregeneaf.com": "INACTIVE",
-            "www.myvps1.lightninghash.com": "INACTIVE",
-            "www.myzen.cash": "INACTIVE",
-            "www.myztic.llama.horse": "INACTIVE",
-            "www.mzt.llama.horse": "INACTIVE",
-            "www.nagios.z.cash": "INACTIVE",
-            "www.nathetsof.com": "INACTIVE",
-            "www.nbit.coin-miners.info": "INACTIVE"
-        },
-        "1576462519": {
-            "www.nbx.coin-miners.info": "INACTIVE",
-            "www.nbx.faucet.llama.horse": "INACTIVE",
-            "www.nbx.llama.horse": "INACTIVE",
-            "www.nbx.node.coin-miners.info": "INACTIVE",
-            "www.ncp.llama.horse": "INACTIVE",
-            "www.ne.aaryaglobalfire.moneroseeds.ae.org": "INACTIVE",
-            "www.nebabrop.com": "INACTIVE",
-            "www.needgames.xyz": "INACTIVE",
-            "www.neoscrypt.eu.nicehash.com": "INACTIVE"
-        },
-        "1576462520": {
-            "www.neoscrypt.br.nicehash.com": "INACTIVE",
-            "www.neoscrypt.hk.nicehash.com": "INACTIVE",
-            "www.neoscrypt.in.nicehash.com": "INACTIVE",
-            "www.neoscrypt.jp.nicehash.com": "INACTIVE",
-            "www.neoscrypt.usa.nicehash.com": "INACTIVE",
-            "www.new.altcoinix.com": "INACTIVE",
-            "www.new.atomminer.com": "INACTIVE",
-            "www.new.browsermine.com": "INACTIVE"
-        },
-        "1576462521": {
-            "www.new.lucky-mining.com.ua": "INACTIVE",
-            "www.new.nicehash.com": "INACTIVE",
-            "www.newblackage.com": "INACTIVE",
-            "www.news.antpool.com": "INACTIVE",
-            "www.news.moneroseeds.ae.org": "INACTIVE",
-            "www.newsletter.dm.bitcoin.co.pt": "INACTIVE",
-            "www.newton.smartcoinpool.com": "INACTIVE"
-        },
-        "1576462522": {
-            "www.nhmws.nicehash.com": "INACTIVE",
-            "www.nidscom.io": "INACTIVE",
-            "www.niematego.tk": "INACTIVE",
-            "www.night-pool.de": "INACTIVE",
-            "www.nightcomfort.moneroseeds.ae.org": "INACTIVE",
-            "www.niobiloki.smartcoinpool.com": "INACTIVE",
-            "www.nist5.br.nicehash.com": "INACTIVE",
-            "www.nist5.eu.nicehash.com": "INACTIVE"
-        },
-        "1576462523": {
-            "www.nist5.hk.nicehash.com": "INACTIVE",
-            "www.nist5.in.nicehash.com": "INACTIVE",
-            "www.nist5.jp.nicehash.com": "INACTIVE",
-            "www.nist5.usa.nicehash.com": "INACTIVE",
-            "www.nitsche.top": "INACTIVE",
-            "www.nkt.coin-miners.info": "INACTIVE",
-            "www.nkt.node.coin-miners.info": "INACTIVE"
-        },
-        "1576462524": {
-            "www.noblock.pro": "INACTIVE",
-            "www.node.bohemianpool.com": "INACTIVE",
-            "www.node.ckpool.org": "INACTIVE",
-            "www.node.coin-miners.info": "INACTIVE",
-            "www.node.crypto-pool.fr": "INACTIVE",
-            "www.node.einfach-iota.de": "INACTIVE",
-            "www.node.expanse.tech": "INACTIVE",
-            "www.node.grcpool.com": "INACTIVE",
-            "www.node.gridcoin.us": "INACTIVE"
-        },
-        "1576462525": {
-            "www.node.minexmr.com": "INACTIVE",
-            "www.node.moneroworld.com": "INACTIVE",
-            "www.node.nimiq.watch": "INACTIVE",
-            "www.node.nimiqpool.com": "INACTIVE",
-            "www.node.nocroom.com": "INACTIVE",
-            "www.node.philpool.com": "INACTIVE",
-            "www.node.pocketwhale.info": "INACTIVE",
-            "www.node.supportxmr.com": "INACTIVE",
-            "www.node.turtlepool.space": "INACTIVE"
-        },
-        "1576462526": {
-            "www.node.swap.fyi": "INACTIVE",
-            "www.node.viaxmr.com": "INACTIVE",
-            "www.node.xmr.pt": "INACTIVE",
-            "www.node.xmr.to": "INACTIVE",
-            "www.node.xmrbackb.one": "INACTIVE",
-            "www.node1.coin-miners.info": "INACTIVE",
-            "www.node1.eos.minergate.com": "INACTIVE",
-            "www.node1.node.coin-miners.info": "INACTIVE",
-            "www.node1.xmr-tw.org": "INACTIVE",
-            "www.node2.eos.minergate.com": "INACTIVE"
-        },
-        "1576462527": {
-            "www.node2.xmr-tw.org": "INACTIVE",
-            "www.nodes.hashvault.pro": "INACTIVE",
-            "www.nodes.p2pmine.com": "INACTIVE",
-            "www.nomp.coin-miners.info": "INACTIVE",
-            "www.nomp.node.coin-miners.info": "INACTIVE",
-            "www.norgzpool.net.au": "INACTIVE",
-            "www.nosekefik.com": "INACTIVE",
-            "www.nosuchpool.cl": "INACTIVE"
-        },
-        "1576462528": {
-            "www.nosuchpool.cloud": "INACTIVE",
-            "www.nova.mpool.su": "INACTIVE",
-            "www.ns1alt.poloniex.com": "INACTIVE",
-            "www.ns2alt.poloniex.com": "INACTIVE",
-            "www.ns3alt.poloniex.com": "INACTIVE",
-            "www.ns4alt.poloniex.com": "INACTIVE"
-        },
         "1576462529": {
-            "www.ntm.lightninghash.com": "INACTIVE",
-            "www.nwx1.btcchina.com": "INACTIVE",
-            "www.nxm.llama.horse": "INACTIVE",
             "www.oauth.ethfans.org": "INACTIVE",
             "www.oauth.test.sparkpool.com": "INACTIVE",
             "www.ockoy.deliveryclub-6589.download": "INACTIVE",
@@ -25169,6 +25024,160 @@
             "www.mtip.llama.horse": "INACTIVE",
             "www.mu": "INACTIVE",
             "www.multi.lightninghash.com": "INACTIVE"
+        },
+        "1576644304": {
+            "www.multicoin.lightninghash.com": "INACTIVE",
+            "www.multimining.org": "INACTIVE",
+            "www.multipool.es": "INACTIVE",
+            "www.multipool.smartcoinpool.com": "INACTIVE"
+        },
+        "1576644305": {
+            "www.multipools.cl": "INACTIVE",
+            "www.mutex.smartcoinpool.com": "INACTIVE",
+            "www.mutuza.win": "INACTIVE",
+            "www.mwgrinpool.com": "INACTIVE",
+            "www.mx.la.nocroom.com": "INACTIVE",
+            "www.mx1.coin-miners.info": "INACTIVE"
+        },
+        "1576644306": {
+            "www.mx1.node.coin-miners.info": "INACTIVE",
+            "www.mx2.coin-miners.info": "INACTIVE",
+            "www.my.atomminer.com": "INACTIVE",
+            "www.my.emitech.moneroseeds.ae.org": "INACTIVE",
+            "www.myadstats.com": "INACTIVE",
+            "www.mycoinwallet.net": "INACTIVE"
+        },
+        "1576644307": {
+            "www.myeherwalliet.com": "INACTIVE",
+            "www.myeterwalliet.com": "INACTIVE",
+            "www.myetherermwallet.com": "INACTIVE",
+            "www.myetherwallets.net": "INACTIVE",
+            "www.mylovelymommy.tk": "INACTIVE",
+            "www.myo-xmr.com": "INACTIVE",
+            "www.mypool.name": "INACTIVE"
+        },
+        "1576644308": {
+            "www.myregeneaf.com": "INACTIVE",
+            "www.mytestminer.xyz": "INACTIVE",
+            "www.myvps1.lightninghash.com": "INACTIVE",
+            "www.myzen.cash": "INACTIVE",
+            "www.myztic.llama.horse": "INACTIVE",
+            "www.mzt.llama.horse": "INACTIVE"
+        },
+        "1576644309": {
+            "www.nagios.z.cash": "INACTIVE",
+            "www.nathetsof.com": "INACTIVE",
+            "www.nbit.coin-miners.info": "INACTIVE",
+            "www.nbx.coin-miners.info": "INACTIVE",
+            "www.nbx.faucet.llama.horse": "INACTIVE",
+            "www.nbx.llama.horse": "INACTIVE",
+            "www.nbx.node.coin-miners.info": "INACTIVE"
+        },
+        "1576644310": {
+            "www.ncp.llama.horse": "INACTIVE",
+            "www.ne.aaryaglobalfire.moneroseeds.ae.org": "INACTIVE",
+            "www.nebabrop.com": "INACTIVE",
+            "www.needgames.xyz": "INACTIVE",
+            "www.neoscrypt.br.nicehash.com": "INACTIVE",
+            "www.neoscrypt.eu.nicehash.com": "INACTIVE",
+            "www.neoscrypt.hk.nicehash.com": "INACTIVE"
+        },
+        "1576644311": {
+            "www.neoscrypt.in.nicehash.com": "INACTIVE",
+            "www.neoscrypt.jp.nicehash.com": "INACTIVE",
+            "www.neoscrypt.usa.nicehash.com": "INACTIVE",
+            "www.new.altcoinix.com": "INACTIVE",
+            "www.new.atomminer.com": "INACTIVE",
+            "www.new.browsermine.com": "INACTIVE"
+        },
+        "1576644312": {
+            "www.new.lucky-mining.com.ua": "INACTIVE",
+            "www.new.nicehash.com": "INACTIVE",
+            "www.newblackage.com": "INACTIVE",
+            "www.news.antpool.com": "INACTIVE",
+            "www.news.moneroseeds.ae.org": "INACTIVE",
+            "www.newsletter.dm.bitcoin.co.pt": "INACTIVE",
+            "www.newton.smartcoinpool.com": "INACTIVE"
+        },
+        "1576644313": {
+            "www.nhmws.nicehash.com": "INACTIVE",
+            "www.nidscom.io": "INACTIVE",
+            "www.night-pool.de": "INACTIVE",
+            "www.nightcomfort.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1576644314": {
+            "www.niobiloki.smartcoinpool.com": "INACTIVE",
+            "www.nist5.br.nicehash.com": "INACTIVE",
+            "www.nist5.eu.nicehash.com": "INACTIVE",
+            "www.nist5.hk.nicehash.com": "INACTIVE",
+            "www.nist5.in.nicehash.com": "INACTIVE",
+            "www.nist5.jp.nicehash.com": "INACTIVE"
+        },
+        "1576644315": {
+            "www.nist5.usa.nicehash.com": "INACTIVE",
+            "www.nitsche.top": "INACTIVE",
+            "www.nkt.coin-miners.info": "INACTIVE",
+            "www.nkt.node.coin-miners.info": "INACTIVE",
+            "www.noblock.pro": "INACTIVE"
+        },
+        "1576644316": {
+            "www.node.bohemianpool.com": "INACTIVE",
+            "www.node.ckpool.org": "INACTIVE",
+            "www.node.coin-miners.info": "INACTIVE",
+            "www.node.crypto-pool.fr": "INACTIVE",
+            "www.node.einfach-iota.de": "INACTIVE",
+            "www.node.expanse.tech": "INACTIVE",
+            "www.node.grcpool.com": "INACTIVE"
+        },
+        "1576644317": {
+            "www.node.gridcoin.us": "INACTIVE",
+            "www.node.minexmr.com": "INACTIVE",
+            "www.node.moneroworld.com": "INACTIVE",
+            "www.node.nimiq.watch": "INACTIVE",
+            "www.node.nimiqpool.com": "INACTIVE",
+            "www.node.nocroom.com": "INACTIVE",
+            "www.node.philpool.com": "INACTIVE"
+        },
+        "1576644318": {
+            "www.node.pocketwhale.info": "INACTIVE",
+            "www.node.supportxmr.com": "INACTIVE",
+            "www.node.swap.fyi": "INACTIVE",
+            "www.node.turtlepool.space": "INACTIVE",
+            "www.node.viaxmr.com": "INACTIVE",
+            "www.node.xmr.pt": "INACTIVE",
+            "www.node.xmr.to": "INACTIVE",
+            "www.node.xmrbackb.one": "INACTIVE"
+        },
+        "1576644319": {
+            "www.node1.coin-miners.info": "INACTIVE",
+            "www.node1.eos.minergate.com": "INACTIVE",
+            "www.node1.node.coin-miners.info": "INACTIVE",
+            "www.node1.xmr-tw.org": "INACTIVE",
+            "www.node2.eos.minergate.com": "INACTIVE",
+            "www.node2.xmr-tw.org": "INACTIVE",
+            "www.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1576644320": {
+            "www.nodes.p2pmine.com": "INACTIVE",
+            "www.nomp.coin-miners.info": "INACTIVE",
+            "www.nomp.node.coin-miners.info": "INACTIVE",
+            "www.norgzpool.net.au": "INACTIVE",
+            "www.nosekefik.com": "INACTIVE",
+            "www.nosuchpool.cl": "INACTIVE",
+            "www.nosuchpool.cloud": "INACTIVE"
+        },
+        "1576644321": {
+            "www.nova.mpool.su": "INACTIVE",
+            "www.novaminers.tk": "INACTIVE",
+            "www.ns1alt.poloniex.com": "INACTIVE",
+            "www.ns2alt.poloniex.com": "INACTIVE",
+            "www.ns3alt.poloniex.com": "INACTIVE"
+        },
+        "1576644322": {
+            "www.ns4alt.poloniex.com": "INACTIVE",
+            "www.ntm.lightninghash.com": "INACTIVE",
+            "www.nwx1.btcchina.com": "INACTIVE",
+            "www.nxm.llama.horse": "INACTIVE"
         }
     }
 }
