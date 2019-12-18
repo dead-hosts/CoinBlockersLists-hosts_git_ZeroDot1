@@ -12494,6 +12494,11 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "tsfpool.xyz": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
     "tubetitties.com": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
@@ -12535,8 +12540,8 @@
         "state": "past"
     },
     "turtlepool.space": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "tweth.tw": {
@@ -12547,6 +12552,16 @@
     "twystidmining.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "txchange.online": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "txxcoin.tech": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "uax.io": {
