@@ -8073,83 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576455027": {
-            "www.community.coinbase.com": "INACTIVE",
-            "www.cookies.qp.si": "INACTIVE"
-        },
-        "1576455028": {
-            "www.coolmine.to": "INACTIVE",
-            "www.coolpool.to": "INACTIVE",
-            "www.coreteam.getmonero.org": "INACTIVE",
-            "www.corg.netcodepool.org": "INACTIVE",
-            "www.corporate.alpereum.ch": "INACTIVE",
-            "www.cp1.atomminer.com": "INACTIVE",
-            "www.cp2.atomminer.com": "INACTIVE"
-        },
-        "1576455029": {
-            "www.crazypool.org": "INACTIVE",
-            "www.crc.moneroseeds.ae.org": "INACTIVE",
-            "www.crea.lightninghash.com": "INACTIVE",
-            "www.cryptmonero.com": "INACTIVE",
-            "www.crypto-coins-now.com": "INACTIVE",
-            "www.crypto-daio.co.uk": "INACTIVE"
-        },
-        "1576455030": {
-            "www.crypto-debitcard.mining.sg": "INACTIVE",
-            "www.crypto-pool.info": "INACTIVE",
-            "www.crypto-prepaidcard.mining.sg": "INACTIVE",
-            "www.crypto9coin.cf": "INACTIVE",
-            "www.cryptobara.com": "INACTIVE",
-            "www.cryptocoinabout.com": "INACTIVE",
-            "www.cryptocoins-digging.space": "INACTIVE"
-        },
-        "1576455031": {
-            "www.cryptogrot.io": "INACTIVE",
-            "www.cryptokitties.co.herokudns.com": "INACTIVE",
-            "www.cryptoknight.cl": "INACTIVE",
-            "www.cryptoloot.pro": "INACTIVE",
-            "www.cryptominingpool.eu": "INACTIVE",
-            "www.cryptonight.br.nicehash.com": "INACTIVE",
-            "www.cryptonight.eu.nicehash.com": "INACTIVE"
-        },
-        "1576455032": {
-            "www.cryptonight.hk.nicehash.com": "INACTIVE",
-            "www.cryptonight.in.nicehash.com": "INACTIVE",
-            "www.cryptonight.jp.nicehash.com": "INACTIVE",
-            "www.cryptonight.usa.nicehash.com": "INACTIVE",
-            "www.cryptonote.cl": "INACTIVE",
-            "www.cryptonote.so": "INACTIVE",
-            "www.cryptonotepool.org": "INACTIVE",
-            "www.cryptonova.eu": "INACTIVE"
-        },
-        "1576455033": {
-            "www.cryptopool.org": "INACTIVE",
-            "www.cryptopool.tk": "INACTIVE",
-            "www.cryptoprepaidcard.mining.sg": "INACTIVE",
-            "www.cryptoprepaidcardglobal.mining.sg": "INACTIVE"
-        },
-        "1576455034": {
-            "www.ctlrnwbv.ru": "INACTIVE",
-            "www.ctrl.getmonero.org": "INACTIVE",
-            "www.cubepool.eu": "INACTIVE",
-            "www.cum.coin-miners.info": "INACTIVE",
-            "www.cum.node.coin-miners.info": "INACTIVE",
-            "www.custody.coinbase.com": "INACTIVE",
-            "www.customspeed.nl": "INACTIVE"
-        },
-        "1576455035": {
-            "www.d-ddos.antpool.com": "INACTIVE",
-            "www.d3c0n.net": "INACTIVE",
-            "www.daggerhashimoto.br.nicehash.com": "INACTIVE",
-            "www.daggerhashimoto.eu.nicehash.com": "INACTIVE",
-            "www.daggerhashimoto.hk.nicehash.com": "INACTIVE",
-            "www.daggerhashimoto.in.nicehash.com": "INACTIVE",
-            "www.daggerhashimoto.jp.nicehash.com": "INACTIVE",
-            "www.daggerhashimoto.usa.nicehash.com": "INACTIVE",
-            "www.dapi.graft.network": "INACTIVE"
-        },
         "1576455036": {
-            "www.darking04.tk": "INACTIVE",
             "www.darking05.tk": "INACTIVE",
             "www.darking06.tk": "INACTIVE",
             "www.darking07.tk": "INACTIVE",
@@ -25217,6 +25141,89 @@
             "www.collusion.tech": "INACTIVE",
             "www.colnhive.com": "INACTIVE",
             "www.commercium.axepool.com": "INACTIVE"
+        },
+        "1576638568": {
+            "www.community.coinbase.com": "INACTIVE",
+            "www.cookies.qp.si": "INACTIVE",
+            "www.coolmine.to": "INACTIVE"
+        },
+        "1576638569": {
+            "www.coolpool.to": "INACTIVE",
+            "www.coreteam.getmonero.org": "INACTIVE",
+            "www.corg.netcodepool.org": "INACTIVE",
+            "www.corporate.alpereum.ch": "INACTIVE",
+            "www.cp1.atomminer.com": "INACTIVE",
+            "www.cp2.atomminer.com": "INACTIVE"
+        },
+        "1576638570": {
+            "www.crazypool.org": "INACTIVE",
+            "www.crc.moneroseeds.ae.org": "INACTIVE",
+            "www.crea.lightninghash.com": "INACTIVE",
+            "www.cryptmonero.com": "INACTIVE"
+        },
+        "1576638571": {
+            "www.crypto-coins-now.com": "INACTIVE",
+            "www.crypto-daio.co.uk": "INACTIVE",
+            "www.crypto-debitcard.mining.sg": "INACTIVE",
+            "www.crypto-pool.info": "INACTIVE",
+            "www.crypto-prepaidcard.mining.sg": "INACTIVE"
+        },
+        "1576638572": {
+            "www.crypto9coin.cf": "INACTIVE",
+            "www.cryptobara.com": "INACTIVE",
+            "www.cryptocoinabout.com": "INACTIVE",
+            "www.cryptocoins-digging.space": "INACTIVE",
+            "www.cryptogrot.io": "INACTIVE"
+        },
+        "1576638573": {
+            "www.cryptokitties.co.herokudns.com": "INACTIVE",
+            "www.cryptoknight.cl": "INACTIVE",
+            "www.cryptoloot.pro": "INACTIVE",
+            "www.cryptominingpool.eu": "INACTIVE",
+            "www.cryptonight.br.nicehash.com": "INACTIVE",
+            "www.cryptonight.eu.nicehash.com": "INACTIVE"
+        },
+        "1576638574": {
+            "www.cryptonight.hk.nicehash.com": "INACTIVE",
+            "www.cryptonight.in.nicehash.com": "INACTIVE",
+            "www.cryptonight.jp.nicehash.com": "INACTIVE",
+            "www.cryptonight.usa.nicehash.com": "INACTIVE",
+            "www.cryptonote.cl": "INACTIVE",
+            "www.cryptonote.so": "INACTIVE",
+            "www.cryptonotepool.org": "INACTIVE"
+        },
+        "1576638575": {
+            "www.cryptonova.eu": "INACTIVE",
+            "www.cryptopool.org": "INACTIVE",
+            "www.cryptopool.tk": "INACTIVE",
+            "www.cryptoprepaidcard.mining.sg": "INACTIVE"
+        },
+        "1576638576": {
+            "www.cryptoprepaidcardglobal.mining.sg": "INACTIVE",
+            "www.ctlrnwbv.ru": "INACTIVE",
+            "www.ctrl.getmonero.org": "INACTIVE",
+            "www.cubepool.eu": "INACTIVE"
+        },
+        "1576638577": {
+            "www.cum.coin-miners.info": "INACTIVE",
+            "www.cum.node.coin-miners.info": "INACTIVE",
+            "www.custody.coinbase.com": "INACTIVE",
+            "www.customspeed.nl": "INACTIVE",
+            "www.d-ddos.antpool.com": "INACTIVE"
+        },
+        "1576638578": {
+            "www.d3c0n.net": "INACTIVE",
+            "www.daggerhashimoto.br.nicehash.com": "INACTIVE",
+            "www.daggerhashimoto.eu.nicehash.com": "INACTIVE",
+            "www.daggerhashimoto.hk.nicehash.com": "INACTIVE",
+            "www.daggerhashimoto.in.nicehash.com": "INACTIVE",
+            "www.daggerhashimoto.jp.nicehash.com": "INACTIVE",
+            "www.daggerhashimoto.usa.nicehash.com": "INACTIVE"
+        },
+        "1576638579": {
+            "www.dapi.graft.network": "INACTIVE",
+            "www.darking03.tk": "INACTIVE",
+            "www.darking04.tk": "INACTIVE"
         }
     }
 }
