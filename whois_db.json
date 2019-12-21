@@ -1984,6 +1984,11 @@
         "expiration_date": "05-aug-2019",
         "state": "future"
     },
+    "aurapool.xyz": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "auroramine.biz": {
         "epoch": "1548028800",
         "expiration_date": "21-jan-2019",
@@ -2167,6 +2172,11 @@
     "axerc.com": {
         "epoch": 1808697600.0,
         "expiration_date": "26-apr-2027",
+        "state": "future"
+    },
+    "axletrade.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "axtrades.com": {
