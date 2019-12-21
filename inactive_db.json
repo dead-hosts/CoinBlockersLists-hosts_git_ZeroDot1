@@ -8073,155 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576564415": {
-            "ci.bitcoin.co.pt": "INACTIVE"
-        },
-        "1576564422": {
-            "cloudflare2.hashfor.cash": "INACTIVE",
-            "cloudmedia.gdn": "INACTIVE",
-            "cloudmediacdn.com": "INACTIVE",
-            "clt.coin-miners.info": "INACTIVE",
-            "clt.node.coin-miners.info": "INACTIVE",
-            "clu.epool.io": "INACTIVE"
-        },
-        "1576564423": {
-            "clud.suprnova.cc": "INACTIVE",
-            "clv.em.bitcoin.co.pt": "INACTIVE",
-            "cm.aikapool.com": "INACTIVE",
-            "cm.bitcoin.co.pt": "INACTIVE",
-            "cm.fix.btcc.com": "INACTIVE"
-        },
-        "1576566306": {
-            "cm1.xmrminingproxy.com": "INACTIVE"
-        },
-        "1576566307": {
-            "cmm.crypto-mining-pool.com": "INACTIVE",
-            "cmm.cryptoblock.uk": "INACTIVE",
-            "cmm.lambomoon.club": "INACTIVE",
-            "cmm.mine-vn.com": "INACTIVE",
-            "cms.aikapool.com": "INACTIVE",
-            "cms.btcchina.com": "INACTIVE"
-        },
-        "1576566308": {
-            "cn-wallet-generator.nodes.hashvault.pro": "INACTIVE",
-            "cn.bitcoin.co.pt": "INACTIVE",
-            "cn.btcc.com": "INACTIVE",
-            "cn.btcchina.com": "INACTIVE",
-            "cn.cryptonator.com": "INACTIVE",
-            "cn.dogecoin.dog": "INACTIVE",
-            "cn.llama.horse": "INACTIVE"
-        },
-        "1576566309": {
-            "cn.zhash.pro": "INACTIVE",
-            "cncoin.farm": "INACTIVE",
-            "cnd.suprnova.cc": "INACTIVE",
-            "cndhit.xyz": "INACTIVE",
-            "cng.btcc.com": "INACTIVE",
-            "cnhaven.llama.horse": "INACTIVE",
-            "cnlight.llama.horse": "INACTIVE"
-        },
-        "1576566310": {
-            "cnode.id": "INACTIVE",
-            "cnt.coin-miners.info": "INACTIVE",
-            "cnt.node.coin-miners.info": "INACTIVE",
-            "cnt.statistic.date": "INACTIVE",
-            "cnwww.btcchina.com": "INACTIVE",
-            "co.bitcoin.co.pt": "INACTIVE",
-            "co.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1576566311": {
-            "coal.mypool.name": "INACTIVE",
-            "coal.spacepools.org": "INACTIVE",
-            "coal2.mine2gether.com": "INACTIVE",
-            "cockpit.ubiqpool.io": "INACTIVE",
-            "coco.coin-miners.info": "INACTIVE",
-            "coco.node.coin-miners.info": "INACTIVE",
-            "code.btc.com": "INACTIVE"
-        },
-        "1576566312": {
-            "coi.suprnova.cc": "INACTIVE",
-            "coihive.com": "INACTIVE",
-            "coin-price-skype-bot.uax.io": "INACTIVE"
-        },
-        "1576566313": {
-            "coin.coin-miners.info": "INACTIVE",
-            "coin.durinsmine.com": "INACTIVE",
-            "coin.node.coin-miners.info": "INACTIVE",
-            "coin1.pool.sexy": "INACTIVE",
-            "coin2.pool.sexy": "INACTIVE",
-            "coin3.pool.sexy": "INACTIVE",
-            "coin4.pool.sexy": "INACTIVE",
-            "coin5.pool.sexy": "INACTIVE",
-            "coin_ticker.cnpool.cc": "INACTIVE"
-        },
-        "1576566314": {
-            "coincave.nl": "INACTIVE",
-            "coinchecker.backup-pool.com": "INACTIVE",
-            "coiner.site": "INACTIVE",
-            "coingen-seed-scrypt.bluematt.me": "INACTIVE",
-            "coingen-seed.bluematt.me": "INACTIVE"
-        },
-        "1576566315": {
-            "coingen.bluematt.me": "INACTIVE",
-            "coinhive-proxy.party": "INACTIVE",
-            "coinhove.com": "INACTIVE",
-            "coininvader.ragnarpool.ovh": "INACTIVE"
-        },
-        "1576566316": {
-            "coinone.click": "INACTIVE",
-            "coinone.deals": "INACTIVE",
-            "coinone.live": "INACTIVE"
-        },
-        "1576566317": {
-            "coinone.media": "INACTIVE",
-            "coinrail.io": "INACTIVE",
-            "coinroad.net.au": "INACTIVE",
-            "coins.sonofatech.com": "INACTIVE",
-            "coinsforhash.gq": "INACTIVE",
-            "coinspool.co": "INACTIVE"
-        },
-        "1576566318": {
-            "coinspool.cu.cc": "INACTIVE",
-            "coinye.netcodepool.org": "INACTIVE",
-            "collaborative.fix.btcc.com": "INACTIVE",
-            "collective-na-east.icemining.ca": "INACTIVE",
-            "collector.fix.btcc.com": "INACTIVE"
-        },
-        "1576566319": {
-            "collusion.tech": "INACTIVE",
-            "colnhive.com": "INACTIVE",
-            "com.btcc.com": "INACTIVE",
-            "com.ckpool.org": "INACTIVE",
-            "com.pokemongomongo.tk": "INACTIVE",
-            "comeso.moneroseeds.ae.org": "INACTIVE",
-            "comet1.cryptopool.ru": "INACTIVE",
-            "comet2.cryptopool.ru": "INACTIVE",
-            "comet3.cryptopool.ru": "INACTIVE"
-        },
-        "1576566320": {
-            "comet4.cryptopool.ru": "INACTIVE",
-            "commercium.axepool.com": "INACTIVE",
-            "commercium.lambomoon.club": "INACTIVE",
-            "commercium.miningspeed.com": "INACTIVE",
-            "commercium.voidr.net": "INACTIVE",
-            "community-staging.node.xmr.to": "INACTIVE",
-            "community-staging.staging.xmr.to": "INACTIVE",
-            "community-staging.xmr.to": "INACTIVE"
-        },
-        "1576566321": {
-            "community.monerise.com": "INACTIVE",
-            "community.node.xmr.to": "INACTIVE",
-            "community.of.aeonminingpool.com": "INACTIVE",
-            "community.staging.xmr.to": "INACTIVE",
-            "communitypool.stellite.ca": "INACTIVE",
-            "comp.minertopia.org": "INACTIVE",
-            "comp.openvpn.f2pool.com": "INACTIVE",
-            "comseeder.miningspeed.com": "INACTIVE"
-        },
-        "1576566322": {
-            "compute.fix.btcc.com": "INACTIVE",
-            "conceal.modpool.org": "INACTIVE"
-        },
         "1576567786": {
             "confluence.prohashing.com": "INACTIVE",
             "confluence.sparkpool.com": "INACTIVE",
@@ -25072,6 +24923,140 @@
             "cloud.pool.gntl.co.uk": "INACTIVE",
             "cloud.zpool.ca": "INACTIVE",
             "cloudcdn.gd": "INACTIVE"
+        },
+        "1576904960": {
+            "ci.bitcoin.co.pt": "INACTIVE",
+            "cloudflare2.hashfor.cash": "INACTIVE",
+            "cloudmedia.gdn": "INACTIVE",
+            "cloudmediacdn.com": "INACTIVE",
+            "clt.coin-miners.info": "INACTIVE",
+            "clt.node.coin-miners.info": "INACTIVE"
+        },
+        "1576904961": {
+            "clu.epool.io": "INACTIVE",
+            "clud.suprnova.cc": "INACTIVE",
+            "clv.em.bitcoin.co.pt": "INACTIVE",
+            "cm.aikapool.com": "INACTIVE",
+            "cm.bitcoin.co.pt": "INACTIVE",
+            "cm1.xmrminingproxy.com": "INACTIVE",
+            "cmm.crypto-mining-pool.com": "INACTIVE",
+            "cmm.cryptoblock.uk": "INACTIVE",
+            "cmm.lambomoon.club": "INACTIVE"
+        },
+        "1576904962": {
+            "cmm.mine-vn.com": "INACTIVE",
+            "cms.aikapool.com": "INACTIVE",
+            "cms.btcchina.com": "INACTIVE",
+            "cn-wallet-generator.nodes.hashvault.pro": "INACTIVE",
+            "cn.bitcoin.co.pt": "INACTIVE",
+            "cn.btcchina.com": "INACTIVE"
+        },
+        "1576904963": {
+            "cn.cryptonator.com": "INACTIVE",
+            "cn.dogecoin.dog": "INACTIVE",
+            "cn.llama.horse": "INACTIVE",
+            "cn.zhash.pro": "INACTIVE",
+            "cncoin.farm": "INACTIVE",
+            "cnd.suprnova.cc": "INACTIVE",
+            "cndhit.xyz": "INACTIVE",
+            "cnhaven.llama.horse": "INACTIVE"
+        },
+        "1576904964": {
+            "cnlight.llama.horse": "INACTIVE",
+            "cnode.id": "INACTIVE",
+            "cnt.coin-miners.info": "INACTIVE",
+            "cnt.node.coin-miners.info": "INACTIVE",
+            "cnt.statistic.date": "INACTIVE",
+            "cnwww.btcchina.com": "INACTIVE",
+            "co.bitcoin.co.pt": "INACTIVE",
+            "co.moneroseeds.ae.org": "INACTIVE",
+            "coal.mypool.name": "INACTIVE",
+            "coal.spacepools.org": "INACTIVE"
+        },
+        "1576904965": {
+            "coal2.mine2gether.com": "INACTIVE",
+            "cockpit.ubiqpool.io": "INACTIVE",
+            "coco.coin-miners.info": "INACTIVE",
+            "coco.node.coin-miners.info": "INACTIVE",
+            "code.btc.com": "INACTIVE",
+            "coi.suprnova.cc": "INACTIVE",
+            "coihive.com": "INACTIVE"
+        },
+        "1576904966": {
+            "coin-price-skype-bot.uax.io": "INACTIVE",
+            "coin.coin-miners.info": "INACTIVE",
+            "coin.durinsmine.com": "INACTIVE",
+            "coin.node.coin-miners.info": "INACTIVE",
+            "coin1.pool.sexy": "INACTIVE",
+            "coin2.pool.sexy": "INACTIVE",
+            "coin3.pool.sexy": "INACTIVE",
+            "coin4.pool.sexy": "INACTIVE"
+        },
+        "1576904967": {
+            "coin5.pool.sexy": "INACTIVE",
+            "coin_ticker.cnpool.cc": "INACTIVE",
+            "coincave.nl": "INACTIVE",
+            "coinchecker.backup-pool.com": "INACTIVE",
+            "coiner.site": "INACTIVE",
+            "coingen-seed-scrypt.bluematt.me": "INACTIVE",
+            "coingen.bluematt.me": "INACTIVE"
+        },
+        "1576904968": {
+            "coingen-seed.bluematt.me": "INACTIVE",
+            "coinhive-proxy.party": "INACTIVE",
+            "coinhove.com": "INACTIVE",
+            "coininvader.ragnarpool.ovh": "INACTIVE",
+            "coinlab.biz": "INACTIVE"
+        },
+        "1576904969": {
+            "coinone.click": "INACTIVE",
+            "coinone.deals": "INACTIVE",
+            "coinone.live": "INACTIVE",
+            "coinone.media": "INACTIVE",
+            "coinrail.io": "INACTIVE",
+            "coinroad.net.au": "INACTIVE"
+        },
+        "1576904970": {
+            "coins.sonofatech.com": "INACTIVE",
+            "coinsforhash.gq": "INACTIVE",
+            "coinsforhash.tk": "INACTIVE",
+            "coinspool.co": "INACTIVE",
+            "coinspool.cu.cc": "INACTIVE",
+            "coinye.netcodepool.org": "INACTIVE"
+        },
+        "1576904971": {
+            "collaborative.fix.btcc.com": "INACTIVE",
+            "collective-na-east.icemining.ca": "INACTIVE",
+            "collusion.tech": "INACTIVE",
+            "colnhive.com": "INACTIVE",
+            "com.ckpool.org": "INACTIVE",
+            "com.pokemongomongo.tk": "INACTIVE",
+            "comeso.moneroseeds.ae.org": "INACTIVE",
+            "comet1.cryptopool.ru": "INACTIVE",
+            "comet3.cryptopool.ru": "INACTIVE"
+        },
+        "1576904972": {
+            "comet2.cryptopool.ru": "INACTIVE",
+            "comet4.cryptopool.ru": "INACTIVE",
+            "commercium.axepool.com": "INACTIVE",
+            "commercium.lambomoon.club": "INACTIVE",
+            "commercium.miningspeed.com": "INACTIVE",
+            "commercium.voidr.net": "INACTIVE",
+            "community-staging.node.xmr.to": "INACTIVE",
+            "community-staging.staging.xmr.to": "INACTIVE",
+            "community-staging.xmr.to": "INACTIVE",
+            "community.monerise.com": "INACTIVE",
+            "community.node.xmr.to": "INACTIVE"
+        },
+        "1576904973": {
+            "community.of.aeonminingpool.com": "INACTIVE",
+            "community.staging.xmr.to": "INACTIVE",
+            "communitypool.stellite.ca": "INACTIVE",
+            "comp.minertopia.org": "INACTIVE",
+            "comp.openvpn.f2pool.com": "INACTIVE",
+            "compute.fix.btcc.com": "INACTIVE",
+            "comseeder.miningspeed.com": "INACTIVE",
+            "conceal.modpool.org": "INACTIVE"
         }
     }
 }
