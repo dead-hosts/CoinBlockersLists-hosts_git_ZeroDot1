@@ -8073,166 +8073,10 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576623487": {
-            "signalr.bitpoolmining.com": "INACTIVE",
-            "signup.btc.com": "INACTIVE"
-        },
-        "1576623488": {
-            "sigsegv.z.cash": "INACTIVE",
-            "sigt-api.suprnova.cc": "INACTIVE",
-            "sigt.bigmine.org": "INACTIVE",
-            "sigt.suprnova.cc": "INACTIVE",
-            "sigu.coin-miners.info": "INACTIVE",
-            "sigu.node.coin-miners.info": "INACTIVE",
-            "sigu.suprnova.cc": "INACTIVE",
-            "sikka.hashpool.eu": "INACTIVE",
-            "silk.suprnova.cc": "INACTIVE"
-        },
-        "1576623489": {
-            "simon.phoneum.io": "INACTIVE",
-            "simpledrk.com": "INACTIVE",
-            "simplepool.li": "INACTIVE",
-            "simplevert.com": "INACTIVE",
-            "sin.skypool.co": "INACTIVE"
-        },
-        "1576623490": {
-            "singapore.electroneum.hashvault.pro": "INACTIVE",
-            "singapore.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "singapore.hashing.space": "INACTIVE",
-            "singapore.minemonero.pro": "INACTIVE",
-            "singapore.monero.hashvault.pro": "INACTIVE",
-            "singapore.monero.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.aeon.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.dero.hashvault.pro": "INACTIVE",
-            "singapore01.dero.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1576623491": {
-            "singapore01.electroneum.hashvault.pro": "INACTIVE",
-            "singapore01.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.graft.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.haven.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.karbo.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.lethean.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.loki.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.masari.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.minemonero.pro": "INACTIVE"
-        },
-        "1576623492": {
-            "singapore01.monero.hashvault.pro": "INACTIVE",
-            "singapore01.monero.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.ryo.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.stellite.hashvault.pro": "INACTIVE",
-            "singapore01.stellite.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.sumo.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.sumokoin.hashvault.pro": "INACTIVE",
-            "singapore01.sumokoin.nodes.hashvault.pro": "INACTIVE",
-            "singapore01.turtle.nodes.hashvault.pro": "INACTIVE",
-            "singapore02.electroneum.hashvault.pro": "INACTIVE"
-        },
-        "1576623493": {
-            "singapore02.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "singapore02.minemonero.pro": "INACTIVE",
-            "sinovate.cf": "INACTIVE",
-            "sinus.1ds.us": "INACTIVE",
-            "sio.btcc.com": "INACTIVE",
-            "sio.btcchina.com": "INACTIVE",
-            "sip.cryptonote.club": "INACTIVE",
-            "sipexternal.coinimp.com": "INACTIVE"
-        },
-        "1576623494": {
-            "site.beta.z.cash": "INACTIVE",
-            "site.freecontent.com": "INACTIVE"
-        },
-        "1576624191": {
-            "site.miningexpress.com": "INACTIVE"
-        },
-        "1576624192": {
-            "site11117.ru": "INACTIVE",
-            "site2.beta.z.cash": "INACTIVE",
-            "siteverification.site": "INACTIVE",
-            "skc.coinmine.pl": "INACTIVE",
-            "skein.mining-dutch.nl": "INACTIVE"
-        },
-        "1576624193": {
-            "skr.mine-vn.com": "INACTIVE",
-            "skunk.br.nicehash.com": "INACTIVE",
-            "skunk.eu.nicehash.com": "INACTIVE",
-            "skunk.hk.nicehash.com": "INACTIVE",
-            "skunk.in.nicehash.com": "INACTIVE",
-            "skunk.jp.nicehash.com": "INACTIVE",
-            "skunk.usa.nicehash.com": "INACTIVE",
-            "sky.suprnova.cc": "INACTIVE"
-        },
-        "1576624194": {
-            "skynet.gonspool.com": "INACTIVE",
-            "slack.bittrex.com": "INACTIVE",
-            "slack.expanse.tech": "INACTIVE",
-            "slack.minertopia.org": "INACTIVE",
-            "slave1.asicpool.info": "INACTIVE",
-            "sld.4miner.me": "INACTIVE",
-            "sld.miner.rocks": "INACTIVE"
-        },
-        "1576624195": {
-            "slen.suprnova.cc": "INACTIVE",
-            "slfi.coin-miners.info": "INACTIVE",
-            "slfi.node.coin-miners.info": "INACTIVE",
-            "slg.coin-miners.info": "INACTIVE",
-            "slg.node.coin-miners.info": "INACTIVE",
-            "sling.coin-miners.info": "INACTIVE",
-            "sling.node.coin-miners.info": "INACTIVE",
-            "sling.suprnova.cc": "INACTIVE",
-            "slk.coin-miners.info": "INACTIVE",
-            "slk.node.coin-miners.info": "INACTIVE"
-        },
-        "1576624196": {
-            "slotcat.bid": "INACTIVE",
-            "slotmach.bid": "INACTIVE",
-            "slotmachina.bid": "INACTIVE",
-            "slowandsteady.fun": "INACTIVE",
-            "smart.suprnova.cc": "INACTIVE"
-        },
-        "1576624197": {
-            "smartoffer.si": "INACTIVE",
-            "smc.hash-to-coins.com": "INACTIVE",
-            "smc.p2pmine.com": "INACTIVE",
-            "smc.smartmining.net": "INACTIVE",
-            "smc.stratum.smartmining.net": "INACTIVE",
-            "smectapop12.pl": "INACTIVE",
-            "smith.pool.sexy": "INACTIVE"
-        },
         "1576624198": {
-            "smly.suprnova.cc": "INACTIVE",
-            "smn.mine-vn.com": "INACTIVE",
-            "sms-api.uax.io": "INACTIVE",
-            "smsr.suprnova.cc": "INACTIVE",
-            "smtp-gw.slushpool.com": "INACTIVE",
-            "smtp.bmgpool.com": "INACTIVE",
-            "smtp.bpool.com": "INACTIVE",
-            "smtp.cryptominingpool.eu": "INACTIVE"
-        },
-        "1576624199": {
-            "smtp.miningclub.cc": "INACTIVE",
-            "smtp.pool.sexy": "INACTIVE",
-            "smtp2.slushpool.com": "INACTIVE",
-            "sn.aikapool.com": "INACTIVE",
-            "snahome.com": "INACTIVE",
-            "sng.crypto-mining-pool.com": "INACTIVE"
-        },
-        "1576624200": {
-            "sng.ehashcoins.org": "INACTIVE",
-            "sng.lucky-mining.com.ua": "INACTIVE",
-            "sng.magnificentpool.com": "INACTIVE",
-            "sng.minepool.ch": "INACTIVE",
-            "sng.solopool.org": "INACTIVE",
-            "sng.wfmpools.com": "INACTIVE",
-            "sng.zhash.pro": "INACTIVE"
+            "smtp-gw.slushpool.com": "INACTIVE"
         },
         "1576624201": {
-            "snowgem.axepool.com": "INACTIVE",
-            "snowgem.basementpool.org": "INACTIVE",
-            "snowgem.luckypool.io": "INACTIVE",
-            "snowgem.minerspool.cc": "INACTIVE",
-            "snowgem.miningspeed.com": "INACTIVE",
             "snowgem.voidr.net": "INACTIVE",
             "sns.aikapool.com": "INACTIVE",
             "snus.moneroseeds.ae.org": "INACTIVE",
@@ -24812,6 +24656,163 @@
         "1577170827": {
             "sign.node.coin-miners.info": "INACTIVE",
             "signal.btgpool.pro": "INACTIVE"
+        },
+        "1577171596": {
+            "signalr.bitpoolmining.com": "INACTIVE",
+            "signup.btc.com": "INACTIVE",
+            "sigsegv.z.cash": "INACTIVE"
+        },
+        "1577171597": {
+            "sigt-api.suprnova.cc": "INACTIVE",
+            "sigt.bigmine.org": "INACTIVE",
+            "sigt.suprnova.cc": "INACTIVE",
+            "sigu.coin-miners.info": "INACTIVE",
+            "sigu.node.coin-miners.info": "INACTIVE",
+            "sigu.suprnova.cc": "INACTIVE",
+            "sikka.hashpool.eu": "INACTIVE",
+            "silk.suprnova.cc": "INACTIVE"
+        },
+        "1577171598": {
+            "simon.phoneum.io": "INACTIVE",
+            "simpledrk.com": "INACTIVE",
+            "simplepool.li": "INACTIVE",
+            "simplevert.com": "INACTIVE",
+            "sin.skypool.co": "INACTIVE",
+            "singapore.electroneum.hashvault.pro": "INACTIVE",
+            "singapore.electroneum.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1577171599": {
+            "singapore.hashing.space": "INACTIVE",
+            "singapore.minemonero.pro": "INACTIVE",
+            "singapore.monero.hashvault.pro": "INACTIVE",
+            "singapore.monero.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.aeon.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.dero.hashvault.pro": "INACTIVE",
+            "singapore01.dero.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.electroneum.hashvault.pro": "INACTIVE",
+            "singapore01.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.graft.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1577171600": {
+            "singapore01.haven.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.karbo.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.lethean.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.loki.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.masari.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.minemonero.pro": "INACTIVE",
+            "singapore01.monero.hashvault.pro": "INACTIVE",
+            "singapore01.monero.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.ryo.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.stellite.hashvault.pro": "INACTIVE"
+        },
+        "1577171601": {
+            "singapore01.stellite.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.sumo.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.sumokoin.hashvault.pro": "INACTIVE",
+            "singapore01.sumokoin.nodes.hashvault.pro": "INACTIVE",
+            "singapore01.turtle.nodes.hashvault.pro": "INACTIVE",
+            "singapore02.electroneum.hashvault.pro": "INACTIVE",
+            "singapore02.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "singapore02.minemonero.pro": "INACTIVE",
+            "sinovate.cf": "INACTIVE",
+            "sinus.1ds.us": "INACTIVE"
+        },
+        "1577171602": {
+            "sio.btcc.com": "INACTIVE",
+            "sio.btcchina.com": "INACTIVE",
+            "sip.cryptonote.club": "INACTIVE",
+            "sipexternal.coinimp.com": "INACTIVE",
+            "site.beta.z.cash": "INACTIVE",
+            "site.freecontent.com": "INACTIVE",
+            "site.miningexpress.com": "INACTIVE",
+            "site11117.ru": "INACTIVE"
+        },
+        "1577171603": {
+            "site2.beta.z.cash": "INACTIVE",
+            "siteverification.site": "INACTIVE",
+            "sitouzhubili.btcc.com": "INACTIVE",
+            "sj.btcc.com": "INACTIVE",
+            "skc.coinmine.pl": "INACTIVE",
+            "skr.mine-vn.com": "INACTIVE",
+            "skunk.br.nicehash.com": "INACTIVE"
+        },
+        "1577171604": {
+            "sku.btcc.com": "INACTIVE",
+            "skunk.eu.nicehash.com": "INACTIVE",
+            "skunk.hk.nicehash.com": "INACTIVE",
+            "skunk.in.nicehash.com": "INACTIVE",
+            "skunk.jp.nicehash.com": "INACTIVE",
+            "skunk.usa.nicehash.com": "INACTIVE",
+            "sky.suprnova.cc": "INACTIVE",
+            "skynet.gonspool.com": "INACTIVE"
+        },
+        "1577171605": {
+            "slack.bittrex.com": "INACTIVE",
+            "slack.expanse.tech": "INACTIVE",
+            "slack.minertopia.org": "INACTIVE",
+            "slave1.asicpool.info": "INACTIVE",
+            "sld.4miner.me": "INACTIVE",
+            "sld.miner.rocks": "INACTIVE",
+            "sle.btcc.com": "INACTIVE",
+            "slen.suprnova.cc": "INACTIVE",
+            "slfi.node.coin-miners.info": "INACTIVE"
+        },
+        "1577171606": {
+            "slfi.coin-miners.info": "INACTIVE",
+            "slg.coin-miners.info": "INACTIVE",
+            "slg.node.coin-miners.info": "INACTIVE",
+            "sling.coin-miners.info": "INACTIVE",
+            "sling.node.coin-miners.info": "INACTIVE",
+            "sling.suprnova.cc": "INACTIVE",
+            "slk.coin-miners.info": "INACTIVE",
+            "slk.node.coin-miners.info": "INACTIVE",
+            "slotcat.bid": "INACTIVE",
+            "slotmach.bid": "INACTIVE"
+        },
+        "1577171607": {
+            "slotmachina.bid": "INACTIVE",
+            "slowandsteady.fun": "INACTIVE",
+            "smart.suprnova.cc": "INACTIVE",
+            "smartoffer.si": "INACTIVE"
+        },
+        "1577171608": {
+            "smc.hash-to-coins.com": "INACTIVE",
+            "smc.p2pmine.com": "INACTIVE",
+            "smc.smartmining.net": "INACTIVE",
+            "smc.stratum.smartmining.net": "INACTIVE",
+            "smectapop12.pl": "INACTIVE",
+            "smith.pool.sexy": "INACTIVE",
+            "smly.suprnova.cc": "INACTIVE",
+            "smn.mine-vn.com": "INACTIVE",
+            "sms-api.uax.io": "INACTIVE"
+        },
+        "1577171609": {
+            "smsr.suprnova.cc": "INACTIVE",
+            "smtp.bmgpool.com": "INACTIVE",
+            "smtp.bpool.com": "INACTIVE",
+            "smtp.cryptominingpool.eu": "INACTIVE",
+            "smtp.miningclub.cc": "INACTIVE",
+            "smtp.pool.sexy": "INACTIVE",
+            "smtp2.slushpool.com": "INACTIVE"
+        },
+        "1577171610": {
+            "sn.aikapool.com": "INACTIVE",
+            "snahome.com": "INACTIVE",
+            "sng.crypto-mining-pool.com": "INACTIVE",
+            "sng.ehashcoins.org": "INACTIVE",
+            "sng.lucky-mining.com.ua": "INACTIVE",
+            "sng.magnificentpool.com": "INACTIVE",
+            "sng.minepool.ch": "INACTIVE",
+            "sng.solopool.org": "INACTIVE"
+        },
+        "1577171611": {
+            "sng.wfmpools.com": "INACTIVE",
+            "sng.zhash.pro": "INACTIVE",
+            "snowgem.axepool.com": "INACTIVE",
+            "snowgem.basementpool.org": "INACTIVE",
+            "snowgem.luckypool.io": "INACTIVE",
+            "snowgem.minerspool.cc": "INACTIVE",
+            "snowgem.miningspeed.com": "INACTIVE"
         }
     }
 }
