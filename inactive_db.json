@@ -8073,56 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576609292": {
-            "nmasari.labbinarymining.com": "INACTIVE",
-            "nmc.p2pool.org": "INACTIVE"
-        },
-        "1576609293": {
-            "nmd.cryptobrowser.site": "INACTIVE",
-            "nmesgmy.aikapool.com": "INACTIVE"
-        },
-        "1576612271": {
-            "nmine-euro.1ds.us": "INACTIVE"
-        },
-        "1576612272": {
-            "nmine.cryptopool.1ds.us": "INACTIVE",
-            "nmine.mpool.1ds.us": "INACTIVE",
-            "nmine.thetechnicalspool.com": "INACTIVE",
-            "nmine.xmr.life": "INACTIVE",
-            "nmoac.thetechnicalspool.com": "INACTIVE"
-        },
-        "1576612273": {
-            "nmobicontrol.aikapool.com": "INACTIVE",
-            "nmonero.labbinarymining.com": "INACTIVE",
-            "nmonero.monerise.com": "INACTIVE",
-            "nmoneroseeds.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1576612274": {
-            "nmpool.1ds.us": "INACTIVE",
-            "nmpos.coinminerz.com": "INACTIVE"
-        },
-        "1576612275": {
-            "nmta21.cryptobrowser.site": "INACTIVE",
-            "nmta6.cryptobrowser.site": "INACTIVE",
-            "nmx.coinminerz.com": "INACTIVE",
-            "nmx02.coinminerz.com": "INACTIVE"
-        },
-        "1576612276": {
-            "nmy-02.cryptobrowser.site": "INACTIVE",
-            "nmy02.cryptobrowser.site": "INACTIVE",
-            "nn.cryptobrowser.site": "INACTIVE",
-            "nna.monerise.com": "INACTIVE"
-        },
-        "1576612277": {
-            "nnational.cryptobrowser.site": "INACTIVE",
-            "nnc.hashpool.eu": "INACTIVE",
-            "nnc.multipool.com": "INACTIVE",
-            "nnc.mypool.name": "INACTIVE",
-            "nne.aikapool.com": "INACTIVE"
-        },
-        "1576612278": {
-            "nnewtoncoin.labbinarymining.com": "INACTIVE"
-        },
         "1576612279": {
             "nnl1.monerise.com": "INACTIVE"
         },
@@ -24860,6 +24810,54 @@
             "nm001.monerise.com": "INACTIVE",
             "nm1.monerise.com": "INACTIVE",
             "nmag.poolforcoin.com": "INACTIVE"
+        },
+        "1577157755": {
+            "nmasari.labbinarymining.com": "INACTIVE",
+            "nmc.p2pool.org": "INACTIVE"
+        },
+        "1577157756": {
+            "nmd.cryptobrowser.site": "INACTIVE",
+            "nmesgmy.aikapool.com": "INACTIVE",
+            "nmine-euro.1ds.us": "INACTIVE"
+        },
+        "1577157757": {
+            "nmine.cryptopool.1ds.us": "INACTIVE",
+            "nmine.mpool.1ds.us": "INACTIVE",
+            "nmine.thetechnicalspool.com": "INACTIVE",
+            "nmine.xmr.life": "INACTIVE",
+            "nmoac.thetechnicalspool.com": "INACTIVE",
+            "nmobicontrol.aikapool.com": "INACTIVE"
+        },
+        "1577157758": {
+            "nmonero.labbinarymining.com": "INACTIVE",
+            "nmonero.minecraftpool.com": "INACTIVE",
+            "nmonero.monerise.com": "INACTIVE",
+            "nmoneroseeds.moneroseeds.ae.org": "INACTIVE",
+            "nmpool.1ds.us": "INACTIVE"
+        },
+        "1577157759": {
+            "nmpos.coinminerz.com": "INACTIVE",
+            "nmta21.cryptobrowser.site": "INACTIVE",
+            "nmta6.cryptobrowser.site": "INACTIVE",
+            "nmue.poolforcoin.com": "INACTIVE"
+        },
+        "1577157760": {
+            "nmx.coinminerz.com": "INACTIVE",
+            "nmx02.coinminerz.com": "INACTIVE",
+            "nmy-02.cryptobrowser.site": "INACTIVE",
+            "nmy02.cryptobrowser.site": "INACTIVE",
+            "nn.cryptobrowser.site": "INACTIVE",
+            "nna.monerise.com": "INACTIVE"
+        },
+        "1577157761": {
+            "nnational.cryptobrowser.site": "INACTIVE",
+            "nnc.hashpool.eu": "INACTIVE",
+            "nnc.multipool.com": "INACTIVE",
+            "nnc.mypool.name": "INACTIVE",
+            "nne.aikapool.com": "INACTIVE"
+        },
+        "1577157762": {
+            "nnewtoncoin.labbinarymining.com": "INACTIVE"
         }
     }
 }
