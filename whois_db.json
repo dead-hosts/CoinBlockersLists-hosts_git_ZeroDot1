@@ -10345,8 +10345,8 @@
         "state": "future"
     },
     "penguinpool.net": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "peopleland.net": {
@@ -10420,8 +10420,8 @@
         "state": "future"
     },
     "pietpiraat.org": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "pigeoncoin.org": {
@@ -10442,7 +10442,7 @@
     "pirata.pw": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "pirataibay.in": {
         "epoch": 1560384000,
@@ -10457,7 +10457,7 @@
     "piratebay.tel": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "piratepool.io": {
         "epoch": 1600992000.0,
