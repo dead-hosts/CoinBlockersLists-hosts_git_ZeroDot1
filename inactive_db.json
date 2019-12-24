@@ -8073,45 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576606458": {
-            "nd.steadyhash.org": "INACTIVE",
-            "ndam.cryptobrowser.site": "INACTIVE",
-            "ndashboard.monerise.com": "INACTIVE",
-            "ndavies.magnificentpool.com": "INACTIVE",
-            "ndb.aikapool.com": "INACTIVE"
-        },
-        "1576606459": {
-            "ndero.monerise.com": "INACTIVE"
-        },
-        "1576606460": {
-            "ndev-equipool.1ds.us": "INACTIVE",
-            "ndk.aikapool.com": "INACTIVE"
-        },
-        "1576606461": {
-            "ndn.cryptobrowser.site": "INACTIVE",
-            "ndns2.cryptobrowser.site": "INACTIVE",
-            "ndnstatic.cryptobrowser.site": "INACTIVE",
-            "ndocs.aikapool.com": "INACTIVE"
-        },
-        "1576606462": {
-            "ndoge.suprnova.cc": "INACTIVE",
-            "ndomainkey.aikapool.com": "INACTIVE",
-            "ndq.aikapool.com": "INACTIVE"
-        },
-        "1576607355": {
-            "ndz.suprnova.cc": "INACTIVE",
-            "ne.aaryaglobalfire.moneroseeds.ae.org": "INACTIVE",
-            "ne.aikapool.com": "INACTIVE",
-            "nec.theblocksfactory.com": "INACTIVE",
-            "needgames.xyz": "INACTIVE"
-        },
         "1576607356": {
-            "nemesis.optimusblue.com": "INACTIVE",
-            "neo.pool.sexy": "INACTIVE",
-            "neocoin.youcrazy.me": "INACTIVE",
-            "neos.coin-miners.info": "INACTIVE",
-            "neos.node.coin-miners.info": "INACTIVE",
-            "neoscrypt.mining-dutch.nl": "INACTIVE",
             "nep.suprnova.cc": "INACTIVE"
         },
         "1576607357": {
@@ -24862,6 +24824,48 @@
             "ncrepcoin.labbinarymining.com": "INACTIVE",
             "ncrm.aikapool.com": "INACTIVE",
             "ncryptopool.1ds.us": "INACTIVE"
+        },
+        "1577153977": {
+            "nd.steadyhash.org": "INACTIVE",
+            "ndam.cryptobrowser.site": "INACTIVE"
+        },
+        "1577153978": {
+            "ndashboard.monerise.com": "INACTIVE",
+            "ndashp2p.poolforcoin.com": "INACTIVE",
+            "ndavies.magnificentpool.com": "INACTIVE",
+            "ndb.aikapool.com": "INACTIVE"
+        },
+        "1577153979": {
+            "ndero.monerise.com": "INACTIVE",
+            "ndev-equipool.1ds.us": "INACTIVE"
+        },
+        "1577153980": {
+            "ndgm.poolforcoin.com": "INACTIVE",
+            "ndk.aikapool.com": "INACTIVE",
+            "ndn.cryptobrowser.site": "INACTIVE",
+            "ndns2.cryptobrowser.site": "INACTIVE",
+            "ndnstatic.cryptobrowser.site": "INACTIVE"
+        },
+        "1577153981": {
+            "ndocs.aikapool.com": "INACTIVE",
+            "ndoge.suprnova.cc": "INACTIVE",
+            "ndomainkey.aikapool.com": "INACTIVE"
+        },
+        "1577153982": {
+            "ndq.aikapool.com": "INACTIVE",
+            "ndz.suprnova.cc": "INACTIVE",
+            "ne.aaryaglobalfire.moneroseeds.ae.org": "INACTIVE",
+            "ne.aikapool.com": "INACTIVE",
+            "nec.theblocksfactory.com": "INACTIVE",
+            "needgames.xyz": "INACTIVE",
+            "nemesis.optimusblue.com": "INACTIVE"
+        },
+        "1577153983": {
+            "neo.pool.sexy": "INACTIVE",
+            "neocoin.youcrazy.me": "INACTIVE",
+            "neos.coin-miners.info": "INACTIVE",
+            "neos.node.coin-miners.info": "INACTIVE",
+            "neoscrypt.mining-dutch.nl": "INACTIVE"
         }
     }
 }
