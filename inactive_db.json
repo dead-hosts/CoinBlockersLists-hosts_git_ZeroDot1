@@ -8073,104 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576636417": {
-            "www.bbs.ethfans.org": "INACTIVE",
-            "www.bbs.haobtc.com": "INACTIVE",
-            "www.bcc.coin-miners.info": "INACTIVE",
-            "www.bcc.node.coin-miners.info": "INACTIVE",
-            "www.bccprop.coin-miners.info": "INACTIVE"
-        },
-        "1576636418": {
-            "www.bccprop.node.coin-miners.info": "INACTIVE",
-            "www.bckke.99btc.net": "INACTIVE",
-            "www.bcn.cryptowide.io": "INACTIVE",
-            "www.bco.coin-miners.info": "INACTIVE",
-            "www.bco.node.coin-miners.info": "INACTIVE",
-            "www.bd.bitcoin.co.pt": "INACTIVE",
-            "www.bdembassy.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1576636419": {
-            "www.beagamer.club": "INACTIVE",
-            "www.beemobile.moneroseeds.ae.org": "INACTIVE",
-            "www.beetoken.com": "INACTIVE",
-            "www.benharryfinances.moneroseeds.ae.org": "INACTIVE",
-            "www.best-p2pool.eu": "INACTIVE",
-            "www.beta.coinbase.com": "INACTIVE",
-            "www.beta.dm.bitcoin.co.pt": "INACTIVE"
-        },
-        "1576636420": {
-            "www.beta.haobtc.com": "INACTIVE",
-            "www.beta.supportxmr.com": "INACTIVE",
-            "www.bfl.lightninghash.com": "INACTIVE",
-            "www.bh.bitcoin.co.pt": "INACTIVE",
-            "www.bigbitcoin.99btc.net": "INACTIVE",
-            "www.bigmine.org": "INACTIVE",
-            "www.bigoupai.live": "INACTIVE",
-            "www.bijo-style.cf": "INACTIVE",
-            "www.bijo.style": "INACTIVE"
-        },
-        "1576636421": {
-            "www.binance.directory": "INACTIVE",
-            "www.binm.ga": "INACTIVE",
-            "www.binm.tk": "INACTIVE",
-            "www.bitcoad.fun": "INACTIVE",
-            "www.bitcoin-doubler.us": "INACTIVE"
-        },
-        "1576636422": {
-            "www.bitcoin.bitaccess.co": "INACTIVE",
-            "www.bitcoin.bitcoin.inc.hk": "INACTIVE",
-            "www.bitcoin.co.pt": "INACTIVE",
-            "www.bitcoin.coin-miners.info": "INACTIVE",
-            "www.bitcoin.inc.hk": "INACTIVE",
-            "www.bitcoin.node.coin-miners.info": "INACTIVE",
-            "www.bitcoingenerator.club": "INACTIVE",
-            "www.bitcoinnote.smartcoinpool.com": "INACTIVE"
-        },
-        "1576636423": {
-            "www.bitcoinp2pool.zapto.org": "INACTIVE",
-            "www.bitcoinz.axepool.com": "INACTIVE",
-            "www.bitcoinzguiding.ovh": "INACTIVE",
-            "www.bitcore.io": "INACTIVE",
-            "www.bitcurrency.99btc.net": "INACTIVE",
-            "www.bitin.us": "INACTIVE",
-            "www.bitistamp.com": "INACTIVE"
-        },
-        "1576636424": {
-            "www.bitpoolmining.com": "INACTIVE",
-            "www.bitpoppool.geekgalaxy.com": "INACTIVE",
-            "www.bittip.coinbase.com": "INACTIVE",
-            "www.bjorksta.men": "INACTIVE",
-            "www.black-pool.net": "INACTIVE"
-        },
-        "1576636425": {
-            "www.blake256r14.br.nicehash.com": "INACTIVE",
-            "www.blake256r14.eu.nicehash.com": "INACTIVE",
-            "www.blake256r14.hk.nicehash.com": "INACTIVE",
-            "www.blake256r14.in.nicehash.com": "INACTIVE",
-            "www.blake256r14.jp.nicehash.com": "INACTIVE",
-            "www.blake256r14.usa.nicehash.com": "INACTIVE",
-            "www.blake256r8.br.nicehash.com": "INACTIVE",
-            "www.blake256r8.eu.nicehash.com": "INACTIVE",
-            "www.blake256r8.hk.nicehash.com": "INACTIVE",
-            "www.blake256r8.in.nicehash.com": "INACTIVE"
-        },
-        "1576636426": {
-            "www.blake256r8.jp.nicehash.com": "INACTIVE",
-            "www.blake256r8.usa.nicehash.com": "INACTIVE",
-            "www.blake256r8vnl.br.nicehash.com": "INACTIVE",
-            "www.blake256r8vnl.eu.nicehash.com": "INACTIVE",
-            "www.blake256r8vnl.hk.nicehash.com": "INACTIVE",
-            "www.blake256r8vnl.in.nicehash.com": "INACTIVE",
-            "www.blake256r8vnl.jp.nicehash.com": "INACTIVE",
-            "www.blake256r8vnl.usa.nicehash.com": "INACTIVE",
-            "www.blake2s.eu.nicehash.com": "INACTIVE",
-            "www.blake2s.hk.nicehash.com": "INACTIVE"
-        },
-        "1576637135": {
-            "www.blissbtc.99btc.net": "INACTIVE"
-        },
         "1576637136": {
-            "www.block-explorer.coin-miners.info": "INACTIVE",
             "www.blockchain.moneroseeds.ae.org": "INACTIVE",
             "www.blockchained.pa": "INACTIVE",
             "www.blockchained.party": "INACTIVE",
@@ -24692,6 +24595,103 @@
             "www.baikalmine.com": "INACTIVE",
             "www.bank.moneroseeds.ae.org": "INACTIVE",
             "www.bb.bitcoin.co.pt": "INACTIVE"
+        },
+        "1577185606": {
+            "www.bbs.ethfans.org": "INACTIVE",
+            "www.bbs.haobtc.com": "INACTIVE"
+        },
+        "1577185607": {
+            "www.bcc.coin-miners.info": "INACTIVE",
+            "www.bcc.node.coin-miners.info": "INACTIVE",
+            "www.bccprop.coin-miners.info": "INACTIVE",
+            "www.bccprop.node.coin-miners.info": "INACTIVE",
+            "www.bckke.99btc.net": "INACTIVE",
+            "www.bcn.cryptowide.io": "INACTIVE",
+            "www.bco.coin-miners.info": "INACTIVE",
+            "www.bco.node.coin-miners.info": "INACTIVE"
+        },
+        "1577185608": {
+            "www.bd.bitcoin.co.pt": "INACTIVE",
+            "www.bdembassy.moneroseeds.ae.org": "INACTIVE",
+            "www.beagamer.club": "INACTIVE",
+            "www.beemobile.moneroseeds.ae.org": "INACTIVE",
+            "www.beetoken.com": "INACTIVE",
+            "www.benharryfinances.moneroseeds.ae.org": "INACTIVE",
+            "www.berateveng.ru": "INACTIVE"
+        },
+        "1577185609": {
+            "www.best-p2pool.eu": "INACTIVE",
+            "www.beta.coinbase.com": "INACTIVE",
+            "www.beta.dm.bitcoin.co.pt": "INACTIVE",
+            "www.beta.haobtc.com": "INACTIVE",
+            "www.beta.supportxmr.com": "INACTIVE",
+            "www.bfl.lightninghash.com": "INACTIVE",
+            "www.bh.bitcoin.co.pt": "INACTIVE",
+            "www.bigbitcoin.99btc.net": "INACTIVE"
+        },
+        "1577185610": {
+            "www.bigmine.org": "INACTIVE",
+            "www.bigoupai.live": "INACTIVE",
+            "www.bijo-style.cf": "INACTIVE",
+            "www.bijo.style": "INACTIVE",
+            "www.binance.directory": "INACTIVE",
+            "www.binm.ga": "INACTIVE",
+            "www.binm.tk": "INACTIVE"
+        },
+        "1577185611": {
+            "www.bitcoad.fun": "INACTIVE",
+            "www.bitcoin-doubler.us": "INACTIVE",
+            "www.bitcoin.bitaccess.co": "INACTIVE",
+            "www.bitcoin.bitcoin.inc.hk": "INACTIVE",
+            "www.bitcoin.co.pt": "INACTIVE",
+            "www.bitcoin.coin-miners.info": "INACTIVE",
+            "www.bitcoin.inc.hk": "INACTIVE",
+            "www.bitcoin.node.coin-miners.info": "INACTIVE"
+        },
+        "1577185612": {
+            "www.bitcoinnote.smartcoinpool.com": "INACTIVE",
+            "www.bitcoinp2pool.zapto.org": "INACTIVE",
+            "www.bitcoinz.axepool.com": "INACTIVE",
+            "www.bitcoinzguiding.ovh": "INACTIVE",
+            "www.bitcore.io": "INACTIVE",
+            "www.bitcurrency.99btc.net": "INACTIVE"
+        },
+        "1577185613": {
+            "www.bitin.us": "INACTIVE",
+            "www.bitistamp.com": "INACTIVE",
+            "www.bitpoolmining.com": "INACTIVE",
+            "www.bitpoppool.geekgalaxy.com": "INACTIVE",
+            "www.bittip.coinbase.com": "INACTIVE"
+        },
+        "1577185614": {
+            "www.bjorksta.men": "INACTIVE",
+            "www.black-pool.net": "INACTIVE",
+            "www.blake256r14.br.nicehash.com": "INACTIVE",
+            "www.blake256r14.eu.nicehash.com": "INACTIVE",
+            "www.blake256r14.hk.nicehash.com": "INACTIVE",
+            "www.blake256r14.in.nicehash.com": "INACTIVE",
+            "www.blake256r14.jp.nicehash.com": "INACTIVE",
+            "www.blake256r14.usa.nicehash.com": "INACTIVE",
+            "www.blake256r8.br.nicehash.com": "INACTIVE",
+            "www.blake256r8.eu.nicehash.com": "INACTIVE"
+        },
+        "1577185615": {
+            "www.blake256r8.hk.nicehash.com": "INACTIVE",
+            "www.blake256r8.in.nicehash.com": "INACTIVE",
+            "www.blake256r8.jp.nicehash.com": "INACTIVE",
+            "www.blake256r8.usa.nicehash.com": "INACTIVE",
+            "www.blake256r8vnl.br.nicehash.com": "INACTIVE",
+            "www.blake256r8vnl.eu.nicehash.com": "INACTIVE",
+            "www.blake256r8vnl.hk.nicehash.com": "INACTIVE",
+            "www.blake256r8vnl.in.nicehash.com": "INACTIVE",
+            "www.blake256r8vnl.jp.nicehash.com": "INACTIVE",
+            "www.blake256r8vnl.usa.nicehash.com": "INACTIVE"
+        },
+        "1577185616": {
+            "www.blake2s.eu.nicehash.com": "INACTIVE",
+            "www.blake2s.hk.nicehash.com": "INACTIVE",
+            "www.blissbtc.99btc.net": "INACTIVE",
+            "www.block-explorer.coin-miners.info": "INACTIVE"
         }
     }
 }
