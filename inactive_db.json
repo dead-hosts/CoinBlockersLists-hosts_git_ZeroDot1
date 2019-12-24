@@ -8073,115 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576625614": {
-            "stratum-btcp.multipools.club": "INACTIVE",
-            "stratum-de.rplant.xyz": "INACTIVE"
-        },
-        "1576626320": {
-            "stratum-eu.node.coin-miners.info": "INACTIVE"
-        },
-        "1576626321": {
-            "stratum-eu01.coinmine.pl": "INACTIVE",
-            "stratum-eu02.coinmine.pl": "INACTIVE",
-            "stratum-eu03.coinmine.pl": "INACTIVE",
-            "stratum-eu04.coinmine.pl": "INACTIVE",
-            "stratum-eu05.coinmine.pl": "INACTIVE",
-            "stratum-eu06.coinmine.pl": "INACTIVE",
-            "stratum-eu07.coinmine.pl": "INACTIVE",
-            "stratum-eu09.coinmine.pl": "INACTIVE",
-            "stratum-eu16.coinmine.pl": "INACTIVE",
-            "stratum-eu17.coinmine.pl": "INACTIVE"
-        },
-        "1576626322": {
-            "stratum-eu2.node.coin-miners.info": "INACTIVE",
-            "stratum-eu3.coin-miners.info": "INACTIVE",
-            "stratum-eu3.node.coin-miners.info": "INACTIVE",
-            "stratum-hez.rplant.xyz": "INACTIVE",
-            "stratum-ip6.cryptomineros.com": "INACTIVE",
-            "stratum-low.coinmine.pl": "INACTIVE",
-            "stratum-pnj2.cryptomineros.com": "INACTIVE",
-            "stratum-polis.multipools.club": "INACTIVE",
-            "stratum-sg02.coinmine.pl": "INACTIVE"
-        },
-        "1576626323": {
-            "stratum-sg03.coinmine.pl": "INACTIVE",
-            "stratum-sg13.coinmine.pl": "INACTIVE",
-            "stratum-sg14.coinmine.pl": "INACTIVE",
-            "stratum-sg15.coinmine.pl": "INACTIVE",
-            "stratum-us-01.coinmine.pl": "INACTIVE",
-            "stratum-us.coin-miners.info": "INACTIVE",
-            "stratum-us.node.coin-miners.info": "INACTIVE",
-            "stratum-us08.coinmine.pl": "INACTIVE",
-            "stratum-us10.coinmine.pl": "INACTIVE"
-        },
-        "1576626324": {
-            "stratum-zex.ginasismining.com": "INACTIVE",
-            "stratum.acpool.me": "INACTIVE",
-            "stratum.altcoinix.com": "INACTIVE",
-            "stratum.backup-pool.com": "INACTIVE",
-            "stratum.bitcoin.inc.hk": "INACTIVE",
-            "stratum.btcchina.com": "INACTIVE"
-        },
-        "1576626325": {
-            "stratum.btcprivate.org": "INACTIVE",
-            "stratum.bw.com": "INACTIVE",
-            "stratum.chainworksindustries.com": "INACTIVE",
-            "stratum.coinspool.cu.cc": "INACTIVE",
-            "stratum.dmdpool.net": "INACTIVE",
-            "stratum.eu.zcash.nicehash.com": "INACTIVE",
-            "stratum.f2xtpool.com": "INACTIVE"
-        },
-        "1576626326": {
-            "stratum.gbminers.com": "INACTIVE",
-            "stratum.haopool.com": "INACTIVE",
-            "stratum.litepool.ru": "INACTIVE",
-            "stratum.luckypool.cn": "INACTIVE",
-            "stratum.minertopia.org": "INACTIVE",
-            "stratum.mintpond.com": "INACTIVE",
-            "stratum.multipool.com": "INACTIVE",
-            "stratum.mwgrinpool.com": "INACTIVE"
-        },
-        "1576626327": {
-            "stratum.netcodepool.org": "INACTIVE",
-            "stratum.nicehash.com": "INACTIVE",
-            "stratum.node.ckpool.org": "INACTIVE",
-            "stratum.node.coin-miners.info": "INACTIVE",
-            "stratum.node.viaxmr.com": "INACTIVE",
-            "stratum.nrg-bonus.minecrypto.pro": "INACTIVE",
-            "stratum.proximapool.com": "INACTIVE",
-            "stratum.solo.nicehash.com": "INACTIVE"
-        },
-        "1576626328": {
-            "stratum.solo.prohashing.com": "INACTIVE",
-            "stratum.sye.host": "INACTIVE",
-            "stratum.usa.zcash.nicehash.com": "INACTIVE",
-            "stratum.viaxmr.com": "INACTIVE",
-            "stratum.virtopia.ca": "INACTIVE",
-            "stratum.zcash.nicehash.com": "INACTIVE",
-            "stratum12.netcodepool.org": "INACTIVE",
-            "stratum122-66.btcc.com": "INACTIVE",
-            "stratum2.coin-miners.info": "INACTIVE"
-        },
-        "1576626329": {
-            "stratum2.node.coin-miners.info": "INACTIVE",
-            "stratum2.wemineltc.com": "INACTIVE",
-            "stratumbu-8-231.static.btcc.com": "INACTIVE",
-            "stratumbu-8.static.btcc.com": "INACTIVE",
-            "strb.suprnova.cc": "INACTIVE",
-            "strp.suprnova.cc": "INACTIVE"
-        },
-        "1576626330": {
-            "student.btc.com": "INACTIVE",
-            "student.cryptobrowser.site": "INACTIVE",
-            "stv.coin-miners.info": "INACTIVE",
-            "stv.node.coin-miners.info": "INACTIVE",
-            "stx.suprnova.cc": "INACTIVE",
-            "subloader.cf": "INACTIVE",
-            "subscriber.btcc.com": "INACTIVE",
-            "subscriptions.clona.ru": "INACTIVE"
-        },
         "1576626331": {
-            "sucr.multipools.club": "INACTIVE",
             "sum.coin-miners.info": "INACTIVE",
             "sum.gonspool.com": "INACTIVE",
             "sum.lightninghash.com": "INACTIVE",
@@ -24800,6 +24692,111 @@
             "strat.dnb.io": "INACTIVE",
             "stratis.suprnova.cc": "INACTIVE",
             "stratum-48505.btcc.com": "INACTIVE"
+        },
+        "1577174713": {
+            "stratum-btcp.multipools.club": "INACTIVE",
+            "stratum-de.rplant.xyz": "INACTIVE",
+            "stratum-eu.node.coin-miners.info": "INACTIVE",
+            "stratum-eu01.coinmine.pl": "INACTIVE",
+            "stratum-eu02.coinmine.pl": "INACTIVE"
+        },
+        "1577174714": {
+            "stratum-eu03.coinmine.pl": "INACTIVE",
+            "stratum-eu04.coinmine.pl": "INACTIVE",
+            "stratum-eu05.coinmine.pl": "INACTIVE",
+            "stratum-eu06.coinmine.pl": "INACTIVE",
+            "stratum-eu07.coinmine.pl": "INACTIVE",
+            "stratum-eu09.coinmine.pl": "INACTIVE",
+            "stratum-eu16.coinmine.pl": "INACTIVE",
+            "stratum-eu17.coinmine.pl": "INACTIVE",
+            "stratum-eu2.node.coin-miners.info": "INACTIVE",
+            "stratum-eu3.coin-miners.info": "INACTIVE"
+        },
+        "1577174715": {
+            "stratum-eu3.node.coin-miners.info": "INACTIVE",
+            "stratum-hez.rplant.xyz": "INACTIVE",
+            "stratum-ip6.cryptomineros.com": "INACTIVE",
+            "stratum-lcc.multipools.club": "INACTIVE",
+            "stratum-low.coinmine.pl": "INACTIVE",
+            "stratum-pnj2.cryptomineros.com": "INACTIVE",
+            "stratum-polis.multipools.club": "INACTIVE",
+            "stratum-sg02.coinmine.pl": "INACTIVE",
+            "stratum-sg03.coinmine.pl": "INACTIVE"
+        },
+        "1577174716": {
+            "stratum-sg13.coinmine.pl": "INACTIVE",
+            "stratum-sg14.coinmine.pl": "INACTIVE",
+            "stratum-sg15.coinmine.pl": "INACTIVE",
+            "stratum-us-01.coinmine.pl": "INACTIVE",
+            "stratum-us.coin-miners.info": "INACTIVE",
+            "stratum-us.node.coin-miners.info": "INACTIVE",
+            "stratum-us08.coinmine.pl": "INACTIVE",
+            "stratum-us10.coinmine.pl": "INACTIVE"
+        },
+        "1577174717": {
+            "stratum-zex.ginasismining.com": "INACTIVE",
+            "stratum.acpool.me": "INACTIVE",
+            "stratum.altcoinix.com": "INACTIVE",
+            "stratum.backup-pool.com": "INACTIVE",
+            "stratum.bitcoin.inc.hk": "INACTIVE",
+            "stratum.btcchina.com": "INACTIVE",
+            "stratum.btcprivate.org": "INACTIVE",
+            "stratum.chainworksindustries.com": "INACTIVE"
+        },
+        "1577174718": {
+            "stratum.bw.com": "INACTIVE",
+            "stratum.coinspool.cu.cc": "INACTIVE",
+            "stratum.dmdpool.net": "INACTIVE",
+            "stratum.eu.zcash.nicehash.com": "INACTIVE",
+            "stratum.f2xtpool.com": "INACTIVE",
+            "stratum.gbminers.com": "INACTIVE"
+        },
+        "1577174719": {
+            "stratum.haopool.com": "INACTIVE",
+            "stratum.litepool.ru": "INACTIVE",
+            "stratum.luckypool.cn": "INACTIVE",
+            "stratum.minertopia.org": "INACTIVE",
+            "stratum.mintpond.com": "INACTIVE",
+            "stratum.multipool.com": "INACTIVE",
+            "stratum.multipools.club": "INACTIVE",
+            "stratum.mwgrinpool.com": "INACTIVE"
+        },
+        "1577174720": {
+            "stratum.netcodepool.org": "INACTIVE",
+            "stratum.nicehash.com": "INACTIVE",
+            "stratum.node.ckpool.org": "INACTIVE",
+            "stratum.node.coin-miners.info": "INACTIVE",
+            "stratum.node.viaxmr.com": "INACTIVE",
+            "stratum.nrg-bonus.minecrypto.pro": "INACTIVE",
+            "stratum.proximapool.com": "INACTIVE",
+            "stratum.solo.nicehash.com": "INACTIVE"
+        },
+        "1577174721": {
+            "stratum.solo.prohashing.com": "INACTIVE",
+            "stratum.sye.host": "INACTIVE",
+            "stratum.usa.zcash.nicehash.com": "INACTIVE",
+            "stratum.viaxmr.com": "INACTIVE",
+            "stratum.virtopia.ca": "INACTIVE",
+            "stratum.zcash.nicehash.com": "INACTIVE",
+            "stratum12.netcodepool.org": "INACTIVE",
+            "stratum2.coin-miners.info": "INACTIVE"
+        },
+        "1577174722": {
+            "stratum2.node.coin-miners.info": "INACTIVE",
+            "stratum2.wemineltc.com": "INACTIVE",
+            "strb.suprnova.cc": "INACTIVE",
+            "strp.suprnova.cc": "INACTIVE",
+            "student.btc.com": "INACTIVE"
+        },
+        "1577174723": {
+            "student.cryptobrowser.site": "INACTIVE",
+            "stv.coin-miners.info": "INACTIVE",
+            "stv.node.coin-miners.info": "INACTIVE",
+            "stx.suprnova.cc": "INACTIVE",
+            "subloader.cf": "INACTIVE",
+            "subscriber.btcc.com": "INACTIVE",
+            "subscriptions.clona.ru": "INACTIVE",
+            "sucr.multipools.club": "INACTIVE"
         }
     }
 }
