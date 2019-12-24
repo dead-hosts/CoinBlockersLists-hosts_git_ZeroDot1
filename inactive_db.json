@@ -8073,124 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1576612281": {
-            "no10.cryptobrowser.site": "INACTIVE"
-        },
-        "1576613091": {
-            "norgzpool.net.au": "INACTIVE",
-            "norigin.aikapool.com": "INACTIVE",
-            "norris.1ds.us": "INACTIVE",
-            "nosuchpool.cl": "INACTIVE",
-            "notbitcoinxt.poolto.be": "INACTIVE"
-        },
-        "1576613092": {
-            "note.freeyy.me": "INACTIVE",
-            "note.uax.io": "INACTIVE",
-            "notifier.bitpoolmining.com": "INACTIVE",
-            "noutbound.aikapool.com": "INACTIVE",
-            "nova.mpool.su": "INACTIVE",
-            "nova2.mpool.su": "INACTIVE",
-            "novacoin.ecoining.com": "INACTIVE",
-            "novaminers.tk": "INACTIVE"
-        },
-        "1576613093": {
-            "nove.bitcoin.co.pt": "INACTIVE",
-            "novologo.em.bitcoin.co.pt": "INACTIVE",
-            "nowork.miningpoolhub.com": "INACTIVE",
-            "np.icemining.ca": "INACTIVE",
-            "nrb.coinmine.pl": "INACTIVE",
-            "nrg-bonus.minecrypto.pro": "INACTIVE",
-            "nrg-stas.minecrypto.pro": "INACTIVE"
-        },
-        "1576613094": {
-            "nrn.suprnova.cc": "INACTIVE",
-            "nrpbx.nrpbx.nocroom.com": "INACTIVE",
-            "ns-eu-02.coinmine.pl": "INACTIVE",
-            "ns-eu-03.coinmine.pl": "INACTIVE",
-            "ns-sg-01.coinmine.pl": "INACTIVE",
-            "ns-sg-02.coinmine.pl": "INACTIVE",
-            "ns-sg-03.coinmine.pl": "INACTIVE",
-            "ns-sg-04.coinmine.pl": "INACTIVE",
-            "ns-sg-05.coinmine.pl": "INACTIVE",
-            "ns-sg-06.coinmine.pl": "INACTIVE"
-        },
-        "1576613095": {
-            "ns-sg-07.coinmine.pl": "INACTIVE",
-            "ns-sg-09.coinmine.pl": "INACTIVE",
-            "ns-sg-10.coinmine.pl": "INACTIVE",
-            "ns-us-02.coinmine.pl": "INACTIVE",
-            "ns.anorak.tech": "INACTIVE",
-            "ns.bitnodes.io": "INACTIVE",
-            "ns.bpool.com": "INACTIVE",
-            "ns.btc.com": "INACTIVE",
-            "ns.eclipsemc.com": "INACTIVE",
-            "ns.faucet.works": "INACTIVE"
-        },
-        "1576613096": {
-            "ns.hws.ru": "INACTIVE",
-            "ns.mwgrinpool.com": "INACTIVE"
-        },
-        "1576613809": {
-            "ns0.freecontent.com": "INACTIVE"
-        },
-        "1576613810": {
-            "ns0.mwgrinpool.com": "INACTIVE",
-            "ns0.namecoin.info": "INACTIVE",
-            "ns1.at0m.pw": "INACTIVE",
-            "ns1.bitpoolmining.com": "INACTIVE",
-            "ns1.bluematt.me": "INACTIVE",
-            "ns1.coin-miners.info": "INACTIVE",
-            "ns1.cryptmonero.com": "INACTIVE"
-        },
-        "1576613811": {
-            "ns1.cryptobrowser.site": "INACTIVE",
-            "ns1.cryptopool.ru": "INACTIVE",
-            "ns1.fairmine.pro": "INACTIVE",
-            "ns1.freecontent.com": "INACTIVE",
-            "ns1.lucky-mining.com.ua": "INACTIVE",
-            "ns1.minertopia.org": "INACTIVE",
-            "ns1.moneropool.nl": "INACTIVE",
-            "ns1.mutuza.win": "INACTIVE"
-        },
-        "1576613812": {
-            "ns1.node.dc1.hashfor.cash": "INACTIVE",
-            "ns1.p2pmining.com": "INACTIVE",
-            "ns1.poolto.be": "INACTIVE",
-            "ns1.system-update.info": "INACTIVE",
-            "ns1.webmining.co": "INACTIVE",
-            "ns1.wemineltc.com": "INACTIVE",
-            "ns1.youcrazy.me": "INACTIVE",
-            "ns1.yvz.blockmasters.co": "INACTIVE",
-            "ns11.minemonero.pro": "INACTIVE"
-        },
-        "1576613813": {
-            "ns11.nodes.hashvault.pro": "INACTIVE",
-            "ns2.at0m.pw": "INACTIVE",
-            "ns2.bitpoolmining.com": "INACTIVE",
-            "ns2.cryptmonero.com": "INACTIVE",
-            "ns2.cryptobrowser.site": "INACTIVE",
-            "ns2.cryptopool.ru": "INACTIVE",
-            "ns2.fairmine.pro": "INACTIVE",
-            "ns2.freecontent.com": "INACTIVE"
-        },
-        "1576613814": {
-            "ns2.lucky-mining.com.ua": "INACTIVE",
-            "ns2.minertopia.org": "INACTIVE",
-            "ns2.moneropool.nl": "INACTIVE",
-            "ns2.mutuza.win": "INACTIVE",
-            "ns2.p2pmining.com": "INACTIVE",
-            "ns2.system-update.info": "INACTIVE",
-            "ns2.webmining.co": "INACTIVE",
-            "ns2.youcrazy.me": "INACTIVE"
-        },
         "1576613815": {
-            "ns2.yvz.blockmasters.co": "INACTIVE",
-            "ns21.minemonero.pro": "INACTIVE",
-            "ns21.nodes.hashvault.pro": "INACTIVE",
-            "ns3.gigsis.net": "INACTIVE",
-            "ns3.lucky-mining.com.ua": "INACTIVE",
-            "ns3.majanetwork.com": "INACTIVE",
-            "ns3.p2pmining.com": "INACTIVE",
             "ns3.ryopool.eu": "INACTIVE",
             "ns3.youcrazy.me": "INACTIVE",
             "ns31.minemonero.pro": "INACTIVE"
@@ -24858,6 +24741,129 @@
             "nopool.rig.tokyo": "INACTIVE",
             "norb.aikapool.com": "INACTIVE",
             "nordicp2pool.org": "INACTIVE"
+        },
+        "1577159807": {
+            "no10.cryptobrowser.site": "INACTIVE",
+            "norgzpool.net.au": "INACTIVE"
+        },
+        "1577159808": {
+            "norigin.aikapool.com": "INACTIVE",
+            "norris.1ds.us": "INACTIVE",
+            "nosuchpool.cl": "INACTIVE",
+            "notbitcoinxt.poolto.be": "INACTIVE",
+            "note.freeyy.me": "INACTIVE",
+            "note.uax.io": "INACTIVE",
+            "notifier.bitpoolmining.com": "INACTIVE"
+        },
+        "1577159809": {
+            "noutbound.aikapool.com": "INACTIVE",
+            "nova.mpool.su": "INACTIVE",
+            "nova2.mpool.su": "INACTIVE",
+            "novacoin.ecoining.com": "INACTIVE",
+            "novaminers.tk": "INACTIVE",
+            "nove.bitcoin.co.pt": "INACTIVE",
+            "novologo.em.bitcoin.co.pt": "INACTIVE",
+            "nowork.miningpoolhub.com": "INACTIVE"
+        },
+        "1577159810": {
+            "np.icemining.ca": "INACTIVE",
+            "npdaqy6x1j.me": "INACTIVE",
+            "nrb.coinmine.pl": "INACTIVE",
+            "nrg-bonus.minecrypto.pro": "INACTIVE",
+            "nrg-stas.minecrypto.pro": "INACTIVE",
+            "nrn.suprnova.cc": "INACTIVE",
+            "nrpbx.nrpbx.nocroom.com": "INACTIVE",
+            "ns-eu-01.coinmine.pl": "INACTIVE"
+        },
+        "1577159811": {
+            "ns-eu-02.coinmine.pl": "INACTIVE",
+            "ns-eu-03.coinmine.pl": "INACTIVE",
+            "ns-sg-01.coinmine.pl": "INACTIVE",
+            "ns-sg-02.coinmine.pl": "INACTIVE",
+            "ns-sg-03.coinmine.pl": "INACTIVE",
+            "ns-sg-04.coinmine.pl": "INACTIVE",
+            "ns-sg-05.coinmine.pl": "INACTIVE",
+            "ns-sg-06.coinmine.pl": "INACTIVE",
+            "ns-sg-07.coinmine.pl": "INACTIVE",
+            "ns-sg-08.coinmine.pl": "INACTIVE",
+            "ns-sg-09.coinmine.pl": "INACTIVE"
+        },
+        "1577159812": {
+            "ns-sg-10.coinmine.pl": "INACTIVE",
+            "ns-us-01.coinmine.pl": "INACTIVE",
+            "ns-us-02.coinmine.pl": "INACTIVE",
+            "ns.bitnodes.io": "INACTIVE",
+            "ns.bpool.com": "INACTIVE",
+            "ns.btc.com": "INACTIVE",
+            "ns.eclipsemc.com": "INACTIVE",
+            "ns.faucet.works": "INACTIVE",
+            "ns.hws.ru": "INACTIVE"
+        },
+        "1577159813": {
+            "ns.mwgrinpool.com": "INACTIVE",
+            "ns0.freecontent.com": "INACTIVE",
+            "ns0.mwgrinpool.com": "INACTIVE",
+            "ns0.namecoin.info": "INACTIVE",
+            "ns1.at0m.pw": "INACTIVE",
+            "ns1.bitpoolmining.com": "INACTIVE",
+            "ns1.bluematt.me": "INACTIVE"
+        },
+        "1577159814": {
+            "ns1.coin-miners.info": "INACTIVE",
+            "ns1.cryptmonero.com": "INACTIVE",
+            "ns1.cryptobrowser.site": "INACTIVE",
+            "ns1.cryptopool.ru": "INACTIVE",
+            "ns1.fairmine.pro": "INACTIVE",
+            "ns1.freecontent.com": "INACTIVE",
+            "ns1.lucky-mining.com.ua": "INACTIVE",
+            "ns1.minecraftpool.com": "INACTIVE"
+        },
+        "1577159815": {
+            "ns1.minertopia.org": "INACTIVE",
+            "ns1.moneropool.nl": "INACTIVE",
+            "ns1.mutuza.win": "INACTIVE",
+            "ns1.node.dc1.hashfor.cash": "INACTIVE",
+            "ns1.p2pmining.com": "INACTIVE",
+            "ns1.poolto.be": "INACTIVE",
+            "ns1.system-update.info": "INACTIVE",
+            "ns1.webmining.co": "INACTIVE",
+            "ns1.wemineltc.com": "INACTIVE"
+        },
+        "1577159816": {
+            "ns1.youcrazy.me": "INACTIVE",
+            "ns1.yvz.blockmasters.co": "INACTIVE",
+            "ns11.minemonero.pro": "INACTIVE",
+            "ns11.nodes.hashvault.pro": "INACTIVE",
+            "ns2.at0m.pw": "INACTIVE",
+            "ns2.bitpoolmining.com": "INACTIVE",
+            "ns2.cryptmonero.com": "INACTIVE",
+            "ns2.cryptobrowser.site": "INACTIVE",
+            "ns2.cryptopool.ru": "INACTIVE"
+        },
+        "1577159817": {
+            "ns2.fairmine.pro": "INACTIVE",
+            "ns2.freecontent.com": "INACTIVE",
+            "ns2.lucky-mining.com.ua": "INACTIVE",
+            "ns2.minecraftpool.com": "INACTIVE",
+            "ns2.minertopia.org": "INACTIVE",
+            "ns2.moneropool.nl": "INACTIVE",
+            "ns2.mutuza.win": "INACTIVE",
+            "ns2.p2pmining.com": "INACTIVE"
+        },
+        "1577159818": {
+            "ns2.system-update.info": "INACTIVE",
+            "ns2.webmining.co": "INACTIVE",
+            "ns2.youcrazy.me": "INACTIVE",
+            "ns2.yvz.blockmasters.co": "INACTIVE",
+            "ns21.minemonero.pro": "INACTIVE",
+            "ns21.nodes.hashvault.pro": "INACTIVE",
+            "ns3.gigsis.net": "INACTIVE",
+            "ns3.lucky-mining.com.ua": "INACTIVE",
+            "ns3.majanetwork.com": "INACTIVE"
+        },
+        "1577159819": {
+            "ns3.monerominers.net": "INACTIVE",
+            "ns3.p2pmining.com": "INACTIVE"
         }
     }
 }
