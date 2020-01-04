@@ -3475,8 +3475,8 @@
         "state": "future"
     },
     "candid.zone": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "canoepool.com": {
@@ -3502,6 +3502,11 @@
     "catalanscoin.cat": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "catecoinpool.host": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "catspool.org": {
@@ -3610,8 +3615,8 @@
         "state": "future"
     },
     "changelly.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "chekazpools.com": {
@@ -3635,9 +3640,9 @@
         "state": "future"
     },
     "chmproxy.bid": {
-        "epoch": "1549065600",
-        "expiration_date": "02-feb-2019",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "cieh.mx": {
         "epoch": 1600732800.0,
