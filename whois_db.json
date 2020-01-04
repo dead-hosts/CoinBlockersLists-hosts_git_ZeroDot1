@@ -2080,8 +2080,8 @@
         "state": "future"
     },
     "auxiliarymine.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "avabitcoin.com": {
@@ -2270,14 +2270,14 @@
         "state": "future"
     },
     "bayception.org": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "bayception.pw": {
         "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "baypirateproxy.org": {
         "epoch": 1592006400.0,
