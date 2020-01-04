@@ -3195,9 +3195,9 @@
         "state": "future"
     },
     "bpool.site": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
     },
     "bravo-mining.com": {
         "epoch": 1637366400.0,
@@ -3207,6 +3207,11 @@
     "breadapp.com": {
         "epoch": 1728086400.0,
         "expiration_date": "05-oct-2024",
+        "state": "future"
+    },
+    "brofist.online": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "brominer.com": {
