@@ -8073,208 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1577149431": {
-            "mta-sts.cryptopool.cash.cryptopool.cash": "INACTIVE",
-            "mta-sts.mail.cryptomininggame.com": "INACTIVE",
-            "mta-sts.mx1.aussie-pools.com": "INACTIVE"
-        },
-        "1577149432": {
-            "mta2.alpereum.ch": "INACTIVE",
-            "mta21.cryptobrowser.site": "INACTIVE",
-            "mta6.cryptobrowser.site": "INACTIVE",
-            "mth.semipool.com": "INACTIVE",
-            "mtip.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "mtip.llama.horse": "INACTIVE",
-            "mtp.br.nicehash.com": "INACTIVE",
-            "mtp.eu.nicehash.com": "INACTIVE",
-            "mtp.hk.nicehash.com": "INACTIVE",
-            "mtp.in.nicehash.com": "INACTIVE"
-        },
-        "1577149433": {
-            "mtp.jp.nicehash.com": "INACTIVE",
-            "mtp.usa.nicehash.com": "INACTIVE",
-            "mtp101.minertopia.org": "INACTIVE",
-            "mtr.suprnova.cc": "INACTIVE",
-            "mts.coin-miners.info": "INACTIVE",
-            "mts.node.coin-miners.info": "INACTIVE",
-            "mue-de.hashing.space": "INACTIVE",
-            "mue-nl.hashing.space": "INACTIVE",
-            "mue-sg.hashing.space": "INACTIVE",
-            "mue-tx.hashing.space": "INACTIVE"
-        },
-        "1577149434": {
-            "mue-wa.hashing.space": "INACTIVE",
-            "mue.coinstop.me": "INACTIVE",
-            "mue.minertopia.org": "INACTIVE",
-            "mue.miningfield.com": "INACTIVE",
-            "mue.poolforcoin.com": "INACTIVE",
-            "mue.suprnova.cc": "INACTIVE",
-            "multi.asicpool.org": "INACTIVE",
-            "multi.bitpool.ro": "INACTIVE",
-            "multi.cryptomine.pro": "INACTIVE",
-            "multi.lightninghash.com": "INACTIVE"
-        },
-        "1577149435": {
-            "multi.ghash.io": "INACTIVE",
-            "multi.majorminers.com": "INACTIVE",
-            "multi.minecrypto.pro": "INACTIVE",
-            "multi.suprnova.cc": "INACTIVE",
-            "multialgo.mining-dutch.nl": "INACTIVE",
-            "multicoin.lightninghash.com": "INACTIVE",
-            "multipool.blockfoundry.org": "INACTIVE",
-            "multipool.es": "INACTIVE"
-        },
-        "1577150754": {
-            "multipool.signal2noi.se": "INACTIVE",
-            "multipool.smartcoinpool.com": "INACTIVE",
-            "multipool.sonofatech.com": "INACTIVE",
-            "multipool.su": "INACTIVE",
-            "multipools.cl": "INACTIVE"
-        },
-        "1577150755": {
-            "muroplas.em.bitcoin.co.pt": "INACTIVE",
-            "music.baikalmine.com": "INACTIVE",
-            "music.chileminers.cl": "INACTIVE",
-            "music.ehashcoins.org": "INACTIVE",
-            "music.fairpool.xyz": "INACTIVE",
-            "music.labaleine.gg": "INACTIVE",
-            "music.litepool.ru": "INACTIVE",
-            "music.mine-vn.com": "INACTIVE",
-            "music.minertopia.org": "INACTIVE",
-            "music.p00l.org": "INACTIVE"
-        },
-        "1577150756": {
-            "music.solopool.org": "INACTIVE",
-            "music2.solopool.org": "INACTIVE",
-            "musicoin.crypto-mining-pool.com": "INACTIVE",
-            "musicoin.herominers.com": "INACTIVE",
-            "mutex.smartcoinpool.com": "INACTIVE",
-            "mutuza.win": "INACTIVE",
-            "mutx.bluerockpools.net": "INACTIVE",
-            "mutx.flyhash.cc": "INACTIVE"
-        },
-        "1577150757": {
-            "mwnodes.node.viaxmr.com": "INACTIVE",
-            "mwnodes.viaxmr.com": "INACTIVE",
-            "mx.altcoinpool.com": "INACTIVE",
-            "mx.bpool.com": "INACTIVE",
-            "mx.coingeek.com": "INACTIVE",
-            "mx.coinminerz.com": "INACTIVE",
-            "mx.cryptofriends.org": "INACTIVE",
-            "mx.cryptonator.com": "INACTIVE"
-        },
-        "1577150758": {
-            "mx.gntl.co.uk": "INACTIVE",
-            "mx.hostmaster.altcoinpool.com": "INACTIVE",
-            "mx.mx.mx.mx.mx.888.moneroseeds.ae.org": "INACTIVE",
-            "mx.teracycle.net": "INACTIVE",
-            "mx.uupool.com": "INACTIVE",
-            "mx.zpool.ca": "INACTIVE",
-            "mx02.coinminerz.com": "INACTIVE",
-            "mx1.coin-miners.info": "INACTIVE"
-        },
-        "1577150759": {
-            "mx1.epool.io": "INACTIVE",
-            "mx1.node.coin-miners.info": "INACTIVE",
-            "mx1.postal.lchi.mp.node.moneroworld.com": "INACTIVE",
-            "mx2.coin-miners.info": "INACTIVE",
-            "mx2.coinfirm.io": "INACTIVE",
-            "mx2.node.coin-miners.info": "INACTIVE",
-            "mx2.postal.lchi.mp.node.moneroworld.com": "INACTIVE",
-            "mx7.krunzy.com": "INACTIVE",
-            "mx7.mine-vn.com": "INACTIVE",
-            "mxt.coin-miners.info": "INACTIVE"
-        },
-        "1577150760": {
-            "mxt.node.coin-miners.info": "INACTIVE",
-            "my-02.cryptobrowser.site": "INACTIVE",
-            "my-builds.ru": "INACTIVE",
-            "my-retrospace.sbhmn-miner.com": "INACTIVE",
-            "my.emitech.moneroseeds.ae.org": "INACTIVE",
-            "my.moneroworld.com": "INACTIVE",
-            "my.node.moneroworld.com": "INACTIVE",
-            "my02.cryptobrowser.site": "INACTIVE"
-        },
-        "1577150761": {
-            "my.zenpool.org": "INACTIVE",
-            "myatherwallet.biz": "INACTIVE",
-            "mychefstable.clona.ru": "INACTIVE",
-            "mycloud.bitcoin.co.pt": "INACTIVE",
-            "mydevice.zenpool.org": "INACTIVE",
-            "myehterumsvallet.com": "INACTIVE",
-            "myeitherwallet.biz": "INACTIVE"
-        },
-        "1577150762": {
-            "myeterwalliet.com": "INACTIVE",
-            "myetherermwallet.com": "INACTIVE",
-            "myethereumbigwallet.com": "INACTIVE",
-            "myethereumnwallet.com": "INACTIVE",
-            "myethereumwallet.express": "INACTIVE",
-            "myetheriuwallet.com": "INACTIVE",
-            "myetherumswallet.com": "INACTIVE",
-            "myetherurnvalllet.com": "INACTIVE",
-            "myetherurnwalllet.com": "INACTIVE"
-        },
-        "1577150763": {
-            "myetherwallet.click": "INACTIVE",
-            "myethierwallet.biz": "INACTIVE",
-            "myethiterwallet.com": "INACTIVE",
-            "myethiterwallet.org": "INACTIVE",
-            "myethuerwallet.info": "INACTIVE",
-            "myethwalilet.com": "INACTIVE",
-            "myeytherwallet.biz": "INACTIVE",
-            "myeytherwallet.info": "INACTIVE"
-        },
-        "1577150764": {
-            "myfhology.sbhmn-miner.com": "INACTIVE",
-            "myfreecash.minexmr.stream": "INACTIVE",
-            "mykings.top.info": "INACTIVE",
-            "mylog.systemlog.host": "INACTIVE",
-            "mylovesister.gq": "INACTIVE",
-            "mymobile.clona.ru": "INACTIVE",
-            "mymonero.riefly.id": "INACTIVE",
-            "mynetfixes.com": "INACTIVE",
-            "myoffers.party": "INACTIVE"
-        },
-        "1577150765": {
-            "mypool.name": "INACTIVE",
-            "myr-sha.theblocksfactory.com": "INACTIVE",
-            "myr.suprnova.cc": "INACTIVE",
-            "myr.theblocksfactory.com": "INACTIVE",
-            "myrgro.mining-dutch.nl": "INACTIVE",
-            "myrgrs.suprnova.cc": "INACTIVE",
-            "myrigs.eclipsemc.com": "INACTIVE"
-        },
-        "1577150766": {
-            "myrigs2.eclipsemc.com": "INACTIVE",
-            "myrq.suprnova.cc": "INACTIVE",
-            "myrsha256.miningfield.com": "INACTIVE",
-            "myrskein.suprnova.cc": "INACTIVE",
-            "mysite.irkdsu.ru": "INACTIVE",
-            "mysql.minecrypto.pro": "INACTIVE",
-            "myst.coin-miners.info": "INACTIVE",
-            "myst.node.coin-miners.info": "INACTIVE",
-            "myst.suprnova.cc": "INACTIVE",
-            "mysw.suprnova.cc": "INACTIVE"
-        },
-        "1577150767": {
-            "mytestminer.xyz": "INACTIVE",
-            "myvps1.lightninghash.com": "INACTIVE",
-            "myztic.herominers.com": "INACTIVE",
-            "myztic.llama.horse": "INACTIVE",
-            "mzb.hashpool.eu": "INACTIVE",
-            "mzc.coinstop.me": "INACTIVE",
-            "mzc.suprnova.cc": "INACTIVE",
-            "mzt.llama.horse": "INACTIVE"
-        },
         "1577150768": {
-            "n.bitcoin.co.pt": "INACTIVE",
-            "n.krunzy.com": "INACTIVE",
-            "n.miningexpress.com": "INACTIVE",
-            "n.moneroseeds.ae.org": "INACTIVE",
-            "n.node.ckpool.org": "INACTIVE",
-            "n.optimusblue.com": "INACTIVE",
-            "n.proxpool.com": "INACTIVE",
             "n.suprnova.cc": "INACTIVE",
             "n01.pool.einfach-iota.de": "INACTIVE",
             "n01.pool.node.einfach-iota.de": "INACTIVE"
@@ -24648,6 +24447,212 @@
         },
         "1578162719": {
             "mstdn.pecadol.xyz": "INACTIVE"
+        },
+        "1578163402": {
+            "mta-sts.cryptopool.cash.cryptopool.cash": "INACTIVE",
+            "mta-sts.mail.cryptomininggame.com": "INACTIVE",
+            "mta-sts.mx1.aussie-pools.com": "INACTIVE",
+            "mta2.alpereum.ch": "INACTIVE",
+            "mta21.cryptobrowser.site": "INACTIVE",
+            "mta6.cryptobrowser.site": "INACTIVE",
+            "mth.semipool.com": "INACTIVE"
+        },
+        "1578163403": {
+            "mtip.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "mtip.llama.horse": "INACTIVE",
+            "mtp.br.nicehash.com": "INACTIVE",
+            "mtp.eu.nicehash.com": "INACTIVE",
+            "mtp.hk.nicehash.com": "INACTIVE",
+            "mtp.in.nicehash.com": "INACTIVE",
+            "mtp.jp.nicehash.com": "INACTIVE",
+            "mtp.usa.nicehash.com": "INACTIVE",
+            "mtp101.minertopia.org": "INACTIVE",
+            "mtr.suprnova.cc": "INACTIVE",
+            "mts.coin-miners.info": "INACTIVE"
+        },
+        "1578163404": {
+            "mts.node.coin-miners.info": "INACTIVE",
+            "mue-de.hashing.space": "INACTIVE",
+            "mue-nl.hashing.space": "INACTIVE",
+            "mue-sg.hashing.space": "INACTIVE",
+            "mue-tx.hashing.space": "INACTIVE",
+            "mue-wa.hashing.space": "INACTIVE",
+            "mue.coinstop.me": "INACTIVE",
+            "mue.minertopia.org": "INACTIVE",
+            "mue.miningfield.com": "INACTIVE",
+            "mue.poolforcoin.com": "INACTIVE"
+        },
+        "1578163405": {
+            "mue.suprnova.cc": "INACTIVE",
+            "multi.asicpool.org": "INACTIVE",
+            "multi.bitpool.ro": "INACTIVE",
+            "multi.cryptomine.pro": "INACTIVE",
+            "multi.ghash.io": "INACTIVE",
+            "multi.lightninghash.com": "INACTIVE",
+            "multi.majorminers.com": "INACTIVE",
+            "multi.minecrypto.pro": "INACTIVE",
+            "multi.suprnova.cc": "INACTIVE",
+            "multialgo.mining-dutch.nl": "INACTIVE",
+            "multicoin.lightninghash.com": "INACTIVE"
+        },
+        "1578163406": {
+            "multipool.blockfoundry.org": "INACTIVE",
+            "multipool.es": "INACTIVE",
+            "multipool.signal2noi.se": "INACTIVE",
+            "multipool.smartcoinpool.com": "INACTIVE",
+            "multipool.sonofatech.com": "INACTIVE",
+            "multipool.su": "INACTIVE",
+            "multipools.cl": "INACTIVE"
+        },
+        "1578163407": {
+            "muroplas.em.bitcoin.co.pt": "INACTIVE",
+            "music.2zo.pw": "INACTIVE",
+            "music.baikalmine.com": "INACTIVE",
+            "music.chileminers.cl": "INACTIVE",
+            "music.ehashcoins.org": "INACTIVE",
+            "music.fairpool.xyz": "INACTIVE",
+            "music.labaleine.gg": "INACTIVE",
+            "music.litepool.ru": "INACTIVE",
+            "music.mine-vn.com": "INACTIVE",
+            "music.minertopia.org": "INACTIVE"
+        },
+        "1578163408": {
+            "music.p00l.org": "INACTIVE",
+            "music.solopool.org": "INACTIVE",
+            "music2.solopool.org": "INACTIVE",
+            "musicoin.crypto-mining-pool.com": "INACTIVE",
+            "musicoin.herominers.com": "INACTIVE",
+            "mutex.smartcoinpool.com": "INACTIVE",
+            "mutuza.win": "INACTIVE",
+            "mutx.bluerockpools.net": "INACTIVE",
+            "mutx.flyhash.cc": "INACTIVE"
+        },
+        "1578163409": {
+            "mwnodes.node.viaxmr.com": "INACTIVE",
+            "mwnodes.viaxmr.com": "INACTIVE",
+            "mx.altcoinpool.com": "INACTIVE",
+            "mx.bpool.com": "INACTIVE",
+            "mx.coingeek.com": "INACTIVE",
+            "mx.coinminerz.com": "INACTIVE",
+            "mx.cryptonator.com": "INACTIVE",
+            "mx.gntl.co.uk": "INACTIVE"
+        },
+        "1578163410": {
+            "mx.hostmaster.altcoinpool.com": "INACTIVE",
+            "mx.minecraftpool.com": "INACTIVE",
+            "mx.mx.mx.mx.mx.888.moneroseeds.ae.org": "INACTIVE",
+            "mx.teracycle.net": "INACTIVE",
+            "mx.uupool.com": "INACTIVE",
+            "mx.zpool.ca": "INACTIVE",
+            "mx02.coinminerz.com": "INACTIVE",
+            "mx1.coin-miners.info": "INACTIVE",
+            "mx1.epool.io": "INACTIVE"
+        },
+        "1578163411": {
+            "mx1.node.coin-miners.info": "INACTIVE",
+            "mx1.postal.lchi.mp.node.moneroworld.com": "INACTIVE",
+            "mx2.coin-miners.info": "INACTIVE",
+            "mx2.coinfirm.io": "INACTIVE",
+            "mx2.node.coin-miners.info": "INACTIVE",
+            "mx2.postal.lchi.mp.node.moneroworld.com": "INACTIVE",
+            "mx7.krunzy.com": "INACTIVE",
+            "mx7.mine-vn.com": "INACTIVE",
+            "mxt.coin-miners.info": "INACTIVE",
+            "mxt.node.coin-miners.info": "INACTIVE",
+            "my-02.cryptobrowser.site": "INACTIVE"
+        },
+        "1578163412": {
+            "my-builds.ru": "INACTIVE",
+            "my-retrospace.sbhmn-miner.com": "INACTIVE",
+            "my.emitech.moneroseeds.ae.org": "INACTIVE",
+            "my.moneroworld.com": "INACTIVE",
+            "my.node.moneroworld.com": "INACTIVE",
+            "my.zenpool.org": "INACTIVE",
+            "my02.cryptobrowser.site": "INACTIVE",
+            "myatherwallet.biz": "INACTIVE"
+        },
+        "1578163413": {
+            "mychefstable.clona.ru": "INACTIVE",
+            "mycloud.bitcoin.co.pt": "INACTIVE",
+            "mydevice.zenpool.org": "INACTIVE",
+            "myeherwalliet.com": "INACTIVE",
+            "myehterumsvallet.com": "INACTIVE",
+            "myeitherwallet.biz": "INACTIVE",
+            "myeterwalliet.com": "INACTIVE",
+            "myethereumbigwallet.com": "INACTIVE"
+        },
+        "1578163414": {
+            "myetherermwallet.com": "INACTIVE",
+            "myethereumnwallet.com": "INACTIVE",
+            "myethereumwallet.express": "INACTIVE",
+            "myetheriuwallet.com": "INACTIVE",
+            "myetherumswallet.com": "INACTIVE",
+            "myetherurnvalllet.com": "INACTIVE",
+            "myetherurnwalllet.com": "INACTIVE",
+            "myetherwallet.click": "INACTIVE",
+            "myethierwaillet.com": "INACTIVE"
+        },
+        "1578163415": {
+            "myethierwallet.biz": "INACTIVE",
+            "myethiterwallet.com": "INACTIVE",
+            "myethiterwallet.org": "INACTIVE",
+            "myethuerwallet.info": "INACTIVE",
+            "myethwalilet.com": "INACTIVE",
+            "myeytherwallet.biz": "INACTIVE",
+            "myeytherwallet.info": "INACTIVE",
+            "myfhology.sbhmn-miner.com": "INACTIVE",
+            "myfreecash.minexmr.stream": "INACTIVE",
+            "mykings.top.info": "INACTIVE"
+        },
+        "1578163416": {
+            "mylog.systemlog.host": "INACTIVE",
+            "mylovesister.gq": "INACTIVE",
+            "mymobile.clona.ru": "INACTIVE",
+            "mymonero.riefly.id": "INACTIVE",
+            "mynetfixes.com": "INACTIVE",
+            "myoffers.party": "INACTIVE",
+            "mypool.name": "INACTIVE",
+            "myr-sha.theblocksfactory.com": "INACTIVE"
+        },
+        "1578163417": {
+            "myr.suprnova.cc": "INACTIVE",
+            "myr.theblocksfactory.com": "INACTIVE",
+            "myrgro.mining-dutch.nl": "INACTIVE",
+            "myrgrs.suprnova.cc": "INACTIVE",
+            "myrigs.eclipsemc.com": "INACTIVE",
+            "myrigs2.eclipsemc.com": "INACTIVE",
+            "myrq.suprnova.cc": "INACTIVE",
+            "myrsha256.miningfield.com": "INACTIVE",
+            "myrskein.suprnova.cc": "INACTIVE",
+            "mysite.irkdsu.ru": "INACTIVE"
+        },
+        "1578163418": {
+            "mysql.minecrypto.pro": "INACTIVE",
+            "myst.coin-miners.info": "INACTIVE",
+            "myst.node.coin-miners.info": "INACTIVE",
+            "myst.suprnova.cc": "INACTIVE",
+            "mysw.suprnova.cc": "INACTIVE",
+            "mytestminer.xyz": "INACTIVE",
+            "mytlnerwalilet.info": "INACTIVE",
+            "myvps1.lightninghash.com": "INACTIVE",
+            "myztic.herominers.com": "INACTIVE",
+            "myztic.llama.horse": "INACTIVE"
+        },
+        "1578163419": {
+            "mzb.hashpool.eu": "INACTIVE",
+            "mzc.coinstop.me": "INACTIVE",
+            "mzc.suprnova.cc": "INACTIVE",
+            "mzt.llama.horse": "INACTIVE",
+            "n-6.btcc.com": "INACTIVE",
+            "n.bitcoin.co.pt": "INACTIVE",
+            "n.krunzy.com": "INACTIVE",
+            "n.miningexpress.com": "INACTIVE",
+            "n.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1578163420": {
+            "n.node.ckpool.org": "INACTIVE",
+            "n.optimusblue.com": "INACTIVE",
+            "n.proxpool.com": "INACTIVE"
         }
     }
 }
