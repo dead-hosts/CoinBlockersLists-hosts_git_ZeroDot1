@@ -8073,147 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1577165632": {
-            "pool.minero.ru": "INACTIVE",
-            "pool.minersisland.com": "INACTIVE",
-            "pool.minertopia.org": "INACTIVE",
-            "pool.minexmr.cn": "INACTIVE",
-            "pool.mining.sg": "INACTIVE",
-            "pool.miningspeed.com": "INACTIVE",
-            "pool.mkt.easyhash.pro": "INACTIVE"
-        },
-        "1577165633": {
-            "pool.monero.hashvault.pro": "INACTIVE",
-            "pool.monero.nodes.hashvault.pro": "INACTIVE",
-            "pool.monero.org": "INACTIVE",
-            "pool.moneropool.com": "INACTIVE",
-            "pool.moneropool.nl": "INACTIVE",
-            "pool.moriaxmr.com": "INACTIVE",
-            "pool.nbr.easyhash.pro": "INACTIVE",
-            "pool.nero.easyhash.pro": "INACTIVE",
-            "pool.nimiqchain.info": "INACTIVE"
-        },
-        "1577165634": {
-            "pool.nocroom.com": "INACTIVE",
-            "pool.node.bohemianpool.com": "INACTIVE",
-            "pool.node.ckpool.org": "INACTIVE",
-            "pool.node.coin-miners.info": "INACTIVE",
-            "pool.node.einfach-iota.de": "INACTIVE",
-            "pool.node.expanse.tech": "INACTIVE",
-            "pool.node.gridcoin.us": "INACTIVE",
-            "pool.node.minexmr.com": "INACTIVE",
-            "pool.node.nimiq.watch": "INACTIVE",
-            "pool.node.philpool.com": "INACTIVE"
-        },
-        "1577165635": {
-            "pool.node.pocketwhale.info": "INACTIVE",
-            "pool.node.supportxmr.com": "INACTIVE",
-            "pool.nodes.hashvault.pro": "INACTIVE",
-            "pool.norgzpool.net.au": "INACTIVE",
-            "pool.nosekefik.com": "INACTIVE",
-            "pool.p2pmining.com": "INACTIVE",
-            "pool.pcmining.xyz": "INACTIVE",
-            "pool.persianmine.com": "INACTIVE",
-            "pool.phi-phi-pool.net": "INACTIVE"
-        },
-        "1577165636": {
-            "pool.pool.cdy.one": "INACTIVE",
-            "pool.pool.gntl.co.uk": "INACTIVE",
-            "pool.pool.golix.com": "INACTIVE",
-            "pool.porkypool.com": "INACTIVE",
-            "pool.ppxxmr.com": "INACTIVE",
-            "pool.qp.si": "INACTIVE",
-            "pool.qrl.cryptopool.space": "INACTIVE",
-            "pool.quantumminingpool.com": "INACTIVE",
-            "pool.rig.to": "INACTIVE"
-        },
-        "1577165637": {
-            "pool.rmc.one": "INACTIVE",
-            "pool.ryo-currency.ru": "INACTIVE",
-            "pool.ryo.nodes.hashvault.pro": "INACTIVE",
-            "pool.saronite.hashvault.pro": "INACTIVE",
-            "pool.saronite.nodes.hashvault.pro": "INACTIVE",
-            "pool.sfo.coinbucks.io": "INACTIVE",
-            "pool.simpleco.in": "INACTIVE",
-            "pool.spiderpool.com": "INACTIVE"
-        },
-        "1577165638": {
-            "pool.stellite.hashvault.pro": "INACTIVE",
-            "pool.stellite.nodes.hashvault.pro": "INACTIVE",
-            "pool.stx.nl": "INACTIVE",
-            "pool.sumo.nodes.hashvault.pro": "INACTIVE",
-            "pool.sumokoin-pool.com": "INACTIVE",
-            "pool.sumokoin.hashvault.pro": "INACTIVE",
-            "pool.sumokoin.nodes.hashvault.pro": "INACTIVE",
-            "pool.terahashers.com": "INACTIVE"
-        },
-        "1577165639": {
-            "pool.t00ls.ru": "INACTIVE",
-            "pool.thulani.za.net": "INACTIVE",
-            "pool.torque.hashvault.pro": "INACTIVE",
-            "pool.torque.nodes.hashvault.pro": "INACTIVE",
-            "pool.triton.nodes.hashvault.pro": "INACTIVE",
-            "pool.turtle.nodes.hashvault.pro": "INACTIVE",
-            "pool.turtlecoin.fr": "INACTIVE",
-            "pool.uax.io": "INACTIVE"
-        },
-        "1577165640": {
-            "pool.usxmrpool.com": "INACTIVE",
-            "pool.virtopia.ca": "INACTIVE",
-            "pool.web.m00n.top": "INACTIVE",
-            "pool.wemine.uk": "INACTIVE",
-            "pool.xcash.hashvault.pro": "INACTIVE",
-            "pool.xcash.nodes.hashvault.pro": "INACTIVE",
-            "pool.xdn.easyhash.pro": "INACTIVE"
-        },
-        "1577165641": {
-            "pool.xmrminingpool.net": "INACTIVE",
-            "pool.xmrpool.de": "INACTIVE",
-            "pool.xmrpool.eu": "INACTIVE",
-            "pool.xtl.fairhash.org": "INACTIVE",
-            "pool.xun.easyhash.pro": "INACTIVE",
-            "pool01.pirl.cryptoactivo.com": "INACTIVE",
-            "pool01.sumokoin-pool.com": "INACTIVE"
-        },
-        "1577165642": {
-            "pool0113.btcc.com": "INACTIVE",
-            "pool1.crypto-pool.fr": "INACTIVE",
-            "pool1.eu.multipool.us": "INACTIVE",
-            "pool1.minergate.com": "INACTIVE",
-            "pool1.phi-phi-pool.net": "INACTIVE",
-            "pool1.us.multipool.com": "INACTIVE",
-            "pool114-2-1.btcc.com": "INACTIVE"
-        },
-        "1577165643": {
-            "pool2-0-8.btcc.com": "INACTIVE",
-            "pool2.arqma.com": "INACTIVE",
-            "pool2.biblepay.org": "INACTIVE",
-            "pool2.coinimp.com": "INACTIVE",
-            "pool2.cpuchain.org": "INACTIVE",
-            "pool2.democats.org": "INACTIVE",
-            "pool2.elphyrecoin.xyz": "INACTIVE",
-            "pool2.etn.easyhash.pro": "INACTIVE",
-            "pool2.minergate.com": "INACTIVE"
-        },
-        "1577165644": {
-            "pool2.node.crypto-pool.fr": "INACTIVE",
-            "pool2.us.multipool.us": "INACTIVE",
-            "pool2.youcrazy.me": "INACTIVE",
-            "pool2.zelerius.org": "INACTIVE",
-            "pool24-72.btcc.com": "INACTIVE",
-            "pool3-9-98-6.btcc.com": "INACTIVE",
-            "pool3.democats.org": "INACTIVE",
-            "pool318-8.btcc.com": "INACTIVE"
-        },
-        "1577166594": {
-            "pool332-7.btcc.com": "INACTIVE",
-            "pool4-92.btcc.com": "INACTIVE"
-        },
         "1577166595": {
-            "pool516-5.btcc.com": "INACTIVE",
-            "pool57-3.btcc.com": "INACTIVE",
-            "pool64-625.btcc.com": "INACTIVE",
-            "pool73819.btcc.com": "INACTIVE",
             "pool84-8-8.btcc.com": "INACTIVE"
         },
         "1577166596": {
@@ -24629,6 +24489,157 @@
             "pool.minemonero.pro": "INACTIVE",
             "pool.miner-coin.eu": "INACTIVE",
             "pool.minergate.com": "INACTIVE"
+        },
+        "1578174568": {
+            "pool.minero.ru": "INACTIVE",
+            "pool.minersisland.com": "INACTIVE",
+            "pool.minertopia.org": "INACTIVE"
+        },
+        "1578174569": {
+            "pool.minerxmr.com": "INACTIVE",
+            "pool.minexmr.cn": "INACTIVE",
+            "pool.mining.sg": "INACTIVE",
+            "pool.miningspeed.com": "INACTIVE",
+            "pool.mkt.easyhash.pro": "INACTIVE",
+            "pool.monero.hashvault.pro": "INACTIVE",
+            "pool.monero.nodes.hashvault.pro": "INACTIVE",
+            "pool.monero.org": "INACTIVE",
+            "pool.moneropool.com": "INACTIVE",
+            "pool.moneropool.nl": "INACTIVE"
+        },
+        "1578174570": {
+            "pool.moriaxmr.com": "INACTIVE",
+            "pool.nbr.easyhash.pro": "INACTIVE",
+            "pool.nero.easyhash.pro": "INACTIVE",
+            "pool.nimiqchain.info": "INACTIVE",
+            "pool.nocroom.com": "INACTIVE",
+            "pool.node.bohemianpool.com": "INACTIVE",
+            "pool.node.ckpool.org": "INACTIVE",
+            "pool.node.coin-miners.info": "INACTIVE",
+            "pool.node.expanse.tech": "INACTIVE"
+        },
+        "1578174571": {
+            "pool.node.einfach-iota.de": "INACTIVE",
+            "pool.node.gridcoin.us": "INACTIVE",
+            "pool.node.minexmr.com": "INACTIVE",
+            "pool.node.nimiq.watch": "INACTIVE",
+            "pool.node.philpool.com": "INACTIVE",
+            "pool.node.pocketwhale.info": "INACTIVE",
+            "pool.node.supportxmr.com": "INACTIVE",
+            "pool.nodes.hashvault.pro": "INACTIVE",
+            "pool.norgzpool.net.au": "INACTIVE",
+            "pool.nosekefik.com": "INACTIVE",
+            "pool.our-rapture.com": "INACTIVE"
+        },
+        "1578174572": {
+            "pool.p2pmining.com": "INACTIVE",
+            "pool.pcmining.xyz": "INACTIVE",
+            "pool.persianmine.com": "INACTIVE",
+            "pool.phi-phi-pool.net": "INACTIVE",
+            "pool.pool.cdy.one": "INACTIVE",
+            "pool.pool.gntl.co.uk": "INACTIVE",
+            "pool.pool.golix.com": "INACTIVE",
+            "pool.porkypool.com": "INACTIVE"
+        },
+        "1578174573": {
+            "pool.ppxxmr.com": "INACTIVE",
+            "pool.qp.si": "INACTIVE",
+            "pool.qrl.cryptopool.space": "INACTIVE",
+            "pool.quantumminingpool.com": "INACTIVE",
+            "pool.rig.to": "INACTIVE",
+            "pool.rmc.one": "INACTIVE",
+            "pool.ryo-currency.ru": "INACTIVE",
+            "pool.ryo.nodes.hashvault.pro": "INACTIVE",
+            "pool.saronite.hashvault.pro": "INACTIVE",
+            "pool.saronite.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1578174574": {
+            "pool.sfo.coinbucks.io": "INACTIVE",
+            "pool.simpleco.in": "INACTIVE",
+            "pool.spiderpool.com": "INACTIVE",
+            "pool.stellite.hashvault.pro": "INACTIVE",
+            "pool.stellite.nodes.hashvault.pro": "INACTIVE",
+            "pool.stx.nl": "INACTIVE",
+            "pool.sumo.nodes.hashvault.pro": "INACTIVE",
+            "pool.sumokoin-pool.com": "INACTIVE"
+        },
+        "1578174575": {
+            "pool.sumokoin.hashvault.pro": "INACTIVE",
+            "pool.sumokoin.nodes.hashvault.pro": "INACTIVE",
+            "pool.t00ls.ru": "INACTIVE",
+            "pool.terahashers.com": "INACTIVE",
+            "pool.thulani.za.net": "INACTIVE",
+            "pool.torque.hashvault.pro": "INACTIVE",
+            "pool.torque.nodes.hashvault.pro": "INACTIVE",
+            "pool.triton.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1578174576": {
+            "pool.turtle.nodes.hashvault.pro": "INACTIVE",
+            "pool.turtlecoin.fr": "INACTIVE",
+            "pool.uax.io": "INACTIVE",
+            "pool.usxmrpool.com": "INACTIVE",
+            "pool.virtopia.ca": "INACTIVE",
+            "pool.web.m00n.top": "INACTIVE",
+            "pool.wemine.uk": "INACTIVE",
+            "pool.xcash.hashvault.pro": "INACTIVE"
+        },
+        "1578174577": {
+            "pool.xcash.nodes.hashvault.pro": "INACTIVE",
+            "pool.xdn.easyhash.pro": "INACTIVE",
+            "pool.xmrminingpool.net": "INACTIVE",
+            "pool.xmrpool.de": "INACTIVE",
+            "pool.xmrpool.eu": "INACTIVE",
+            "pool.xtl.fairhash.org": "INACTIVE",
+            "pool.xun.easyhash.pro": "INACTIVE"
+        },
+        "1578174578": {
+            "pool01.pirl.cryptoactivo.com": "INACTIVE",
+            "pool01.sumokoin-pool.com": "INACTIVE",
+            "pool04-5-1.btcc.com": "INACTIVE",
+            "pool04-91.btcc.com": "INACTIVE",
+            "pool1.crypto-pool.fr": "INACTIVE",
+            "pool1.eu.multipool.us": "INACTIVE",
+            "pool1.minergate.com": "INACTIVE",
+            "pool1.phi-phi-pool.net": "INACTIVE"
+        },
+        "1578174579": {
+            "pool1.us.multipool.com": "INACTIVE",
+            "pool2-0-8.btcc.com": "INACTIVE",
+            "pool2.arqma.com": "INACTIVE",
+            "pool2.biblepay.org": "INACTIVE",
+            "pool2.coinimp.com": "INACTIVE",
+            "pool2.cpuchain.org": "INACTIVE",
+            "pool2.democats.org": "INACTIVE",
+            "pool2.elphyrecoin.xyz": "INACTIVE",
+            "pool2.etn.easyhash.pro": "INACTIVE"
+        },
+        "1578174580": {
+            "pool2.minergate.com": "INACTIVE",
+            "pool2.node.crypto-pool.fr": "INACTIVE",
+            "pool2.us.multipool.us": "INACTIVE",
+            "pool2.youcrazy.me": "INACTIVE",
+            "pool2.zelerius.org": "INACTIVE",
+            "pool212.btcc.com": "INACTIVE",
+            "pool3-0-11.btcc.com": "INACTIVE",
+            "pool3-9-98-1.btcc.com": "INACTIVE"
+        },
+        "1578174581": {
+            "pool3.democats.org": "INACTIVE",
+            "pool318-8.btcc.com": "INACTIVE",
+            "pool332-7.btcc.com": "INACTIVE",
+            "pool4-4-6.btcc.com": "INACTIVE",
+            "pool5-97.btcc.com": "INACTIVE",
+            "pool51-3.btcc.com": "INACTIVE",
+            "pool5116.btcc.com": "INACTIVE",
+            "pool57-08-5.btcc.com": "INACTIVE"
+        },
+        "1578174582": {
+            "pool57-3.btcc.com": "INACTIVE",
+            "pool57-9-5-8.btcc.com": "INACTIVE",
+            "pool636-9-0.btcc.com": "INACTIVE",
+            "pool64-52.btcc.com": "INACTIVE",
+            "pool64-625.btcc.com": "INACTIVE",
+            "pool67-07.btcc.com": "INACTIVE"
         }
     }
 }
