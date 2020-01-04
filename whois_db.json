@@ -22,7 +22,7 @@
     "0x1f4b0.com": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "1-9-90.com": {
         "epoch": 1578182400.0,
@@ -200,8 +200,8 @@
         "state": "future"
     },
     "14daily.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "154pack.com": {
