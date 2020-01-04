@@ -1380,8 +1380,8 @@
         "state": "future"
     },
     "altusfund.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "alwayshashing.com": {
@@ -1422,6 +1422,11 @@
     "ambis.biz": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
+    "amerextrade.com": {
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
         "state": "future"
     },
     "amerty.cc": {
@@ -1545,8 +1550,8 @@
         "state": "past"
     },
     "antmining.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "antpool.com": {
@@ -1570,8 +1575,8 @@
         "state": "future"
     },
     "anybest.site": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "anybest.space": {
