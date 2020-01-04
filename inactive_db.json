@@ -8073,32 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1577153977": {
-            "nd.steadyhash.org": "INACTIVE",
-            "ndam.cryptobrowser.site": "INACTIVE"
-        },
-        "1577153978": {
-            "ndashboard.monerise.com": "INACTIVE",
-            "ndashp2p.poolforcoin.com": "INACTIVE",
-            "ndavies.magnificentpool.com": "INACTIVE",
-            "ndb.aikapool.com": "INACTIVE"
-        },
-        "1577153979": {
-            "ndero.monerise.com": "INACTIVE",
-            "ndev-equipool.1ds.us": "INACTIVE"
-        },
-        "1577153980": {
-            "ndgm.poolforcoin.com": "INACTIVE",
-            "ndk.aikapool.com": "INACTIVE",
-            "ndn.cryptobrowser.site": "INACTIVE",
-            "ndns2.cryptobrowser.site": "INACTIVE",
-            "ndnstatic.cryptobrowser.site": "INACTIVE"
-        },
-        "1577153981": {
-            "ndocs.aikapool.com": "INACTIVE",
-            "ndoge.suprnova.cc": "INACTIVE",
-            "ndomainkey.aikapool.com": "INACTIVE"
-        },
         "1577153982": {
             "ndq.aikapool.com": "INACTIVE",
             "ndz.suprnova.cc": "INACTIVE",
@@ -24643,6 +24617,31 @@
             "ncrepcoin.labbinarymining.com": "INACTIVE",
             "ncrm.aikapool.com": "INACTIVE",
             "ncryptopool.1ds.us": "INACTIVE"
+        },
+        "1578165494": {
+            "nd.steadyhash.org": "INACTIVE",
+            "ndam.cryptobrowser.site": "INACTIVE",
+            "ndashp2p.poolforcoin.com": "INACTIVE"
+        },
+        "1578165495": {
+            "ndavies.magnificentpool.com": "INACTIVE",
+            "ndb.aikapool.com": "INACTIVE"
+        },
+        "1578165496": {
+            "ndev-equipool.1ds.us": "INACTIVE",
+            "ndev.monerominers.net": "INACTIVE",
+            "ndgm.poolforcoin.com": "INACTIVE"
+        },
+        "1578165497": {
+            "ndk.aikapool.com": "INACTIVE",
+            "ndn.cryptobrowser.site": "INACTIVE",
+            "ndns2.cryptobrowser.site": "INACTIVE",
+            "ndnstatic.cryptobrowser.site": "INACTIVE",
+            "ndocs.aikapool.com": "INACTIVE"
+        },
+        "1578165498": {
+            "ndoge.suprnova.cc": "INACTIVE",
+            "ndomainkey.aikapool.com": "INACTIVE"
         }
     }
 }
