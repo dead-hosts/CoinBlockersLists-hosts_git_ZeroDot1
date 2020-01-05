@@ -8073,51 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1577202925": {
-            "zzz.cryptoblock.uk": "INACTIVE"
-        },
-        "1577202964": {
-            "POOL.moneropool.com": "INVALID",
-            "mail.test10.node.coin-miners.info": "INACTIVE",
-            "s06.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.bi": "INACTIVE",
-            "www.hostingcloud.st": "INACTIVE",
-            "www.mail.coin-miners.info": "INACTIVE"
-        },
-        "1577202965": {
-            "194.58.122.146\\032stratum.aikapool.com": "INVALID",
-            "VPWCHCDEVWEB001.cryptopia.co.nz": "INVALID",
-            "mail.node.coin-miners.info": "INACTIVE",
-            "mail.node.supportxmr.com": "INACTIVE",
-            "s01.hostcontent.li": "INACTIVE",
-            "s09.hostcontent.li": "INACTIVE",
-            "s12.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.sc": "INACTIVE",
-            "www.hostingcloud.tr": "INACTIVE"
-        },
-        "1577202966": {
-            "hostingcloud.do": "INACTIVE",
-            "mail.test5.node.coin-miners.info": "INACTIVE",
-            "s03.hostcontent.li": "INACTIVE",
-            "s05.hostcontent.li": "INACTIVE",
-            "s07.hostcontent.li": "INACTIVE",
-            "s11.hostcontent.li": "INACTIVE",
-            "s13.hostcontent.li": "INACTIVE",
-            "www.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.do": "INACTIVE",
-            "www.hostingcloud.pa": "INACTIVE"
-        },
-        "1577202967": {
-            "s02.hostcontent.li": "INACTIVE",
-            "s04.hostcontent.li": "INACTIVE",
-            "s08.hostcontent.li": "INACTIVE",
-            "s10.hostcontent.li": "INACTIVE",
-            "s100.hostcontent.li": "INACTIVE",
-            "www.hostingcloud.ac": "INACTIVE",
-            "www.hostingcloud.li": "INACTIVE",
-            "www.hostingcloud.re": "INACTIVE",
-            "www.mail.node.coin-miners.info": "INACTIVE"
-        },
         "1578133437": {
             "0-100-bhd.foxypool.cf": "INACTIVE"
         },
@@ -24522,6 +24477,53 @@
             "zz.8282.space": "INACTIVE",
             "zzc.multipools.club": "INACTIVE",
             "zzqhsrg.ru": "INACTIVE"
+        },
+        "1578209402": {
+            "zzz.cryptoblock.uk": "INACTIVE"
+        },
+        "1578209430": {
+            "www.hostcontent.li": "INACTIVE"
+        },
+        "1578209431": {
+            "POOL.moneropool.com": "INVALID",
+            "VPWCHCDEVWEB001.cryptopia.co.nz": "INVALID",
+            "hostingcloud.do": "INACTIVE",
+            "mail.node.supportxmr.com": "INACTIVE",
+            "mail.test5.node.coin-miners.info": "INACTIVE",
+            "www.hostingcloud.do": "INACTIVE",
+            "www.hostingcloud.li": "INACTIVE",
+            "www.hostingcloud.pa": "INACTIVE",
+            "www.hostingcloud.re": "INACTIVE",
+            "www.mail.node.coin-miners.info": "INACTIVE"
+        },
+        "1578209432": {
+            "mail.node.coin-miners.info": "INACTIVE",
+            "s01.hostcontent.li": "INACTIVE",
+            "s02.hostcontent.li": "INACTIVE",
+            "s03.hostcontent.li": "INACTIVE",
+            "s10.hostcontent.li": "INACTIVE",
+            "s100.hostcontent.li": "INACTIVE",
+            "www.hostingcloud.bi": "INACTIVE",
+            "www.hostingcloud.st": "INACTIVE",
+            "www.hostingcloud.tr": "INACTIVE"
+        },
+        "1578209433": {
+            "194.58.122.146\\032stratum.aikapool.com": "INVALID",
+            "s04.hostcontent.li": "INACTIVE",
+            "s05.hostcontent.li": "INACTIVE",
+            "s06.hostcontent.li": "INACTIVE",
+            "s07.hostcontent.li": "INACTIVE",
+            "s09.hostcontent.li": "INACTIVE",
+            "s12.hostcontent.li": "INACTIVE",
+            "s13.hostcontent.li": "INACTIVE",
+            "www.hostingcloud.ac": "INACTIVE",
+            "www.mail.coin-miners.info": "INACTIVE"
+        },
+        "1578209434": {
+            "mail.test10.node.coin-miners.info": "INACTIVE",
+            "s08.hostcontent.li": "INACTIVE",
+            "s11.hostcontent.li": "INACTIVE",
+            "www.hostingcloud.sc": "INACTIVE"
         }
     }
 }
