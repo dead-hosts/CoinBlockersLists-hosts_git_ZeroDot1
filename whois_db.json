@@ -6060,8 +6060,8 @@
         "state": "future"
     },
     "flashx.pw": {
-        "epoch": "1575158400",
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "flightsy.bid": {
@@ -6107,6 +6107,11 @@
     "flowplayer.space": {
         "epoch": "1561593600",
         "expiration_date": "27-jun-2019",
+        "state": "future"
+    },
+    "fluxpool.tech": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "flyhash.cc": {
