@@ -822,7 +822,7 @@
     "acruxtdm.ru": {
         "epoch": 1578528000.0,
         "expiration_date": "09-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "actinium.org": {
         "epoch": 1590451200.0,
@@ -935,8 +935,8 @@
         "state": "future"
     },
     "aeon-pool.net": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "aeonhash.com": {
