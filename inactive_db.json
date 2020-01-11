@@ -8073,122 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578147168": {
-            "dallas.squashpool.com": "INACTIVE",
-            "dam.cryptobrowser.site": "INACTIVE",
-            "damiao.em.bitcoin.co.pt": "INACTIVE",
-            "dank-explorer.coin-miners.info": "INACTIVE",
-            "dank-explorer.node.coin-miners.info": "INACTIVE",
-            "dank.coin-miners.info": "INACTIVE",
-            "dank.node.coin-miners.info": "INACTIVE",
-            "dank.suprnova.cc": "INACTIVE",
-            "dao.node.expanse.tech": "INACTIVE",
-            "dark.hashrate.eu": "INACTIVE",
-            "dark.minerstation.com": "INACTIVE"
-        },
-        "1578147865": {
-            "dark.suprnova.cc": "INACTIVE",
-            "dark.xpool.ca": "INACTIVE",
-            "darkc.suprnova.cc": "INACTIVE",
-            "darkcion.miningpoolhub.com": "INACTIVE",
-            "darkcoin.me": "INACTIVE"
-        },
-        "1578147866": {
-            "darkcoin.mooo.com": "INACTIVE",
-            "darkcoin.stonedpuppy.com": "INACTIVE",
-            "darkcoinp2pool.com": "INACTIVE",
-            "darking05.tk": "INACTIVE",
-            "darks.suprnova.cc": "INACTIVE",
-            "darkt.suprnova.cc": "INACTIVE",
-            "dart.wyn-fyctunnelswc.xyz": "INACTIVE",
-            "dash-bj-prod.poolin.com": "INACTIVE",
-            "dash-bj.poolin.com": "INACTIVE",
-            "dash-de.hashing.space": "INACTIVE"
-        },
-        "1578147867": {
-            "dash-fl.hashing.space": "INACTIVE",
-            "dash-nl.hashing.space": "INACTIVE",
-            "dash-sg.hashing.space": "INACTIVE",
-            "dash-tx.hashing.space": "INACTIVE",
-            "dash-wa.hashing.space": "INACTIVE",
-            "dash.mine-vn.com": "INACTIVE",
-            "dash.minertopia.org": "INACTIVE",
-            "dash.mpool.su": "INACTIVE",
-            "dash.poolmining.eu": "INACTIVE"
-        },
-        "1578147868": {
-            "dash2.mpool.su": "INACTIVE",
-            "dashboard.gos.cx": "INACTIVE",
-            "dashboard.minemonero.pro": "INACTIVE",
-            "dashhash.pw": "INACTIVE",
-            "dashp2p.poolforcoin.com": "INACTIVE",
-            "data.btcchina.com": "INACTIVE",
-            "data.gridcoin.us": "INACTIVE",
-            "data.node.gridcoin.us": "INACTIVE"
-        },
-        "1578147869": {
-            "datacn.btcchina.com": "INACTIVE",
-            "datadev.phoneum.io": "INACTIVE",
-            "datasaver.icopool.club": "INACTIVE",
-            "dataservices.download": "INACTIVE",
-            "davies.magnificentpool.com": "INACTIVE",
-            "daxuxaboqy.7ci.ru": "INACTIVE",
-            "daxx.2zo.pw": "INACTIVE",
-            "daxx.clona.ru": "INACTIVE",
-            "db-mysql.minecrypto.pro": "INACTIVE",
-            "db.aikapool.com": "INACTIVE"
-        },
-        "1578147870": {
-            "db.bitcoin.co.pt": "INACTIVE",
-            "db.suprnova.cc": "INACTIVE",
-            "db1.suprnova.cc": "INACTIVE",
-            "db2-stg-vm.fix.btcc.com": "INACTIVE",
-            "db2.suprnova.cc": "INACTIVE",
-            "db4.suprnova.cc": "INACTIVE",
-            "db5.suprnova.cc": "INACTIVE",
-            "dbic.gcpool.eu": "INACTIVE",
-            "dbix-explorer.pool.sexy": "INACTIVE"
-        },
-        "1578147871": {
-            "dbix.coin-miners.info": "INACTIVE",
-            "dbix.drowningpool.net": "INACTIVE",
-            "dbix.ehashcoins.org": "INACTIVE",
-            "dbix.fairpool.xyz": "INACTIVE",
-            "dbix.mine-vn.com": "INACTIVE",
-            "dbix.minecrypto.pro": "INACTIVE",
-            "dbix.node.coin-miners.info": "INACTIVE",
-            "dbix2.pool.sexy": "INACTIVE",
-            "dbix3.pool.sexy": "INACTIVE",
-            "dbl.coinmine.pl": "INACTIVE",
-            "dbx01.cloud.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1578147872": {
-            "dc-164392d6c9fd.arqma.com": "INACTIVE",
-            "dc-2f35d69f6bbf.btcwulf.com": "INACTIVE",
-            "dc-30e1bd1e7a6c.llama.horse": "INACTIVE",
-            "dc-3cd685c3b531.zinntikumugai.xyz": "INACTIVE",
-            "dc-42915ab3.cryptoescrow.eu": "INACTIVE",
-            "dc-542ad42936bb.arqma.com": "INACTIVE",
-            "dc-a28dd539be40.miningspeed.com": "INACTIVE",
-            "dc-a45e747be4be.miningpools.cloud": "INACTIVE",
-            "dc-b4f05cdce880.arqma.com": "INACTIVE",
-            "dc-b90599c5ecd4.mintpond.com": "INACTIVE",
-            "dc-bb211b6dbbfa.arqma.com": "INACTIVE"
-        },
-        "1578147873": {
-            "dc-bc71b1ca62ee.bpool.id": "INACTIVE",
-            "dc-c167fa99e6b6.theminingpool.online": "INACTIVE",
-            "dc.bitcoin.co.pt": "INACTIVE",
-            "dc.coin-miners.info": "INACTIVE",
-            "dc.node.coin-miners.info": "INACTIVE",
-            "dc1.eosemerge.io": "INACTIVE",
-            "dcc.moneroseeds.ae.org": "INACTIVE",
-            "dcc.suprnova.cc": "INACTIVE",
-            "dcd.suprnova.cc": "INACTIVE",
-            "dcr-bj-prod.poolin.com": "INACTIVE"
-        },
         "1578147874": {
-            "dcr-bj2.ss.poolin.com": "INACTIVE",
             "dcr-lp.coinmine.pl": "INACTIVE",
             "dcr.beepool.org": "INACTIVE",
             "dcrpool04.coinmine.pl": "INACTIVE",
@@ -25327,6 +25212,169 @@
         },
         "1578771327": {
             "dallas.darkcoinp2pool.com": "INACTIVE"
+        },
+        "1578772821": {
+            "dallas.squashpool.com": "INACTIVE",
+            "dam.cryptobrowser.site": "INACTIVE",
+            "damiao.em.bitcoin.co.pt": "INACTIVE",
+            "dank-explorer.coin-miners.info": "INACTIVE",
+            "dank-explorer.node.coin-miners.info": "INACTIVE",
+            "dank.coin-miners.info": "INACTIVE",
+            "dank.node.coin-miners.info": "INACTIVE"
+        },
+        "1578772822": {
+            "dank.suprnova.cc": "INACTIVE",
+            "dao.node.expanse.tech": "INACTIVE",
+            "dark.hashrate.eu": "INACTIVE",
+            "dark.minerstation.com": "INACTIVE",
+            "dark.suprnova.cc": "INACTIVE",
+            "dark.x11p2p.com": "INACTIVE",
+            "dark.xpool.ca": "INACTIVE",
+            "darkc.suprnova.cc": "INACTIVE",
+            "darkcion.miningpoolhub.com": "INACTIVE"
+        },
+        "1578772823": {
+            "darkcoin-faucet.lotterymining.com": "INACTIVE",
+            "darkcoin.me": "INACTIVE",
+            "darkcoin.mooo.com": "INACTIVE",
+            "darkcoin.stonedpuppy.com": "INACTIVE",
+            "darkcoinp2pool.com": "INACTIVE",
+            "darking05.tk": "INACTIVE",
+            "darks.suprnova.cc": "INACTIVE",
+            "darkt.suprnova.cc": "INACTIVE",
+            "dart.wyn-fyctunnelswc.xyz": "INACTIVE",
+            "dash-bj-prod.poolin.com": "INACTIVE"
+        },
+        "1578772824": {
+            "dash-bj.poolin.com": "INACTIVE",
+            "dash-de.hashing.space": "INACTIVE",
+            "dash-fl.hashing.space": "INACTIVE",
+            "dash-nl.hashing.space": "INACTIVE",
+            "dash-sg.hashing.space": "INACTIVE",
+            "dash-tx.hashing.space": "INACTIVE",
+            "dash-wa.hashing.space": "INACTIVE",
+            "dash.cryptobro.eu": "INACTIVE",
+            "dash.cryptopool.io": "INACTIVE",
+            "dash.mine-vn.com": "INACTIVE"
+        },
+        "1578772825": {
+            "dash.laintimes.com": "INACTIVE",
+            "dash.minertopia.org": "INACTIVE",
+            "dash.mole-pool.net": "INACTIVE",
+            "dash.mpool.su": "INACTIVE",
+            "dash.multipool.su": "INACTIVE",
+            "dash.poolmining.eu": "INACTIVE",
+            "dash.thecoin.pw": "INACTIVE",
+            "dash01.pool.warphash.com": "INACTIVE",
+            "dash1.p2pool.ru": "INACTIVE",
+            "dash2.mpool.su": "INACTIVE"
+        },
+        "1578772826": {
+            "dash2.p2pool.ru": "INACTIVE",
+            "dash3.p2pool.ru": "INACTIVE",
+            "dashboard.fr-pool.com": "INACTIVE",
+            "dashboard.gos.cx": "INACTIVE",
+            "dashboard.minemonero.pro": "INACTIVE",
+            "dashboardzcash.flypool.org": "INACTIVE",
+            "dashhash.pw": "INACTIVE",
+            "dashp2p.poolforcoin.com": "INACTIVE",
+            "data.aionmine.org": "INACTIVE"
+        },
+        "1578772827": {
+            "data.btcc.com": "INACTIVE",
+            "data.btcchina.com": "INACTIVE",
+            "data.gridcoin.us": "INACTIVE",
+            "data.node.gridcoin.us": "INACTIVE",
+            "dataapi.aionmine.org": "INACTIVE",
+            "datacn.btcchina.com": "INACTIVE",
+            "datadev.phoneum.io": "INACTIVE",
+            "datasaver.icopool.cl": "INACTIVE",
+            "datasaver.icopool.club": "INACTIVE",
+            "dataservices.download": "INACTIVE"
+        },
+        "1578772828": {
+            "davies.magnificentpool.com": "INACTIVE",
+            "dax.next.exchange": "INACTIVE",
+            "daxuxaboqy.7ci.ru": "INACTIVE",
+            "daxx.2zo.pw": "INACTIVE",
+            "daxx.clona.ru": "INACTIVE",
+            "daxx.mole-pool.net": "INACTIVE",
+            "db-mysql.minecrypto.pro": "INACTIVE",
+            "db-us.whalesburg.com": "INACTIVE",
+            "db.aikapool.com": "INACTIVE",
+            "db.bitcoin.co.pt": "INACTIVE",
+            "db.suprnova.cc": "INACTIVE"
+        },
+        "1578772829": {
+            "db1.suprnova.cc": "INACTIVE",
+            "db2-vm.fix.btcc.com": "INACTIVE",
+            "db2.suprnova.cc": "INACTIVE",
+            "db4.suprnova.cc": "INACTIVE",
+            "db5.suprnova.cc": "INACTIVE",
+            "dbg.thecoin.pw": "INACTIVE",
+            "dbic.gcpool.eu": "INACTIVE",
+            "dbix-explorer.pool.sexy": "INACTIVE",
+            "dbix-solo.cryptodig.ru": "INACTIVE"
+        },
+        "1578772830": {
+            "dbix.coin-miners.info": "INACTIVE",
+            "dbix.drowningpool.net": "INACTIVE",
+            "dbix.ehashcoins.org": "INACTIVE",
+            "dbix.explorer.icanmining.ru": "INACTIVE",
+            "dbix.fairpool.xyz": "INACTIVE",
+            "dbix.frostypool.com": "INACTIVE",
+            "dbix.mine-vn.com": "INACTIVE",
+            "dbix.minecrypto.pro": "INACTIVE",
+            "dbix.node.coin-miners.info": "INACTIVE",
+            "dbix.poolxyz.com": "INACTIVE",
+            "dbix.stats.icanmining.ru": "INACTIVE"
+        },
+        "1578772831": {
+            "dbix2.pool.sexy": "INACTIVE",
+            "dbix3.pool.sexy": "INACTIVE",
+            "dbixstats.clona.ru": "INACTIVE",
+            "dbl.coinmine.pl": "INACTIVE",
+            "dblive.safexnews.net": "INACTIVE",
+            "dbx01.cloud.moneroseeds.ae.org": "INACTIVE",
+            "dc-164392d6c9fd.arqma.com": "INACTIVE",
+            "dc-2f35d69f6bbf.btcwulf.com": "INACTIVE",
+            "dc-30e1bd1e7a6c.llama.horse": "INACTIVE",
+            "dc-3cd685c3b531.zinntikumugai.xyz": "INACTIVE"
+        },
+        "1578772832": {
+            "dc-42915ab3.cryptoescrow.eu": "INACTIVE",
+            "dc-44298062c821.bittrader.io": "INACTIVE",
+            "dc-4594f98862dd.private-locker.com": "INACTIVE",
+            "dc-459ba6fdaea6.antminers-bitmain.com": "INACTIVE",
+            "dc-542ad42936bb.arqma.com": "INACTIVE",
+            "dc-575a771723b1.cryptorescue.org": "INACTIVE",
+            "dc-920bcccd83a0.myminers.org": "INACTIVE",
+            "dc-a28dd539be40.miningspeed.com": "INACTIVE",
+            "dc-a45e747be4be.miningpools.cloud": "INACTIVE",
+            "dc-a61fb4070168.miningclub.info": "INACTIVE",
+            "dc-b022fa3de17b.rubypool.com": "INACTIVE"
+        },
+        "1578772833": {
+            "dc-b4f05cdce880.arqma.com": "INACTIVE",
+            "dc-b90599c5ecd4.mintpond.com": "INACTIVE",
+            "dc-bb211b6dbbfa.arqma.com": "INACTIVE",
+            "dc-bc71b1ca62ee.bpool.id": "INACTIVE",
+            "dc-c16227aff015.d3pool.eu": "INACTIVE",
+            "dc-c167fa99e6b6.theminingpool.online": "INACTIVE",
+            "dc-cd65dbd83ac5.antminereurope.com": "INACTIVE",
+            "dc-e0957ffd73eb.parsicoin.net": "INACTIVE",
+            "dc.bitcoin.co.pt": "INACTIVE",
+            "dc.coin-miners.info": "INACTIVE",
+            "dc.node.coin-miners.info": "INACTIVE"
+        },
+        "1578772834": {
+            "dc1.eosemerge.io": "INACTIVE",
+            "dcc.moneroseeds.ae.org": "INACTIVE",
+            "dcc.suprnova.cc": "INACTIVE",
+            "dcd.suprnova.cc": "INACTIVE",
+            "dcpan.connectbtc.com": "INACTIVE",
+            "dcr-bj-prod.poolin.com": "INACTIVE",
+            "dcr-bj2.ss.poolin.com": "INACTIVE"
         }
     }
 }
