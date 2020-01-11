@@ -8073,117 +8073,10 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578152832": {
-            "exmio.biz": "INACTIVE",
-            "exmio.me": "INACTIVE",
-            "exmuo.me": "INACTIVE"
-        },
-        "1578152833": {
-            "exmuo.org": "INACTIVE",
-            "exn.youpool.io": "INACTIVE",
-            "exp-pplns.ehashcoins.org": "INACTIVE",
-            "exp-solo.baikalmine.com": "INACTIVE",
-            "exp.baikalmine.com": "INACTIVE",
-            "exp.coinmine.pl": "INACTIVE",
-            "exp.ehashcoins.org": "INACTIVE",
-            "exp.epool.io": "INACTIVE",
-            "exp.fairpool.xyz": "INACTIVE",
-            "exp.labaleine.gg": "INACTIVE"
-        },
-        "1578152834": {
-            "exp.mine-vn.com": "INACTIVE",
-            "exp.minertopia.org": "INACTIVE"
-        },
-        "1578153524": {
-            "exp.staging.pool.whalesburg.com": "INACTIVE",
-            "exp.virtopia.ca": "INACTIVE",
-            "exp2.solopool.org": "INACTIVE",
-            "expenditures.fix.btcc.com": "INACTIVE",
-            "explore.cryptoknight.cc": "INACTIVE",
-            "explorer-cc.our-rapture.com": "INACTIVE",
-            "explorer-etig.europool.me": "INACTIVE"
-        },
-        "1578153525": {
-            "explorer.beta.z.cash": "INACTIVE",
-            "explorer.btc.com": "INACTIVE",
-            "explorer.cryptopros.us": "INACTIVE",
-            "explorer.fairpool.xyz": "INACTIVE",
-            "explorer.fredcoinpool.com": "INACTIVE",
-            "explorer.garlicpool.org": "INACTIVE",
-            "explorer.gridcoin.us": "INACTIVE",
-            "explorer.jsecoin.com": "INACTIVE"
-        },
-        "1578153526": {
-            "explorer.msr.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "explorer.namecoin.info": "INACTIVE",
-            "explorer.node.expanse.tech": "INACTIVE",
-            "explorer.node.gridcoin.us": "INACTIVE",
-            "explorer.node.xmr.pt": "INACTIVE",
-            "explorer.our-rapture.com": "INACTIVE",
-            "explorer.poolofd32th.club": "INACTIVE",
-            "explorer.qrlmining.info": "INACTIVE",
-            "explorer.sugarchain.org": "INACTIVE",
-            "explorer.sushipool.com": "INACTIVE"
-        },
-        "1578153527": {
-            "explorer.trtl.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "explorer01.bitultra.io": "INACTIVE",
-            "explorer02.bitultra.io": "INACTIVE",
-            "explorer2.elphyrecoin.xyz": "INACTIVE",
-            "explorer2.expanse.tech": "INACTIVE",
-            "explorer2.gridcoin.us": "INACTIVE",
-            "explorer2.node.gridcoin.us": "INACTIVE",
-            "explorer2.our-rapture.com": "INACTIVE",
-            "explorer3.our-rapture.com": "INACTIVE",
-            "explorersconvayencing.com.au": "INACTIVE"
-        },
-        "1578153528": {
-            "exrno.biz": "INACTIVE",
-            "exrno.org": "INACTIVE",
-            "extremeool.org": "INACTIVE",
-            "extrmepool.org": "INACTIVE",
-            "eye.killeee.com": "INACTIVE",
-            "ezc.cloudpools.net": "INACTIVE",
-            "f.bitcoin.co.pt": "INACTIVE",
-            "f.pooling.cf": "INACTIVE",
-            "f.sunnyjuly.gq": "INACTIVE"
-        },
-        "1578153529": {
-            "f1.cryptopool.ru": "INACTIVE",
-            "f1.deepbit.net": "INACTIVE",
-            "f10-194-5.btcc.com": "INACTIVE",
-            "f10-194.btcc.com": "INACTIVE",
-            "f10-92-181.btcc.com": "INACTIVE",
-            "f2-6.btcc.com": "INACTIVE",
-            "f2-60.btcc.com": "INACTIVE",
-            "f2-65.btcc.com": "INACTIVE",
-            "f2.cryptopool.ru": "INACTIVE",
-            "f2.deepbit.net": "INACTIVE"
-        },
-        "1578153530": {
-            "f3.cryptopool.ru": "INACTIVE",
-            "f30-194-4.btcc.com": "INACTIVE",
-            "f4.cryptopool.ru": "INACTIVE",
-            "f4e8j36h8572a.com": "INACTIVE",
-            "f4keu.7h4uk.com": "INACTIVE",
-            "f50-191-9.btcc.com": "INACTIVE",
-            "f50-191.btcc.com": "INACTIVE",
-            "f6-66.btcc.com": "INACTIVE",
-            "f6-67.btcc.com": "INACTIVE",
-            "fa-api.btcc.com": "INACTIVE",
-            "fade.suprnova.cc": "INACTIVE"
-        },
         "1578153531": {
-            "fail.suprnova.cc": "INACTIVE",
-            "farm.sparkpool.com": "INACTIVE",
-            "farmacia.em.bitcoin.co.pt": "INACTIVE",
-            "fastcoin.youcrazy.me": "INACTIVE",
-            "fasthash.hopto.org": "INACTIVE",
-            "fastmovers.moneroseeds.ae.org": "INACTIVE",
             "faucet.epool.io": "INACTIVE"
         },
         "1578153532": {
-            "faucet.cryptopool.tk": "INACTIVE",
             "faucet.garlicpool.org": "INACTIVE",
             "faucet.llama.horse": "INACTIVE",
             "faucet.roto2.org": "INACTIVE",
@@ -25662,6 +25555,157 @@
             "exchange.ultranote.org": "INACTIVE",
             "exchange.warphash.com": "INACTIVE",
             "excl.suprnova.cc": "INACTIVE"
+        },
+        "1578784666": {
+            "exe.thecoin.pw": "INACTIVE",
+            "exmio.biz": "INACTIVE",
+            "exmio.me": "INACTIVE",
+            "exmuo.me": "INACTIVE"
+        },
+        "1578784667": {
+            "exmuo.org": "INACTIVE",
+            "exn.youpool.io": "INACTIVE",
+            "exp-etfx.masterpro.site": "INACTIVE",
+            "exp-pplns.ehashcoins.org": "INACTIVE",
+            "exp-solo.baikalmine.com": "INACTIVE",
+            "exp.arsmine.com": "INACTIVE",
+            "exp.baikalmine.com": "INACTIVE",
+            "exp.coinmine.pl": "INACTIVE",
+            "exp.cryptopool.io": "INACTIVE"
+        },
+        "1578784668": {
+            "exp.crazypool.org": "INACTIVE",
+            "exp.egem.io": "INACTIVE",
+            "exp.ehashcoins.org": "INACTIVE",
+            "exp.epool.io": "INACTIVE",
+            "exp.explorer.icanmining.ru": "INACTIVE",
+            "exp.fairpool.xyz": "INACTIVE",
+            "exp.labaleine.gg": "INACTIVE",
+            "exp.mine-vn.com": "INACTIVE",
+            "exp.minertopia.org": "INACTIVE",
+            "exp.mkt-coin.com": "INACTIVE"
+        },
+        "1578784669": {
+            "exp.protonmine.com": "INACTIVE",
+            "exp.staging.pool.whalesburg.com": "INACTIVE",
+            "exp.stats.icanmining.ru": "INACTIVE",
+            "exp.virtopia.ca": "INACTIVE",
+            "exp2.solopool.org": "INACTIVE",
+            "expchain.gpumine.org": "INACTIVE",
+            "expenditures.fix.btcc.com": "INACTIVE",
+            "explore.cryptoknight.cc": "INACTIVE"
+        },
+        "1578784670": {
+            "explore.konjungate.net": "INACTIVE",
+            "explorer-cc.our-rapture.com": "INACTIVE",
+            "explorer-etig.crazypool.org": "INACTIVE",
+            "explorer-etig.europool.me": "INACTIVE",
+            "explorer.beta.z.cash": "INACTIVE",
+            "explorer.bitcoinn.biz": "INACTIVE",
+            "explorer.bittrader.io": "INACTIVE",
+            "explorer.bixbite.pro": "INACTIVE"
+        },
+        "1578784671": {
+            "explorer.btc.com": "INACTIVE",
+            "explorer.celcoin.io": "INACTIVE",
+            "explorer.clona.ru": "INACTIVE",
+            "explorer.crypto-court.com": "INACTIVE",
+            "explorer.cryptopros.us": "INACTIVE",
+            "explorer.cryptorescue.org": "INACTIVE",
+            "explorer.darkcoin.io": "INACTIVE",
+            "explorer.fairpool.xyz": "INACTIVE"
+        },
+        "1578784672": {
+            "explorer.fredcoinpool.com": "INACTIVE",
+            "explorer.garlicpool.org": "INACTIVE",
+            "explorer.gridcoin.us": "INACTIVE",
+            "explorer.helioscoin.clevery.xyz": "INACTIVE",
+            "explorer.icanmining.ru": "INACTIVE",
+            "explorer.jsecoin.com": "INACTIVE",
+            "explorer.msr.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "explorer.namecoin.info": "INACTIVE"
+        },
+        "1578784673": {
+            "explorer.node.expanse.tech": "INACTIVE",
+            "explorer.node.gridcoin.us": "INACTIVE",
+            "explorer.node.xmr.pt": "INACTIVE",
+            "explorer.our-rapture.com": "INACTIVE",
+            "explorer.poolofd32th.club": "INACTIVE",
+            "explorer.pornpoint.org": "INACTIVE",
+            "explorer.pyrite.pw": "INACTIVE",
+            "explorer.qrlmining.info": "INACTIVE",
+            "explorer.sugarchain.org": "INACTIVE"
+        },
+        "1578784674": {
+            "explorer.sushipool.com": "INACTIVE",
+            "explorer.trtl.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "explorer01.bitultra.io": "INACTIVE",
+            "explorer02.bitultra.io": "INACTIVE",
+            "explorer2.celcoin.io": "INACTIVE",
+            "explorer2.elphyrecoin.xyz": "INACTIVE",
+            "explorer2.expanse.tech": "INACTIVE"
+        },
+        "1578784675": {
+            "explorer2.gridcoin.us": "INACTIVE",
+            "explorer2.node.gridcoin.us": "INACTIVE",
+            "explorer2.our-rapture.com": "INACTIVE",
+            "explorer3.our-rapture.com": "INACTIVE",
+            "explorersconvayencing.com.au": "INACTIVE",
+            "exposed.private-locker.com": "INACTIVE",
+            "exrno.biz": "INACTIVE",
+            "exrno.org": "INACTIVE"
+        },
+        "1578784676": {
+            "extremeool.org": "INACTIVE",
+            "extrmepool.org": "INACTIVE",
+            "exx.egem.io": "INACTIVE",
+            "eye.killeee.com": "INACTIVE",
+            "ezc.cloudpools.net": "INACTIVE",
+            "f.bitcoin.co.pt": "INACTIVE",
+            "f.btcchina.com": "INACTIVE",
+            "f.pooling.cf": "INACTIVE",
+            "f.static.btcc.com": "INACTIVE",
+            "f.sunnyjuly.gq": "INACTIVE"
+        },
+        "1578784677": {
+            "f1.cryptopool.ru": "INACTIVE",
+            "f1.deepbit.net": "INACTIVE",
+            "f10-194-5.btcc.com": "INACTIVE",
+            "f10-194.btcc.com": "INACTIVE",
+            "f10-92-181.btcc.com": "INACTIVE",
+            "f2-6.btcc.com": "INACTIVE",
+            "f2-60.btcc.com": "INACTIVE",
+            "f2-65.btcc.com": "INACTIVE",
+            "f2.cryptopool.ru": "INACTIVE",
+            "f2.deepbit.net": "INACTIVE"
+        },
+        "1578784678": {
+            "f3.cryptopool.ru": "INACTIVE",
+            "f30-194-4.btcc.com": "INACTIVE",
+            "f4.cryptopool.ru": "INACTIVE",
+            "f4e8j36h8572a.com": "INACTIVE",
+            "f4keu.7h4uk.com": "INACTIVE",
+            "f50-191-9.btcc.com": "INACTIVE",
+            "f50-191.btcc.com": "INACTIVE",
+            "f6-67.btcc.com": "INACTIVE",
+            "fa-api.btcc.com": "INACTIVE",
+            "faclite.sucrecoin.org": "INACTIVE"
+        },
+        "1578784679": {
+            "fade.suprnova.cc": "INACTIVE",
+            "fail.hashrate.eu": "INACTIVE",
+            "fail.suprnova.cc": "INACTIVE",
+            "failover.xmrig.com": "INACTIVE",
+            "farm.sparkpool.com": "INACTIVE",
+            "farmacia.em.bitcoin.co.pt": "INACTIVE"
+        },
+        "1578784680": {
+            "fastcoin.youcrazy.me": "INACTIVE",
+            "fasthash.hopto.org": "INACTIVE",
+            "fastmovers.moneroseeds.ae.org": "INACTIVE",
+            "faucet.bitcoinn.biz": "INACTIVE",
+            "faucet.cryptopool.tk": "INACTIVE",
+            "faucet.dashninja.pl": "INACTIVE"
         }
     }
 }
