@@ -1155,13 +1155,13 @@
         "state": "future"
     },
     "aleinvest.xyz": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "alemoney.xyz": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "alexainvest.com": {
@@ -1202,6 +1202,11 @@
     "alimabi.cn": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "alisepool.xyz": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "allcoin.com": {
@@ -1250,8 +1255,8 @@
         "state": "future"
     },
     "allmine.cc": {
-        "epoch": 1578268800.0,
-        "expiration_date": "06-jan-2020",
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
         "state": "future"
     },
     "allmonitors.net": {
@@ -1290,8 +1295,8 @@
         "state": "future"
     },
     "alreum.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "altavista.ovh": {
@@ -1302,6 +1307,11 @@
     "altcoin.farm": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
+    "altcoincash.xyz": {
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "altcoiner.net": {
@@ -1500,8 +1510,8 @@
         "state": "future"
     },
     "anorak.tech": {
-        "epoch": "1574294400",
-        "expiration_date": "21-nov-2019",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "antarfund.com": {
