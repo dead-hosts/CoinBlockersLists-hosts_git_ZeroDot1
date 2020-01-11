@@ -4114,6 +4114,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "coinminer.space": {
+        "epoch": 1591660800.0,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
     "coinminers.net": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
@@ -4189,6 +4194,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "coinpoolservices.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
     "coinpot.co": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
@@ -4208,6 +4218,11 @@
         "epoch": 1645142400.0,
         "expiration_date": "18-feb-2022",
         "state": "future"
+    },
+    "coinscripts.online": {
+        "epoch": 1578009600.0,
+        "expiration_date": "03-jan-2020",
+        "state": "past"
     },
     "coinsecure.in": {
         "epoch": 1624233600.0,
@@ -4250,8 +4265,8 @@
         "state": "future"
     },
     "coinwebmining.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "coinworker.com": {
@@ -4290,9 +4305,9 @@
         "state": "future"
     },
     "communitypool.org": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
-        "state": "past"
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
     },
     "conhive.com": {
         "epoch": 1594684800.0,
