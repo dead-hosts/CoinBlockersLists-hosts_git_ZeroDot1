@@ -8073,138 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578147874": {
-            "dcr-lp.coinmine.pl": "INACTIVE",
-            "dcr.beepool.org": "INACTIVE",
-            "dcrpool04.coinmine.pl": "INACTIVE",
-            "dcy.llama.horse": "INACTIVE",
-            "dcy.mypool.name": "INACTIVE",
-            "ddos.bitcoinaffiliatenetwork.com": "INACTIVE",
-            "ddsumo.cnpool.cc": "INACTIVE"
-        },
-        "1578147875": {
-            "de.beta.supportxmr.com": "INACTIVE",
-            "de.bitcoin.co.pt": "INACTIVE",
-            "de.btcz.pool.pink": "INACTIVE",
-            "de.cryptopool.ru": "INACTIVE",
-            "de.moriaxmr.com": "INACTIVE",
-            "de.node.ckpool.org": "INACTIVE",
-            "de.node.minexmr.com": "INACTIVE",
-            "de.node.supportxmr.com": "INACTIVE",
-            "de.supportxmr.com": "INACTIVE"
-        },
-        "1578147876": {
-            "de01.beta.supportxmr.com": "INACTIVE",
-            "de01.node.supportxmr.com": "INACTIVE",
-            "de02.beta.supportxmr.com": "INACTIVE",
-            "de02.node.supportxmr.com": "INACTIVE",
-            "de03.beta.supportxmr.com": "INACTIVE",
-            "de03.node.supportxmr.com": "INACTIVE",
-            "de1.eu.node.nimiqpool.com": "INACTIVE",
-            "de1.kano.is": "INACTIVE",
-            "de1.s2.powermining.pw": "INACTIVE",
-            "de1.suprnova.cc": "INACTIVE",
-            "de1.vps.powermining.pw": "INACTIVE"
-        },
-        "1578147877": {
-            "de1.webtest.powermining.pw": "INACTIVE"
-        },
-        "1578148565": {
-            "de2.moriaxmr.com": "INACTIVE",
-            "de2.suprnova.cc": "INACTIVE",
-            "deadzone.wmikrut.com": "INACTIVE",
-            "deals.hashflare.io": "INACTIVE",
-            "decipher.gcpool.eu": "INACTIVE",
-            "dedicated.bluematt.me": "INACTIVE",
-            "deep.suprnova.cc": "INACTIVE"
-        },
-        "1578148566": {
-            "degier.em.bitcoin.co.pt": "INACTIVE",
-            "dego.c3pool.com": "INACTIVE",
-            "dego.cryptonote.club": "INACTIVE",
-            "dego.llama.horse": "INACTIVE",
-            "del.poolto.be": "INACTIVE",
-            "delivery1class.download": "INACTIVE",
-            "deliveryclub-6589.download": "INACTIVE",
-            "delta-east.majorminers.com": "INACTIVE",
-            "delta-pool.cryptocatalyst.net": "INACTIVE",
-            "delta.cryptocatalyst.net": "INACTIVE"
-        },
-        "1578148567": {
-            "delta.majorminers.com": "INACTIVE",
-            "dem.coinstop.me": "INACTIVE",
-            "dem.suprnova.cc": "INACTIVE",
-            "demexplorer.gcpool.eu": "INACTIVE",
-            "demo.arqma.com": "INACTIVE",
-            "demo.internet.moneroseeds.ae.org": "INACTIVE",
-            "demo.mine-vn.com": "INACTIVE",
-            "demo.uax.io": "INACTIVE",
-            "demo2.mine-vn.com": "INACTIVE"
-        },
-        "1578148568": {
-            "demopool.saltpool.net": "INACTIVE",
-            "denarius.smartcoinpool.com": "INACTIVE",
-            "denki.coincheck.com": "INACTIVE",
-            "deny.minemonero.pro": "INACTIVE",
-            "deploy.sushipool.com": "INACTIVE",
-            "depool.node.ckpool.org": "INACTIVE",
-            "depoolstratum.node.ckpool.org": "INACTIVE",
-            "depttake.ga": "INACTIVE",
-            "dero-api.semipool.com": "INACTIVE",
-            "dero.blockfoundry.org": "INACTIVE",
-            "dero.cryptonote.club": "INACTIVE"
-        },
-        "1578148569": {
-            "dero.ingest.cryptoknight.cc": "INACTIVE",
-            "dero.nodes.hashvault.pro": "INACTIVE",
-            "des.suprnova.cc": "INACTIVE",
-            "desolo.ckpool.org": "INACTIVE",
-            "desolo.node.ckpool.org": "INACTIVE",
-            "destiny.gcpool.eu": "INACTIVE",
-            "destratum.node.ckpool.org": "INACTIVE",
-            "deth.suprnova.cc": "INACTIVE"
-        },
-        "1578148570": {
-            "dev-ci1.z.cash": "INACTIVE",
-            "dev-env.1thash.top": "INACTIVE",
-            "dev-testfaucet.z.cash": "INACTIVE",
-            "dev.2miners.com": "INACTIVE",
-            "dev.coingeek.com": "INACTIVE",
-            "dev.coinlab.biz": "INACTIVE",
-            "dev.cryptobara.com": "INACTIVE",
-            "dev.dnb.io": "INACTIVE",
-            "dev.fortrader.ru": "INACTIVE",
-            "dev.gntl.co.uk": "INACTIVE"
-        },
-        "1578148571": {
-            "dev.gridcash.net": "INACTIVE",
-            "dev.haobtc.com": "INACTIVE",
-            "dev.haven.hashvault.pro": "INACTIVE",
-            "dev.haven.nodes.hashvault.pro": "INACTIVE",
-            "dev.internet.moneroseeds.ae.org": "INACTIVE",
-            "dev.krunzy.com": "INACTIVE",
-            "dev.minemonero.pro": "INACTIVE",
-            "dev.miningrigrentals.com": "INACTIVE",
-            "dev.monerominers.net": "INACTIVE",
-            "dev.multipool.us": "INACTIVE",
-            "dev.mypool.online": "INACTIVE"
-        },
-        "1578148572": {
-            "dev.node.grcpool.com": "INACTIVE",
-            "dev.node.turtlepool.space": "INACTIVE",
-            "dev.phoneum.io": "INACTIVE",
-            "dev.prohashing.com": "INACTIVE",
-            "dev.ratingtoplist.com": "INACTIVE",
-            "dev.turtlepool.space": "INACTIVE",
-            "dev.viabtc.com": "INACTIVE",
-            "dev.xmr.to": "INACTIVE",
-            "dev1.gntl.co.uk": "INACTIVE",
-            "dev1212.poolin.com": "INACTIVE",
-            "dev2.gntl.co.uk": "INACTIVE"
-        },
         "1578148573": {
-            "dev2.minertopia.org": "INACTIVE",
-            "dev3.gntl.co.uk": "INACTIVE",
             "devel.nicehash.com": "INACTIVE",
             "device.clona.ru": "INACTIVE",
             "device.grcpool.com": "INACTIVE",
@@ -25375,6 +25244,174 @@
             "dcpan.connectbtc.com": "INACTIVE",
             "dcr-bj-prod.poolin.com": "INACTIVE",
             "dcr-bj2.ss.poolin.com": "INACTIVE"
+        },
+        "1578774209": {
+            "dcr-lp.coinmine.pl": "INACTIVE",
+            "dcr.beepool.org": "INACTIVE",
+            "dcr.cryptopools.com": "INACTIVE",
+            "dcredits.cryptopools.com": "INACTIVE",
+            "dcrpool04.coinmine.pl": "INACTIVE",
+            "dcy.hashgang.io": "INACTIVE",
+            "dcy.llama.horse": "INACTIVE"
+        },
+        "1578774210": {
+            "dcy.mypool.name": "INACTIVE",
+            "ddos.bitcoinaffiliatenetwork.com": "INACTIVE",
+            "ddsumo.cnpool.cc": "INACTIVE",
+            "de.beta.supportxmr.com": "INACTIVE",
+            "de.bitcoin.co.pt": "INACTIVE",
+            "de.btcz.pool.pink": "INACTIVE",
+            "de.connectbtc.com": "INACTIVE",
+            "de.cryptopool.ru": "INACTIVE",
+            "de.etc-poolcrypto.org": "INACTIVE"
+        },
+        "1578774211": {
+            "de.moriaxmr.com": "INACTIVE",
+            "de.node.ckpool.org": "INACTIVE",
+            "de.node.minexmr.com": "INACTIVE",
+            "de.node.supportxmr.com": "INACTIVE",
+            "de.supportxmr.com": "INACTIVE",
+            "de.ultranote.org": "INACTIVE",
+            "de01.beta.supportxmr.com": "INACTIVE",
+            "de01.node.supportxmr.com": "INACTIVE",
+            "de02.beta.supportxmr.com": "INACTIVE",
+            "de02.node.supportxmr.com": "INACTIVE"
+        },
+        "1578774212": {
+            "de03.beta.supportxmr.com": "INACTIVE",
+            "de03.node.supportxmr.com": "INACTIVE",
+            "de1.eu.node.nimiqpool.com": "INACTIVE",
+            "de1.kano.is": "INACTIVE",
+            "de1.s2.powermining.pw": "INACTIVE",
+            "de1.suprnova.cc": "INACTIVE",
+            "de1.vps.powermining.pw": "INACTIVE",
+            "de1.webtest.powermining.pw": "INACTIVE",
+            "de2.moriaxmr.com": "INACTIVE",
+            "de2.suprnova.cc": "INACTIVE",
+            "deadzone.wmikrut.com": "INACTIVE"
+        },
+        "1578774213": {
+            "deaf.hashlink.eu": "INACTIVE",
+            "deals.hashflare.io": "INACTIVE",
+            "dec.newpool.pw": "INACTIVE",
+            "decipher.gcpool.eu": "INACTIVE",
+            "ded1.cryptopools.info": "INACTIVE",
+            "dedicated.bluematt.me": "INACTIVE",
+            "deep.suprnova.cc": "INACTIVE"
+        },
+        "1578774214": {
+            "degier.em.bitcoin.co.pt": "INACTIVE",
+            "dego.c3pool.com": "INACTIVE",
+            "dego.cryptonote.club": "INACTIVE",
+            "dego.llama.horse": "INACTIVE",
+            "del.poolto.be": "INACTIVE",
+            "delivery1class.download": "INACTIVE",
+            "deliveryclub-6589.download": "INACTIVE",
+            "delta-east.majorminers.com": "INACTIVE",
+            "delta-pool.cryptocatalyst.net": "INACTIVE",
+            "delta.aionmine.org": "INACTIVE"
+        },
+        "1578774215": {
+            "delta.cryptocatalyst.net": "INACTIVE",
+            "delta.majorminers.com": "INACTIVE",
+            "dem.coinstop.me": "INACTIVE",
+            "dem.suprnova.cc": "INACTIVE",
+            "dem.thecoin.pw": "INACTIVE",
+            "demexplorer.gcpool.eu": "INACTIVE",
+            "demo.arqma.com": "INACTIVE",
+            "demo.internet.moneroseeds.ae.org": "INACTIVE",
+            "demo.masterpro.site": "INACTIVE",
+            "demo.mine-vn.com": "INACTIVE"
+        },
+        "1578774216": {
+            "demo.uax.io": "INACTIVE",
+            "demo2.mine-vn.com": "INACTIVE",
+            "demopool.saltpool.net": "INACTIVE",
+            "denarius.smartcoinpool.com": "INACTIVE",
+            "denki.coincheck.com": "INACTIVE",
+            "deny.minemonero.pro": "INACTIVE",
+            "deploy.sushipool.com": "INACTIVE",
+            "depo-aud.hashlink.eu": "INACTIVE",
+            "depo-cad.hashlink.eu": "INACTIVE",
+            "depo-chf.hashlink.eu": "INACTIVE",
+            "depo-cny.hashlink.eu": "INACTIVE"
+        },
+        "1578774217": {
+            "depo-eur.hashlink.eu": "INACTIVE",
+            "depo-gbr.hashlink.eu": "INACTIVE",
+            "depo-gold.hashlink.eu": "INACTIVE",
+            "depo-jpy.hashlink.eu": "INACTIVE",
+            "depo-nzd.hashlink.eu": "INACTIVE",
+            "depo-rur.hashlink.eu": "INACTIVE",
+            "depo-usd.hashlink.eu": "INACTIVE",
+            "depo.hashlink.eu": "INACTIVE",
+            "depool.node.ckpool.org": "INACTIVE",
+            "depoolstratum.node.ckpool.org": "INACTIVE"
+        },
+        "1578774218": {
+            "depttake.ga": "INACTIVE",
+            "dero-api.semipool.com": "INACTIVE",
+            "dero.blockfoundry.org": "INACTIVE",
+            "dero.cryptonote.club": "INACTIVE",
+            "dero.ingest.cryptoknight.cc": "INACTIVE",
+            "dero.newpool.pw": "INACTIVE",
+            "dero.nodes.hashvault.pro": "INACTIVE",
+            "des.suprnova.cc": "INACTIVE",
+            "descartes.darkco.in": "INACTIVE"
+        },
+        "1578774219": {
+            "desolo.ckpool.org": "INACTIVE",
+            "desolo.node.ckpool.org": "INACTIVE",
+            "destiny.gcpool.eu": "INACTIVE",
+            "destratum.node.ckpool.org": "INACTIVE",
+            "deth.suprnova.cc": "INACTIVE",
+            "dev-ci1.z.cash": "INACTIVE",
+            "dev-env.1thash.top": "INACTIVE",
+            "dev-testfaucet.z.cash": "INACTIVE",
+            "dev.2miners.com": "INACTIVE"
+        },
+        "1578774220": {
+            "dev.bitcoinn.biz": "INACTIVE",
+            "dev.coingeek.com": "INACTIVE",
+            "dev.coinlab.biz": "INACTIVE",
+            "dev.connectbtc.com": "INACTIVE",
+            "dev.cryptobara.com": "INACTIVE",
+            "dev.dnb.io": "INACTIVE",
+            "dev.fortrader.ru": "INACTIVE",
+            "dev.gntl.co.uk": "INACTIVE",
+            "dev.gridcash.net": "INACTIVE",
+            "dev.haobtc.com": "INACTIVE"
+        },
+        "1578774221": {
+            "dev.haven.hashvault.pro": "INACTIVE",
+            "dev.haven.nodes.hashvault.pro": "INACTIVE",
+            "dev.internet.moneroseeds.ae.org": "INACTIVE",
+            "dev.krunzy.com": "INACTIVE",
+            "dev.minemonero.pro": "INACTIVE",
+            "dev.miningrigrentals.com": "INACTIVE",
+            "dev.multipool.us": "INACTIVE",
+            "dev.mypool.online": "INACTIVE",
+            "dev.node.grcpool.com": "INACTIVE",
+            "dev.node.turtlepool.space": "INACTIVE"
+        },
+        "1578774222": {
+            "dev.phoneum.io": "INACTIVE",
+            "dev.pool.private-locker.com": "INACTIVE",
+            "dev.prohashing.com": "INACTIVE",
+            "dev.ratingtoplist.com": "INACTIVE",
+            "dev.rustpool.com": "INACTIVE",
+            "dev.solopool.org": "INACTIVE",
+            "dev.turtlepool.space": "INACTIVE",
+            "dev.viabtc.com": "INACTIVE",
+            "dev.xhash.net": "INACTIVE",
+            "dev.xmr.to": "INACTIVE"
+        },
+        "1578774223": {
+            "dev1.gntl.co.uk": "INACTIVE",
+            "dev1212.poolin.com": "INACTIVE",
+            "dev2.gntl.co.uk": "INACTIVE",
+            "dev2.minertopia.org": "INACTIVE",
+            "dev3.gntl.co.uk": "INACTIVE"
         }
     }
 }
