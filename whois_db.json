@@ -7762,7 +7762,7 @@
     "jurtym.cf": {
         "epoch": 1578096000.0,
         "expiration_date": "04-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "justintvizletir.tv": {
         "epoch": 1581897600.0,
@@ -7864,6 +7864,11 @@
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "kipcoin.org": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
     "kiramine.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
@@ -7898,6 +7903,11 @@
         "epoch": "1550620800",
         "expiration_date": "20-feb-2019",
         "state": "past"
+    },
+    "kmd.dev": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
     },
     "kmdmonster.com": {
         "epoch": 1607299200.0,
