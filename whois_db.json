@@ -9324,6 +9324,11 @@
         "expiration_date": "31-jul-2022",
         "state": "future"
     },
+    "monerov.online": {
+        "epoch": 1595894400.0,
+        "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
     "moneroworld.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
@@ -9362,6 +9367,11 @@
     "moonify.io": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "moonpool.network": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "moonsade.com": {
