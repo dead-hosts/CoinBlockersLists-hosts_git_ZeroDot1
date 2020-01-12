@@ -11554,6 +11554,16 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "safex.io": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
+    "safexnews.net": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
     "sakthikaa.com": {
         "epoch": 1753401600.0,
         "expiration_date": "25-jul-2025",
@@ -11607,6 +11617,11 @@
     "scecf.org": {
         "epoch": 1610668800.0,
         "expiration_date": "15-jan-2021",
+        "state": "future"
+    },
+    "schoollt.cn": {
+        "epoch": 1668297600.0,
+        "expiration_date": "13-nov-2022",
         "state": "future"
     },
     "scryptpool.com": {
