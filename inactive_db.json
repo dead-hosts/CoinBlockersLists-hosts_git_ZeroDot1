@@ -8073,128 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578182418": {
-            "stratum.proximapool.com": "INACTIVE",
-            "stratum.solo.nicehash.com": "INACTIVE"
-        },
-        "1578182419": {
-            "stratum.solo.prohashing.com": "INACTIVE",
-            "stratum.sye.host": "INACTIVE",
-            "stratum.usa.zcash.nicehash.com": "INACTIVE",
-            "stratum.viaxmr.com": "INACTIVE",
-            "stratum.virtopia.ca": "INACTIVE",
-            "stratum.zcash.nicehash.com": "INACTIVE",
-            "stratum12.netcodepool.org": "INACTIVE",
-            "stratum2.coin-miners.info": "INACTIVE",
-            "stratum2.miningpool.shop": "INACTIVE"
-        },
-        "1578182420": {
-            "stratum2.node.coin-miners.info": "INACTIVE",
-            "stratum2.wemineltc.com": "INACTIVE",
-            "stratumbu-8-231.static.btcc.com": "INACTIVE",
-            "stratumbu-8.static.btcc.com": "INACTIVE",
-            "stratumx11.miningpool.shop": "INACTIVE",
-            "strb.suprnova.cc": "INACTIVE",
-            "strp.suprnova.cc": "INACTIVE",
-            "student.btc.com": "INACTIVE"
-        },
-        "1578182421": {
-            "student.cryptobrowser.site": "INACTIVE",
-            "stv.coin-miners.info": "INACTIVE",
-            "stv.node.coin-miners.info": "INACTIVE",
-            "stx.suprnova.cc": "INACTIVE",
-            "subloader.cf": "INACTIVE",
-            "subscriber.btcc.com": "INACTIVE",
-            "subscriptions.clona.ru": "INACTIVE",
-            "sucr.multipools.club": "INACTIVE"
-        },
-        "1578182422": {
-            "sum.coin-miners.info": "INACTIVE",
-            "sum.gonspool.com": "INACTIVE",
-            "sum.lightninghash.com": "INACTIVE",
-            "sum.node.coin-miners.info": "INACTIVE",
-            "sum.suprnova.cc": "INACTIVE",
-            "sumo-api.semipool.com": "INACTIVE",
-            "sumo-api.uax.io": "INACTIVE",
-            "sumo-pool2.theskynet.xyz": "INACTIVE",
-            "sumo-usleaf.theskynet.xyz": "INACTIVE"
-        },
-        "1578182423": {
-            "sumo-us.labbinarymining.com": "INACTIVE",
-            "sumo.baikalmine.com": "INACTIVE",
-            "sumo.coinstop.me": "INACTIVE",
-            "sumo.cryptomine.pro": "INACTIVE",
-            "sumo.cryptonoter.com": "INACTIVE",
-            "sumo.cryptopool.space": "INACTIVE",
-            "sumo.dcy.llama.horse": "INACTIVE",
-            "sumo.europool.me": "INACTIVE",
-            "sumo.fairhash.org": "INACTIVE"
-        },
-        "1578182424": {
-            "sumo.ingest.cryptoknight.cc": "INACTIVE",
-            "sumo.llama.horse": "INACTIVE",
-            "sumo.luckypool.org": "INACTIVE",
-            "sumo.luk.llama.horse": "INACTIVE",
-            "sumo.miner-coin.eu": "INACTIVE",
-            "sumo.night-pool.de": "INACTIVE",
-            "sumo.node.bohemianpool.com": "INACTIVE",
-            "sumo.nodes.hashvault.pro": "INACTIVE",
-            "sumo.pandapool.nl": "INACTIVE"
-        },
-        "1578182425": {
-            "sumo.pool.gntl.co.uk": "INACTIVE",
-            "sumo.riefly.id": "INACTIVE",
-            "sumo.rocketpool.pro": "INACTIVE",
-            "sumo.smartcoinpool.com": "INACTIVE",
-            "sumo.soyminero.es": "INACTIVE",
-            "sumo.uax.io": "INACTIVE",
-            "sumo.us.soyminero.es": "INACTIVE",
-            "sumokoin.frackingminer.com": "INACTIVE"
-        },
-        "1578182426": {
-            "sumokoin.hashparty.io": "INACTIVE",
-            "sumokoin.labbinarymining.com": "INACTIVE",
-            "sumokoin.miningcrypto.cash": "INACTIVE",
-            "sumokoin.multipool.es": "INACTIVE",
-            "sumokoin.nodes.hashvault.pro": "INACTIVE",
-            "sumokoin.riefly.id": "INACTIVE",
-            "sumokoin.sumominer.com": "INACTIVE",
-            "sumowallet.sumominer.com": "INACTIVE"
-        },
-        "1578182427": {
-            "sun.poolto.be": "INACTIVE",
-            "sunnimiq2.cf": "INACTIVE",
-            "sunnyjuly.gq": "INACTIVE",
-            "sunpool.to": "INACTIVE",
-            "sup.coin-miners.info": "INACTIVE",
-            "sup.cryptopool.space": "INACTIVE",
-            "sup.node.coin-miners.info": "INACTIVE"
-        },
-        "1578182428": {
-            "sup.luckypool.io": "INACTIVE",
-            "sup.suprnova.cc": "INACTIVE",
-            "super.mine-vn.com": "INACTIVE",
-            "super.xpool.ca": "INACTIVE",
-            "superbay.li": "INACTIVE",
-            "supernode.gridcoin.us": "INACTIVE",
-            "supernode.node.gridcoin.us": "INACTIVE",
-            "support-test-dev.nicehash.com": "INACTIVE"
-        },
-        "1578182429": {
-            "support.2giga.li": "INACTIVE",
-            "support.2giga.link": "INACTIVE",
-            "support.btcc.com": "INACTIVE",
-            "support.clona.ru": "INACTIVE",
-            "support.coin-miners.info": "INACTIVE",
-            "support.cool-pool.net": "INACTIVE"
-        },
         "1578183412": {
-            "support.minertopia.org": "INACTIVE",
-            "support.mypool.online": "INACTIVE",
-            "support.node.coin-miners.info": "INACTIVE",
-            "support.node.gridcoin.us": "INACTIVE",
-            "support.our-rapture.com": "INACTIVE",
-            "support.pool.gntl.co.uk": "INACTIVE",
             "support.pool.golix.com": "INACTIVE",
             "support.scryptpool.com": "INACTIVE"
         },
@@ -27565,6 +27444,152 @@
             "stratum.node.coin-miners.info": "INACTIVE",
             "stratum.node.viaxmr.com": "INACTIVE",
             "stratum.nrg-bonus.minecrypto.pro": "INACTIVE"
+        },
+        "1578825214": {
+            "stratum.prominertools.com": "INACTIVE",
+            "stratum.proximapool.com": "INACTIVE"
+        },
+        "1578825215": {
+            "stratum.simpledrk.com": "INACTIVE",
+            "stratum.simplemulti.com": "INACTIVE",
+            "stratum.solo.nicehash.com": "INACTIVE",
+            "stratum.solo.prohashing.com": "INACTIVE",
+            "stratum.sye.host": "INACTIVE",
+            "stratum.timetomine.net": "INACTIVE",
+            "stratum.usa.zcash.nicehash.com": "INACTIVE",
+            "stratum.viaxmr.com": "INACTIVE"
+        },
+        "1578825216": {
+            "stratum.virtopia.ca": "INACTIVE",
+            "stratum.zcash.nicehash.com": "INACTIVE",
+            "stratum12.netcodepool.org": "INACTIVE",
+            "stratum2.coin-miners.info": "INACTIVE",
+            "stratum2.miningpool.shop": "INACTIVE",
+            "stratum2.node.coin-miners.info": "INACTIVE",
+            "stratum2.wemineltc.com": "INACTIVE"
+        },
+        "1578825217": {
+            "stratumbu-8-231.static.btcc.com": "INACTIVE",
+            "stratumbu-8.static.btcc.com": "INACTIVE",
+            "stratumx11.miningpool.shop": "INACTIVE",
+            "strb.suprnova.cc": "INACTIVE",
+            "strp.suprnova.cc": "INACTIVE"
+        },
+        "1578825218": {
+            "student.btc.com": "INACTIVE",
+            "student.cryptobrowser.site": "INACTIVE",
+            "stv.coin-miners.info": "INACTIVE",
+            "stv.node.coin-miners.info": "INACTIVE",
+            "stx.suprnova.cc": "INACTIVE",
+            "subloader.cf": "INACTIVE",
+            "submit.prominertools.com": "INACTIVE",
+            "subscriber.btcc.com": "INACTIVE",
+            "subscriptions.clona.ru": "INACTIVE"
+        },
+        "1578825219": {
+            "sucr.multipools.club": "INACTIVE",
+            "sum.coin-miners.info": "INACTIVE",
+            "sum.gonspool.com": "INACTIVE",
+            "sum.hashlink.eu": "INACTIVE",
+            "sum.lightninghash.com": "INACTIVE",
+            "sum.node.coin-miners.info": "INACTIVE"
+        },
+        "1578825220": {
+            "sum.miner.id": "INACTIVE",
+            "sum.suprnova.cc": "INACTIVE",
+            "sumo-api.semipool.com": "INACTIVE",
+            "sumo-api.uax.io": "INACTIVE",
+            "sumo-pool2.theskynet.xyz": "INACTIVE",
+            "sumo-us.labbinarymining.com": "INACTIVE",
+            "sumo-usleaf.theskynet.xyz": "INACTIVE",
+            "sumo.asiapool.io": "INACTIVE"
+        },
+        "1578825221": {
+            "sumo.baikalmine.com": "INACTIVE",
+            "sumo.coinstop.me": "INACTIVE",
+            "sumo.cryptomine.pro": "INACTIVE",
+            "sumo.cryptonoter.com": "INACTIVE",
+            "sumo.cryptopool.space": "INACTIVE",
+            "sumo.dcy.llama.horse": "INACTIVE",
+            "sumo.europool.me": "INACTIVE"
+        },
+        "1578825222": {
+            "sumo.fairhash.org": "INACTIVE",
+            "sumo.ingest.cryptoknight.cc": "INACTIVE",
+            "sumo.llama.horse": "INACTIVE",
+            "sumo.luckypool.org": "INACTIVE",
+            "sumo.luk.llama.horse": "INACTIVE",
+            "sumo.miner-coin.eu": "INACTIVE",
+            "sumo.night-pool.de": "INACTIVE",
+            "sumo.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1578825223": {
+            "sumo.node.bohemianpool.com": "INACTIVE",
+            "sumo.pandapool.nl": "INACTIVE",
+            "sumo.pool.gntl.co.uk": "INACTIVE",
+            "sumo.riefly.id": "INACTIVE",
+            "sumo.rocketpool.pro": "INACTIVE",
+            "sumo.smartcoinpool.com": "INACTIVE",
+            "sumo.soyminero.es": "INACTIVE",
+            "sumo.uax.io": "INACTIVE"
+        },
+        "1578825224": {
+            "sumo.us.soyminero.es": "INACTIVE",
+            "sumokoin.frackingminer.com": "INACTIVE",
+            "sumokoin.hashparty.io": "INACTIVE",
+            "sumokoin.labbinarymining.com": "INACTIVE",
+            "sumokoin.miningcrypto.cash": "INACTIVE",
+            "sumokoin.multipool.es": "INACTIVE"
+        },
+        "1578825225": {
+            "sumokoin.nodes.hashvault.pro": "INACTIVE",
+            "sumokoin.riefly.id": "INACTIVE",
+            "sumokoin.sumominer.com": "INACTIVE",
+            "sumowallet.sumominer.com": "INACTIVE",
+            "sun.poolto.be": "INACTIVE",
+            "sunday.hashrate.eu": "INACTIVE"
+        },
+        "1578825226": {
+            "sunnimiq2.cf": "INACTIVE",
+            "sunnyjuly.gq": "INACTIVE",
+            "sunpool.to": "INACTIVE",
+            "sup.coin-miners.info": "INACTIVE",
+            "sup.cryptopool.space": "INACTIVE",
+            "sup.luckypool.io": "INACTIVE",
+            "sup.node.coin-miners.info": "INACTIVE",
+            "sup.suprnova.cc": "INACTIVE"
+        },
+        "1578825227": {
+            "super.cryptopools.com": "INACTIVE",
+            "super.mine-vn.com": "INACTIVE",
+            "super.xpool.ca": "INACTIVE",
+            "superbay.li": "INACTIVE",
+            "superiorcoin.clevery.xyz": "INACTIVE",
+            "supernode.gridcoin.us": "INACTIVE",
+            "supernode.node.gridcoin.us": "INACTIVE"
+        },
+        "1578825228": {
+            "support-test-dev.nicehash.com": "INACTIVE",
+            "support.2giga.li": "INACTIVE",
+            "support.2giga.link": "INACTIVE",
+            "support.btcc.com": "INACTIVE",
+            "support.clona.ru": "INACTIVE",
+            "support.coin-miners.info": "INACTIVE"
+        },
+        "1578825229": {
+            "support.cool-pool.net": "INACTIVE",
+            "support.cryptopool.io": "INACTIVE",
+            "support.cryptopools.com": "INACTIVE",
+            "support.intensecoin.net": "INACTIVE",
+            "support.mypool.online": "INACTIVE"
+        },
+        "1578825230": {
+            "support.minertopia.org": "INACTIVE",
+            "support.node.coin-miners.info": "INACTIVE",
+            "support.node.gridcoin.us": "INACTIVE",
+            "support.our-rapture.com": "INACTIVE",
+            "support.pool.ga": "INACTIVE",
+            "support.pool.gntl.co.uk": "INACTIVE"
         }
     }
 }
