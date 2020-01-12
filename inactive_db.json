@@ -8073,46 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578205540": {
-            "x11p2p.com": "INACTIVE"
-        },
-        "1578205541": {
-            "x14.suprnova.cc": "INACTIVE",
-            "x15.br.nicehash.com": "INACTIVE",
-            "x15.eu.nicehash.com": "INACTIVE",
-            "x15.hk.nicehash.com": "INACTIVE",
-            "x15.in.nicehash.com": "INACTIVE",
-            "x15.jp.nicehash.com": "INACTIVE",
-            "x15.usa.nicehash.com": "INACTIVE"
-        },
-        "1578205542": {
-            "x170.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1578205543": {
-            "x1f.btcc.com": "INACTIVE",
-            "x3c.youpool.io": "INACTIVE",
-            "x4.nlpool.nl": "INACTIVE",
-            "x44.btcc.com": "INACTIVE"
-        },
-        "1578205544": {
-            "x465.btcc.com": "INACTIVE",
-            "x5-56.btcc.com": "INACTIVE",
-            "x578.btcc.com": "INACTIVE",
-            "x88.btcc.com": "INACTIVE",
-            "x8f.btcc.com": "INACTIVE"
-        },
-        "1578205545": {
-            "xao.pool.gntl.co.uk": "INACTIVE",
-            "xao2.mine2gether.com": "INACTIVE",
-            "xar.nosekefik.com": "INACTIVE",
-            "xat.youpool.io": "INACTIVE",
-            "xba9.openvpn.f2pool.com": "INACTIVE",
-            "xbbu.e-pool.net": "INACTIVE",
-            "xbg.cryptoblock.uk": "INACTIVE",
-            "xbit.luckypool.cn": "INACTIVE"
-        },
         "1578205546": {
-            "xbl.miningfield.com": "INACTIVE",
             "xbot.coin-miners.info": "INACTIVE",
             "xbot.node.coin-miners.info": "INACTIVE",
             "xc.luckypool.cn": "INACTIVE",
@@ -28621,6 +28582,65 @@
             "x11.mining-dutch.nl": "INACTIVE",
             "x11.miningpool.shop": "INACTIVE",
             "x11.poolforcoin.com": "INACTIVE"
+        },
+        "1578851458": {
+            "x11p2p.com": "INACTIVE"
+        },
+        "1578851459": {
+            "x14.suprnova.cc": "INACTIVE",
+            "x15.br.nicehash.com": "INACTIVE",
+            "x15.eu.nicehash.com": "INACTIVE"
+        },
+        "1578851460": {
+            "x15.hk.nicehash.com": "INACTIVE",
+            "x15.in.nicehash.com": "INACTIVE",
+            "x15.jp.nicehash.com": "INACTIVE",
+            "x15.usa.nicehash.com": "INACTIVE"
+        },
+        "1578851461": {
+            "x16r.pool.private-locker.com": "INACTIVE"
+        },
+        "1578851462": {
+            "x170.openvpn.f2pool.com": "INACTIVE",
+            "x1f.btcc.com": "INACTIVE",
+            "x2-88.btcc.com": "INACTIVE",
+            "x3c.youpool.io": "INACTIVE"
+        },
+        "1578851463": {
+            "x4.nlpool.nl": "INACTIVE",
+            "x40.btcc.com": "INACTIVE",
+            "x44.btcc.com": "INACTIVE",
+            "x44155.btcc.com": "INACTIVE",
+            "x465.btcc.com": "INACTIVE",
+            "x5-56.btcc.com": "INACTIVE",
+            "x578.btcc.com": "INACTIVE",
+            "x61.btcc.com": "INACTIVE"
+        },
+        "1578851464": {
+            "x6159.btcc.com": "INACTIVE",
+            "x88.btcc.com": "INACTIVE",
+            "x8f.btcc.com": "INACTIVE",
+            "x976.btcc.com": "INACTIVE",
+            "xad.hashlink.eu": "INACTIVE"
+        },
+        "1578851465": {
+            "xao.newpool.pw": "INACTIVE",
+            "xao.pool.gntl.co.uk": "INACTIVE",
+            "xao2.mine2gether.com": "INACTIVE",
+            "xar.nosekefik.com": "INACTIVE",
+            "xaria.multiminer.us": "INACTIVE",
+            "xat.miningpool.gq": "INACTIVE",
+            "xat.youpool.io": "INACTIVE"
+        },
+        "1578851466": {
+            "xavatar.1stminingpool.com": "INACTIVE",
+            "xavieron.us": "INACTIVE",
+            "xba9.openvpn.f2pool.com": "INACTIVE",
+            "xbbu.e-pool.net": "INACTIVE",
+            "xbg.cryptoblock.uk": "INACTIVE",
+            "xbit.hashlink.eu": "INACTIVE",
+            "xbit.luckypool.cn": "INACTIVE",
+            "xbl.miningfield.com": "INACTIVE"
         }
     }
 }
