@@ -8073,98 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578204843": {
-            "www.zadco.moneroseeds.ae.org": "INACTIVE",
-            "www.zahratalkhaleej.moneroseeds.ae.org": "INACTIVE",
-            "www.zarian.bitcoin.inc.hk": "INACTIVE",
-            "www.zavzlen.ru": "INACTIVE",
-            "www.zbucks-us-west.blockfoundry.org": "INACTIVE",
-            "www.zbucks.blockfoundry.org": "INACTIVE"
-        },
-        "1578204844": {
-            "www.zcash-ssl.pool.ethfans.org": "INACTIVE",
-            "www.zcash.kratos.biz": "INACTIVE",
-            "www.zcash.nicehash.com": "INACTIVE",
-            "www.zcash.pool.ethfans.org": "INACTIVE",
-            "www.zcash4u.com": "INACTIVE",
-            "www.zcl.bitpool.ro": "INACTIVE",
-            "www.zcl.lucky-mining.com.ua": "INACTIVE",
-            "www.zdash.coin-miners.info": "INACTIVE",
-            "www.zec.coin-miners.info": "INACTIVE"
-        },
-        "1578204845": {
-            "www.zec.ethfans.org": "INACTIVE",
-            "www.zec.node.coin-miners.info": "INACTIVE",
-            "www.zec.poolmining.eu": "INACTIVE",
-            "www.zecmine.pro": "INACTIVE",
-            "www.zecweb.antpool.com": "INACTIVE",
-            "www.zel.bitpool.ro": "INACTIVE",
-            "www.zel.lucky-mining.com.ua": "INACTIVE",
-            "www.zelcash.axepool.com": "INACTIVE",
-            "www.zen.bitpool.ro": "INACTIVE"
-        },
-        "1578204846": {
-            "www.zen.lucky-mining.com.ua": "INACTIVE",
-            "www.zenpool.org": "INACTIVE",
-            "www.zet.thecoin.pw": "INACTIVE",
-            "www.zivbxion.ru": "INACTIVE",
-            "www.ziykrgc.ru": "INACTIVE",
-            "www.zny.coiner.site": "INACTIVE"
-        },
-        "1578204847": {
-            "www.zpool.wfmpools.com": "INACTIVE",
-            "www.zsw8.cc": "INACTIVE",
-            "www.zyrkminer.com": "INACTIVE",
-            "www.zzqhsrg.ru": "INACTIVE",
-            "www1.2giga.link": "INACTIVE",
-            "www1.epool.io": "INACTIVE",
-            "www2-4-06-5.btcc.com": "INACTIVE"
-        },
-        "1578204848": {
-            "www2-4-4.btcc.com": "INACTIVE",
-            "www2.2giga.link": "INACTIVE",
-            "www2.hellominer.com": "INACTIVE",
-            "www2.wemineltc.com": "INACTIVE",
-            "www28.aikapool.com": "INACTIVE",
-            "www3-5-35.btcc.com": "INACTIVE",
-            "www3.2giga.link": "INACTIVE"
-        },
-        "1578204849": {
-            "www4.2giga.link": "INACTIVE",
-            "www5-4-6.btcc.com": "INACTIVE",
-            "www5.2giga.link": "INACTIVE",
-            "www6-43-2.btcc.com": "INACTIVE",
-            "www6.2giga.link": "INACTIVE",
-            "www7-4-9.btcc.com": "INACTIVE",
-            "www7.2giga.link": "INACTIVE",
-            "www7.phoneum.io": "INACTIVE",
-            "www8-4-50-5.btcc.com": "INACTIVE"
-        },
-        "1578204850": {
-            "wwwe.netcodepool.org": "INACTIVE",
-            "wwwroot.gntl.co.uk": "INACTIVE",
-            "wwww.alpereum.ch": "INACTIVE",
-            "wwww.mining-dutch.nl": "INACTIVE",
-            "wyn-fyctunnelswc.xyz": "INACTIVE",
-            "wyv.suprnova.cc": "INACTIVE",
-            "x.bigoupai.live": "INACTIVE",
-            "x.bitcoin.co.pt": "INACTIVE"
-        },
-        "1578204851": {
-            "x.browsermine.com": "INACTIVE",
-            "x016.btcc.com": "INACTIVE",
-            "x020.btcc.com": "INACTIVE",
-            "x03.btcc.com": "INACTIVE",
-            "x0z.magnificentpool.com": "INACTIVE",
-            "x1.minerxmr.ru": "INACTIVE",
-            "x10-194.btcc.com": "INACTIVE",
-            "x100.btcc.com": "INACTIVE"
-        },
-        "1578204852": {
-            "x11.mining-dutch.nl": "INACTIVE",
-            "x11.miningpool.shop": "INACTIVE",
-            "x11.poolforcoin.com": "INACTIVE"
-        },
         "1578205540": {
             "x11p2p.com": "INACTIVE"
         },
@@ -28621,6 +28529,98 @@
             "www.yolo.lightninghash.com": "INACTIVE",
             "www.yup.coin-miners.info": "INACTIVE",
             "www.yup.node.coin-miners.info": "INACTIVE"
+        },
+        "1578850758": {
+            "www.zadco.moneroseeds.ae.org": "INACTIVE",
+            "www.zahratalkhaleej.moneroseeds.ae.org": "INACTIVE",
+            "www.zarian.bitcoin.inc.hk": "INACTIVE",
+            "www.zavzlen.ru": "INACTIVE",
+            "www.zbucks-us-west.blockfoundry.org": "INACTIVE",
+            "www.zbucks.blockfoundry.org": "INACTIVE",
+            "www.zcash-ssl.pool.ethfans.org": "INACTIVE"
+        },
+        "1578850759": {
+            "www.zcash.kratos.biz": "INACTIVE",
+            "www.zcash.nicehash.com": "INACTIVE",
+            "www.zcash.pool.ethfans.org": "INACTIVE",
+            "www.zcash4u.com": "INACTIVE",
+            "www.zcl.bitpool.ro": "INACTIVE",
+            "www.zcl.lucky-mining.com.ua": "INACTIVE",
+            "www.zdash.coin-miners.info": "INACTIVE"
+        },
+        "1578850760": {
+            "www.zec.coin-miners.info": "INACTIVE",
+            "www.zec.ethfans.org": "INACTIVE",
+            "www.zec.node.coin-miners.info": "INACTIVE",
+            "www.zec.poolmining.eu": "INACTIVE",
+            "www.zecmine.pro": "INACTIVE",
+            "www.zecweb.antpool.com": "INACTIVE",
+            "www.zel.bitpool.ro": "INACTIVE"
+        },
+        "1578850761": {
+            "www.zel.lucky-mining.com.ua": "INACTIVE",
+            "www.zen.bitpool.ro": "INACTIVE",
+            "www.zen.lucky-mining.com.ua": "INACTIVE",
+            "www.zenpool.org": "INACTIVE",
+            "www.zet.thecoin.pw": "INACTIVE"
+        },
+        "1578850762": {
+            "www.zivbxion.ru": "INACTIVE",
+            "www.ziykrgc.ru": "INACTIVE",
+            "www.zny.coiner.site": "INACTIVE",
+            "www.zpool.wfmpools.com": "INACTIVE",
+            "www.zsw8.cc": "INACTIVE"
+        },
+        "1578850763": {
+            "www.zyrkminer.com": "INACTIVE",
+            "www.zzqhsrg.ru": "INACTIVE",
+            "www1.2giga.link": "INACTIVE",
+            "www1.epool.io": "INACTIVE"
+        },
+        "1578850764": {
+            "www2.2giga.link": "INACTIVE",
+            "www2.hellominer.com": "INACTIVE",
+            "www2.wemineltc.com": "INACTIVE",
+            "www224.b5r4h.elitter.net": "INACTIVE",
+            "www224.h35ha.elitter.net": "INACTIVE",
+            "www28.aikapool.com": "INACTIVE"
+        },
+        "1578850765": {
+            "www3.2giga.link": "INACTIVE",
+            "www3024.h45hj.elitter.net": "INACTIVE",
+            "www3024.h4hs.elitter.net": "INACTIVE",
+            "www4.2giga.link": "INACTIVE",
+            "www5-4-6.btcc.com": "INACTIVE",
+            "www5.2giga.link": "INACTIVE",
+            "www6-43-2.btcc.com": "INACTIVE"
+        },
+        "1578850766": {
+            "www6.2giga.link": "INACTIVE",
+            "www7.2giga.link": "INACTIVE",
+            "www7.phoneum.io": "INACTIVE",
+            "wwwe.netcodepool.org": "INACTIVE",
+            "wwwroot.gntl.co.uk": "INACTIVE",
+            "wwww.alpereum.ch": "INACTIVE"
+        },
+        "1578850767": {
+            "wwww.mining-dutch.nl": "INACTIVE",
+            "wyn-fyctunnelswc.xyz": "INACTIVE",
+            "wyv.suprnova.cc": "INACTIVE",
+            "x.bigoupai.live": "INACTIVE",
+            "x.bitcoin.co.pt": "INACTIVE",
+            "x.browsermine.com": "INACTIVE"
+        },
+        "1578850768": {
+            "x.miner.id": "INACTIVE",
+            "x0z.magnificentpool.com": "INACTIVE",
+            "x1.minerxmr.ru": "INACTIVE",
+            "x10-194.btcc.com": "INACTIVE",
+            "x100.btcc.com": "INACTIVE"
+        },
+        "1578850769": {
+            "x11.mining-dutch.nl": "INACTIVE",
+            "x11.miningpool.shop": "INACTIVE",
+            "x11.poolforcoin.com": "INACTIVE"
         }
     }
 }
