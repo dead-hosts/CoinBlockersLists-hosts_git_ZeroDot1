@@ -9920,8 +9920,13 @@
         "state": "future"
     },
     "newpool.pw": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
+    "newpool.xyz": {
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
         "state": "future"
     },
     "nexioniect.com": {
@@ -9932,6 +9937,11 @@
     "nexious.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
+    "next.exchange": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "state": "future"
     },
     "nextbdom.ru": {
