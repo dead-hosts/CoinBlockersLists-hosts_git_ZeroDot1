@@ -8073,82 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578207664": {
-            "xtri.llama.horse": "INACTIVE",
-            "xtri.nbx.llama.horse": "INACTIVE"
-        },
-        "1578207665": {
-            "xtv.poolto.be": "INACTIVE",
-            "xuanqi.btcc.com": "INACTIVE",
-            "xun.communitypool.org": "INACTIVE",
-            "xun.cryptopool.space": "INACTIVE",
-            "xun.cx-pool.gq": "INACTIVE",
-            "xun.ingest.cryptoknight.cc": "INACTIVE",
-            "xvc.suprnova.cc": "INACTIVE",
-            "xvg-groestl.cybtc.info": "INACTIVE"
-        },
-        "1578207666": {
-            "xvg-scrypt.cybtc.info": "INACTIVE",
-            "xvg.antminepool.com": "INACTIVE",
-            "xvg.coinstop.me": "INACTIVE",
-            "xvg.eu1.unimining.net": "INACTIVE",
-            "xvg.suprnova.cc": "INACTIVE",
-            "xvideosharing.si": "INACTIVE",
-            "xvv.bluerockpools.net": "INACTIVE"
-        },
-        "1578207667": {
-            "xvideosharing.site": "INACTIVE",
-            "xwp.cryptoblock.uk": "INACTIVE",
-            "xxx.8282.space": "INACTIVE",
-            "xxx.suprnova.cc": "INACTIVE",
-            "xzc.cybtc.info": "INACTIVE",
-            "xzc.magnificentpool.com": "INACTIVE"
-        },
-        "1578207668": {
-            "xzc.miningpoolhub.com": "INACTIVE",
-            "xzcd.coin-miners.info": "INACTIVE",
-            "xzcd.node.coin-miners.info": "INACTIVE",
-            "xzx.mine-vn.com": "INACTIVE",
-            "y-138.btcc.com": "INACTIVE",
-            "y-142.btcc.com": "INACTIVE",
-            "y-158.btcc.com": "INACTIVE",
-            "y-230.btcc.com": "INACTIVE"
-        },
-        "1578207669": {
-            "y0e8.btcc.com": "INACTIVE",
-            "y1-231.btcc.com": "INACTIVE",
-            "y229.btcc.com": "INACTIVE",
-            "y41-231.btcc.com": "INACTIVE",
-            "y46.btcc.com": "INACTIVE",
-            "y4n3d3b1l.ru": "INACTIVE",
-            "y75.openvpn.f2pool.com": "INACTIVE",
-            "y8-40.btcc.com": "INACTIVE",
-            "y81-231.btcc.com": "INACTIVE"
-        },
-        "1578207670": {
-            "y81.openvpn.f2pool.com": "INACTIVE",
-            "y91-108.btcc.com": "INACTIVE",
-            "y91.btcc.com": "INACTIVE",
-            "y95906u4.beget.tech": "INACTIVE",
-            "yac.coinmine.pl": "INACTIVE",
-            "yac.majorminers.com": "INACTIVE",
-            "yacc.dnb.io": "INACTIVE",
-            "yacp.coinmine.pl": "INACTIVE",
-            "yacpool.coinmine.pl": "INACTIVE",
-            "ybc.coinmine.pl": "INACTIVE"
-        },
-        "1578207671": {
-            "ybh.ybcoin.com": "INACTIVE",
-            "ybjfsqcevow.ru": "INACTIVE",
-            "ycash.voidr.net": "INACTIVE",
-            "yd970318392.btcc.com": "INACTIVE",
-            "yeen.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1578207672": {
-            "yet.suprnova.cc": "INACTIVE",
-            "yfcnhwww.mining-dutch.nl": "INACTIVE",
-            "yguchuanqi.btcc.com": "INACTIVE"
-        },
         "1578207673": {
             "yhouye.btcc.com": "INACTIVE",
             "yiimp.gos.cx": "INACTIVE",
@@ -28706,6 +28630,75 @@
             "xtr.coin-miners.info": "INACTIVE",
             "xtr.hashlink.eu": "INACTIVE",
             "xtr.node.coin-miners.info": "INACTIVE"
+        },
+        "1578854324": {
+            "xtri.llama.horse": "INACTIVE",
+            "xtri.nbx.llama.horse": "INACTIVE",
+            "xtv.poolto.be": "INACTIVE",
+            "xun.communitypool.org": "INACTIVE",
+            "xun.cryptopool.space": "INACTIVE",
+            "xun.cx-pool.gq": "INACTIVE"
+        },
+        "1578854325": {
+            "xun.ingest.cryptoknight.cc": "INACTIVE",
+            "xvc.suprnova.cc": "INACTIVE",
+            "xvg-groestl.cybtc.info": "INACTIVE",
+            "xvg-scrypt.cybtc.info": "INACTIVE",
+            "xvg.antminepool.com": "INACTIVE"
+        },
+        "1578854326": {
+            "xvg.coinstop.me": "INACTIVE",
+            "xvg.eu1.unimining.net": "INACTIVE",
+            "xvg.suprnova.cc": "INACTIVE",
+            "xvideosharing.si": "INACTIVE",
+            "xvideosharing.site": "INACTIVE"
+        },
+        "1578854327": {
+            "xvv.bluerockpools.net": "INACTIVE",
+            "xvv.multiminer.us": "INACTIVE",
+            "xvv.rubypool.com": "INACTIVE",
+            "xwp.cryptoblock.uk": "INACTIVE",
+            "xwp.hashpool.cc": "INACTIVE",
+            "xxx.8282.space": "INACTIVE"
+        },
+        "1578854328": {
+            "xxx.masterpro.site": "INACTIVE",
+            "xxx.suprnova.cc": "INACTIVE",
+            "xzc.cybtc.info": "INACTIVE",
+            "xzc.magnificentpool.com": "INACTIVE",
+            "xzc.miningpoolhub.com": "INACTIVE"
+        },
+        "1578854329": {
+            "xzcd.coin-miners.info": "INACTIVE",
+            "xzcd.node.coin-miners.info": "INACTIVE",
+            "xzx.mine-vn.com": "INACTIVE",
+            "y1-231.btcc.com": "INACTIVE"
+        },
+        "1578854330": {
+            "y46.btcc.com": "INACTIVE",
+            "y4n3d3b1l.ru": "INACTIVE",
+            "y75.openvpn.f2pool.com": "INACTIVE",
+            "y8-40.btcc.com": "INACTIVE",
+            "y81.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1578854331": {
+            "y95906u4.beget.tech": "INACTIVE",
+            "yac.coinmine.pl": "INACTIVE",
+            "yac.majorminers.com": "INACTIVE",
+            "yacc.dnb.io": "INACTIVE",
+            "yacp.coinmine.pl": "INACTIVE",
+            "yacpool.coinmine.pl": "INACTIVE",
+            "ybc.coinmine.pl": "INACTIVE"
+        },
+        "1578854332": {
+            "ybh.ybcoin.com": "INACTIVE",
+            "ybjfsqcevow.ru": "INACTIVE",
+            "ycash.voidr.net": "INACTIVE",
+            "yeen.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1578854334": {
+            "yet.suprnova.cc": "INACTIVE",
+            "yfcnhwww.mining-dutch.nl": "INACTIVE"
         }
     }
 }
