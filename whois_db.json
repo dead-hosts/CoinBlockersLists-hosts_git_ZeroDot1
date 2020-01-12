@@ -9515,8 +9515,8 @@
         "state": "future"
     },
     "my-rigs.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "my-zarinsk.ru": {
@@ -9752,6 +9752,11 @@
     "myminingpool.uk": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "mymoneropool.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "myo-xmr.com": {
