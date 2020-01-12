@@ -8073,111 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578187256": {
-            "v2.srv.eligius.st": "INACTIVE",
-            "v2.usxmrpool.com": "INACTIVE",
-            "v288.openvpn.f2pool.com": "INACTIVE",
-            "v3-test-src.antpool.com": "INACTIVE",
-            "v3-test.antpool.com": "INACTIVE",
-            "v3.luxor.tech": "INACTIVE",
-            "v3.srv.eligius.st": "INACTIVE",
-            "v42.btcc.com": "INACTIVE"
-        },
-        "1578187257": {
-            "v4-0.openvpn.f2pool.com": "INACTIVE",
-            "v6e.openvpn.f2pool.com": "INACTIVE",
-            "v9-39.btcc.com": "INACTIVE",
-            "v90327ux.beget.tech": "INACTIVE",
-            "v97.btcc.com": "INACTIVE",
-            "vali.luckypool.io": "INACTIVE",
-            "valid.luckypool.io": "INACTIVE",
-            "validator.btcprivate.pro": "INACTIVE"
-        },
-        "1578187258": {
-            "vape.coin-miners.info": "INACTIVE",
-            "vape.dnb.io": "INACTIVE",
-            "vape.node.coin-miners.info": "INACTIVE",
-            "vape.suprnova.cc": "INACTIVE",
-            "vat.moneroseeds.ae.org": "INACTIVE",
-            "vault.coin-miners.info": "INACTIVE",
-            "vault.node.coin-miners.info": "INACTIVE",
-            "vault.suprnova.cc": "INACTIVE"
-        },
-        "1578187259": {
-            "vavajija.myjino.ru": "INACTIVE",
-            "vbk-fpga.c3pool.com": "INACTIVE",
-            "vc.miningpoolhub.com": "INACTIVE"
-        },
-        "1578187946": {
-            "vca.miningpoolhub.com": "INACTIVE",
-            "vcas.miningpoolhub.com": "INACTIVE",
-            "vcfs6ip5h6.bi": "INACTIVE",
-            "vcoin.suprnova.cc": "INACTIVE"
-        },
-        "1578187947": {
-            "vec.suprnova.cc": "INACTIVE",
-            "vegas.xmrpool.net": "INACTIVE",
-            "vehicle-solutions.clona.ru": "INACTIVE",
-            "veil.coin-miners.info": "INACTIVE",
-            "veil.node.coin-miners.info": "INACTIVE"
-        },
-        "1578187948": {
-            "veltor.suprnova.cc": "INACTIVE",
-            "veni.coin-miners.info": "INACTIVE",
-            "veni.node.coin-miners.info": "INACTIVE",
-            "ventas.ipadi.xyz": "INACTIVE",
-            "venus.coinimp.com": "INACTIVE",
-            "vermo.suprnova.cc": "INACTIVE"
-        },
-        "1578187949": {
-            "vert.sonofatech.com": "INACTIVE",
-            "vert.suprnova.cc": "INACTIVE",
-            "vertco.in": "INACTIVE",
-            "veruscoin.miningpools.cloud": "INACTIVE",
-            "vesta.luckypool.io": "INACTIVE",
-            "vesta.luckypool.org": "INACTIVE",
-            "vestfoldtracker.pro": "INACTIVE"
-        },
-        "1578187950": {
-            "vetshomevisit.moneroseeds.ae.org": "INACTIVE",
-            "vfa7.openvpn.f2pool.com": "INACTIVE",
-            "vg02h8z1ul.me": "INACTIVE",
-            "vgc.cryptonote.club": "INACTIVE",
-            "vgs.gcpool.eu": "INACTIVE",
-            "vi.suprnova.cc": "INACTIVE",
-            "via.cryptopools.com": "INACTIVE",
-            "via.miningfield.com": "INACTIVE"
-        },
-        "1578187951": {
-            "via.poolto.be": "INACTIVE",
-            "via.suprnova.cc": "INACTIVE",
-            "via.theblocksfactory.com": "INACTIVE",
-            "vic.altpool.pro": "INACTIVE",
-            "vic.baikalmine.com": "INACTIVE",
-            "vic.clona.ru": "INACTIVE",
-            "vic.ehashcoins.org": "INACTIVE",
-            "vic.mine-vn.com": "INACTIVE",
-            "vic.poolmate.online": "INACTIVE"
-        },
-        "1578187952": {
-            "vic.solopool.org": "INACTIVE",
-            "video.aikapool.com": "INACTIVE",
-            "video.streaming.estream.to": "INACTIVE",
-            "vidulum.miningspeed.com": "INACTIVE",
-            "vincoin.universalpool.net": "INACTIVE"
-        },
-        "1578187953": {
-            "vip-ipbc.52hash.com": "INACTIVE",
-            "vip.btcchina.com": "INACTIVE",
-            "vip.cfcnet.to": "INACTIVE",
-            "vip.cfcnet.top": "INACTIVE",
-            "vip.haobtc.com": "INACTIVE",
-            "vip.miningpool.shop": "INACTIVE",
-            "vip.slushpool.com": "INACTIVE",
-            "vip.suprnova.cc": "INACTIVE"
-        },
         "1578187954": {
-            "vip.viabtc.com": "INACTIVE",
             "vip2.miningpool.shop": "INACTIVE",
             "vip2140.minergate.com": "INACTIVE",
             "vip48.wemineltc.com": "INACTIVE",
@@ -27841,6 +27737,144 @@
         "1578830192": {
             "v18370318392606711.btcc.com": "INACTIVE",
             "v2-6.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1578830891": {
+            "v2.srv.eligius.st": "INACTIVE",
+            "v2.usxmrpool.com": "INACTIVE"
+        },
+        "1578830892": {
+            "v2.xmrig.com": "INACTIVE",
+            "v2.zel.cash": "INACTIVE",
+            "v288.openvpn.f2pool.com": "INACTIVE",
+            "v3-test-src.antpool.com": "INACTIVE",
+            "v3-test.antpool.com": "INACTIVE",
+            "v3.luxor.tech": "INACTIVE",
+            "v3.safexnews.net": "INACTIVE",
+            "v3.srv.eligius.st": "INACTIVE"
+        },
+        "1578830893": {
+            "v4-0.openvpn.f2pool.com": "INACTIVE",
+            "v42.btcc.com": "INACTIVE",
+            "v63-84.btcc.com": "INACTIVE",
+            "v6e.openvpn.f2pool.com": "INACTIVE",
+            "v7-52.btcc.com": "INACTIVE",
+            "v9-39.btcc.com": "INACTIVE",
+            "v90327ux.beget.tech": "INACTIVE",
+            "v93.btcc.com": "INACTIVE"
+        },
+        "1578830894": {
+            "v97.btcc.com": "INACTIVE",
+            "vah0xoopeirahnai5la0-7.mailout.bitcoin.de": "INACTIVE",
+            "vali.luckypool.io": "INACTIVE",
+            "valid.luckypool.io": "INACTIVE",
+            "validator.btcprivate.pro": "INACTIVE",
+            "vape.coin-miners.info": "INACTIVE",
+            "vape.dnb.io": "INACTIVE"
+        },
+        "1578830895": {
+            "vape.node.coin-miners.info": "INACTIVE",
+            "vape.suprnova.cc": "INACTIVE",
+            "vat.moneroseeds.ae.org": "INACTIVE",
+            "vault.coin-miners.info": "INACTIVE",
+            "vault.node.coin-miners.info": "INACTIVE",
+            "vault.suprnova.cc": "INACTIVE",
+            "vavajija.myjino.ru": "INACTIVE"
+        },
+        "1578830896": {
+            "vbk-fpga.c3pool.com": "INACTIVE",
+            "vc.cpu-pool.net": "INACTIVE",
+            "vc.miningpoolhub.com": "INACTIVE",
+            "vca.miningpoolhub.com": "INACTIVE",
+            "vcas.miningpoolhub.com": "INACTIVE",
+            "vcfs6ip5h6.bi": "INACTIVE"
+        },
+        "1578830897": {
+            "vcoin.suprnova.cc": "INACTIVE",
+            "vec.suprnova.cc": "INACTIVE",
+            "vegas.xmrpool.net": "INACTIVE"
+        },
+        "1578830898": {
+            "vehicle-solutions.clona.ru": "INACTIVE",
+            "veil.coin-miners.info": "INACTIVE",
+            "veil.node.coin-miners.info": "INACTIVE",
+            "veltor.suprnova.cc": "INACTIVE",
+            "veluntan.btcc.com": "INACTIVE",
+            "ven1.pool2mine.com": "INACTIVE"
+        },
+        "1578830899": {
+            "veni.coin-miners.info": "INACTIVE",
+            "veni.node.coin-miners.info": "INACTIVE",
+            "ventas.ipadi.xyz": "INACTIVE",
+            "venus.coinimp.com": "INACTIVE"
+        },
+        "1578830900": {
+            "veritrol.com": "INACTIVE",
+            "vermo.suprnova.cc": "INACTIVE",
+            "veronite.clevery.xyz": "INACTIVE",
+            "veronite.rubypool.com": "INACTIVE",
+            "vert.hashrate.eu": "INACTIVE",
+            "vert.sonofatech.com": "INACTIVE",
+            "vert.suprnova.cc": "INACTIVE"
+        },
+        "1578830901": {
+            "vertco.in": "INACTIVE",
+            "veruscoin.miningpools.cloud": "INACTIVE",
+            "vesta.luckypool.io": "INACTIVE",
+            "vesta.luckypool.org": "INACTIVE",
+            "vestfoldtracker.pro": "INACTIVE",
+            "vetshomevisit.moneroseeds.ae.org": "INACTIVE",
+            "vfa7.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1578830902": {
+            "vfik.minero.pw": "INACTIVE",
+            "vg02h8z1ul.me": "INACTIVE",
+            "vgc.cryptonote.club": "INACTIVE",
+            "vgs.gcpool.eu": "INACTIVE",
+            "vhubili-8.btcc.com": "INACTIVE",
+            "vi-4.btcc.com": "INACTIVE",
+            "vi.suprnova.cc": "INACTIVE",
+            "via.cryptopools.com": "INACTIVE"
+        },
+        "1578830903": {
+            "via.hashlink.eu": "INACTIVE",
+            "via.miningfield.com": "INACTIVE",
+            "via.poolto.be": "INACTIVE",
+            "via.suprnova.cc": "INACTIVE",
+            "via.theblocksfactory.com": "INACTIVE",
+            "vic.altpool.pro": "INACTIVE",
+            "vic.clona.ru": "INACTIVE"
+        },
+        "1578830904": {
+            "vic.baikalmine.com": "INACTIVE",
+            "vic.cryptopools.info": "INACTIVE",
+            "vic.ehashcoins.org": "INACTIVE",
+            "vic.hashgang.io": "INACTIVE",
+            "vic.mine-vn.com": "INACTIVE",
+            "vic.mole-pool.net": "INACTIVE",
+            "vic.poolmate.online": "INACTIVE",
+            "vic.solopool.org": "INACTIVE"
+        },
+        "1578830905": {
+            "victorium.miningpool.fun": "INACTIVE",
+            "video.aikapool.com": "INACTIVE",
+            "video.streaming.estream.to": "INACTIVE",
+            "vidulum.miningspeed.com": "INACTIVE"
+        },
+        "1578830906": {
+            "village.clevery.xyz": "INACTIVE",
+            "vincoin.universalpool.net": "INACTIVE",
+            "vip-ipbc.52hash.com": "INACTIVE",
+            "vip-rvn.666pool.cn": "INACTIVE",
+            "vip.btcchina.com": "INACTIVE",
+            "vip.cfcnet.to": "INACTIVE",
+            "vip.cfcnet.top": "INACTIVE"
+        },
+        "1578830907": {
+            "vip.haobtc.com": "INACTIVE",
+            "vip.miningpool.shop": "INACTIVE",
+            "vip.slushpool.com": "INACTIVE",
+            "vip.suprnova.cc": "INACTIVE",
+            "vip.viabtc.com": "INACTIVE"
         }
     }
 }
