@@ -8073,113 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578202025": {
-            "www.slg.coin-miners.info": "INACTIVE",
-            "www.slowandsteady.fun": "INACTIVE",
-            "www.smartmining.net": "INACTIVE",
-            "www.smartstarters.moneroseeds.ae.org": "INACTIVE",
-            "www.smithpool.net": "INACTIVE",
-            "www.smokeout.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1578202026": {
-            "www.smtp.bibop.net": "INACTIVE",
-            "www.snahome.com": "INACTIVE",
-            "www.sng.lucky-mining.com.ua": "INACTIVE",
-            "www.snowgem.axepool.com": "INACTIVE",
-            "www.snowgempool.com": "INACTIVE",
-            "www.snowmining.com": "INACTIVE",
-            "www.snus.moneroseeds.ae.org": "INACTIVE",
-            "www.solace.smartcoinpool.com": "INACTIVE",
-            "www.solitario.bitcoin.co.pt": "INACTIVE"
-        },
-        "1578202027": {
-            "www.solo.antpool.com": "INACTIVE",
-            "www.solo.nicehash.com": "INACTIVE",
-            "www.somec.cc": "INACTIVE",
-            "www.sov.lightninghash.com": "INACTIVE",
-            "www.spa.lightninghash.com": "INACTIVE",
-            "www.spectrum.netcodepool.org": "INACTIVE"
-        },
-        "1578202028": {
-            "www.speed.z.cash": "INACTIVE",
-            "www.speedtest.br.nicehash.com": "INACTIVE",
-            "www.speedtest.eu.nicehash.com": "INACTIVE",
-            "www.speedtest.hk.nicehash.com": "INACTIVE",
-            "www.speedtest.in.nicehash.com": "INACTIVE",
-            "www.speedtest.jp.nicehash.com": "INACTIVE",
-            "www.speedtest.usa.nicehash.com": "INACTIVE",
-            "www.spmu.moneroseeds.ae.org": "INACTIVE",
-            "www.spn.lightninghash.com": "INACTIVE"
-        },
-        "1578202029": {
-            "www.spotusd-wsp.btcc.com": "INACTIVE",
-            "www.sptlkiyjsglayc.ru": "INACTIVE",
-            "www.squashpool.com": "INACTIVE",
-            "www.srcu.pw": "INACTIVE",
-            "www.stackoverflow666.sytes.net": "INACTIVE",
-            "www.staging.frackingminer.com": "INACTIVE"
-        },
-        "1578202030": {
-            "www.staging.btcchina.com": "INACTIVE",
-            "www.staging.mining.sg": "INACTIVE",
-            "www.staging.whalesburg.com": "INACTIVE",
-            "www.staging.xmr.to": "INACTIVE",
-            "www.staging.z.cash": "INACTIVE",
-            "www.staratum.netcodepool.org": "INACTIVE",
-            "www.startum.netcodepool.org": "INACTIVE",
-            "www.stat.gos.cx": "INACTIVE"
-        },
-        "1578202031": {
-            "www.stat0808.info": "INACTIVE",
-            "www.stati.bid": "INACTIVE",
-            "www.static.atomminer.com": "INACTIVE",
-            "www.static.getmonero.org": "INACTIVE",
-            "www.static.reasedoper.pw": "INACTIVE",
-            "www.stats.antpool.com": "INACTIVE",
-            "www.stats.cryptotab.net": "INACTIVE",
-            "www.stats.ethfans.org": "INACTIVE",
-            "www.stats.gpool.guru": "INACTIVE"
-        },
-        "1578202032": {
-            "www.status.coin-miners.info": "INACTIVE",
-            "www.status.n3rd3d.com": "INACTIVE",
-            "www.status.nicehash.com": "INACTIVE",
-            "www.status.node.coin-miners.info": "INACTIVE",
-            "www.steeflssow.tk": "INACTIVE",
-            "www.stellite.blockfoundry.org": "INACTIVE",
-            "www.store.coinbase.com": "INACTIVE"
-        },
-        "1578202033": {
-            "www.strakspool.com": "INACTIVE",
-            "www.stratum-bcc.antpool.com": "INACTIVE",
-            "www.stratum-btm.antpool.com": "INACTIVE",
-            "www.stratum-dash.antpool.com": "INACTIVE",
-            "www.stratum-etc.antpool.com": "INACTIVE",
-            "www.stratum-eth.antpool.com": "INACTIVE",
-            "www.stratum-eu.coin-miners.info": "INACTIVE",
-            "www.stratum-eu.node.coin-miners.info": "INACTIVE",
-            "www.stratum-ltc.antpool.com": "INACTIVE",
-            "www.stratum-sc.antpool.com": "INACTIVE"
-        },
-        "1578202034": {
-            "www.stratum-xmc.antpool.com": "INACTIVE",
-            "www.stratum-xmr.antpool.com": "INACTIVE",
-            "www.stratum-zec.antpool.com": "INACTIVE",
-            "www.stratum.aikapool.com": "INACTIVE",
-            "www.stratum.antpool.com": "INACTIVE",
-            "www.stratum.backup-pool.com": "INACTIVE",
-            "www.stratum.btcchina.com": "INACTIVE",
-            "www.stratum.bw.com": "INACTIVE",
-            "www.stratum.coin-miners.info": "INACTIVE"
-        },
-        "1578202035": {
-            "www.stratum.netcodepool.org": "INACTIVE",
-            "www.stratum.node.coin-miners.info": "INACTIVE",
-            "www.stratum.node.viaxmr.com": "INACTIVE",
-            "www.stratum.solo.nicehash.com": "INACTIVE",
-            "www.stratum.viaxmr.com": "INACTIVE",
-            "www.stratum12.netcodepool.org": "INACTIVE"
-        },
         "1578202036": {
             "www.sugarchain.org": "INACTIVE",
             "www.sum.lightninghash.com": "INACTIVE"
@@ -28502,6 +28395,129 @@
             "www.skunk.eu.nicehash.com": "INACTIVE",
             "www.skunk.in.nicehash.com": "INACTIVE",
             "www.skunz.ru": "INACTIVE"
+        },
+        "1578847236": {
+            "www.slg.coin-miners.info": "INACTIVE",
+            "www.slowandsteady.fun": "INACTIVE",
+            "www.smartmining.net": "INACTIVE"
+        },
+        "1578847237": {
+            "www.smartstarters.moneroseeds.ae.org": "INACTIVE",
+            "www.smokeout.moneroseeds.ae.org": "INACTIVE",
+            "www.smtp.bibop.net": "INACTIVE",
+            "www.snahome.com": "INACTIVE",
+            "www.sng.lucky-mining.com.ua": "INACTIVE",
+            "www.snowgempool.com": "INACTIVE"
+        },
+        "1578847238": {
+            "www.snowmining.com": "INACTIVE",
+            "www.snus.moneroseeds.ae.org": "INACTIVE",
+            "www.solace.smartcoinpool.com": "INACTIVE",
+            "www.solitario.bitcoin.co.pt": "INACTIVE",
+            "www.solo.antpool.com": "INACTIVE",
+            "www.solo.nicehash.com": "INACTIVE",
+            "www.solomine.org": "INACTIVE"
+        },
+        "1578847239": {
+            "www.somec.cc": "INACTIVE",
+            "www.soozi-tsf.xyz": "INACTIVE",
+            "www.soporte.sucrecoin.org": "INACTIVE",
+            "www.sov.lightninghash.com": "INACTIVE",
+            "www.spa.lightninghash.com": "INACTIVE"
+        },
+        "1578847240": {
+            "www.spectrum.netcodepool.org": "INACTIVE",
+            "www.speed.z.cash": "INACTIVE",
+            "www.speedpool.to": "INACTIVE",
+            "www.speedtest.br.nicehash.com": "INACTIVE",
+            "www.speedtest.eu.nicehash.com": "INACTIVE",
+            "www.speedtest.hk.nicehash.com": "INACTIVE",
+            "www.speedtest.in.nicehash.com": "INACTIVE",
+            "www.speedtest.jp.nicehash.com": "INACTIVE",
+            "www.speedtest.usa.nicehash.com": "INACTIVE"
+        },
+        "1578847241": {
+            "www.spmu.moneroseeds.ae.org": "INACTIVE",
+            "www.spn.lightninghash.com": "INACTIVE",
+            "www.spotusd-data.btcc.com": "INACTIVE",
+            "www.spotusd-ws.btcc.com": "INACTIVE",
+            "www.spotusd-wsp.btcc.com": "INACTIVE",
+            "www.spritzee.ru": "INACTIVE"
+        },
+        "1578847242": {
+            "www.sptlkiyjsglayc.ru": "INACTIVE",
+            "www.squashpool.com": "INACTIVE",
+            "www.srcu.pw": "INACTIVE",
+            "www.stack.pirl.network": "INACTIVE",
+            "www.stackoverflow666.sytes.net": "INACTIVE",
+            "www.staging.frackingminer.com": "INACTIVE"
+        },
+        "1578847243": {
+            "www.staging.btcchina.com": "INACTIVE",
+            "www.staging.mining.sg": "INACTIVE",
+            "www.staging.whalesburg.com": "INACTIVE",
+            "www.staging.xmr.to": "INACTIVE",
+            "www.staging.z.cash": "INACTIVE",
+            "www.staratum.netcodepool.org": "INACTIVE",
+            "www.startum.netcodepool.org": "INACTIVE"
+        },
+        "1578847244": {
+            "www.stat.gos.cx": "INACTIVE",
+            "www.stat0808.info": "INACTIVE",
+            "www.stati.bid": "INACTIVE",
+            "www.static.atomminer.com": "INACTIVE",
+            "www.static.btcc.com": "INACTIVE",
+            "www.static.getmonero.org": "INACTIVE",
+            "www.static.reasedoper.pw": "INACTIVE"
+        },
+        "1578847245": {
+            "www.stats.antpool.com": "INACTIVE",
+            "www.stats.cryptotab.net": "INACTIVE",
+            "www.stats.ethfans.org": "INACTIVE",
+            "www.stats.gpool.guru": "INACTIVE",
+            "www.stats.parspool.net": "INACTIVE",
+            "www.status.coin-miners.info": "INACTIVE",
+            "www.status.n3rd3d.com": "INACTIVE",
+            "www.status.nicehash.com": "INACTIVE"
+        },
+        "1578847246": {
+            "www.status.node.coin-miners.info": "INACTIVE",
+            "www.stellite.blockfoundry.org": "INACTIVE",
+            "www.store.coinbase.com": "INACTIVE",
+            "www.store.cryptopools.com": "INACTIVE"
+        },
+        "1578847247": {
+            "www.strakspool.com": "INACTIVE",
+            "www.stratum-bcc.antpool.com": "INACTIVE",
+            "www.stratum-btm.antpool.com": "INACTIVE",
+            "www.stratum-dash.antpool.com": "INACTIVE",
+            "www.stratum-etc.antpool.com": "INACTIVE",
+            "www.stratum-eth.antpool.com": "INACTIVE",
+            "www.stratum-eu.coin-miners.info": "INACTIVE"
+        },
+        "1578847248": {
+            "www.stratum-eu.node.coin-miners.info": "INACTIVE",
+            "www.stratum-ltc.antpool.com": "INACTIVE",
+            "www.stratum-sc.antpool.com": "INACTIVE",
+            "www.stratum-xmc.antpool.com": "INACTIVE",
+            "www.stratum-xmr.antpool.com": "INACTIVE",
+            "www.stratum-zec.antpool.com": "INACTIVE",
+            "www.stratum.aikapool.com": "INACTIVE",
+            "www.stratum.antpool.com": "INACTIVE",
+            "www.stratum.backup-pool.com": "INACTIVE"
+        },
+        "1578847249": {
+            "www.stratum.btcchina.com": "INACTIVE",
+            "www.stratum.bw.com": "INACTIVE",
+            "www.stratum.coin-miners.info": "INACTIVE",
+            "www.stratum.netcodepool.org": "INACTIVE",
+            "www.stratum.node.coin-miners.info": "INACTIVE",
+            "www.stratum.node.viaxmr.com": "INACTIVE",
+            "www.stratum.solo.nicehash.com": "INACTIVE"
+        },
+        "1578847250": {
+            "www.stratum.viaxmr.com": "INACTIVE",
+            "www.stratum12.netcodepool.org": "INACTIVE"
         }
     }
 }
