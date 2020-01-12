@@ -8073,124 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578178111": {
-            "scrypt.coinstop.me": "INACTIVE",
-            "scrypt.ispace.co.uk": "INACTIVE",
-            "scrypt.mine.coinstop.me": "INACTIVE"
-        },
-        "1578178112": {
-            "scrypt.mining-dutch.nl": "INACTIVE",
-            "scryptjaneleo.eu.nicehash.com": "INACTIVE",
-            "scryptjaneleo.usa.nicehash.com": "INACTIVE",
-            "scsy.coin-miners.info": "INACTIVE",
-            "scsy.node.coin-miners.info": "INACTIVE",
-            "scsy.suprnova.cc": "INACTIVE",
-            "scure.gntl.co.uk": "INACTIVE"
-        },
-        "1578178113": {
-            "sd.itsga.ga": "INACTIVE",
-            "sdash.coin-miners.info": "INACTIVE",
-            "sdash.node.coin-miners.info": "INACTIVE",
-            "sdc.coin-miners.info": "INACTIVE",
-            "sdc.node.coin-miners.info": "INACTIVE",
-            "sdfsd.miningpoolhub.com": "INACTIVE",
-            "se2.kano.is": "INACTIVE",
-            "sea.cryptoloot.pro": "INACTIVE"
-        },
-        "1578178114": {
-            "sea.kci.moneroseeds.ae.org": "INACTIVE",
-            "sean.staging.z.cash": "INACTIVE",
-            "searchdf.biz": "INACTIVE",
-            "seasonaloffers.club": "INACTIVE",
-            "seattle.hashing.space": "INACTIVE",
-            "seattle.minemonero.pro": "INACTIVE",
-            "seattle.monero.hashvault.pro": "INACTIVE",
-            "seattle.monero.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1578178115": {
-            "seattle01.minemonero.pro": "INACTIVE",
-            "seattle01.monero.hashvault.pro": "INACTIVE",
-            "seattle01.monero.nodes.hashvault.pro": "INACTIVE",
-            "sec.kratos.biz": "INACTIVE",
-            "sec.suprnova.cc": "INACTIVE",
-            "secnode1.miningspeed.com": "INACTIVE",
-            "secnode10.miningspeed.com": "INACTIVE",
-            "secnode11.miningspeed.com": "INACTIVE",
-            "secnode12.miningspeed.com": "INACTIVE",
-            "secnode13.miningspeed.com": "INACTIVE"
-        },
-        "1578178116": {
-            "secnode14.miningspeed.com": "INACTIVE",
-            "secnode15.miningspeed.com": "INACTIVE",
-            "secnode16.miningspeed.com": "INACTIVE",
-            "secnode17.miningspeed.com": "INACTIVE",
-            "secnode18.miningspeed.com": "INACTIVE",
-            "secnode19.miningspeed.com": "INACTIVE",
-            "secnode2.miningspeed.com": "INACTIVE",
-            "secnode20.miningspeed.com": "INACTIVE",
-            "secnode21.miningspeed.com": "INACTIVE",
-            "secnode22.miningspeed.com": "INACTIVE",
-            "secnode24.miningspeed.com": "INACTIVE"
-        },
-        "1578178117": {
-            "secnode23.miningspeed.com": "INACTIVE",
-            "secnode25.miningspeed.com": "INACTIVE",
-            "secnode26.miningspeed.com": "INACTIVE",
-            "secnode3.miningspeed.com": "INACTIVE",
-            "secnode4.miningspeed.com": "INACTIVE",
-            "secnode5.miningspeed.com": "INACTIVE",
-            "secnode6.miningspeed.com": "INACTIVE",
-            "secnode7.miningspeed.com": "INACTIVE",
-            "secnode8.miningspeed.com": "INACTIVE",
-            "secnode9.miningspeed.com": "INACTIVE"
-        },
-        "1578178118": {
-            "secuer.gntl.co.uk": "INACTIVE",
-            "secumine.net": "INACTIVE",
-            "secur.gntl.co.uk": "INACTIVE",
-            "secure.akumaxmr.com": "INACTIVE",
-            "secure.dev.gntl.co.uk": "INACTIVE",
-            "secure.mbkpool.info": "INACTIVE",
-            "secure.pool.gntl.co.uk": "INACTIVE",
-            "secureimap.coinminerz.com": "INACTIVE"
-        },
-        "1578178119": {
-            "secureimap.gntl.co.uk": "INACTIVE",
-            "secureinvestmentfund.99btc.net": "INACTIVE",
-            "securenode.miningspeed.com": "INACTIVE",
-            "securenode01.minepool.hu": "INACTIVE",
-            "securenode03.minepool.hu": "INACTIVE",
-            "securre.gntl.co.uk": "INACTIVE",
-            "secuure.gntl.co.uk": "INACTIVE",
-            "sed.suprnova.cc": "INACTIVE",
-            "sedo.luckypool.io": "INACTIVE",
-            "seecure.gntl.co.uk": "INACTIVE"
-        },
-        "1578178120": {
-            "seed-1.nimiq.net": "INACTIVE",
-            "seed-10.nimiq.net": "INACTIVE",
-            "seed-11.nimiq.net": "INACTIVE",
-            "seed-12.nimiq.net": "INACTIVE",
-            "seed-13.nimiq.net": "INACTIVE",
-            "seed-14.nimiq.net": "INACTIVE",
-            "seed-15.nimiq.net": "INACTIVE"
-        },
-        "1578178121": {
-            "seed-16.nimiq.net": "INACTIVE",
-            "seed-17.nimiq.net": "INACTIVE",
-            "seed-18.nimiq.net": "INACTIVE",
-            "seed-19.nimiq.net": "INACTIVE",
-            "seed-2.nimiq.net": "INACTIVE",
-            "seed-20.nimiq.net": "INACTIVE",
-            "seed-3.nimiq.net": "INACTIVE"
-        },
-        "1578178122": {
-            "seed-4.nimiq.net": "INACTIVE",
-            "seed-5.nimiq.net": "INACTIVE",
-            "seed-6.nimiq.net": "INACTIVE"
-        },
         "1578178821": {
-            "seed-7.nimiq.net": "INACTIVE",
             "seed-8.nimiq.net": "INACTIVE",
             "seed-9.nimiq.net": "INACTIVE",
             "seed-can-1.inf.nimiq.net": "INACTIVE",
@@ -27359,6 +27242,133 @@
         "1578818843": {
             "script.node.nimiqpool.com": "INACTIVE",
             "scrt.suprnova.cc": "INACTIVE"
+        },
+        "1578819529": {
+            "scrypt.coinstop.me": "INACTIVE"
+        },
+        "1578819530": {
+            "scrypt.ispace.co.uk": "INACTIVE",
+            "scrypt.mine.coinstop.me": "INACTIVE",
+            "scrypt.mining-dutch.nl": "INACTIVE",
+            "scryptjaneleo.eu.nicehash.com": "INACTIVE",
+            "scryptjaneleo.usa.nicehash.com": "INACTIVE"
+        },
+        "1578819531": {
+            "scsy.coin-miners.info": "INACTIVE",
+            "scsy.node.coin-miners.info": "INACTIVE",
+            "scsy.suprnova.cc": "INACTIVE",
+            "scure.gntl.co.uk": "INACTIVE",
+            "sd.itsga.ga": "INACTIVE",
+            "sdash.coin-miners.info": "INACTIVE",
+            "sdash.node.coin-miners.info": "INACTIVE"
+        },
+        "1578819532": {
+            "sdc.coin-miners.info": "INACTIVE",
+            "sdc.node.coin-miners.info": "INACTIVE",
+            "sdfsd.miningpoolhub.com": "INACTIVE",
+            "se2.kano.is": "INACTIVE",
+            "sea.connectbtc.com": "INACTIVE",
+            "sea.cryptoloot.pro": "INACTIVE"
+        },
+        "1578819533": {
+            "sea.kci.moneroseeds.ae.org": "INACTIVE",
+            "sean.staging.z.cash": "INACTIVE",
+            "searchdf.biz": "INACTIVE",
+            "seasonaloffers.club": "INACTIVE",
+            "seattle.hashing.space": "INACTIVE",
+            "seattle.minemonero.pro": "INACTIVE",
+            "seattle.monero.hashvault.pro": "INACTIVE",
+            "seattle.monero.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1578819534": {
+            "seattle01.minemonero.pro": "INACTIVE",
+            "seattle01.monero.hashvault.pro": "INACTIVE",
+            "seattle01.monero.nodes.hashvault.pro": "INACTIVE",
+            "sec.kratos.biz": "INACTIVE",
+            "sec.suprnova.cc": "INACTIVE",
+            "secnode.luckpool.net": "INACTIVE",
+            "secnode1.miningspeed.com": "INACTIVE",
+            "secnode10.miningspeed.com": "INACTIVE",
+            "secnode11.miningspeed.com": "INACTIVE"
+        },
+        "1578819535": {
+            "secnode12.miningspeed.com": "INACTIVE",
+            "secnode13.miningspeed.com": "INACTIVE",
+            "secnode14.miningspeed.com": "INACTIVE",
+            "secnode15.miningspeed.com": "INACTIVE",
+            "secnode16.miningspeed.com": "INACTIVE",
+            "secnode17.miningspeed.com": "INACTIVE",
+            "secnode18.miningspeed.com": "INACTIVE",
+            "secnode19.miningspeed.com": "INACTIVE",
+            "secnode2.miningspeed.com": "INACTIVE",
+            "secnode20.miningspeed.com": "INACTIVE"
+        },
+        "1578819536": {
+            "secnode21.miningspeed.com": "INACTIVE",
+            "secnode22.miningspeed.com": "INACTIVE",
+            "secnode23.miningspeed.com": "INACTIVE",
+            "secnode24.miningspeed.com": "INACTIVE",
+            "secnode25.miningspeed.com": "INACTIVE",
+            "secnode26.miningspeed.com": "INACTIVE",
+            "secnode3.miningspeed.com": "INACTIVE",
+            "secnode4.miningspeed.com": "INACTIVE",
+            "secnode5.miningspeed.com": "INACTIVE"
+        },
+        "1578819537": {
+            "secnode6.miningspeed.com": "INACTIVE",
+            "secnode7.miningspeed.com": "INACTIVE",
+            "secnode8.miningspeed.com": "INACTIVE",
+            "secnode9.miningspeed.com": "INACTIVE",
+            "second-us.whalesburg.com": "INACTIVE",
+            "secuer.gntl.co.uk": "INACTIVE",
+            "secumine.net": "INACTIVE",
+            "secur.gntl.co.uk": "INACTIVE",
+            "secure-us.whalesburg.com": "INACTIVE"
+        },
+        "1578819538": {
+            "secure.akumaxmr.com": "INACTIVE",
+            "secure.connectbtc.com": "INACTIVE",
+            "secure.dev.gntl.co.uk": "INACTIVE",
+            "secure.mbkpool.info": "INACTIVE",
+            "secure.pool.gntl.co.uk": "INACTIVE",
+            "secure.spotmecoin.com": "INACTIVE",
+            "secureimap.coinminerz.com": "INACTIVE"
+        },
+        "1578819539": {
+            "secureimap.gntl.co.uk": "INACTIVE",
+            "secureinvestmentfund.99btc.net": "INACTIVE",
+            "securenode.miningspeed.com": "INACTIVE",
+            "securenode01.minepool.hu": "INACTIVE",
+            "securenode03.minepool.hu": "INACTIVE",
+            "securre.gntl.co.uk": "INACTIVE",
+            "secuure.gntl.co.uk": "INACTIVE",
+            "sed.suprnova.cc": "INACTIVE",
+            "sedo.luckypool.io": "INACTIVE"
+        },
+        "1578819540": {
+            "seecure.gntl.co.uk": "INACTIVE",
+            "seed-1.nimiq.net": "INACTIVE",
+            "seed-10.nimiq.net": "INACTIVE",
+            "seed-11.nimiq.net": "INACTIVE",
+            "seed-12.nimiq.net": "INACTIVE",
+            "seed-13.nimiq.net": "INACTIVE"
+        },
+        "1578819541": {
+            "seed-14.nimiq.net": "INACTIVE",
+            "seed-15.nimiq.net": "INACTIVE",
+            "seed-16.nimiq.net": "INACTIVE",
+            "seed-17.nimiq.net": "INACTIVE",
+            "seed-18.nimiq.net": "INACTIVE",
+            "seed-19.nimiq.net": "INACTIVE",
+            "seed-2.nimiq.net": "INACTIVE"
+        },
+        "1578819542": {
+            "seed-20.nimiq.net": "INACTIVE",
+            "seed-3.nimiq.net": "INACTIVE",
+            "seed-4.nimiq.net": "INACTIVE",
+            "seed-5.nimiq.net": "INACTIVE",
+            "seed-6.nimiq.net": "INACTIVE",
+            "seed-7.nimiq.net": "INACTIVE"
         }
     }
 }
