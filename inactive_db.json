@@ -8073,81 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578178821": {
-            "seed-8.nimiq.net": "INACTIVE",
-            "seed-9.nimiq.net": "INACTIVE",
-            "seed-can-1.inf.nimiq.net": "INACTIVE",
-            "seed-can-2.inf.nimiq.net": "INACTIVE",
-            "seed-deu-1.inf.nimiq.net": "INACTIVE",
-            "seed-deu-2.inf.nimiq.net": "INACTIVE"
-        },
-        "1578178822": {
-            "seed-deu-3.inf.nimiq.net": "INACTIVE",
-            "seed-deu-4.inf.nimiq.net": "INACTIVE",
-            "seed-fra-1.inf.nimiq.net": "INACTIVE",
-            "seed-fra-2.inf.nimiq.net": "INACTIVE",
-            "seed-fra-3.inf.nimiq.net": "INACTIVE",
-            "seed-fra-4.inf.nimiq.net": "INACTIVE",
-            "seed-fra-5.inf.nimiq.net": "INACTIVE",
-            "seed-fra-6.inf.nimiq.net": "INACTIVE",
-            "seed-gbr-1.inf.nimiq.net": "INACTIVE"
-        },
-        "1578178823": {
-            "seed-gbr-2.inf.nimiq.net": "INACTIVE",
-            "seed-gbr-3.inf.nimiq.net": "INACTIVE",
-            "seed-gbr-4.inf.nimiq.net": "INACTIVE",
-            "seed-pol-1.inf.nimiq.net": "INACTIVE",
-            "seed-pol-2.inf.nimiq.net": "INACTIVE",
-            "seed-pol-3.inf.nimiq.net": "INACTIVE",
-            "seed-pol-4.inf.nimiq.net": "INACTIVE",
-            "seed.bluematt.me": "INACTIVE"
-        },
-        "1578178824": {
-            "seed.ecac.io": "INACTIVE",
-            "seed.graft.network": "INACTIVE",
-            "seed.nimpool.io": "INACTIVE",
-            "seed.node.nimiqpool.com": "INACTIVE",
-            "seed.pool.cdy.one": "INACTIVE",
-            "seed.suprnova.cc": "INACTIVE",
-            "seed01.eosusa.ne": "INACTIVE",
-            "seed02.eosusa.ne": "INACTIVE"
-        },
-        "1578178825": {
-            "seed1.elphyrecoin.xyz": "INACTIVE",
-            "seed1.siriuspool.net": "INACTIVE",
-            "seed1.sushipool.com": "INACTIVE",
-            "seed2.phoenixcoin.org": "INACTIVE",
-            "seedbox.node.coin-miners.info": "INACTIVE"
-        },
-        "1578178826": {
-            "seedbox2.coin-miners.info": "INACTIVE",
-            "seedbox2.node.coin-miners.info": "INACTIVE",
-            "seedbox3.coin-miners.info": "INACTIVE",
-            "seedbox3.node.coin-miners.info": "INACTIVE",
-            "seedrs.node.nimiqpool.com": "INACTIVE",
-            "seeds.bitcoin.com": "INACTIVE",
-            "seeds.moneroseeds.ae.org": "INACTIVE",
-            "seeds.moneroseeds.ch": "INACTIVE",
-            "seeds.moneroseeds.se": "INACTIVE"
-        },
-        "1578178827": {
-            "sen.suprnova.cc": "INACTIVE",
-            "sendinblue.hitbtc.com": "INACTIVE",
-            "server.aikapool.com": "INACTIVE"
-        },
-        "1578178828": {
-            "server.bacm.ro": "INACTIVE",
-            "server.bluematt.me": "INACTIVE",
-            "server.btc.com": "INACTIVE",
-            "server.cryptomineros.com": "INACTIVE",
-            "server.gntl.co.uk": "INACTIVE",
-            "server.mtred.com": "INACTIVE",
-            "server.thulani.za.net": "INACTIVE",
-            "server1.at0m.pw": "INACTIVE",
-            "server1.coin-miners.info": "INACTIVE"
-        },
         "1578178829": {
-            "server1.krunzy.com": "INACTIVE",
             "server1.node.coin-miners.info": "INACTIVE",
             "server2.bitclub.network": "INACTIVE",
             "server2.p2pool.org": "INACTIVE",
@@ -27369,6 +27295,102 @@
             "seed-5.nimiq.net": "INACTIVE",
             "seed-6.nimiq.net": "INACTIVE",
             "seed-7.nimiq.net": "INACTIVE"
+        },
+        "1578820224": {
+            "seed-8.nimiq.net": "INACTIVE",
+            "seed-9.nimiq.net": "INACTIVE",
+            "seed-can-1.inf.nimiq.net": "INACTIVE",
+            "seed-can-2.inf.nimiq.net": "INACTIVE",
+            "seed-deu-1.inf.nimiq.net": "INACTIVE",
+            "seed-deu-2.inf.nimiq.net": "INACTIVE",
+            "seed-deu-3.inf.nimiq.net": "INACTIVE",
+            "seed-deu-4.inf.nimiq.net": "INACTIVE"
+        },
+        "1578820225": {
+            "seed-fra-1.inf.nimiq.net": "INACTIVE",
+            "seed-fra-2.inf.nimiq.net": "INACTIVE",
+            "seed-fra-3.inf.nimiq.net": "INACTIVE",
+            "seed-fra-4.inf.nimiq.net": "INACTIVE",
+            "seed-fra-5.inf.nimiq.net": "INACTIVE",
+            "seed-fra-6.inf.nimiq.net": "INACTIVE",
+            "seed-gbr-1.inf.nimiq.net": "INACTIVE",
+            "seed-gbr-2.inf.nimiq.net": "INACTIVE"
+        },
+        "1578820226": {
+            "seed-gbr-3.inf.nimiq.net": "INACTIVE",
+            "seed-gbr-4.inf.nimiq.net": "INACTIVE",
+            "seed-pol-1.inf.nimiq.net": "INACTIVE",
+            "seed-pol-2.inf.nimiq.net": "INACTIVE",
+            "seed-pol-3.inf.nimiq.net": "INACTIVE",
+            "seed-pol-4.inf.nimiq.net": "INACTIVE"
+        },
+        "1578820227": {
+            "seed.bluematt.me": "INACTIVE",
+            "seed.btcc.com": "INACTIVE",
+            "seed.ecac.io": "INACTIVE",
+            "seed.graft.network": "INACTIVE",
+            "seed.hashlink.eu": "INACTIVE",
+            "seed.nimpool.io": "INACTIVE",
+            "seed.node.nimiqpool.com": "INACTIVE",
+            "seed.pool.cdy.one": "INACTIVE"
+        },
+        "1578820228": {
+            "seed.pyrite.pw": "INACTIVE",
+            "seed.suprnova.cc": "INACTIVE",
+            "seed01.eosusa.ne": "INACTIVE",
+            "seed02.eosusa.ne": "INACTIVE",
+            "seed1.elphyrecoin.xyz": "INACTIVE",
+            "seed1.siriuspool.net": "INACTIVE"
+        },
+        "1578820229": {
+            "seed1.smartcash.cc": "INACTIVE",
+            "seed1.sushipool.com": "INACTIVE",
+            "seed2.phoenixcoin.org": "INACTIVE",
+            "seed2.pigeoncoin.org": "INACTIVE"
+        },
+        "1578820230": {
+            "seedbox.clevery.xyz": "INACTIVE",
+            "seedbox.node.coin-miners.info": "INACTIVE",
+            "seedbox2.coin-miners.info": "INACTIVE",
+            "seedbox2.node.coin-miners.info": "INACTIVE",
+            "seedbox3.coin-miners.info": "INACTIVE",
+            "seedbox3.node.coin-miners.info": "INACTIVE",
+            "seedcloud.clevery.xyz": "INACTIVE",
+            "seednode.parsicoin.net": "INACTIVE",
+            "seednode3.parsicoin.net": "INACTIVE"
+        },
+        "1578820231": {
+            "seednodes.dinastycoin.com": "INACTIVE",
+            "seedrs.node.nimiqpool.com": "INACTIVE",
+            "seeds.bitcoin.com": "INACTIVE",
+            "seeds.moneroseeds.ae.org": "INACTIVE",
+            "seeds.moneroseeds.ch": "INACTIVE",
+            "seeds.moneroseeds.se": "INACTIVE",
+            "segheights.wazn.io": "INACTIVE"
+        },
+        "1578820232": {
+            "sen.suprnova.cc": "INACTIVE",
+            "sendinblue.hitbtc.com": "INACTIVE"
+        },
+        "1578820233": {
+            "serv1.infinitum.com.my": "INACTIVE",
+            "server-tr.adaminers.com": "INACTIVE",
+            "server.aikapool.com": "INACTIVE",
+            "server.bacm.ro": "INACTIVE",
+            "server.bluematt.me": "INACTIVE",
+            "server.btc.com": "INACTIVE",
+            "server.cryptomineros.com": "INACTIVE",
+            "server.ezil.me": "INACTIVE"
+        },
+        "1578820234": {
+            "server.gntl.co.uk": "INACTIVE",
+            "server.masterpro.site": "INACTIVE",
+            "server.mtred.com": "INACTIVE",
+            "server.private-locker.com": "INACTIVE",
+            "server.thulani.za.net": "INACTIVE",
+            "server1.at0m.pw": "INACTIVE",
+            "server1.coin-miners.info": "INACTIVE",
+            "server1.krunzy.com": "INACTIVE"
         }
     }
 }
