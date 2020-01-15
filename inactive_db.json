@@ -8073,239 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578815022": {
-            "pools.crypto-mining-pool.com": "INACTIVE",
-            "pools.cryptopia.co.nz": "INACTIVE",
-            "pools.hashlink.eu": "INACTIVE",
-            "pools.hashwiz.io": "INACTIVE"
-        },
-        "1578815023": {
-            "pools.poolhash.org": "INACTIVE",
-            "pools.private-locker.com": "INACTIVE",
-            "pools.simplevert.com": "INACTIVE",
-            "pools.theskynet.xyz": "INACTIVE",
-            "pools.tugae2.com": "INACTIVE",
-            "pools.youcrazy.me": "INACTIVE",
-            "pools1.cryptopia.co.nz": "INACTIVE"
-        },
-        "1578815024": {
-            "pools2.cryptopia.co.nz": "INACTIVE",
-            "pools2.multipools.club": "INACTIVE",
-            "pooltest.egem.io": "INACTIVE",
-            "pooltest.unimining.net": "INACTIVE",
-            "poolusa.xmrminingpool.net": "INACTIVE",
-            "poolv1.btcchina.com": "INACTIVE",
-            "poolweb1.multipool.us": "INACTIVE"
-        },
-        "1578815025": {
-            "poos.coin-miners.info": "INACTIVE",
-            "poos.node.coin-miners.info": "INACTIVE",
-            "pop.clona.ru": "INACTIVE",
-            "pop.coincave.nl": "INACTIVE",
-            "pop.pool.sexy": "INACTIVE",
-            "pop3.cryptominingpool.eu": "INACTIVE"
-        },
-        "1578815026": {
-            "pop3.miningclub.cc": "INACTIVE",
-            "pop3.miningmania.net": "INACTIVE",
-            "poppoob.no-ip.org": "INACTIVE",
-            "portainer.whalesburg.com": "INACTIVE",
-            "portal.nocroom.com": "INACTIVE",
-            "portal.private-locker.com": "INACTIVE",
-            "pos.coin-miners.info": "INACTIVE"
-        },
-        "1578815027": {
-            "pos.cryptobrowser.site": "INACTIVE",
-            "pos.node.coin-miners.info": "INACTIVE",
-            "posdice.lotterymining.com": "INACTIVE",
-            "pose.suprnova.cc": "INACTIVE",
-            "post.krunzy.com": "INACTIVE",
-            "posta.coinminerz.com": "INACTIVE",
-            "posta.connectbtc.com": "INACTIVE",
-            "postal.lchi.mp.node.moneroworld.com": "INACTIVE"
-        },
-        "1578815028": {
-            "postfixadmin.clevery.xyz": "INACTIVE",
-            "postmaster.aikapool.com": "INACTIVE",
-            "postmaster.dashninja.pl": "INACTIVE",
-            "postmaster.leywapool.com": "INACTIVE",
-            "postmaster.minerlagoon.co.uk": "INACTIVE",
-            "postmaster.poolto.be": "INACTIVE",
-            "postmaster.postmaster.minerlagoon.co.uk": "INACTIVE",
-            "pot.althash.eu": "INACTIVE",
-            "pot.hashfire.us": "INACTIVE"
-        },
-        "1578815029": {
-            "pot.poolto.be": "INACTIVE"
-        },
-        "1578815734": {
-            "pow.parspool.net": "INACTIVE",
-            "power.tainiesonline.pw": "INACTIVE",
-            "power.wemineltc.com": "INACTIVE",
-            "powerlinks.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1578815735": {
-            "ppc.coinmine.pl": "INACTIVE",
-            "ppcd.coin-miners.info": "INACTIVE",
-            "ppcd.hashlink.eu": "INACTIVE",
-            "ppcd.node.coin-miners.info": "INACTIVE",
-            "ppcdark.hashlink.eu": "INACTIVE",
-            "ppdata.idlebuddy.com": "INACTIVE",
-            "pplns-etc01.pool.warphash.com": "INACTIVE",
-            "pplns.musipool.ru": "INACTIVE",
-            "pplns.pirl.cryptodig.ru": "INACTIVE"
-        },
-        "1578815736": {
-            "ppo-exp.miners.rocks": "INACTIVE",
-            "pport.cryptopia.co.nz": "INACTIVE",
-            "pps.mining-pool.io": "INACTIVE",
-            "pptp.ukkey3.space": "INACTIVE"
-        },
-        "1578815737": {
-            "ppxvip1.ppxxmr.com": "INACTIVE",
-            "pre-env.1thash.top": "INACTIVE",
-            "pre-portal.spiderpool.com": "INACTIVE",
-            "pre-user.spiderpool.com": "INACTIVE",
-            "pre-www.spiderpool.com": "INACTIVE",
-            "pre1212.poolin.com": "INACTIVE",
-            "prelive.cryptopia.co.nz": "INACTIVE"
-        },
-        "1578815738": {
-            "premium.node.moneroworld.com": "INACTIVE",
-            "prepaidcard.coincheck.com": "INACTIVE",
-            "preprod.hitbtc.com": "INACTIVE",
-            "preprod.simplemining.net": "INACTIVE",
-            "preq.1ds.us": "INACTIVE",
-            "presentation.rmc.one": "INACTIVE",
-            "preview.beta.supportxmr.com": "INACTIVE",
-            "preview.merit.me": "INACTIVE"
-        },
-        "1578815739": {
-            "preview.node.supportxmr.com": "INACTIVE",
-            "previously.multipool.com": "INACTIVE",
-            "pri.kratos.biz": "INACTIVE",
-            "prisma.coin-miners.info": "INACTIVE",
-            "prisma.node.coin-miners.info": "INACTIVE",
-            "pritunl-gps.eu-west.cryptopay.me": "INACTIVE",
-            "pritunl.eu-west.cryptopay.me": "INACTIVE"
-        },
-        "1578815740": {
-            "pritunl.sandbox-eu-west.cryptopay.me": "INACTIVE",
-            "pritunl.staging-eu-west.cryptopay.me": "INACTIVE",
-            "priv.nosekefik.com": "INACTIVE",
-            "priv.stratum.nicehash.com": "INACTIVE",
-            "private.bpool.id": "INACTIVE",
-            "private.coinstop.me": "INACTIVE",
-            "private.equihash.eu.nicehash.com": "INACTIVE",
-            "private.equihash.hk.nicehash.com": "INACTIVE",
-            "private.equihash.jp.nicehash.com": "INACTIVE"
-        },
-        "1578815741": {
-            "private.equihash.usa.nicehash.com": "INACTIVE",
-            "privatepay.asiapool.io": "INACTIVE",
-            "privatepay.clevery.xyz": "INACTIVE",
-            "privatepay.cryptoisme.com": "INACTIVE",
-            "privatepay.herominers.com": "INACTIVE",
-            "prkl.crazypool.org": "INACTIVE",
-            "prkl.europool.me": "INACTIVE",
-            "prnode104.dash88.club": "INACTIVE",
-            "prnode106.dash88.club": "INACTIVE"
-        },
-        "1578815742": {
-            "prnode105.dash88.club": "INACTIVE",
-            "prnode107.dash88.club": "INACTIVE",
-            "prnode108.dash88.club": "INACTIVE",
-            "prnode109.dash88.club": "INACTIVE",
-            "prnode110.dash88.club": "INACTIVE",
-            "prnode111.dash88.club": "INACTIVE",
-            "prnode192.dash88.club": "INACTIVE",
-            "prnode193.dash88.club": "INACTIVE",
-            "prnode194.dash88.club": "INACTIVE",
-            "prnode195.dash88.club": "INACTIVE"
-        },
-        "1578815743": {
-            "prnode196.dash88.club": "INACTIVE",
-            "prnode197.dash88.club": "INACTIVE",
-            "prnode198.dash88.club": "INACTIVE",
-            "prnode199.dash88.club": "INACTIVE",
-            "prnode200.dash88.club": "INACTIVE",
-            "prnode201.dash88.club": "INACTIVE",
-            "prnode202.dash88.club": "INACTIVE",
-            "prnode203.dash88.club": "INACTIVE",
-            "prnode204.dash88.club": "INACTIVE",
-            "prnode205.dash88.club": "INACTIVE"
-        },
-        "1578815744": {
-            "prnode206.dash88.club": "INACTIVE",
-            "prnode207.dash88.club": "INACTIVE",
-            "pro-data.btcc.com": "INACTIVE",
-            "pro-reports.btcc.com": "INACTIVE",
-            "pro-ws.btcc.com": "INACTIVE",
-            "pro.coin-miners.info": "INACTIVE",
-            "pro.next.exchange": "INACTIVE",
-            "pro.suprnova.cc": "INACTIVE",
-            "probe.suprnova.cc": "INACTIVE"
-        },
-        "1578815745": {
-            "procn.btcc.com": "INACTIVE",
-            "procn5-6.btcc.com": "INACTIVE",
-            "prod-front.whalesburg.com": "INACTIVE",
-            "prod.2miners.com": "INACTIVE",
-            "prod.admin.miningexpress.com": "INACTIVE",
-            "prod.api.miningexpress.com": "INACTIVE",
-            "prod.mainnet.eos.cybex.io": "INACTIVE",
-            "prod.office.miningexpress.com": "INACTIVE",
-            "prod1.lightninghash.com": "INACTIVE"
-        },
-        "1578815746": {
-            "prod.xmr.to": "INACTIVE",
-            "prog.btcc.com": "INACTIVE",
-            "prog03-1.btcc.com": "INACTIVE",
-            "prog26-1-2.btcc.com": "INACTIVE",
-            "prog363.btcc.com": "INACTIVE",
-            "prog63.btcc.com": "INACTIVE",
-            "prog66-0-4.btcc.com": "INACTIVE"
-        },
-        "1578815747": {
-            "prog86-3-8.btcc.com": "INACTIVE",
-            "prog86-6.btcc.com": "INACTIVE",
-            "prohashing-1.prohashing.com": "INACTIVE",
-            "prohashing-2.prohashing.com": "INACTIVE",
-            "prohashing-3.prohashing.com": "INACTIVE",
-            "prohashing-4.prohashing.com": "INACTIVE",
-            "prohashing-5.prohashing.com": "INACTIVE",
-            "prohashing-prod1.prohashing.com": "INACTIVE"
-        },
-        "1578815748": {
-            "project.btcc.com": "INACTIVE",
-            "projects.coinimp.com": "INACTIVE",
-            "promo.btcc.com": "INACTIVE",
-            "promo.hashflare.io": "INACTIVE",
-            "proofly.win": "INACTIVE",
-            "prop.musipool.ru": "INACTIVE",
-            "prop.pirl.cryptodig.ru": "INACTIVE"
-        },
-        "1578815749": {
-            "proposal.pornpoint.org": "INACTIVE",
-            "pros.etherdig.org": "INACTIVE",
-            "prosu.etherdig.org": "INACTIVE",
-            "proton.mine-vn.com": "INACTIVE",
-            "protonmine.io": "INACTIVE",
-            "prousd-data.btcc.com": "INACTIVE",
-            "prousd-ws.btcc.com": "INACTIVE",
-            "prox.node.coin-miners.info": "INACTIVE"
-        },
-        "1578815750": {
-            "proxmox.cryptopool.io": "INACTIVE",
-            "proxy-can-1.inf.nimiq.net": "INACTIVE",
-            "proxy-deu-1.inf.nimiq.net": "INACTIVE",
-            "proxy-deu-2.inf.nimiq.net": "INACTIVE",
-            "proxy-fee.xmrig.com": "INACTIVE",
-            "proxy-fra-1.inf.nimiq.net": "INACTIVE",
-            "proxy-fra-2.inf.nimiq.net": "INACTIVE"
-        },
         "1578815751": {
-            "proxy-fra-3.inf.nimiq.net": "INACTIVE",
             "proxy-gbr-1.inf.nimiq.net": "INACTIVE",
             "proxy-gbr-2.inf.nimiq.net": "INACTIVE",
             "proxy-msk01.warphash.com": "INACTIVE",
@@ -29221,6 +28989,248 @@
         "1579129785": {
             "pooling.cf": "INACTIVE",
             "poolmate.online": "INACTIVE"
+        },
+        "1579130475": {
+            "pools.crypto-mining-pool.com": "INACTIVE",
+            "pools.cryptopia.co.nz": "INACTIVE",
+            "pools.hashlink.eu": "INACTIVE"
+        },
+        "1579130476": {
+            "pools.hashwiz.io": "INACTIVE",
+            "pools.poolhash.org": "INACTIVE",
+            "pools.private-locker.com": "INACTIVE",
+            "pools.simplevert.com": "INACTIVE",
+            "pools.theskynet.xyz": "INACTIVE",
+            "pools.tugae2.com": "INACTIVE"
+        },
+        "1579130477": {
+            "pools.txxcoin.tech": "INACTIVE",
+            "pools.youcrazy.me": "INACTIVE",
+            "pools1.cryptopia.co.nz": "INACTIVE",
+            "pools2.cryptopia.co.nz": "INACTIVE",
+            "pools2.multipools.club": "INACTIVE",
+            "pooltest.egem.io": "INACTIVE",
+            "pooltest.unimining.net": "INACTIVE"
+        },
+        "1579130478": {
+            "poolusa.xmrminingpool.net": "INACTIVE",
+            "poolv1.btcchina.com": "INACTIVE",
+            "poolweb1.multipool.us": "INACTIVE",
+            "poos.coin-miners.info": "INACTIVE",
+            "poos.node.coin-miners.info": "INACTIVE",
+            "pop.clona.ru": "INACTIVE"
+        },
+        "1579130479": {
+            "pop.pool.sexy": "INACTIVE",
+            "pop3.cryptominingpool.eu": "INACTIVE",
+            "pop3.miningclub.cc": "INACTIVE",
+            "pop3.miningmania.net": "INACTIVE",
+            "poppoob.no-ip.org": "INACTIVE"
+        },
+        "1579130480": {
+            "portainer.whalesburg.com": "INACTIVE",
+            "portal.nocroom.com": "INACTIVE",
+            "portal.private-locker.com": "INACTIVE",
+            "pos.coin-miners.info": "INACTIVE",
+            "pos.cryptobrowser.site": "INACTIVE",
+            "pos.node.coin-miners.info": "INACTIVE",
+            "posdice.lotterymining.com": "INACTIVE"
+        },
+        "1579130481": {
+            "pose.suprnova.cc": "INACTIVE",
+            "post.krunzy.com": "INACTIVE",
+            "posta.coinminerz.com": "INACTIVE",
+            "posta.connectbtc.com": "INACTIVE",
+            "postal.lchi.mp.node.moneroworld.com": "INACTIVE",
+            "postfixadmin.clevery.xyz": "INACTIVE",
+            "postmaster.aikapool.com": "INACTIVE"
+        },
+        "1579130482": {
+            "postmaster.dashninja.pl": "INACTIVE",
+            "postmaster.leywapool.com": "INACTIVE",
+            "postmaster.minerlagoon.co.uk": "INACTIVE",
+            "postmaster.poolto.be": "INACTIVE",
+            "postmaster.postmaster.minerlagoon.co.uk": "INACTIVE",
+            "pot.althash.eu": "INACTIVE",
+            "pot.hashfire.us": "INACTIVE",
+            "pot.poolto.be": "INACTIVE"
+        },
+        "1579130483": {
+            "pot.thecoin.pw": "INACTIVE",
+            "pow.parspool.net": "INACTIVE",
+            "power.tainiesonline.pw": "INACTIVE",
+            "power.wemineltc.com": "INACTIVE",
+            "powerlinks.moneroseeds.ae.org": "INACTIVE",
+            "ppc.coinmine.pl": "INACTIVE"
+        },
+        "1579130484": {
+            "ppcd.coin-miners.info": "INACTIVE",
+            "ppcd.hashlink.eu": "INACTIVE",
+            "ppcd.node.coin-miners.info": "INACTIVE",
+            "ppcdark.hashlink.eu": "INACTIVE",
+            "ppdata.idlebuddy.com": "INACTIVE",
+            "pplns-etc01.pool.warphash.com": "INACTIVE",
+            "pplns.musipool.ru": "INACTIVE"
+        },
+        "1579130485": {
+            "pplns.pirl.cryptodig.ru": "INACTIVE",
+            "ppo-exp.miners.rocks": "INACTIVE",
+            "pport.cryptopia.co.nz": "INACTIVE"
+        },
+        "1579130486": {
+            "pps.mining-pool.io": "INACTIVE",
+            "pptp.ukkey3.space": "INACTIVE",
+            "ppxvip1.ppxxmr.com": "INACTIVE",
+            "pr.thecoin.pw": "INACTIVE",
+            "pre-env.1thash.top": "INACTIVE",
+            "pre-portal.spiderpool.com": "INACTIVE",
+            "pre-user.spiderpool.com": "INACTIVE"
+        },
+        "1579130487": {
+            "pre-www.spiderpool.com": "INACTIVE",
+            "pre1212.poolin.com": "INACTIVE",
+            "prelive.cryptopia.co.nz": "INACTIVE",
+            "premium.node.moneroworld.com": "INACTIVE",
+            "prepaidcard.coincheck.com": "INACTIVE",
+            "preprod.hitbtc.com": "INACTIVE",
+            "preprod.simplemining.net": "INACTIVE"
+        },
+        "1579130488": {
+            "preq.1ds.us": "INACTIVE",
+            "presentation.rmc.one": "INACTIVE",
+            "preview.beta.supportxmr.com": "INACTIVE",
+            "preview.merit.me": "INACTIVE",
+            "preview.node.supportxmr.com": "INACTIVE",
+            "previously.multipool.com": "INACTIVE",
+            "pri.kratos.biz": "INACTIVE"
+        },
+        "1579130489": {
+            "prisma.coin-miners.info": "INACTIVE",
+            "prisma.node.coin-miners.info": "INACTIVE",
+            "pritunl-gps.eu-west.cryptopay.me": "INACTIVE",
+            "pritunl.eu-west.cryptopay.me": "INACTIVE",
+            "pritunl.sandbox-eu-west.cryptopay.me": "INACTIVE",
+            "pritunl.staging-eu-west.cryptopay.me": "INACTIVE"
+        },
+        "1579130490": {
+            "priv.nosekefik.com": "INACTIVE",
+            "priv.stratum.nicehash.com": "INACTIVE",
+            "private.bpool.id": "INACTIVE",
+            "private.coinstop.me": "INACTIVE",
+            "private.equihash.eu.nicehash.com": "INACTIVE",
+            "private.equihash.hk.nicehash.com": "INACTIVE",
+            "private.equihash.jp.nicehash.com": "INACTIVE",
+            "private.equihash.usa.nicehash.com": "INACTIVE"
+        },
+        "1579130491": {
+            "privatepay.asiapool.io": "INACTIVE",
+            "privatepay.clevery.xyz": "INACTIVE",
+            "privatepay.cryptoisme.com": "INACTIVE",
+            "privatepay.herominers.com": "INACTIVE",
+            "prkl.crazypool.org": "INACTIVE",
+            "prkl.europool.me": "INACTIVE",
+            "prnode104.dash88.club": "INACTIVE"
+        },
+        "1579130492": {
+            "prnode105.dash88.club": "INACTIVE",
+            "prnode106.dash88.club": "INACTIVE",
+            "prnode107.dash88.club": "INACTIVE",
+            "prnode108.dash88.club": "INACTIVE",
+            "prnode109.dash88.club": "INACTIVE",
+            "prnode110.dash88.club": "INACTIVE",
+            "prnode111.dash88.club": "INACTIVE",
+            "prnode192.dash88.club": "INACTIVE",
+            "prnode193.dash88.club": "INACTIVE"
+        },
+        "1579130493": {
+            "prnode194.dash88.club": "INACTIVE",
+            "prnode195.dash88.club": "INACTIVE",
+            "prnode196.dash88.club": "INACTIVE",
+            "prnode197.dash88.club": "INACTIVE",
+            "prnode198.dash88.club": "INACTIVE",
+            "prnode199.dash88.club": "INACTIVE",
+            "prnode200.dash88.club": "INACTIVE",
+            "prnode201.dash88.club": "INACTIVE",
+            "prnode202.dash88.club": "INACTIVE"
+        },
+        "1579130494": {
+            "prnode203.dash88.club": "INACTIVE",
+            "prnode204.dash88.club": "INACTIVE",
+            "prnode205.dash88.club": "INACTIVE",
+            "prnode206.dash88.club": "INACTIVE",
+            "prnode207.dash88.club": "INACTIVE",
+            "pro-data.btcc.com": "INACTIVE",
+            "pro-reports.btcc.com": "INACTIVE",
+            "pro-ws.btcc.com": "INACTIVE"
+        },
+        "1579130495": {
+            "pro.coin-miners.info": "INACTIVE",
+            "pro.next.exchange": "INACTIVE",
+            "pro.suprnova.cc": "INACTIVE",
+            "probe.suprnova.cc": "INACTIVE",
+            "procn.btcc.com": "INACTIVE",
+            "procn0-7.btcc.com": "INACTIVE",
+            "procn5-6.btcc.com": "INACTIVE",
+            "prod-front.whalesburg.com": "INACTIVE"
+        },
+        "1579130496": {
+            "prod.2miners.com": "INACTIVE",
+            "prod.admin.miningexpress.com": "INACTIVE",
+            "prod.api.miningexpress.com": "INACTIVE",
+            "prod.mainnet.eos.cybex.io": "INACTIVE",
+            "prod.office.miningexpress.com": "INACTIVE",
+            "prod.xmr.to": "INACTIVE",
+            "prod1.lightninghash.com": "INACTIVE"
+        },
+        "1579130497": {
+            "prog.btcc.com": "INACTIVE",
+            "prog03-1.btcc.com": "INACTIVE",
+            "prog26-1-2.btcc.com": "INACTIVE",
+            "prog363.btcc.com": "INACTIVE",
+            "prog63.btcc.com": "INACTIVE",
+            "prog66-0-4.btcc.com": "INACTIVE",
+            "prog86-3-8.btcc.com": "INACTIVE"
+        },
+        "1579130498": {
+            "prog86-6.btcc.com": "INACTIVE",
+            "prog96-0-69.btcc.com": "INACTIVE",
+            "prohashing-1.prohashing.com": "INACTIVE",
+            "prohashing-2.prohashing.com": "INACTIVE",
+            "prohashing-3.prohashing.com": "INACTIVE",
+            "prohashing-4.prohashing.com": "INACTIVE",
+            "prohashing-5.prohashing.com": "INACTIVE"
+        },
+        "1579130499": {
+            "prohashing-prod1.prohashing.com": "INACTIVE",
+            "project.btcc.com": "INACTIVE",
+            "projects.coinimp.com": "INACTIVE",
+            "promo.btcc.com": "INACTIVE",
+            "promo.hashflare.io": "INACTIVE"
+        },
+        "1579130500": {
+            "proofly.win": "INACTIVE",
+            "prop.musipool.ru": "INACTIVE",
+            "prop.pirl.cryptodig.ru": "INACTIVE",
+            "proposal.pornpoint.org": "INACTIVE",
+            "pros.etherdig.org": "INACTIVE",
+            "prosu.etherdig.org": "INACTIVE",
+            "proton.mine-vn.com": "INACTIVE",
+            "protonmine.io": "INACTIVE"
+        },
+        "1579130501": {
+            "prousd-data.btcc.com": "INACTIVE",
+            "prousd-ws.btcc.com": "INACTIVE",
+            "prox.node.coin-miners.info": "INACTIVE",
+            "proxmox.cryptopool.io": "INACTIVE",
+            "proxy-can-1.inf.nimiq.net": "INACTIVE",
+            "proxy-deu-1.inf.nimiq.net": "INACTIVE"
+        },
+        "1579130502": {
+            "proxy-deu-2.inf.nimiq.net": "INACTIVE",
+            "proxy-fee.xmrig.com": "INACTIVE",
+            "proxy-fra-1.inf.nimiq.net": "INACTIVE",
+            "proxy-fra-2.inf.nimiq.net": "INACTIVE",
+            "proxy-fra-3.inf.nimiq.net": "INACTIVE"
         }
     }
 }
