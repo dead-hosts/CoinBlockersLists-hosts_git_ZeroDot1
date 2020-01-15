@@ -8073,155 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578762321": {
-            "bsanimal.em.bitcoin.co.pt": "INACTIVE",
-            "bsb.fix.btcc.com": "INACTIVE",
-            "bsd.cryptopools.com": "INACTIVE",
-            "bsh.suprnova.cc": "INACTIVE",
-            "bsha3.666pool.cn": "INACTIVE",
-            "bsm.bluerockpools.net": "INACTIVE",
-            "bsm.cryptopool.space": "INACTIVE",
-            "bsm.youpool.io": "INACTIVE"
-        },
-        "1578762322": {
-            "bsty.coin-miners.info": "INACTIVE",
-            "bsty.node.coin-miners.info": "INACTIVE",
-            "bsty.suprnova.cc": "INACTIVE",
-            "bsv-bj.poolin.com": "INACTIVE",
-            "bsy.coin-miners.info": "INACTIVE",
-            "bsy.node.coin-miners.info": "INACTIVE",
-            "bsyauqwerd.pa": "INACTIVE",
-            "bsyauqwerd.party": "INACTIVE",
-            "bt-reports.fix.btcc.com": "INACTIVE",
-            "bt.bitcoin.co.pt": "INACTIVE",
-            "bt.coin-miners.info": "INACTIVE"
-        },
-        "1578762323": {
-            "bt.hashlink.eu": "INACTIVE",
-            "bt.node.coin-miners.info": "INACTIVE",
-            "bt.suprnova.cc": "INACTIVE",
-            "bta.suprnova.cc": "INACTIVE",
-            "bta.thecoin.pw": "INACTIVE",
-            "btb.coin-miners.info": "INACTIVE",
-            "btb.e-pool.net": "INACTIVE",
-            "btb.hashlink.eu": "INACTIVE",
-            "btb.node.coin-miners.info": "INACTIVE",
-            "btc-83.btcc.com": "INACTIVE",
-            "btc-api.mempool.com": "INACTIVE"
-        },
-        "1578762324": {
-            "btc-bj2.ss.poolin.com": "INACTIVE",
-            "btc-du-auto.ss.poolin.com": "INACTIVE",
-            "btc-du.ss.poolin.com": "INACTIVE",
-            "btc-sz-prod.poolin.com": "INACTIVE",
-            "btc-test.rmc.one": "INACTIVE",
-            "btc-vsphere51.btc.com": "INACTIVE",
-            "btc.1stpool.org": "INACTIVE",
-            "btc.4miner.me": "INACTIVE",
-            "btc.btgirl.com.cn": "INACTIVE"
-        },
-        "1578762325": {
-            "btc.coin-miners.info": "INACTIVE",
-            "btc.e-pool.net": "INACTIVE",
-            "btc.hashing.space": "INACTIVE",
-            "btc.mcdir.ru": "INACTIVE",
-            "btc.nicepool.net": "INACTIVE",
-            "btc.node.coin-miners.info": "INACTIVE",
-            "btc.p00l.org": "INACTIVE",
-            "btc.p2pool.org": "INACTIVE",
-            "btc.p2pool.pl": "INACTIVE"
-        },
-        "1578762326": {
-            "btc.parspool.net": "INACTIVE",
-            "btc.pool.minergate.com": "INACTIVE",
-            "btc.poolmining.eu": "INACTIVE",
-            "btc.suprnova.cc": "INACTIVE"
-        },
-        "1578763860": {
-            "btc.xpoolx.com": "INACTIVE",
-            "btc01.pool.warphash.com": "INACTIVE",
-            "btc1.seeds.bitcoin.com": "INACTIVE",
-            "btc21.suprnova.cc": "INACTIVE",
-            "btcd.coin-miners.info": "INACTIVE",
-            "btcd.node.coin-miners.info": "INACTIVE",
-            "btcd.xpool.ca": "INACTIVE"
-        },
-        "1578763861": {
-            "btcd.poolto.be": "INACTIVE",
-            "btcf-dedicated.bluematt.me": "INACTIVE",
-            "btcg-asia.miningspeed.com": "INACTIVE",
-            "btcg-eu.miningspeed.com": "INACTIVE",
-            "btcg-eur.miningspeed.com": "INACTIVE",
-            "btcg-us.miningspeed.com": "INACTIVE",
-            "btcg.miningspeed.com": "INACTIVE",
-            "btcir-exp.miners.rocks": "INACTIVE",
-            "btcmelph.newpool.xyz": "INACTIVE"
-        },
-        "1578763862": {
-            "btcn.ingest.cryptoknight.cc": "INACTIVE",
-            "btcn.llama.horse": "INACTIVE",
-            "btcp-eu.coinblockers.com": "INACTIVE",
-            "btcp-us.coinblockers.com": "INACTIVE",
-            "btcp.2zo.pw": "INACTIVE",
-            "btcp.awesomepool.net": "INACTIVE",
-            "btcp.basementpool.org": "INACTIVE",
-            "btcp.bitpool.ro": "INACTIVE",
-            "btcp.chileminers.cl": "INACTIVE",
-            "btcp.cloneempirecryptomining.com": "INACTIVE",
-            "btcp.coinblockers.com": "INACTIVE"
-        },
-        "1578763863": {
-            "btcp.crypto-mining-pool.com": "INACTIVE",
-            "btcp.ehashcoins.org": "INACTIVE",
-            "btcp.eqpool.cash": "INACTIVE",
-            "btcp.forgetop.com": "INACTIVE",
-            "btcp.lucky-mining.com.ua": "INACTIVE",
-            "btcp.magnificentpool.com": "INACTIVE",
-            "btcp.mine-vn.com": "INACTIVE",
-            "btcp.miningcrypto.ca": "INACTIVE",
-            "btcp.miningcrypto.cash": "INACTIVE",
-            "btcp.multipools.cl": "INACTIVE",
-            "btcp.multipools.club": "INACTIVE"
-        },
-        "1578763864": {
-            "btcp.pool.no": "INACTIVE",
-            "btcp.poolforcoin.com": "INACTIVE",
-            "btcp.ragnarpool.ovh": "INACTIVE",
-            "btcp.saturnpool.com": "INACTIVE",
-            "btcp.solopool.org": "INACTIVE",
-            "btcp.uax.io": "INACTIVE",
-            "btcp.wfmpools.com": "INACTIVE",
-            "btcpmine.com": "INACTIVE",
-            "btcpmining.eu": "INACTIVE",
-            "btcpmx.miningcrypto.cash": "INACTIVE"
-        },
-        "1578763865": {
-            "btcprivate.minerspool.cc": "INACTIVE",
-            "btcprivate.miningspeed.com": "INACTIVE",
-            "btcprivatepool.cl": "INACTIVE",
-            "btcpwallet.miningspeed.com": "INACTIVE",
-            "btcpwallet.zhash.pro": "INACTIVE",
-            "btcquestion.btc.com": "INACTIVE",
-            "btcsingle.99btc.net": "INACTIVE",
-            "btcu.suprnova.cc": "INACTIVE",
-            "btcx.luckypool.cn": "INACTIVE"
-        },
-        "1578763866": {
-            "btcz-eu.coinblockers.com": "INACTIVE",
-            "btcz-eu1.mineflowpool.pl": "INACTIVE",
-            "btcz-us.coinblockers.com": "INACTIVE",
-            "btcz.1ds.us": "INACTIVE",
-            "btcz.4miner.me": "INACTIVE",
-            "btcz.basementpool.org": "INACTIVE",
-            "btcz.bitpool.ro": "INACTIVE",
-            "btcz.city": "INACTIVE",
-            "btcz.cloneempirecryptomining.com": "INACTIVE",
-            "btcz.coinblockers.com": "INACTIVE",
-            "btcz.coinstop.me": "INACTIVE"
-        },
         "1578763867": {
-            "btcz.ehashcoins.org": "INACTIVE",
-            "btcz.mine-vn.com": "INACTIVE",
             "btcz.minepool.ch": "INACTIVE",
             "btcz.minepool.hu": "INACTIVE",
             "btcz.minertopia.org": "INACTIVE",
@@ -28860,6 +28712,162 @@
         "1579072954": {
             "bs.bitcoin.co.pt": "INACTIVE",
             "bs.suprnova.cc": "INACTIVE"
+        },
+        "1579074910": {
+            "bsanimal.em.bitcoin.co.pt": "INACTIVE",
+            "bsb.fix.btcc.com": "INACTIVE",
+            "bsd.cryptopools.com": "INACTIVE",
+            "bsh.suprnova.cc": "INACTIVE",
+            "bsha3.666pool.cn": "INACTIVE"
+        },
+        "1579074911": {
+            "bsm.bluerockpools.net": "INACTIVE",
+            "bsm.cryptopool.space": "INACTIVE",
+            "bsm.youpool.io": "INACTIVE",
+            "bsty.coin-miners.info": "INACTIVE",
+            "bsty.node.coin-miners.info": "INACTIVE",
+            "bsty.suprnova.cc": "INACTIVE",
+            "bsv-bj.poolin.com": "INACTIVE",
+            "bsy.coin-miners.info": "INACTIVE"
+        },
+        "1579074912": {
+            "bsy.node.coin-miners.info": "INACTIVE",
+            "bsyauqwerd.pa": "INACTIVE",
+            "bsyauqwerd.party": "INACTIVE",
+            "bt-reports.fix.btcc.com": "INACTIVE",
+            "bt.bitcoin.co.pt": "INACTIVE",
+            "bt.coin-miners.info": "INACTIVE",
+            "bt.hashlink.eu": "INACTIVE",
+            "bt.node.coin-miners.info": "INACTIVE",
+            "bt.suprnova.cc": "INACTIVE",
+            "bta.suprnova.cc": "INACTIVE"
+        },
+        "1579074913": {
+            "bta.thecoin.pw": "INACTIVE",
+            "btb.coin-miners.info": "INACTIVE",
+            "btb.e-pool.net": "INACTIVE",
+            "btb.hashlink.eu": "INACTIVE",
+            "btb.node.coin-miners.info": "INACTIVE",
+            "btc-83.btcc.com": "INACTIVE",
+            "btc-api.mempool.com": "INACTIVE",
+            "btc-bj2.ss.poolin.com": "INACTIVE",
+            "btc-du-auto.ss.poolin.com": "INACTIVE",
+            "btc-du.ss.poolin.com": "INACTIVE"
+        },
+        "1579074914": {
+            "btc-sz-prod.poolin.com": "INACTIVE",
+            "btc-test.rmc.one": "INACTIVE",
+            "btc-vsphere51.btc.com": "INACTIVE",
+            "btc.1stpool.org": "INACTIVE",
+            "btc.4miner.me": "INACTIVE",
+            "btc.btgirl.com.cn": "INACTIVE",
+            "btc.coin-miners.info": "INACTIVE",
+            "btc.e-pool.net": "INACTIVE"
+        },
+        "1579074915": {
+            "btc.hashing.space": "INACTIVE",
+            "btc.mcdir.ru": "INACTIVE",
+            "btc.nicepool.net": "INACTIVE",
+            "btc.node.coin-miners.info": "INACTIVE",
+            "btc.p00l.org": "INACTIVE",
+            "btc.p2pool.org": "INACTIVE",
+            "btc.p2pool.pl": "INACTIVE",
+            "btc.parspool.net": "INACTIVE",
+            "btc.pool.minergate.com": "INACTIVE"
+        },
+        "1579074916": {
+            "btc.poolmining.eu": "INACTIVE",
+            "btc.suprnova.cc": "INACTIVE",
+            "btc.xpoolx.com": "INACTIVE",
+            "btc01.pool.warphash.com": "INACTIVE",
+            "btc1.seeds.bitcoin.com": "INACTIVE",
+            "btc21.suprnova.cc": "INACTIVE",
+            "btc931.btcc.com": "INACTIVE"
+        },
+        "1579074917": {
+            "btcd.coin-miners.info": "INACTIVE",
+            "btcd.node.coin-miners.info": "INACTIVE",
+            "btcd.poolto.be": "INACTIVE",
+            "btcd.xpool.ca": "INACTIVE",
+            "btcf-dedicated.bluematt.me": "INACTIVE",
+            "btcg-asia.miningspeed.com": "INACTIVE",
+            "btcg-eu.miningspeed.com": "INACTIVE",
+            "btcg-eur.miningspeed.com": "INACTIVE",
+            "btcg-us.miningspeed.com": "INACTIVE",
+            "btcg.miningspeed.com": "INACTIVE"
+        },
+        "1579074918": {
+            "btcgrin29m.btcc.com": "INACTIVE",
+            "btcir-exp.miners.rocks": "INACTIVE",
+            "btcmelph.newpool.xyz": "INACTIVE",
+            "btcn.ingest.cryptoknight.cc": "INACTIVE",
+            "btcn.llama.horse": "INACTIVE",
+            "btcp-eu.coinblockers.com": "INACTIVE",
+            "btcp-us.coinblockers.com": "INACTIVE",
+            "btcp.2zo.pw": "INACTIVE"
+        },
+        "1579074919": {
+            "btcp.awesomepool.net": "INACTIVE",
+            "btcp.basementpool.org": "INACTIVE",
+            "btcp.bitpool.ro": "INACTIVE",
+            "btcp.chileminers.cl": "INACTIVE",
+            "btcp.cloneempirecryptomining.com": "INACTIVE",
+            "btcp.coinblockers.com": "INACTIVE",
+            "btcp.crypto-mining-pool.com": "INACTIVE",
+            "btcp.ehashcoins.org": "INACTIVE",
+            "btcp.eqpool.cash": "INACTIVE",
+            "btcp.forgetop.com": "INACTIVE"
+        },
+        "1579074920": {
+            "btcp.lucky-mining.com.ua": "INACTIVE",
+            "btcp.magnificentpool.com": "INACTIVE",
+            "btcp.mine-vn.com": "INACTIVE",
+            "btcp.miningcrypto.ca": "INACTIVE",
+            "btcp.miningcrypto.cash": "INACTIVE",
+            "btcp.multipools.cl": "INACTIVE",
+            "btcp.multipools.club": "INACTIVE",
+            "btcp.pool.no": "INACTIVE",
+            "btcp.pool.nocroom.com": "INACTIVE",
+            "btcp.ragnarpool.ovh": "INACTIVE"
+        },
+        "1579074921": {
+            "btcp.poolforcoin.com": "INACTIVE",
+            "btcp.saturnpool.com": "INACTIVE",
+            "btcp.solopool.org": "INACTIVE",
+            "btcp.uax.io": "INACTIVE",
+            "btcp.wfmpools.com": "INACTIVE",
+            "btcpmine.com": "INACTIVE",
+            "btcpmining.eu": "INACTIVE",
+            "btcpmx.miningcrypto.cash": "INACTIVE",
+            "btcprivate.minerspool.cc": "INACTIVE"
+        },
+        "1579074922": {
+            "btcprivate.miningspeed.com": "INACTIVE",
+            "btcprivatepool.cl": "INACTIVE",
+            "btcpwallet.miningspeed.com": "INACTIVE",
+            "btcpwallet.zhash.pro": "INACTIVE",
+            "btcquestion.btc.com": "INACTIVE",
+            "btcs.coincave.nl": "INACTIVE",
+            "btcsingle.99btc.net": "INACTIVE",
+            "btcu.suprnova.cc": "INACTIVE"
+        },
+        "1579074923": {
+            "btcx.luckypool.cn": "INACTIVE",
+            "btcz-eu.coinblockers.com": "INACTIVE",
+            "btcz-eu1.mineflowpool.pl": "INACTIVE",
+            "btcz-us.coinblockers.com": "INACTIVE",
+            "btcz.1ds.us": "INACTIVE",
+            "btcz.4miner.me": "INACTIVE",
+            "btcz.basementpool.org": "INACTIVE",
+            "btcz.bitpool.ro": "INACTIVE",
+            "btcz.city": "INACTIVE",
+            "btcz.cloneempirecryptomining.com": "INACTIVE"
+        },
+        "1579074924": {
+            "btcz.coinblockers.com": "INACTIVE",
+            "btcz.coinstop.me": "INACTIVE",
+            "btcz.ehashcoins.org": "INACTIVE",
+            "btcz.mine-vn.com": "INACTIVE"
         }
     }
 }
