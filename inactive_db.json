@@ -8073,62 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578804197": {
-            "ncvc.thecoin.pw": "INACTIVE",
-            "nd.steadyhash.org": "INACTIVE",
-            "ndam.cryptobrowser.site": "INACTIVE",
-            "ndash.thecoin.pw": "INACTIVE"
-        },
-        "1578804198": {
-            "ndashp2p.poolforcoin.com": "INACTIVE",
-            "ndata1.mia.nocroom.com": "INACTIVE",
-            "ndata1.mia.pool.nocroom.com": "INACTIVE",
-            "ndata2.mia.nocroom.com": "INACTIVE",
-            "ndata2.mia.pool.nocroom.com": "INACTIVE",
-            "ndata3.mia.nocroom.com": "INACTIVE",
-            "ndavies.magnificentpool.com": "INACTIVE",
-            "ndb.aikapool.com": "INACTIVE"
-        },
-        "1578804199": {
-            "ndbg.thecoin.pw": "INACTIVE",
-            "ndc.la.pool.nocroom.com": "INACTIVE",
-            "ndcpan.connectbtc.com": "INACTIVE"
-        },
-        "1578804200": {
-            "ndem.thecoin.pw": "INACTIVE"
-        },
-        "1578804896": {
-            "ndev-equipool.1ds.us": "INACTIVE"
-        },
-        "1578804897": {
-            "ndevbuilds.connectbtc.com": "INACTIVE",
-            "ndg.thecoin.pw": "INACTIVE",
-            "ndgb.thecoin.pw": "INACTIVE",
-            "ndgc.thecoin.pw": "INACTIVE",
-            "ndgm.poolforcoin.com": "INACTIVE"
-        },
-        "1578804898": {
-            "ndk.aikapool.com": "INACTIVE",
-            "ndlg.thecoin.pw": "INACTIVE",
-            "ndn.cryptobrowser.site": "INACTIVE",
-            "ndnote.thecoin.pw": "INACTIVE",
-            "ndns.mia.nocroom.com": "INACTIVE",
-            "ndns.mia.pool.nocroom.com": "INACTIVE"
-        },
-        "1578804899": {
-            "ndns2.cryptobrowser.site": "INACTIVE",
-            "ndnstatic.cryptobrowser.site": "INACTIVE",
-            "ndocs.aikapool.com": "INACTIVE",
-            "ndoge.suprnova.cc": "INACTIVE",
-            "ndoge.thecoin.pw": "INACTIVE"
-        },
-        "1578804900": {
-            "ndoged.thecoin.pw": "INACTIVE",
-            "ndomainkey.aikapool.com": "INACTIVE",
-            "ndomainkey.connectbtc.com": "INACTIVE",
-            "ndownload.connectbtc.com": "INACTIVE",
-            "ndq.aikapool.com": "INACTIVE"
-        },
         "1578804901": {
             "nduo.thecoin.pw": "INACTIVE",
             "ndz.suprnova.cc": "INACTIVE",
@@ -29169,6 +29113,66 @@
             "ncryptopool.1ds.us": "INACTIVE",
             "ncsc.thecoin.pw": "INACTIVE",
             "ncure.thecoin.pw": "INACTIVE"
+        },
+        "1579119890": {
+            "ncvc.thecoin.pw": "INACTIVE"
+        },
+        "1579119891": {
+            "nd.steadyhash.org": "INACTIVE",
+            "ndam.cryptobrowser.site": "INACTIVE",
+            "ndam.mining.garden": "INACTIVE",
+            "ndash.thecoin.pw": "INACTIVE",
+            "ndashp2p.poolforcoin.com": "INACTIVE",
+            "ndata1.mia.nocroom.com": "INACTIVE"
+        },
+        "1579119892": {
+            "ndata1.mia.pool.nocroom.com": "INACTIVE",
+            "ndata2.mia.nocroom.com": "INACTIVE",
+            "ndata2.mia.pool.nocroom.com": "INACTIVE",
+            "ndata3.mia.nocroom.com": "INACTIVE",
+            "ndavies.magnificentpool.com": "INACTIVE",
+            "ndb.aikapool.com": "INACTIVE"
+        },
+        "1579119893": {
+            "ndbg.thecoin.pw": "INACTIVE",
+            "ndc.la.pool.nocroom.com": "INACTIVE",
+            "ndcpan.connectbtc.com": "INACTIVE"
+        },
+        "1579119894": {
+            "ndem.thecoin.pw": "INACTIVE",
+            "ndev-business.mining.garden": "INACTIVE",
+            "ndev-equipool.1ds.us": "INACTIVE",
+            "ndev.cryptomininggame.com": "INACTIVE",
+            "ndev8.cryptomininggame.com": "INACTIVE"
+        },
+        "1579119895": {
+            "ndevbuilds.connectbtc.com": "INACTIVE",
+            "ndg.thecoin.pw": "INACTIVE",
+            "ndgb.thecoin.pw": "INACTIVE",
+            "ndgc.thecoin.pw": "INACTIVE",
+            "ndgm.poolforcoin.com": "INACTIVE"
+        },
+        "1579119896": {
+            "ndk.aikapool.com": "INACTIVE",
+            "ndlg.thecoin.pw": "INACTIVE",
+            "ndn.cryptobrowser.site": "INACTIVE",
+            "ndnote.thecoin.pw": "INACTIVE",
+            "ndns.mia.nocroom.com": "INACTIVE",
+            "ndns.mia.pool.nocroom.com": "INACTIVE",
+            "ndns2.cryptobrowser.site": "INACTIVE"
+        },
+        "1579119897": {
+            "ndnstatic.cryptobrowser.site": "INACTIVE",
+            "ndocs.aikapool.com": "INACTIVE",
+            "ndoge.thecoin.pw": "INACTIVE"
+        },
+        "1579119898": {
+            "ndoge.suprnova.cc": "INACTIVE",
+            "ndoged.thecoin.pw": "INACTIVE",
+            "ndomainkey.aikapool.com": "INACTIVE",
+            "ndomainkey.connectbtc.com": "INACTIVE",
+            "ndownload.connectbtc.com": "INACTIVE",
+            "ndq.aikapool.com": "INACTIVE"
         }
     }
 }
