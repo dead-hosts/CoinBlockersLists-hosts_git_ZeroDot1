@@ -8073,133 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578807830": {
-            "nmza.thecoin.pw": "INACTIVE",
-            "nmzc.thecoin.pw": "INACTIVE",
-            "nn.cryptobrowser.site": "INACTIVE"
-        },
-        "1578807831": {
-            "nnational.cryptobrowser.site": "INACTIVE",
-            "nnc.hashpool.eu": "INACTIVE",
-            "nnc.multipool.com": "INACTIVE",
-            "nnc.mypool.name": "INACTIVE",
-            "nne.aikapool.com": "INACTIVE"
-        },
-        "1578807832": {
-            "nnewtoncoin.labbinarymining.com": "INACTIVE"
-        },
-        "1578807833": {
-            "nnote.thecoin.pw": "INACTIVE",
-            "nns-1.connectbtc.com": "INACTIVE"
-        },
-        "1578807834": {
-            "nns1.cryptmonero.com": "INACTIVE",
-            "nns1.cryptobrowser.site": "INACTIVE",
-            "nns1.mia.nocroom.com": "INACTIVE",
-            "nns1.minecraftpool.com": "INACTIVE",
-            "nns2.cryptmonero.com": "INACTIVE",
-            "nns2.cryptobrowser.site": "INACTIVE",
-            "nns2.la.pool.nocroom.com": "INACTIVE",
-            "nns2.mia.nocroom.com": "INACTIVE"
-        },
-        "1578807835": {
-            "nns2.mia.pool.nocroom.com": "INACTIVE",
-            "nns2.minecraftpool.com": "INACTIVE",
-            "nns5.connectbtc.com": "INACTIVE"
-        },
-        "1578808523": {
-            "nnxboost.labbinarymining.com": "INACTIVE",
-            "nnyetlherwallet.com": "INACTIVE"
-        },
-        "1578808524": {
-            "no10.cryptobrowser.site": "INACTIVE",
-            "noasic.zone": "INACTIVE",
-            "noasis.moneroseeds.ae.org": "INACTIVE",
-            "nobl.majorminers.com": "INACTIVE",
-            "noblock.pro": "INACTIVE",
-            "noc.suprnova.cc": "INACTIVE"
-        },
-        "1578808525": {
-            "node-a.mine2gether.com": "INACTIVE",
-            "node-etc-a.node.dc1.hashfor.cash": "INACTIVE",
-            "node-etfx.masterpro.site": "INACTIVE",
-            "node-etig.crazypool.org": "INACTIVE"
-        },
-        "1578808526": {
-            "node-xrn-a.service.hashfor.cash": "INACTIVE",
-            "node.aeon.hashvault.pro": "INACTIVE",
-            "node.aeon.nodes.hashvault.pro": "INACTIVE",
-            "node.alpha.node.nimiqpool.com": "INACTIVE",
-            "node.beta.supportxmr.com": "INACTIVE",
-            "node.cfcdist.gd": "INACTIVE",
-            "node.ckpool.org": "INACTIVE",
-            "node.coin-miners.info": "INACTIVE",
-            "node.dero.hashvault.pro": "INACTIVE"
-        },
-        "1578808527": {
-            "node.einfach-iota.de": "INACTIVE",
-            "node.electroneum.hashvault.pro": "INACTIVE",
-            "node.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "node.eos.la": "INACTIVE",
-            "node.eosio.lt": "INACTIVE",
-            "node.eosmeso.io": "INACTIVE",
-            "node.eoswing.io": "INACTIVE",
-            "node.fno.cryptopool.space": "INACTIVE",
-            "node.fonero.hashvault.pro": "INACTIVE"
-        },
-        "1578808528": {
-            "node.fonero.nodes.hashvault.pro": "INACTIVE",
-            "node.graft.hashvault.pro": "INACTIVE",
-            "node.graft.nodes.hashvault.pro": "INACTIVE",
-            "node.gridcoin.us": "INACTIVE",
-            "node.intense.hashvault.pro": "INACTIVE",
-            "node.intense.nodes.hashvault.pro": "INACTIVE",
-            "node.jhshxbv.com": "INACTIVE",
-            "node.karbo.hashvault.pro": "INACTIVE",
-            "node.karbo.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1578808529": {
-            "node.leviarcoin.hashvault.pro": "INACTIVE",
-            "node.masari.hashvault.pro": "INACTIVE",
-            "node.masari.nodes.hashvault.pro": "INACTIVE",
-            "node.monero.hashvault.pro": "INACTIVE",
-            "node.monero.nodes.hashvault.pro": "INACTIVE",
-            "node.monerohash.com": "INACTIVE",
-            "node.namecoin.info": "INACTIVE",
-            "node.nocroom.com": "INACTIVE",
-            "node.node.ckpool.org": "INACTIVE"
-        },
-        "1578808530": {
-            "node.node.bohemianpool.com": "INACTIVE",
-            "node.node.coin-miners.info": "INACTIVE",
-            "node.node.crypto-pool.fr": "INACTIVE",
-            "node.node.einfach-iota.de": "INACTIVE",
-            "node.node.expanse.tech": "INACTIVE",
-            "node.node.grcpool.com": "INACTIVE",
-            "node.node.gridcoin.us": "INACTIVE",
-            "node.node.minexmr.com": "INACTIVE",
-            "node.node.moneroworld.com": "INACTIVE",
-            "node.node.nimiq.watch": "INACTIVE"
-        },
-        "1578808531": {
-            "node.node.nimiqpool.com": "INACTIVE",
-            "node.node.philpool.com": "INACTIVE",
-            "node.node.pocketwhale.info": "INACTIVE",
-            "node.node.supportxmr.com": "INACTIVE",
-            "node.node.swap.fyi": "INACTIVE",
-            "node.node.turtlepool.space": "INACTIVE",
-            "node.node.viaxmr.com": "INACTIVE",
-            "node.node.xmr.pt": "INACTIVE",
-            "node.node.xmr.to": "INACTIVE"
-        },
         "1578808532": {
-            "node.node.xmrbackb.one": "INACTIVE",
-            "node.p2pool.ru": "INACTIVE",
-            "node.philpool.com": "INACTIVE",
-            "node.staging.xmr.to": "INACTIVE",
-            "node.sucrecoin.org": "INACTIVE",
-            "node.sumokoin.hashvault.pro": "INACTIVE",
-            "node.sumokoin.nodes.hashvault.pro": "INACTIVE",
             "node.swap.fyi": "INACTIVE",
             "node.tellurium.m00n.top": "INACTIVE"
         },
@@ -29189,6 +29063,136 @@
             "nmy02.cryptobrowser.site": "INACTIVE",
             "nmynews.cryptomininggame.com": "INACTIVE",
             "nmyr.thecoin.pw": "INACTIVE"
+        },
+        "1579123390": {
+            "nmysql5int.mining.garden": "INACTIVE",
+            "nmza.thecoin.pw": "INACTIVE",
+            "nmzc.thecoin.pw": "INACTIVE",
+            "nmzn.mining.garden": "INACTIVE",
+            "nn.cryptobrowser.site": "INACTIVE"
+        },
+        "1579123391": {
+            "nnational.cryptobrowser.site": "INACTIVE",
+            "nnc.hashpool.eu": "INACTIVE",
+            "nnc.multipool.com": "INACTIVE",
+            "nnc.mypool.name": "INACTIVE",
+            "nne.aikapool.com": "INACTIVE"
+        },
+        "1579123392": {
+            "nnewtoncoin.labbinarymining.com": "INACTIVE"
+        },
+        "1579123393": {
+            "nnote.thecoin.pw": "INACTIVE",
+            "nns-1.connectbtc.com": "INACTIVE"
+        },
+        "1579123394": {
+            "nns1.cryptmonero.com": "INACTIVE",
+            "nns1.cryptobrowser.site": "INACTIVE",
+            "nns1.mia.nocroom.com": "INACTIVE",
+            "nns1.minecraftpool.com": "INACTIVE",
+            "nns2.cryptmonero.com": "INACTIVE",
+            "nns2.cryptobrowser.site": "INACTIVE"
+        },
+        "1579123395": {
+            "nns2.la.pool.nocroom.com": "INACTIVE",
+            "nns2.mia.nocroom.com": "INACTIVE",
+            "nns2.mia.pool.nocroom.com": "INACTIVE",
+            "nns2.minecraftpool.com": "INACTIVE",
+            "nns5.connectbtc.com": "INACTIVE"
+        },
+        "1579123396": {
+            "nnxboost.labbinarymining.com": "INACTIVE",
+            "nnyetlherwallet.com": "INACTIVE",
+            "no10.cryptobrowser.site": "INACTIVE",
+            "noasic.zone": "INACTIVE",
+            "noasis.moneroseeds.ae.org": "INACTIVE",
+            "nobl.majorminers.com": "INACTIVE"
+        },
+        "1579123397": {
+            "noblock.pro": "INACTIVE",
+            "noc.suprnova.cc": "INACTIVE",
+            "node-a.mine2gether.com": "INACTIVE"
+        },
+        "1579123398": {
+            "node-etc-a.node.dc1.hashfor.cash": "INACTIVE",
+            "node-etfx.masterpro.site": "INACTIVE",
+            "node-etig.crazypool.org": "INACTIVE",
+            "node-xrn-a.service.hashfor.cash": "INACTIVE",
+            "node.aeon.hashvault.pro": "INACTIVE",
+            "node.aeon.nodes.hashvault.pro": "INACTIVE",
+            "node.alpha.node.nimiqpool.com": "INACTIVE",
+            "node.beta.supportxmr.com": "INACTIVE"
+        },
+        "1579123399": {
+            "node.cfcdist.gd": "INACTIVE",
+            "node.ckpool.org": "INACTIVE",
+            "node.coin-miners.info": "INACTIVE",
+            "node.dero.hashvault.pro": "INACTIVE",
+            "node.einfach-iota.de": "INACTIVE",
+            "node.electroneum.hashvault.pro": "INACTIVE",
+            "node.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "node.eos.la": "INACTIVE"
+        },
+        "1579123400": {
+            "node.eosio.lt": "INACTIVE",
+            "node.eosmeso.io": "INACTIVE",
+            "node.eoswing.io": "INACTIVE",
+            "node.fno.cryptopool.space": "INACTIVE",
+            "node.fonero.hashvault.pro": "INACTIVE",
+            "node.fonero.nodes.hashvault.pro": "INACTIVE",
+            "node.graft.hashvault.pro": "INACTIVE",
+            "node.graft.nodes.hashvault.pro": "INACTIVE",
+            "node.gridcoin.us": "INACTIVE"
+        },
+        "1579123401": {
+            "node.intense.hashvault.pro": "INACTIVE",
+            "node.intense.nodes.hashvault.pro": "INACTIVE",
+            "node.jhshxbv.com": "INACTIVE",
+            "node.karbo.hashvault.pro": "INACTIVE",
+            "node.karbo.nodes.hashvault.pro": "INACTIVE",
+            "node.leviarcoin.hashvault.pro": "INACTIVE",
+            "node.masari.hashvault.pro": "INACTIVE",
+            "node.masari.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579123402": {
+            "node.monero.hashvault.pro": "INACTIVE",
+            "node.monero.nodes.hashvault.pro": "INACTIVE",
+            "node.monerohash.com": "INACTIVE",
+            "node.namecoin.info": "INACTIVE",
+            "node.nocroom.com": "INACTIVE",
+            "node.node.bohemianpool.com": "INACTIVE",
+            "node.node.ckpool.org": "INACTIVE",
+            "node.node.coin-miners.info": "INACTIVE"
+        },
+        "1579123403": {
+            "node.node.crypto-pool.fr": "INACTIVE",
+            "node.node.einfach-iota.de": "INACTIVE",
+            "node.node.expanse.tech": "INACTIVE",
+            "node.node.grcpool.com": "INACTIVE",
+            "node.node.gridcoin.us": "INACTIVE",
+            "node.node.minexmr.com": "INACTIVE",
+            "node.node.moneroworld.com": "INACTIVE",
+            "node.node.nimiq.watch": "INACTIVE",
+            "node.node.philpool.com": "INACTIVE"
+        },
+        "1579123404": {
+            "node.node.nimiqpool.com": "INACTIVE",
+            "node.node.pocketwhale.info": "INACTIVE",
+            "node.node.supportxmr.com": "INACTIVE",
+            "node.node.swap.fyi": "INACTIVE",
+            "node.node.turtlepool.space": "INACTIVE",
+            "node.node.viaxmr.com": "INACTIVE",
+            "node.node.xmr.pt": "INACTIVE",
+            "node.node.xmrbackb.one": "INACTIVE"
+        },
+        "1579123405": {
+            "node.node.xmr.to": "INACTIVE",
+            "node.p2pool.ru": "INACTIVE",
+            "node.philpool.com": "INACTIVE",
+            "node.staging.xmr.to": "INACTIVE",
+            "node.sucrecoin.org": "INACTIVE",
+            "node.sumokoin.hashvault.pro": "INACTIVE",
+            "node.sumokoin.nodes.hashvault.pro": "INACTIVE"
         }
     }
 }
