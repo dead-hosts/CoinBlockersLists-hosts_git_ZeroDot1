@@ -2322,7 +2322,7 @@
     "beatingbytes.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "becanium.com": {
         "epoch": 1583452800.0,
@@ -2375,9 +2375,9 @@
         "state": "future"
     },
     "besocial.online": {
-        "epoch": "1574467200",
+        "epoch": 1574467200.0,
         "expiration_date": "23-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "besstahete.info": {
         "epoch": 1601596800.0,
@@ -2575,13 +2575,13 @@
         "state": "future"
     },
     "binanceus.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "binanceweb.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1591228800.0,
+        "expiration_date": "04-jun-2020",
         "state": "future"
     },
     "binarce.com": {
