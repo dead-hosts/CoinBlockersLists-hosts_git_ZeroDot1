@@ -8073,124 +8073,10 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578796653": {
-            "lyra2z-hub.miningpoolhub.com": "INACTIVE",
-            "lyra2z.miningpoolhub.com": "INACTIVE",
-            "lyrabar.coin-miners.info": "INACTIVE",
-            "lyrabar.node.coin-miners.info": "INACTIVE"
-        },
-        "1578796654": {
-            "m-0-35.btcc.com": "INACTIVE",
-            "m-83.openvpn.f2pool.com": "INACTIVE",
-            "m-a.btcchina.com": "INACTIVE",
-            "m.1stminingpool.com": "INACTIVE",
-            "m.aikapool.com": "INACTIVE"
-        },
-        "1578796655": {
-            "m.anyfiles.ovh": "INACTIVE",
-            "m.bitcoin.co.pt": "INACTIVE",
-            "m.btcchina.com": "INACTIVE",
-            "m.cryptopia.co.nz": "INACTIVE",
-            "m.cryptopool.ru": "INACTIVE",
-            "m.de.cryptopool.ru": "INACTIVE",
-            "m.en.cryptopool.ru": "INACTIVE",
-            "m.fjhan.club": "INACTIVE"
-        },
-        "1578796656": {
-            "m.fr.cryptopool.ru": "INACTIVE",
-            "m.miningpoolhub.com": "INACTIVE",
-            "m.ru.cryptopool.ru": "INACTIVE",
-            "m.thecoin.pw": "INACTIVE",
-            "m.uk.cryptopool.ru": "INACTIVE",
-            "m1.e-libra.ru": "INACTIVE",
-            "m1.mbkpool.info": "INACTIVE"
-        },
-        "1578796657": {
-            "m1.moneropool.com": "INACTIVE",
-            "m1.streaming.estream.to": "INACTIVE",
-            "m1x.suprnova.cc": "INACTIVE",
-            "m2.cdn-jquery.host": "INACTIVE",
-            "m2.fjhan.club": "INACTIVE",
-            "m2.moneropool.com": "INACTIVE",
-            "m2.streaming.estream.to": "INACTIVE",
-            "m3.cdn-jquery.host": "INACTIVE",
-            "m3.fjhan.club": "INACTIVE"
-        },
-        "1578796658": {
-            "m4.cd": "INACTIVE",
-            "m4.cdn-jquery.host": "INACTIVE",
-            "m5.cdn-jquery.host": "INACTIVE",
-            "m507.btcc.com": "INACTIVE",
-            "m95184om.beget.tech": "INACTIVE",
-            "ma.herphemiste.com": "INACTIVE",
-            "maaapi.mooo.com": "INACTIVE",
-            "mac.lightninghash.com": "INACTIVE",
-            "mac.suprnova.cc": "INACTIVE"
-        },
-        "1578796659": {
-            "macs.proxpool.com": "INACTIVE",
-            "mag.coin-miners.info": "INACTIVE",
-            "mag.hashlink.eu": "INACTIVE",
-            "mag.node.coin-miners.info": "INACTIVE",
-            "mag.poolforcoin.com": "INACTIVE",
-            "magento.ac.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1578796660": {
-            "magento.internet.moneroseeds.ae.org": "INACTIVE",
-            "magento.xn--1xa.moneroseeds.ae.org": "INACTIVE",
-            "magipool.raspi-ninja.com": "INACTIVE",
-            "magnet.multipools.club": "INACTIVE",
-            "magnetbay.eu": "INACTIVE",
-            "mai.thecoin.pw": "INACTIVE",
-            "maia.suprnova.cc": "INACTIVE"
-        },
-        "1578796661": {
-            "mail.99btc.net": "INACTIVE",
-            "mail.aikapool.com": "INACTIVE",
-            "mail.altcoinix.com": "INACTIVE",
-            "mail.altpools.com": "INACTIVE",
-            "mail.antminer-store.com": "INACTIVE",
-            "mail.antminereurope.com": "INACTIVE",
-            "mail.antminers-bitmain.com": "INACTIVE"
-        },
-        "1578796662": {
-            "mail.beertendr.com": "INACTIVE",
-            "mail.bitcoad.fun": "INACTIVE",
-            "mail.bitcoal.io": "INACTIVE",
-            "mail.bitcoin-doubler.us": "INACTIVE",
-            "mail.bittrader.io": "INACTIVE",
-            "mail.bitultra.io": "INACTIVE",
-            "mail.blockmasters.co": "INACTIVE",
-            "mail.btc.com": "INACTIVE"
-        },
-        "1578796663": {
-            "mail.btcpmine.com": "INACTIVE",
-            "mail.btcprominer.life": "INACTIVE",
-            "mail.celcoin.io": "INACTIVE",
-            "mail.chain-pool.com": "INACTIVE",
-            "mail.clevery.xyz": "INACTIVE",
-            "mail.cms.btcprivate.org": "INACTIVE",
-            "mail.coinminerz.com": "INACTIVE"
-        },
-        "1578796664": {
-            "mail.coinstop.me": "INACTIVE",
-            "mail.crypto-court.com": "INACTIVE",
-            "mail.cryptominingpool.eu": "INACTIVE",
-            "mail.cryptosales.eu": "INACTIVE",
-            "mail.customspeed.nl": "INACTIVE",
-            "mail.digiuzman.com": "INACTIVE"
-        },
         "1578796665": {
-            "mail.etgd.com": "INACTIVE",
-            "mail.ezil.me": "INACTIVE",
-            "mail.forum.aionpool.tech": "INACTIVE",
-            "mail.forum.biblepay.org": "INACTIVE",
-            "mail.hashpool.eu": "INACTIVE",
-            "mail.hellominer.com": "INACTIVE",
             "mail.hospitalcoin.net": "INACTIVE"
         },
         "1578796666": {
-            "mail.hospital.rubypool.com": "INACTIVE",
             "mail.intensecoin.net": "INACTIVE",
             "mail.lanacoin.com": "INACTIVE",
             "mail.levcoin.net": "INACTIVE"
@@ -29106,6 +28992,128 @@
             "lyra2re.jp.nicehash.com": "INACTIVE",
             "lyra2re.usa.nicehash.com": "INACTIVE",
             "lyra2rev2.mining-dutch.nl": "INACTIVE"
+        },
+        "1579113477": {
+            "lyra2z-hub.miningpoolhub.com": "INACTIVE"
+        },
+        "1579113478": {
+            "lyra2z.miningpoolhub.com": "INACTIVE",
+            "lyrabar.coin-miners.info": "INACTIVE",
+            "lyrabar.node.coin-miners.info": "INACTIVE",
+            "m-0-57-6.btcc.com": "INACTIVE",
+            "m-83.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1579113479": {
+            "m-a.btcchina.com": "INACTIVE",
+            "m.1stminingpool.com": "INACTIVE",
+            "m.aikapool.com": "INACTIVE",
+            "m.anyfiles.ovh": "INACTIVE",
+            "m.bitcoin.co.pt": "INACTIVE",
+            "m.btcchina.com": "INACTIVE",
+            "m.cryptopia.co.nz": "INACTIVE"
+        },
+        "1579113480": {
+            "m.cryptopool.ru": "INACTIVE",
+            "m.de.cryptopool.ru": "INACTIVE",
+            "m.en.cryptopool.ru": "INACTIVE",
+            "m.fjhan.club": "INACTIVE",
+            "m.fr.cryptopool.ru": "INACTIVE",
+            "m.miningpoolhub.com": "INACTIVE",
+            "m.ru.cryptopool.ru": "INACTIVE"
+        },
+        "1579113481": {
+            "m.thecoin.pw": "INACTIVE",
+            "m.uk.cryptopool.ru": "INACTIVE",
+            "m0-api.btcc.com": "INACTIVE",
+            "m1.e-libra.ru": "INACTIVE",
+            "m1.mbkpool.info": "INACTIVE",
+            "m1.moneropool.com": "INACTIVE",
+            "m1.streaming.estream.to": "INACTIVE"
+        },
+        "1579113482": {
+            "m1x.suprnova.cc": "INACTIVE",
+            "m2.cdn-jquery.host": "INACTIVE",
+            "m2.fjhan.club": "INACTIVE",
+            "m2.moneropool.com": "INACTIVE",
+            "m2.streaming.estream.to": "INACTIVE",
+            "m3.cdn-jquery.host": "INACTIVE",
+            "m3.fjhan.club": "INACTIVE",
+            "m3.mining.garden": "INACTIVE",
+            "m4.cdn-jquery.host": "INACTIVE"
+        },
+        "1579113483": {
+            "m4.cd": "INACTIVE",
+            "m5.cdn-jquery.host": "INACTIVE",
+            "m95184om.beget.tech": "INACTIVE",
+            "ma.herphemiste.com": "INACTIVE",
+            "maaapi.mooo.com": "INACTIVE",
+            "mac.lightninghash.com": "INACTIVE",
+            "mac.suprnova.cc": "INACTIVE"
+        },
+        "1579113484": {
+            "macs.proxpool.com": "INACTIVE",
+            "mae.btcc.com": "INACTIVE",
+            "mag.coin-miners.info": "INACTIVE",
+            "mag.hashlink.eu": "INACTIVE",
+            "mag.node.coin-miners.info": "INACTIVE",
+            "mag.poolforcoin.com": "INACTIVE"
+        },
+        "1579113485": {
+            "magento.ac.moneroseeds.ae.org": "INACTIVE",
+            "magento.internet.moneroseeds.ae.org": "INACTIVE",
+            "magento.xn--1xa.moneroseeds.ae.org": "INACTIVE",
+            "magipool.raspi-ninja.com": "INACTIVE",
+            "magnet.multipools.club": "INACTIVE",
+            "magnetbay.eu": "INACTIVE"
+        },
+        "1579113486": {
+            "mai.thecoin.pw": "INACTIVE",
+            "maia.suprnova.cc": "INACTIVE",
+            "mail.99btc.net": "INACTIVE",
+            "mail.aikapool.com": "INACTIVE",
+            "mail.altcoinix.com": "INACTIVE",
+            "mail.altpools.com": "INACTIVE",
+            "mail.antminer-store.com": "INACTIVE",
+            "mail.antminereurope.com": "INACTIVE"
+        },
+        "1579113487": {
+            "mail.antminers-bitmain.com": "INACTIVE",
+            "mail.beertendr.com": "INACTIVE",
+            "mail.bitcoad.fun": "INACTIVE",
+            "mail.bitcoal.io": "INACTIVE",
+            "mail.bitcoin-doubler.us": "INACTIVE",
+            "mail.bittrader.io": "INACTIVE"
+        },
+        "1579113488": {
+            "mail.bitultra.io": "INACTIVE",
+            "mail.blockmasters.co": "INACTIVE",
+            "mail.btc.com": "INACTIVE",
+            "mail.btcpmine.com": "INACTIVE",
+            "mail.btcprominer.life": "INACTIVE",
+            "mail.celcoin.io": "INACTIVE"
+        },
+        "1579113489": {
+            "mail.chain-pool.com": "INACTIVE",
+            "mail.clevery.xyz": "INACTIVE",
+            "mail.cms.btcprivate.org": "INACTIVE",
+            "mail.coinminerz.com": "INACTIVE",
+            "mail.coinstop.me": "INACTIVE",
+            "mail.crypto-court.com": "INACTIVE"
+        },
+        "1579113490": {
+            "mail.cryptominingpool.eu": "INACTIVE",
+            "mail.cryptosales.eu": "INACTIVE",
+            "mail.customspeed.nl": "INACTIVE",
+            "mail.digiuzman.com": "INACTIVE",
+            "mail.etgd.com": "INACTIVE",
+            "mail.ezil.me": "INACTIVE"
+        },
+        "1579113491": {
+            "mail.forum.aionpool.tech": "INACTIVE",
+            "mail.forum.biblepay.org": "INACTIVE",
+            "mail.hashpool.eu": "INACTIVE",
+            "mail.hellominer.com": "INACTIVE",
+            "mail.hospital.rubypool.com": "INACTIVE"
         }
     }
 }
