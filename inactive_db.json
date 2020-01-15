@@ -8073,74 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578807134": {
-            "nm.aikapool.com": "INACTIVE"
-        },
-        "1578807135": {
-            "nm.suprnova.cc": "INACTIVE",
-            "nm.thecoin.pw": "INACTIVE",
-            "nmag.poolforcoin.com": "INACTIVE",
-            "nmanage-ds.connectbtc.com": "INACTIVE"
-        },
-        "1578807136": {
-            "nmasari.labbinarymining.com": "INACTIVE",
-            "nmax.thecoin.pw": "INACTIVE",
-            "nmaz.thecoin.pw": "INACTIVE",
-            "nmaza.thecoin.pw": "INACTIVE",
-            "nmazacoin.thecoin.pw": "INACTIVE",
-            "nmb.connectbtc.com": "INACTIVE"
-        },
-        "1578807137": {
-            "nmc.p2pool.org": "INACTIVE",
-            "nmcz.thecoin.pw": "INACTIVE",
-            "nmd.cryptobrowser.site": "INACTIVE",
-            "nmec.thecoin.pw": "INACTIVE",
-            "nmeg.thecoin.pw": "INACTIVE",
-            "nmesgmy.aikapool.com": "INACTIVE"
-        },
-        "1578807138": {
-            "nmin.connectbtc.com": "INACTIVE",
-            "nmine-euro.1ds.us": "INACTIVE",
-            "nmine.cryptopool.1ds.us": "INACTIVE",
-            "nmine.mpool.1ds.us": "INACTIVE",
-            "nmine.thecoin.pw": "INACTIVE",
-            "nmine.xmr.life": "INACTIVE"
-        },
-        "1578807139": {
-            "nmine.thetechnicalspool.com": "INACTIVE"
-        },
-        "1578807826": {
-            "nmoac.thetechnicalspool.com": "INACTIVE",
-            "nmobicontrol.aikapool.com": "INACTIVE"
-        },
-        "1578807827": {
-            "nmobile.thecoin.pw": "INACTIVE",
-            "nmona.thecoin.pw": "INACTIVE",
-            "nmonero.labbinarymining.com": "INACTIVE",
-            "nmonero.minecraftpool.com": "INACTIVE",
-            "nmoneroseeds.moneroseeds.ae.org": "INACTIVE",
-            "nmoon.thecoin.pw": "INACTIVE"
-        },
-        "1578807828": {
-            "nmpool.1ds.us": "INACTIVE",
-            "nmpos.coinminerz.com": "INACTIVE",
-            "nmran.connectbtc.com": "INACTIVE",
-            "nmta10.connectbtc.com": "INACTIVE"
-        },
-        "1578807829": {
-            "nmta21.cryptobrowser.site": "INACTIVE",
-            "nmta6.cryptobrowser.site": "INACTIVE",
-            "nmue.poolforcoin.com": "INACTIVE",
-            "nmue.thecoin.pw": "INACTIVE",
-            "nmx.coinminerz.com": "INACTIVE",
-            "nmx.la.pool.nocroom.com": "INACTIVE"
-        },
         "1578807830": {
-            "nmx.thecoin.pw": "INACTIVE",
-            "nmx02.coinminerz.com": "INACTIVE",
-            "nmy-02.cryptobrowser.site": "INACTIVE",
-            "nmy02.cryptobrowser.site": "INACTIVE",
-            "nmyr.thecoin.pw": "INACTIVE",
             "nmza.thecoin.pw": "INACTIVE",
             "nmzc.thecoin.pw": "INACTIVE",
             "nn.cryptobrowser.site": "INACTIVE"
@@ -29182,6 +29115,80 @@
         },
         "1579122002": {
             "nlvc.mining.garden": "INACTIVE"
+        },
+        "1579122690": {
+            "nm.aikapool.com": "INACTIVE"
+        },
+        "1579122691": {
+            "nm.suprnova.cc": "INACTIVE",
+            "nm.thecoin.pw": "INACTIVE",
+            "nm3.mining.garden": "INACTIVE",
+            "nmag.poolforcoin.com": "INACTIVE"
+        },
+        "1579122692": {
+            "nmanage-ds.connectbtc.com": "INACTIVE",
+            "nmasari.labbinarymining.com": "INACTIVE",
+            "nmax.thecoin.pw": "INACTIVE",
+            "nmaz.thecoin.pw": "INACTIVE",
+            "nmaza.thecoin.pw": "INACTIVE"
+        },
+        "1579122693": {
+            "nmazacoin.thecoin.pw": "INACTIVE",
+            "nmb.connectbtc.com": "INACTIVE",
+            "nmc.p2pool.org": "INACTIVE",
+            "nmcz.thecoin.pw": "INACTIVE",
+            "nmd.cryptobrowser.site": "INACTIVE",
+            "nmec.thecoin.pw": "INACTIVE",
+            "nmeg.thecoin.pw": "INACTIVE"
+        },
+        "1579122694": {
+            "nmesgmy.aikapool.com": "INACTIVE",
+            "nmin.connectbtc.com": "INACTIVE",
+            "nmine-euro.1ds.us": "INACTIVE"
+        },
+        "1579122695": {
+            "nmine.cryptopool.1ds.us": "INACTIVE",
+            "nmine.mpool.1ds.us": "INACTIVE",
+            "nmine.thecoin.pw": "INACTIVE",
+            "nmine.thetechnicalspool.com": "INACTIVE",
+            "nmine.xmr.life": "INACTIVE"
+        },
+        "1579122696": {
+            "nmoac.thetechnicalspool.com": "INACTIVE",
+            "nmobicontrol.aikapool.com": "INACTIVE",
+            "nmobile.thecoin.pw": "INACTIVE",
+            "nmobile1.mining.garden": "INACTIVE",
+            "nmona.thecoin.pw": "INACTIVE",
+            "nmonero.labbinarymining.com": "INACTIVE",
+            "nmonero.minecraftpool.com": "INACTIVE"
+        },
+        "1579122697": {
+            "nmoneroseeds.moneroseeds.ae.org": "INACTIVE",
+            "nmoon.thecoin.pw": "INACTIVE",
+            "nmpool.1ds.us": "INACTIVE",
+            "nmpos.coinminerz.com": "INACTIVE"
+        },
+        "1579122698": {
+            "nmran.connectbtc.com": "INACTIVE",
+            "nmta10.connectbtc.com": "INACTIVE",
+            "nmta21.cryptobrowser.site": "INACTIVE",
+            "nmta6.cryptobrowser.site": "INACTIVE",
+            "nmta9.cryptomininggame.com": "INACTIVE"
+        },
+        "1579122699": {
+            "nmue.poolforcoin.com": "INACTIVE",
+            "nmue.thecoin.pw": "INACTIVE",
+            "nmx.coinminerz.com": "INACTIVE",
+            "nmx.la.pool.nocroom.com": "INACTIVE",
+            "nmx.thecoin.pw": "INACTIVE",
+            "nmx02.coinminerz.com": "INACTIVE"
+        },
+        "1579122700": {
+            "nmy-02.cryptobrowser.site": "INACTIVE",
+            "nmy-3.mining.garden": "INACTIVE",
+            "nmy02.cryptobrowser.site": "INACTIVE",
+            "nmynews.cryptomininggame.com": "INACTIVE",
+            "nmyr.thecoin.pw": "INACTIVE"
         }
     }
 }
