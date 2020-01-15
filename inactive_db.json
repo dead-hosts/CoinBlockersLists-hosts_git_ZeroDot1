@@ -8073,70 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578805598": {
-            "ngun.thecoin.pw": "INACTIVE",
-            "ngw.coinminerz.com": "INACTIVE",
-            "nh.btgpool.pro": "INACTIVE",
-            "nh5.haopool.com": "INACTIVE",
-            "nham.thecoin.pw": "INACTIVE"
-        },
-        "1578805599": {
-            "nhashrate.thecoin.pw": "INACTIVE",
-            "nhaven.pool.nocroom.com": "INACTIVE",
-            "nhe.aikapool.com": "INACTIVE",
-            "nheq-pool.multipools.club": "INACTIVE"
-        },
-        "1578805600": {
-            "nhome.aikapool.com": "INACTIVE",
-            "nhome.coinminerz.com": "INACTIVE",
-            "nhostmaster.coinminerz.com": "INACTIVE",
-            "nhostmaster.poolforcoin.com": "INACTIVE"
-        },
-        "1578805601": {
-            "nht.aikapool.com": "INACTIVE",
-            "nhush.magnificentpool.com": "INACTIVE",
-            "nhush.minepool.ch": "INACTIVE"
-        },
-        "1578805602": {
-            "nicehash.btgpool.pro": "INACTIVE",
-            "nicehash.coin-miners.info": "INACTIVE",
-            "nicehash.node.coin-miners.info": "INACTIVE"
-        },
-        "1578806358": {
-            "nidc.aikapool.com": "INACTIVE",
-            "nidscom.io": "INACTIVE",
-            "night-pool.de": "INACTIVE",
-            "nightcomfort.moneroseeds.ae.org": "INACTIVE",
-            "nijmeocfbdpb.miner.rocks": "INACTIVE"
-        },
-        "1578806359": {
-            "nilu.cubepool.eu": "INACTIVE",
-            "nilu.solopool.org": "INACTIVE",
-            "nim.pool.sexy": "INACTIVE",
-            "nimaps.connectbtc.com": "INACTIVE",
-            "nimbus.hashlink.eu": "INACTIVE",
-            "nimg.magnificentpool.com": "INACTIVE"
-        },
-        "1578806360": {
-            "nimiq.taonacoin.com": "INACTIVE",
-            "nin1-smtp.coinminerz.com": "INACTIVE",
-            "ninja.coin-miners.info": "INACTIVE",
-            "ninja.cryptonote.club": "INACTIVE"
-        },
-        "1578806361": {
-            "ninja.node.coin-miners.info": "INACTIVE",
-            "ninja.suprnova.cc": "INACTIVE",
-            "ninternational.cryptobrowser.site": "INACTIVE",
-            "niobiloki.smartcoinpool.com": "INACTIVE",
-            "niobio.ingest.cryptoknight.cc": "INACTIVE",
-            "niobio.luckypool.org": "INACTIVE"
-        },
-        "1578806362": {
-            "niop.thecoin.pw": "INACTIVE",
-            "nipbc.labbinarymining.com": "INACTIVE"
-        },
         "1578806363": {
-            "nist5.mining-dutch.nl": "INACTIVE",
             "niter.ipadi.xyz": "INACTIVE",
             "nitsche.top": "INACTIVE",
             "njbtcmine.net": "INACTIVE"
@@ -29177,6 +29114,72 @@
             "ngr.connectbtc.com": "INACTIVE",
             "ngraft.pool.nocroom.com": "INACTIVE",
             "ngroups.connectbtc.com": "INACTIVE"
+        },
+        "1579121297": {
+            "ngun.thecoin.pw": "INACTIVE",
+            "ngw.coinminerz.com": "INACTIVE"
+        },
+        "1579121298": {
+            "nh.btgpool.pro": "INACTIVE",
+            "nh5.haopool.com": "INACTIVE",
+            "nham.thecoin.pw": "INACTIVE",
+            "nhashrate.thecoin.pw": "INACTIVE",
+            "nhaven.pool.nocroom.com": "INACTIVE",
+            "nhe.aikapool.com": "INACTIVE"
+        },
+        "1579121299": {
+            "nheq-pool.multipools.club": "INACTIVE",
+            "nhermes.cryptomininggame.com": "INACTIVE",
+            "nhn.mining.garden": "INACTIVE",
+            "nhome.aikapool.com": "INACTIVE"
+        },
+        "1579121300": {
+            "nhome.coinminerz.com": "INACTIVE",
+            "nhost16.cryptomininggame.com": "INACTIVE",
+            "nhostingcp.mining.garden": "INACTIVE",
+            "nhostmaster.btcpmine.org": "INACTIVE",
+            "nhostmaster.coinminerz.com": "INACTIVE",
+            "nhostmaster.poolforcoin.com": "INACTIVE"
+        },
+        "1579121301": {
+            "nht.aikapool.com": "INACTIVE",
+            "nhush.minepool.ch": "INACTIVE"
+        },
+        "1579121302": {
+            "nicehash.btgpool.pro": "INACTIVE",
+            "nicehash.coin-miners.info": "INACTIVE",
+            "nicehash.node.coin-miners.info": "INACTIVE",
+            "nidc.aikapool.com": "INACTIVE"
+        },
+        "1579121303": {
+            "nidscom.io": "INACTIVE",
+            "night-pool.de": "INACTIVE",
+            "nightcomfort.moneroseeds.ae.org": "INACTIVE",
+            "nijmeocfbdpb.miner.rocks": "INACTIVE",
+            "nilu.cubepool.eu": "INACTIVE",
+            "nilu.solopool.org": "INACTIVE"
+        },
+        "1579121304": {
+            "nim.pool.sexy": "INACTIVE",
+            "nimaps.connectbtc.com": "INACTIVE",
+            "nimbus.hashlink.eu": "INACTIVE",
+            "nimiq.taonacoin.com": "INACTIVE",
+            "nin1-smtp.coinminerz.com": "INACTIVE"
+        },
+        "1579121305": {
+            "ninja.coin-miners.info": "INACTIVE",
+            "ninja.cryptonote.club": "INACTIVE",
+            "ninja.node.coin-miners.info": "INACTIVE",
+            "ninja.suprnova.cc": "INACTIVE"
+        },
+        "1579121306": {
+            "ninternational.cryptobrowser.site": "INACTIVE",
+            "nintranet2.cryptomininggame.com": "INACTIVE",
+            "niobiloki.smartcoinpool.com": "INACTIVE",
+            "niobio.ingest.cryptoknight.cc": "INACTIVE",
+            "niobio.luckypool.org": "INACTIVE",
+            "niop.thecoin.pw": "INACTIVE",
+            "nipbc.labbinarymining.com": "INACTIVE"
         }
     }
 }
