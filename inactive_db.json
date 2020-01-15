@@ -8073,89 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578779010": {
-            "esp.suprnova.cc": "INACTIVE",
-            "esr.ipadi.xyz": "INACTIVE",
-            "esr.newpool.pw": "INACTIVE",
-            "est.pool.ethfans.org": "INACTIVE"
-        },
-        "1578779011": {
-            "esxi.n3rd3d.com": "INACTIVE",
-            "et.cryptobrowser.site": "INACTIVE",
-            "etc-api.semipool.com": "INACTIVE",
-            "etc-chart1.epool.io": "INACTIVE",
-            "etc-eu.pool.sexy": "INACTIVE",
-            "etc-eu.suprnova.cc": "INACTIVE",
-            "etc-pplns.cryptodig.ru": "INACTIVE",
-            "etc-solo-eu.wattpool.net": "INACTIVE",
-            "etc-solo.cryptodig.ru": "INACTIVE"
-        },
-        "1578779012": {
-            "etc-us.pool.sexy": "INACTIVE",
-            "etc-us.suprnova.cc": "INACTIVE",
-            "etc-usa.1dig.pro": "INACTIVE",
-            "etc.1dig.pro": "INACTIVE",
-            "etc.2zo.pw": "INACTIVE",
-            "etc.arsmine.com": "INACTIVE",
-            "etc.bkkmining.asia": "INACTIVE",
-            "etc.bw.com": "INACTIVE",
-            "etc.chileminers.cl": "INACTIVE"
-        },
-        "1578779762": {
-            "etc.cryptopool.online": "INACTIVE",
-            "etc.cybtc.info": "INACTIVE",
-            "etc.drunkenpool.me": "INACTIVE",
-            "etc.ehashcoins.org": "INACTIVE",
-            "etc.epool.io": "INACTIVE",
-            "etc.equihash.pro": "INACTIVE",
-            "etc.etherdig.org": "INACTIVE",
-            "etc.labaleine.gg": "INACTIVE",
-            "etc.lucky-mining.com.ua": "INACTIVE",
-            "etc.mine-vn.com": "INACTIVE"
-        },
-        "1578779763": {
-            "etc.minertopia.org": "INACTIVE",
-            "etc.p00l.org": "INACTIVE",
-            "etc.poolxyz.com": "INACTIVE",
-            "etc.prod.2miners.com": "INACTIVE",
-            "etc.semipool.com": "INACTIVE",
-            "etc.staging.pool.whalesburg.com": "INACTIVE",
-            "etc.suprnova.cc": "INACTIVE",
-            "etc.topmining.co.kr": "INACTIVE"
-        },
-        "1578779764": {
-            "etc.thetechnicalspool.com": "INACTIVE",
-            "etc01.pool.warphash.com": "INACTIVE",
-            "etc02.pool.warphash.com": "INACTIVE",
-            "etc2.solopool.org": "INACTIVE",
-            "etc2.uleypool.com": "INACTIVE",
-            "etcc.mole-pool.net": "INACTIVE",
-            "etccp.mole-pool.net": "INACTIVE",
-            "etchain.gpumine.org": "INACTIVE",
-            "etcpool.btcc.com": "INACTIVE"
-        },
-        "1578779765": {
-            "etcstats.epool.io": "INACTIVE",
-            "etd.suprnova.cc": "INACTIVE",
-            "etfx.masterpro.site": "INACTIVE",
-            "eth-apac.suprnova.cc": "INACTIVE",
-            "eth-api.baikalmine.com": "INACTIVE",
-            "eth-asia1.ethermine.org": "INACTIVE",
-            "eth-au.suprnova.cc": "INACTIVE",
-            "eth-bj-prod.poolin.com": "INACTIVE"
-        },
-        "1578779766": {
-            "eth-de.whalesburg.com": "INACTIVE",
-            "eth-est.pool.ethfans.org": "INACTIVE",
-            "eth-eu.pool.sexy": "INACTIVE",
-            "eth-latest-height2.poolin.com": "INACTIVE",
-            "eth-mine.alpereum.ch": "INACTIVE",
-            "eth-mine.suprnova.cc": "INACTIVE",
-            "eth-nl.altpool.pro": "INACTIVE"
-        },
         "1578779767": {
-            "eth-rus.uleypool.com": "INACTIVE",
-            "eth-sg.whalesburg.com": "INACTIVE",
             "eth-testnet.cncoin.farm": "INACTIVE",
             "eth-us.pool.sexy": "INACTIVE",
             "eth-us.suprnova.cc": "INACTIVE",
@@ -28960,6 +28878,95 @@
             "esn.mole-pool.net": "INACTIVE",
             "esn.solopool.org": "INACTIVE",
             "esn.topmining.co.kr": "INACTIVE"
+        },
+        "1579096478": {
+            "esp-test.cryptomininggame.com": "INACTIVE",
+            "esp.suprnova.cc": "INACTIVE"
+        },
+        "1579096479": {
+            "esr.ipadi.xyz": "INACTIVE",
+            "esr.newpool.pw": "INACTIVE",
+            "est.pool.ethfans.org": "INACTIVE",
+            "esxi.n3rd3d.com": "INACTIVE",
+            "et.cryptobrowser.site": "INACTIVE",
+            "etc-api.semipool.com": "INACTIVE"
+        },
+        "1579096480": {
+            "etc-chart1.epool.io": "INACTIVE",
+            "etc-eu.pool.sexy": "INACTIVE",
+            "etc-eu.suprnova.cc": "INACTIVE",
+            "etc-pplns.cryptodig.ru": "INACTIVE",
+            "etc-solo-eu.wattpool.net": "INACTIVE",
+            "etc-solo.cryptodig.ru": "INACTIVE",
+            "etc-us.pool.sexy": "INACTIVE",
+            "etc-us.suprnova.cc": "INACTIVE"
+        },
+        "1579096481": {
+            "etc-usa.1dig.pro": "INACTIVE",
+            "etc.1dig.pro": "INACTIVE",
+            "etc.2zo.pw": "INACTIVE",
+            "etc.arsmine.com": "INACTIVE",
+            "etc.bkkmining.asia": "INACTIVE",
+            "etc.bw.com": "INACTIVE",
+            "etc.chileminers.cl": "INACTIVE"
+        },
+        "1579096482": {
+            "etc.cryptopool.online": "INACTIVE",
+            "etc.cybtc.info": "INACTIVE",
+            "etc.drunkenpool.me": "INACTIVE",
+            "etc.ehashcoins.org": "INACTIVE",
+            "etc.epool.io": "INACTIVE",
+            "etc.equihash.pro": "INACTIVE",
+            "etc.etherdig.org": "INACTIVE",
+            "etc.labaleine.gg": "INACTIVE"
+        },
+        "1579096483": {
+            "etc.lucky-mining.com.ua": "INACTIVE",
+            "etc.mine-vn.com": "INACTIVE",
+            "etc.minertopia.org": "INACTIVE",
+            "etc.p00l.org": "INACTIVE",
+            "etc.poolxyz.com": "INACTIVE",
+            "etc.prod.2miners.com": "INACTIVE"
+        },
+        "1579096484": {
+            "etc.semipool.com": "INACTIVE",
+            "etc.staging.pool.whalesburg.com": "INACTIVE",
+            "etc.suprnova.cc": "INACTIVE",
+            "etc.thetechnicalspool.com": "INACTIVE",
+            "etc.topmining.co.kr": "INACTIVE",
+            "etc01.pool.warphash.com": "INACTIVE",
+            "etc02.pool.warphash.com": "INACTIVE",
+            "etc2.uleypool.com": "INACTIVE"
+        },
+        "1579096485": {
+            "etc2.solopool.org": "INACTIVE",
+            "etcc.mole-pool.net": "INACTIVE",
+            "etccp.mole-pool.net": "INACTIVE",
+            "etchain.gpumine.org": "INACTIVE",
+            "etcpool.btcc.com": "INACTIVE",
+            "etcstats.epool.io": "INACTIVE",
+            "etd.suprnova.cc": "INACTIVE",
+            "etfx.masterpro.site": "INACTIVE"
+        },
+        "1579096486": {
+            "eth-apac.suprnova.cc": "INACTIVE",
+            "eth-api.baikalmine.com": "INACTIVE",
+            "eth-asia1.ethermine.org": "INACTIVE",
+            "eth-au.suprnova.cc": "INACTIVE",
+            "eth-bj-prod.poolin.com": "INACTIVE"
+        },
+        "1579096487": {
+            "eth-de.whalesburg.com": "INACTIVE",
+            "eth-est.pool.ethfans.org": "INACTIVE",
+            "eth-eu.pool.sexy": "INACTIVE",
+            "eth-latest-height2.poolin.com": "INACTIVE",
+            "eth-mine.alpereum.ch": "INACTIVE",
+            "eth-mine.suprnova.cc": "INACTIVE"
+        },
+        "1579096488": {
+            "eth-nl.altpool.pro": "INACTIVE",
+            "eth-rus.uleypool.com": "INACTIVE",
+            "eth-sg.whalesburg.com": "INACTIVE"
         }
     }
 }
