@@ -8073,193 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578853590": {
-            "xmr6.node.crypto-pool.fr": "INACTIVE",
-            "xmr7.node.crypto-pool.fr": "INACTIVE"
-        },
-        "1578853591": {
-            "xmr8.node.crypto-pool.fr": "INACTIVE",
-            "xmr9.crypto-pool.fr": "INACTIVE",
-            "xmr9.node.crypto-pool.fr": "INACTIVE",
-            "xmrapi.alimabi.cn": "INACTIVE",
-            "xmrapib.alimabi.cn": "INACTIVE",
-            "xmrget.com": "INACTIVE",
-            "xmrigcc.com": "INACTIVE"
-        },
-        "1578853592": {
-            "xmrigproxy.ru": "INACTIVE",
-            "xmrm.browsermine.com": "INACTIVE",
-            "xmrm.pw": "INACTIVE",
-            "xmrpool.hashanywhere.com": "INACTIVE",
-            "xmrpool.xmrminingpool.net": "INACTIVE"
-        },
-        "1578853593": {
-            "xmrv7-bj-prod.poolin.com": "INACTIVE",
-            "xmrv7-bj.ss.poolin.com": "INACTIVE",
-            "xms.coin-miners.info": "INACTIVE",
-            "xms.node.coin-miners.info": "INACTIVE",
-            "xms.suprnova.cc": "INACTIVE",
-            "xmt.suprnova.cc": "INACTIVE"
-        },
-        "1578853594": {
-            "xmv.cryptopool.space": "INACTIVE",
-            "xmv.fairhash.org": "INACTIVE",
-            "xmv.go-mine.it": "INACTIVE",
-            "xmv.luckypool.io": "INACTIVE",
-            "xmv.magnificentpool.com": "INACTIVE",
-            "xmv.smartcoinpool.com": "INACTIVE"
-        },
-        "1578853595": {
-            "xmx.luckypool.io": "INACTIVE",
-            "xn---et-5cdaaagk9b9f1ac7jsa.cryptobrowser.site": "INACTIVE",
-            "xn--1xa.moneroseeds.ae.org": "INACTIVE",
-            "xn--bittex-zhb.com": "INACTIVE",
-            "xn--blckchin-5za9o.info": "INACTIVE",
-            "xn--blkhain-m0a4pb.info": "INACTIVE",
-            "xn--blockchin-1xb.info": "INACTIVE",
-            "xn--blockchin-6ib.info": "INACTIVE"
-        },
-        "1578853596": {
-            "xn--blockchin-h4a.com": "INACTIVE",
-            "xn--blockchin-hhb.info": "INACTIVE",
-            "xn--blockchn-p0a.info": "INACTIVE",
-            "xn--blockclin-hdb.info": "INACTIVE",
-            "xn--blokhain-28ab.info": "INACTIVE",
-            "xn--btconnect-vpb.com": "INACTIVE",
-            "xn--crptonator-t93e.com": "INACTIVE",
-            "xn--cyptonator-ew2e.com": "INACTIVE"
-        },
-        "1578853597": {
-            "xn--em-j3s5n.com": "INACTIVE",
-            "xn--get-s0ee83g.cryptobrowser.site": "INACTIVE",
-            "xn--gogle-281b.ml": "INACTIVE",
-            "xn--mo-7ma4721a.com": "INACTIVE",
-            "xn--myetherwale-os8e5y.com": "INACTIVE",
-            "xn--myethewalliet-nm1g.com": "INACTIVE",
-            "xn--mymoner-j0a.com": "INACTIVE"
-        },
-        "1578853598": {
-            "xn--polniex-s1a.com": "INACTIVE",
-            "xn--pypa-0na75c.com": "INACTIVE",
-            "xn--us-east-1fg.ethash-hub.miningpoolhub.com": "INACTIVE",
-            "xn--x-xya776spna.com": "INACTIVE",
-            "xn--yeterwallet-ml8ewn.com": "INACTIVE",
-            "xn--yetewallet-hf2e6mrk.com": "INACTIVE",
-            "xnan.suprnova.cc": "INACTIVE"
-        },
-        "1578853599": {
-            "xnb.superpools.online": "INACTIVE",
-            "xnn.suprnova.cc": "INACTIVE",
-            "xnr.europool.me": "INACTIVE",
-            "xnv.youpool.io": "INACTIVE",
-            "xnx.suprnova.cc": "INACTIVE",
-            "xoa.cryptobro.eu": "INACTIVE",
-            "xoba.btcc.com": "INACTIVE"
-        },
-        "1578853600": {
-            "xph.suprnova.cc": "INACTIVE",
-            "xpool.coinminerz.com": "INACTIVE",
-            "xpool.wfmpools.com": "INACTIVE",
-            "xpp.bluerockpools.net": "INACTIVE"
-        },
-        "1578853601": {
-            "xpp.m00n.top": "INACTIVE",
-            "xpp.scecf.org": "INACTIVE",
-            "xptx.suprnova.cc": "INACTIVE",
-            "xpy.coin-miners.info": "INACTIVE",
-            "xpy.node.coin-miners.info": "INACTIVE",
-            "xpy.suprnova.cc": "INACTIVE",
-            "xqn.coin-miners.info": "INACTIVE",
-            "xqn.node.coin-miners.info": "INACTIVE"
-        },
-        "1578853602": {
-            "xqn.suprnova.cc": "INACTIVE",
-            "xra.suprnova.cc": "INACTIVE",
-            "xrbc.minertopia.org": "INACTIVE",
-            "xrc.blockhunter.info": "INACTIVE",
-            "xrc.skypool.co": "INACTIVE",
-            "xrd-api.poolxrd.xyz": "INACTIVE",
-            "xre.suprnova.cc": "INACTIVE",
-            "xrn.asiapool.io": "INACTIVE"
-        },
-        "1578853603": {
-            "xrn.europool.me": "INACTIVE",
-            "xrn.solopool.org": "INACTIVE",
-            "xrqwig7erykgll4z.onion": "INACTIVE",
-            "xry.kiramine.com": "INACTIVE",
-            "xry.mine2gether.com": "INACTIVE",
-            "xsecurity.fblaster.com": "INACTIVE"
-        },
-        "1578853604": {
-            "xsg-solo.bitpool.ro": "INACTIVE",
-            "xsg.coinblockers.com": "INACTIVE",
-            "xsg.cryptoblock.uk": "INACTIVE",
-            "xsg.magnificentpool.com": "INACTIVE",
-            "xsg.mine-vn.com": "INACTIVE",
-            "xsg.wfmpools.com": "INACTIVE"
-        },
-        "1578853605": {
-            "xsh.coinstop.me": "INACTIVE",
-            "xsh.umine.org": "INACTIVE",
-            "xssrmimmnq.ru": "INACTIVE",
-            "xst.coin-miners.info": "INACTIVE",
-            "xst.node.coin-miners.info": "INACTIVE",
-            "xsu.cryptonote.club": "INACTIVE",
-            "xta-api-4-us.btcc.com": "INACTIVE"
-        },
-        "1578853606": {
-            "xta-api-4.btcc.com": "INACTIVE",
-            "xta.bloc.llama.horse": "INACTIVE",
-            "xtc.cryptoblock.uk": "INACTIVE",
-            "xtc.hashlink.eu": "INACTIVE",
-            "xtc.pool.gntl.co.uk": "INACTIVE",
-            "xtc.pool.pool.gntl.co.uk": "INACTIVE"
-        },
-        "1578853607": {
-            "xtendcash.herominers.com": "INACTIVE",
-            "xtendcash.nodes.hashvault.pro": "INACTIVE",
-            "xtl.52hash.com": "INACTIVE",
-            "xtl.asiapool.io": "INACTIVE",
-            "xtl.bluerockpools.net": "INACTIVE",
-            "xtl.cryptoblock.uk": "INACTIVE",
-            "xtl.hashgang.io": "INACTIVE"
-        },
-        "1578853608": {
-            "xtl.pool.gntl.co.uk": "INACTIVE",
-            "xtl.pool.pool.gntl.co.uk": "INACTIVE",
-            "xtl.semipool.com": "INACTIVE",
-            "xtl.snowmining.com": "INACTIVE",
-            "xtl.solopool.org": "INACTIVE",
-            "xtl.soyminero.es": "INACTIVE"
-        },
-        "1578853609": {
-            "xtncelph.newpool.xyz": "INACTIVE",
-            "xtncple.herominers.com": "INACTIVE",
-            "xtp.coin-miners.info": "INACTIVE",
-            "xtp.node.coin-miners.info": "INACTIVE",
-            "xtp.suprnova.cc": "INACTIVE",
-            "xtr.coin-miners.info": "INACTIVE",
-            "xtr.hashlink.eu": "INACTIVE",
-            "xtr.node.coin-miners.info": "INACTIVE"
-        },
-        "1578854324": {
-            "xtri.llama.horse": "INACTIVE",
-            "xtri.nbx.llama.horse": "INACTIVE",
-            "xtv.poolto.be": "INACTIVE",
-            "xun.communitypool.org": "INACTIVE",
-            "xun.cryptopool.space": "INACTIVE",
-            "xun.cx-pool.gq": "INACTIVE"
-        },
-        "1578854325": {
-            "xun.ingest.cryptoknight.cc": "INACTIVE",
-            "xvc.suprnova.cc": "INACTIVE",
-            "xvg-groestl.cybtc.info": "INACTIVE",
-            "xvg-scrypt.cybtc.info": "INACTIVE",
-            "xvg.antminepool.com": "INACTIVE"
-        },
         "1578854326": {
-            "xvg.coinstop.me": "INACTIVE",
-            "xvg.eu1.unimining.net": "INACTIVE",
             "xvg.suprnova.cc": "INACTIVE",
             "xvideosharing.si": "INACTIVE",
             "xvideosharing.site": "INACTIVE"
@@ -29522,6 +29336,199 @@
         "1579169399": {
             "xmr4.node.crypto-pool.fr": "INACTIVE",
             "xmr5.node.crypto-pool.fr": "INACTIVE"
+        },
+        "1579170089": {
+            "xmr6.node.crypto-pool.fr": "INACTIVE",
+            "xmr7.node.crypto-pool.fr": "INACTIVE"
+        },
+        "1579170090": {
+            "xmr8.node.crypto-pool.fr": "INACTIVE",
+            "xmr9.crypto-pool.fr": "INACTIVE",
+            "xmr9.node.crypto-pool.fr": "INACTIVE",
+            "xmrapi.alimabi.cn": "INACTIVE",
+            "xmrapib.alimabi.cn": "INACTIVE",
+            "xmrget.com": "INACTIVE"
+        },
+        "1579170091": {
+            "xmrigcc.com": "INACTIVE",
+            "xmrigproxy.ru": "INACTIVE",
+            "xmrm.browsermine.com": "INACTIVE",
+            "xmrm.pw": "INACTIVE",
+            "xmrpool.hashanywhere.com": "INACTIVE"
+        },
+        "1579170092": {
+            "xmrpool.xmrminingpool.net": "INACTIVE",
+            "xmrv7-bj-prod.poolin.com": "INACTIVE",
+            "xmrv7-bj.ss.poolin.com": "INACTIVE",
+            "xms.coin-miners.info": "INACTIVE",
+            "xms.node.coin-miners.info": "INACTIVE",
+            "xms.suprnova.cc": "INACTIVE"
+        },
+        "1579170093": {
+            "xmt.suprnova.cc": "INACTIVE",
+            "xmv.cryptopool.space": "INACTIVE",
+            "xmv.fairhash.org": "INACTIVE",
+            "xmv.go-mine.it": "INACTIVE",
+            "xmv.luckypool.io": "INACTIVE",
+            "xmv.magnificentpool.com": "INACTIVE"
+        },
+        "1579170094": {
+            "xmv.mining.garden": "INACTIVE",
+            "xmv.smartcoinpool.com": "INACTIVE",
+            "xmx.luckypool.io": "INACTIVE",
+            "xn---et-5cdaaagk9b9f1ac7jsa.cryptobrowser.site": "INACTIVE",
+            "xn--1xa.moneroseeds.ae.org": "INACTIVE",
+            "xn--bittex-zhb.com": "INACTIVE",
+            "xn--blckchin-5za9o.info": "INACTIVE"
+        },
+        "1579170095": {
+            "xn--blkhain-m0a4pb.info": "INACTIVE",
+            "xn--blockchin-1xb.info": "INACTIVE",
+            "xn--blockchin-6ib.info": "INACTIVE",
+            "xn--blockchin-h4a.com": "INACTIVE",
+            "xn--blockchin-hhb.info": "INACTIVE",
+            "xn--blockchn-p0a.info": "INACTIVE",
+            "xn--blockclin-hdb.info": "INACTIVE",
+            "xn--blokhain-28ab.info": "INACTIVE"
+        },
+        "1579170096": {
+            "xn--btconnect-vpb.com": "INACTIVE",
+            "xn--crptonator-t93e.com": "INACTIVE",
+            "xn--cyptonator-ew2e.com": "INACTIVE",
+            "xn--em-j3s5n.com": "INACTIVE",
+            "xn--get-s0ee83g.cryptobrowser.site": "INACTIVE",
+            "xn--gogle-281b.ml": "INACTIVE",
+            "xn--mo-7ma4721a.com": "INACTIVE"
+        },
+        "1579170097": {
+            "xn--myetherwale-os8e5y.com": "INACTIVE",
+            "xn--myethewalliet-nm1g.com": "INACTIVE",
+            "xn--mymoner-j0a.com": "INACTIVE",
+            "xn--polniex-s1a.com": "INACTIVE",
+            "xn--pypa-0na75c.com": "INACTIVE",
+            "xn--us-east-1fg.ethash-hub.miningpoolhub.com": "INACTIVE"
+        },
+        "1579170098": {
+            "xn--x-xya776spna.com": "INACTIVE",
+            "xn--yeterwallet-ml8ewn.com": "INACTIVE",
+            "xn--yetewallet-hf2e6mrk.com": "INACTIVE",
+            "xnan.suprnova.cc": "INACTIVE",
+            "xnb.superpools.online": "INACTIVE",
+            "xnn.suprnova.cc": "INACTIVE",
+            "xnr.europool.me": "INACTIVE"
+        },
+        "1579170099": {
+            "xnv.youpool.io": "INACTIVE",
+            "xnx.suprnova.cc": "INACTIVE",
+            "xoa.cryptobro.eu": "INACTIVE",
+            "xoba.btcc.com": "INACTIVE",
+            "xph.suprnova.cc": "INACTIVE"
+        },
+        "1579170100": {
+            "xpool.coinminerz.com": "INACTIVE",
+            "xpool.wfmpools.com": "INACTIVE",
+            "xpp.bluerockpools.net": "INACTIVE",
+            "xpp.m00n.top": "INACTIVE",
+            "xpp.scecf.org": "INACTIVE",
+            "xptx.suprnova.cc": "INACTIVE"
+        },
+        "1579170101": {
+            "xpy.coin-miners.info": "INACTIVE",
+            "xpy.node.coin-miners.info": "INACTIVE",
+            "xpy.suprnova.cc": "INACTIVE",
+            "xqn.coin-miners.info": "INACTIVE",
+            "xqn.node.coin-miners.info": "INACTIVE",
+            "xqn.suprnova.cc": "INACTIVE",
+            "xra.suprnova.cc": "INACTIVE"
+        },
+        "1579170102": {
+            "xrbc.minertopia.org": "INACTIVE",
+            "xrc.blockhunter.info": "INACTIVE",
+            "xrc.skypool.co": "INACTIVE",
+            "xrd-api.poolxrd.xyz": "INACTIVE",
+            "xre.suprnova.cc": "INACTIVE",
+            "xrn.asiapool.io": "INACTIVE",
+            "xrn.europool.me": "INACTIVE"
+        },
+        "1579170103": {
+            "xrn.solopool.org": "INACTIVE",
+            "xrqwig7erykgll4z.onion": "INACTIVE",
+            "xry.kiramine.com": "INACTIVE",
+            "xry.mine2gether.com": "INACTIVE",
+            "xsecurity.fblaster.com": "INACTIVE",
+            "xsg-solo.bitpool.ro": "INACTIVE"
+        },
+        "1579170104": {
+            "xsg.coinblockers.com": "INACTIVE",
+            "xsg.cryptoblock.uk": "INACTIVE",
+            "xsg.magnificentpool.com": "INACTIVE",
+            "xsg.mine-vn.com": "INACTIVE",
+            "xsh.coinstop.me": "INACTIVE"
+        },
+        "1579170105": {
+            "xsg.wfmpools.com": "INACTIVE",
+            "xsh.umine.org": "INACTIVE",
+            "xssrmimmnq.ru": "INACTIVE",
+            "xst.coin-miners.info": "INACTIVE",
+            "xst.node.coin-miners.info": "INACTIVE",
+            "xsu.cryptonote.club": "INACTIVE",
+            "xta-api-4-us.btcc.com": "INACTIVE"
+        },
+        "1579170106": {
+            "xta-api-4.btcc.com": "INACTIVE",
+            "xta.bloc.llama.horse": "INACTIVE",
+            "xtc.cryptoblock.uk": "INACTIVE",
+            "xtc.hashlink.eu": "INACTIVE",
+            "xtc.pool.gntl.co.uk": "INACTIVE",
+            "xtc.pool.pool.gntl.co.uk": "INACTIVE"
+        },
+        "1579170107": {
+            "xtendcash.herominers.com": "INACTIVE",
+            "xtendcash.nodes.hashvault.pro": "INACTIVE",
+            "xtl.52hash.com": "INACTIVE",
+            "xtl.asiapool.io": "INACTIVE",
+            "xtl.bluerockpools.net": "INACTIVE",
+            "xtl.cryptoblock.uk": "INACTIVE"
+        },
+        "1579170108": {
+            "xtl.hashgang.io": "INACTIVE",
+            "xtl.mining.garden": "INACTIVE",
+            "xtl.pool.gntl.co.uk": "INACTIVE",
+            "xtl.pool.pool.gntl.co.uk": "INACTIVE",
+            "xtl.semipool.com": "INACTIVE",
+            "xtl.snowmining.com": "INACTIVE",
+            "xtl.solopool.org": "INACTIVE"
+        },
+        "1579170109": {
+            "xtl.soyminero.es": "INACTIVE",
+            "xtncelph.newpool.xyz": "INACTIVE",
+            "xtncple.herominers.com": "INACTIVE",
+            "xtp.coin-miners.info": "INACTIVE",
+            "xtp.node.coin-miners.info": "INACTIVE",
+            "xtp.suprnova.cc": "INACTIVE"
+        },
+        "1579170110": {
+            "xtr.coin-miners.info": "INACTIVE",
+            "xtr.hashlink.eu": "INACTIVE",
+            "xtr.node.coin-miners.info": "INACTIVE",
+            "xtri.llama.horse": "INACTIVE",
+            "xtri.nbx.llama.horse": "INACTIVE"
+        },
+        "1579170111": {
+            "xtv.poolto.be": "INACTIVE",
+            "xuanqi.btcc.com": "INACTIVE",
+            "xun.communitypool.org": "INACTIVE",
+            "xun.cryptopool.space": "INACTIVE",
+            "xun.cx-pool.gq": "INACTIVE",
+            "xun.ingest.cryptoknight.cc": "INACTIVE"
+        },
+        "1579170112": {
+            "xvc.suprnova.cc": "INACTIVE",
+            "xvg-groestl.cybtc.info": "INACTIVE",
+            "xvg-scrypt.cybtc.info": "INACTIVE",
+            "xvg.antminepool.com": "INACTIVE",
+            "xvg.coinstop.me": "INACTIVE",
+            "xvg.eu1.unimining.net": "INACTIVE"
         }
     }
 }
