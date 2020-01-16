@@ -8073,67 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578850764": {
-            "www2.hellominer.com": "INACTIVE",
-            "www2.wemineltc.com": "INACTIVE",
-            "www224.b5r4h.elitter.net": "INACTIVE",
-            "www224.h35ha.elitter.net": "INACTIVE",
-            "www28.aikapool.com": "INACTIVE"
-        },
-        "1578850765": {
-            "www3.2giga.link": "INACTIVE",
-            "www3024.h45hj.elitter.net": "INACTIVE",
-            "www3024.h4hs.elitter.net": "INACTIVE",
-            "www4.2giga.link": "INACTIVE",
-            "www5-4-6.btcc.com": "INACTIVE",
-            "www5.2giga.link": "INACTIVE",
-            "www6-43-2.btcc.com": "INACTIVE"
-        },
-        "1578850766": {
-            "www6.2giga.link": "INACTIVE",
-            "www7.2giga.link": "INACTIVE",
-            "www7.phoneum.io": "INACTIVE",
-            "wwwe.netcodepool.org": "INACTIVE",
-            "wwwroot.gntl.co.uk": "INACTIVE",
-            "wwww.alpereum.ch": "INACTIVE"
-        },
-        "1578850767": {
-            "wwww.mining-dutch.nl": "INACTIVE",
-            "wyn-fyctunnelswc.xyz": "INACTIVE",
-            "wyv.suprnova.cc": "INACTIVE",
-            "x.bigoupai.live": "INACTIVE",
-            "x.bitcoin.co.pt": "INACTIVE",
-            "x.browsermine.com": "INACTIVE"
-        },
-        "1578850768": {
-            "x.miner.id": "INACTIVE",
-            "x0z.magnificentpool.com": "INACTIVE",
-            "x1.minerxmr.ru": "INACTIVE",
-            "x10-194.btcc.com": "INACTIVE",
-            "x100.btcc.com": "INACTIVE"
-        },
-        "1578850769": {
-            "x11.mining-dutch.nl": "INACTIVE",
-            "x11.miningpool.shop": "INACTIVE",
-            "x11.poolforcoin.com": "INACTIVE"
-        },
-        "1578851458": {
-            "x11p2p.com": "INACTIVE"
-        },
-        "1578851459": {
-            "x14.suprnova.cc": "INACTIVE",
-            "x15.br.nicehash.com": "INACTIVE",
-            "x15.eu.nicehash.com": "INACTIVE"
-        },
-        "1578851460": {
-            "x15.hk.nicehash.com": "INACTIVE",
-            "x15.in.nicehash.com": "INACTIVE",
-            "x15.jp.nicehash.com": "INACTIVE",
-            "x15.usa.nicehash.com": "INACTIVE"
-        },
-        "1578851461": {
-            "x16r.pool.private-locker.com": "INACTIVE"
-        },
         "1578851462": {
             "x170.openvpn.f2pool.com": "INACTIVE",
             "x1f.btcc.com": "INACTIVE",
@@ -29498,6 +29437,84 @@
             "www1.2giga.link": "INACTIVE",
             "www1.epool.io": "INACTIVE",
             "www2.2giga.link": "INACTIVE"
+        },
+        "1579167274": {
+            "www2.hellominer.com": "INACTIVE",
+            "www2.wemineltc.com": "INACTIVE",
+            "www224.b5r4h.elitter.net": "INACTIVE",
+            "www224.h35ha.elitter.net": "INACTIVE",
+            "www28.aikapool.com": "INACTIVE",
+            "www3-5-35.btcc.com": "INACTIVE",
+            "www3.2giga.link": "INACTIVE"
+        },
+        "1579167275": {
+            "www3024.h45hj.elitter.net": "INACTIVE",
+            "www3024.h4hs.elitter.net": "INACTIVE",
+            "www4.2giga.link": "INACTIVE",
+            "www5-4-48.btcc.com": "INACTIVE",
+            "www5-4-6.btcc.com": "INACTIVE",
+            "www5.2giga.link": "INACTIVE",
+            "www6-43-2.btcc.com": "INACTIVE",
+            "www6.2giga.link": "INACTIVE"
+        },
+        "1579167276": {
+            "www7-4-9.btcc.com": "INACTIVE",
+            "www7.2giga.link": "INACTIVE",
+            "www7.phoneum.io": "INACTIVE",
+            "www8-4-50-5.btcc.com": "INACTIVE",
+            "www9-5-5-6.btcc.com": "INACTIVE",
+            "wwwe.netcodepool.org": "INACTIVE",
+            "wwwroot.gntl.co.uk": "INACTIVE"
+        },
+        "1579167277": {
+            "wwww.alpereum.ch": "INACTIVE",
+            "wwww.mining-dutch.nl": "INACTIVE",
+            "wyn-fyctunnelswc.xyz": "INACTIVE",
+            "wyv.suprnova.cc": "INACTIVE",
+            "x.bigoupai.live": "INACTIVE",
+            "x.bitcoin.co.pt": "INACTIVE"
+        },
+        "1579167278": {
+            "x.browsermine.com": "INACTIVE",
+            "x.miner.id": "INACTIVE",
+            "x016.btcc.com": "INACTIVE",
+            "x020.btcc.com": "INACTIVE",
+            "x03.btcc.com": "INACTIVE",
+            "x0z.magnificentpool.com": "INACTIVE",
+            "x1-156.btcc.com": "INACTIVE"
+        },
+        "1579167279": {
+            "x1.minerxmr.ru": "INACTIVE",
+            "x10-194.btcc.com": "INACTIVE",
+            "x100.btcc.com": "INACTIVE",
+            "x11.mining-dutch.nl": "INACTIVE",
+            "x11.miningpool.shop": "INACTIVE"
+        },
+        "1579167280": {
+            "x11.poolforcoin.com": "INACTIVE",
+            "x11gost.br.nicehash.com": "INACTIVE",
+            "x11gost.eu.nicehash.com": "INACTIVE",
+            "x11gost.hk.nicehash.com": "INACTIVE",
+            "x11gost.in.nicehash.com": "INACTIVE",
+            "x11gost.jp.nicehash.com": "INACTIVE",
+            "x11gost.usa.nicehash.com": "INACTIVE"
+        },
+        "1579167281": {
+            "x11gost.mining-dutch.nl": "INACTIVE",
+            "x11p2p.com": "INACTIVE",
+            "x14.suprnova.cc": "INACTIVE"
+        },
+        "1579167282": {
+            "x15.br.nicehash.com": "INACTIVE",
+            "x15.eu.nicehash.com": "INACTIVE",
+            "x15.hk.nicehash.com": "INACTIVE",
+            "x15.in.nicehash.com": "INACTIVE",
+            "x15.jp.nicehash.com": "INACTIVE",
+            "x15.usa.nicehash.com": "INACTIVE"
+        },
+        "1579167283": {
+            "x16r.mining-dutch.nl": "INACTIVE",
+            "x16r.pool.private-locker.com": "INACTIVE"
         }
     }
 }
