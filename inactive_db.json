@@ -8073,125 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578827348": {
-            "thor.mine-vn.com": "INACTIVE"
-        },
-        "1578827349": {
-            "ticket.btcc.com": "INACTIVE",
-            "tickets.nocroom.com": "INACTIVE",
-            "time-1.clona.ru": "INACTIVE"
-        },
-        "1578827350": {
-            "tips.hashrate.eu": "INACTIVE",
-            "tit.coinstop.me": "INACTIVE",
-            "tit.miningfield.com": "INACTIVE",
-            "titan.aikapool.com": "INACTIVE",
-            "tix.coinmine.pl": "INACTIVE"
-        },
-        "1578827351": {
-            "tjc.alimabi.cn": "INACTIVE",
-            "tkn.gcpool.eu": "INACTIVE",
-            "tkn.suprnova.cc": "INACTIVE",
-            "tkt.coin-miners.info": "INACTIVE",
-            "tkt.node.coin-miners.info": "INACTIVE",
-            "tkt.suprnova.cc": "INACTIVE",
-            "tl.proxpool.com": "INACTIVE",
-            "tlc.suprnova.cc": "INACTIVE"
-        },
-        "1578827352": {
-            "tlrm.cryptonote.club": "INACTIVE",
-            "tlrmdego.merged.stx.nl": "INACTIVE",
-            "tlrmelph.merged.stx.nl": "INACTIVE",
-            "tlrmfred.merged.stx.nl": "INACTIVE",
-            "tlrmple.merged.stx.nl": "INACTIVE",
-            "tlrmtrtg.merged.stx.nl": "INACTIVE",
-            "tlrmtrtl.merged.stx.nl": "INACTIVE",
-            "tlrmttnz.merged.stx.nl": "INACTIVE"
-        },
-        "1578827353": {
-            "tlrmwrkz.merged.stx.nl": "INACTIVE",
-            "tlrmxcy.merged.stx.nl": "INACTIVE",
-            "tls.scecf.org": "INACTIVE",
-            "tmrw.gcpool.eu": "INACTIVE",
-            "tmy.cryptonote.club": "INACTIVE",
-            "tnetusa.intrepidpool.com": "INACTIVE"
-        },
-        "1578827354": {
-            "tng.suprnova.cc": "INACTIVE",
-            "tngzheheji.btcc.com": "INACTIVE",
-            "tnx.mine-vn.com": "INACTIVE",
-            "token-sale.pool.golix.com": "INACTIVE",
-            "tokendebitcard.mining.sg": "INACTIVE",
-            "tokio.minemonero.pro": "INACTIVE"
-        },
-        "1578827355": {
-            "tokensale.pool.golix.com": "INACTIVE",
-            "tokio01.minemonero.pro": "INACTIVE",
-            "tokomaru.nimiqpool.com": "INACTIVE",
-            "tokomaru.node.nimiqpool.com": "INACTIVE",
-            "tokyo.aeon.hashvault.pro": "INACTIVE",
-            "tokyo.aeon.nodes.hashvault.pro": "INACTIVE",
-            "tokyo.aeonminingpool.com": "INACTIVE",
-            "tokyo.darkcoinp2pool.com": "INACTIVE",
-            "tokyo.electroneum.hashvault.pro": "INACTIVE"
-        },
-        "1578827356": {
-            "tokyo.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "tokyo.graft.hashvault.pro": "INACTIVE",
-            "tokyo.graft.nodes.hashvault.pro": "INACTIVE",
-            "tokyo.monero.hashvault.pro": "INACTIVE",
-            "tokyo.monero.nodes.hashvault.pro": "INACTIVE",
-            "tokyo01.aeon.hashvault.pro": "INACTIVE",
-            "tokyo01.aeon.nodes.hashvault.pro": "INACTIVE",
-            "tokyo01.electroneum.hashvault.pro": "INACTIVE"
-        },
-        "1578827357": {
-            "tokyo01.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "tokyo01.graft.hashvault.pro": "INACTIVE",
-            "tokyo01.graft.nodes.hashvault.pro": "INACTIVE",
-            "tokyo01.monero.hashvault.pro": "INACTIVE",
-            "tokyo01.monero.nodes.hashvault.pro": "INACTIVE",
-            "tokyo01.sumo.hashvault.pro": "INACTIVE",
-            "tokyo01.sumo.nodes.hashvault.pro": "INACTIVE",
-            "tokyo01.sumokoin.hashvault.pro": "INACTIVE",
-            "tokyo01.sumokoin.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1578827358": {
-            "tools.crypto-mining-pool.com": "INACTIVE",
-            "tools.phoneum.io": "INACTIVE",
-            "top-hacks.ru": "INACTIVE",
-            "top-miningpool.eu": "INACTIVE",
-            "top.1ds.us": "INACTIVE",
-            "top.coincave.nl": "INACTIVE"
-        },
-        "1578828053": {
-            "top.poolto.be": "INACTIVE",
-            "top.www.netcodepool.org": "INACTIVE",
-            "top10hyip.99btc.net": "INACTIVE",
-            "tor.coin-miners.info": "INACTIVE",
-            "tor.node.coin-miners.info": "INACTIVE",
-            "torn.coin-miners.info": "INACTIVE"
-        },
-        "1578828054": {
-            "torn.node.coin-miners.info": "INACTIVE",
-            "toronto-canada.pools.minexca.com": "INACTIVE",
-            "torque.herominers.com": "INACTIVE",
-            "torque.nodes.hashvault.pro": "INACTIVE",
-            "torrent.coin-miners.info": "INACTIVE",
-            "torrent.node.coin-miners.info": "INACTIVE",
-            "tortugamor.cf": "INACTIVE"
-        },
-        "1578828055": {
-            "toshi.bitaccess.co": "INACTIVE",
-            "tou.mine-vn.com": "INACTIVE",
-            "tou.pool.sexy": "INACTIVE",
-            "touch.suprnova.cc": "INACTIVE",
-            "tower.burstcoin.ro": "INACTIVE",
-            "tp1.suprnova.cc": "INACTIVE",
-            "tpbpiratbay.cl": "INACTIVE"
-        },
         "1578828056": {
-            "tpi-bt.btcc.com": "INACTIVE",
             "tracker.node.dc1.hashfor.cash": "INACTIVE",
             "trackerdesk.pro": "INACTIVE",
             "trackingclub.pro": "INACTIVE",
@@ -29314,6 +29196,135 @@
         "1579141847": {
             "thirdlight.dynalias.com": "INACTIVE",
             "thor.blockfoundry.org": "INACTIVE"
+        },
+        "1579142531": {
+            "thor.mine-vn.com": "INACTIVE",
+            "ticket.btcc.com": "INACTIVE",
+            "tickets.nocroom.com": "INACTIVE"
+        },
+        "1579142532": {
+            "tienda.mining.garden": "INACTIVE",
+            "tiger.thecoin.pw": "INACTIVE",
+            "tigercoin.thecoin.pw": "INACTIVE",
+            "time-1.clona.ru": "INACTIVE",
+            "tips.hashrate.eu": "INACTIVE"
+        },
+        "1579142533": {
+            "tit.coinstop.me": "INACTIVE",
+            "tit.miningfield.com": "INACTIVE",
+            "titan.aikapool.com": "INACTIVE",
+            "titbe.thecoin.pw": "INACTIVE",
+            "titcoin.thecoin.pw": "INACTIVE",
+            "titlenet.intrepidpool.com": "INACTIVE",
+            "titlenetwork.intrepidpool.com": "INACTIVE"
+        },
+        "1579142534": {
+            "tix.coinmine.pl": "INACTIVE",
+            "tjc.alimabi.cn": "INACTIVE",
+            "tkn.gcpool.eu": "INACTIVE",
+            "tkn.suprnova.cc": "INACTIVE",
+            "tkt.coin-miners.info": "INACTIVE",
+            "tkt.node.coin-miners.info": "INACTIVE",
+            "tkt.suprnova.cc": "INACTIVE"
+        },
+        "1579142535": {
+            "tl.proxpool.com": "INACTIVE",
+            "tlc.suprnova.cc": "INACTIVE",
+            "tlrm.cryptonote.club": "INACTIVE",
+            "tlrmdego.merged.stx.nl": "INACTIVE",
+            "tlrmelph.merged.stx.nl": "INACTIVE",
+            "tlrmfred.merged.stx.nl": "INACTIVE",
+            "tlrmple.merged.stx.nl": "INACTIVE",
+            "tlrmtrtg.merged.stx.nl": "INACTIVE"
+        },
+        "1579142536": {
+            "tlrmtrtl.merged.stx.nl": "INACTIVE",
+            "tlrmttnz.merged.stx.nl": "INACTIVE",
+            "tlrmwrkz.merged.stx.nl": "INACTIVE",
+            "tlrmxcy.merged.stx.nl": "INACTIVE",
+            "tls.scecf.org": "INACTIVE",
+            "tmrw.gcpool.eu": "INACTIVE",
+            "tmy.cryptonote.club": "INACTIVE"
+        },
+        "1579142537": {
+            "tn.intrepidpool.com": "INACTIVE",
+            "tnet.intrepidpool.com": "INACTIVE",
+            "tnetusa.intrepidpool.com": "INACTIVE",
+            "tng.suprnova.cc": "INACTIVE",
+            "tngzheheji.btcc.com": "INACTIVE",
+            "tnx.mine-vn.com": "INACTIVE"
+        },
+        "1579142538": {
+            "token-sale.pool.golix.com": "INACTIVE",
+            "tokendebitcard.mining.sg": "INACTIVE",
+            "tokensale.pool.golix.com": "INACTIVE",
+            "tokio.minemonero.pro": "INACTIVE",
+            "tokio01.minemonero.pro": "INACTIVE",
+            "tokomaru.nimiqpool.com": "INACTIVE"
+        },
+        "1579142539": {
+            "tokomaru.node.nimiqpool.com": "INACTIVE",
+            "tokyo.aeon.hashvault.pro": "INACTIVE",
+            "tokyo.aeon.nodes.hashvault.pro": "INACTIVE",
+            "tokyo.aeonminingpool.com": "INACTIVE",
+            "tokyo.darkcoinp2pool.com": "INACTIVE",
+            "tokyo.electroneum.hashvault.pro": "INACTIVE",
+            "tokyo.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "tokyo.graft.hashvault.pro": "INACTIVE",
+            "tokyo.graft.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579142540": {
+            "tokyo.monero.hashvault.pro": "INACTIVE",
+            "tokyo.monero.nodes.hashvault.pro": "INACTIVE",
+            "tokyo01.aeon.hashvault.pro": "INACTIVE",
+            "tokyo01.aeon.nodes.hashvault.pro": "INACTIVE",
+            "tokyo01.electroneum.hashvault.pro": "INACTIVE",
+            "tokyo01.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "tokyo01.graft.hashvault.pro": "INACTIVE",
+            "tokyo01.graft.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579142541": {
+            "tokyo01.monero.hashvault.pro": "INACTIVE",
+            "tokyo01.monero.nodes.hashvault.pro": "INACTIVE",
+            "tokyo01.sumo.hashvault.pro": "INACTIVE",
+            "tokyo01.sumo.nodes.hashvault.pro": "INACTIVE",
+            "tokyo01.sumokoin.hashvault.pro": "INACTIVE",
+            "tokyo01.sumokoin.nodes.hashvault.pro": "INACTIVE",
+            "tools.crypto-mining-pool.com": "INACTIVE",
+            "tools.cryptomininggame.com": "INACTIVE"
+        },
+        "1579142542": {
+            "tools.phoneum.io": "INACTIVE",
+            "top-hacks.ru": "INACTIVE",
+            "top-miningpool.eu": "INACTIVE",
+            "top.1ds.us": "INACTIVE",
+            "top.poolto.be": "INACTIVE",
+            "top.www.netcodepool.org": "INACTIVE"
+        },
+        "1579142543": {
+            "top10hyip.99btc.net": "INACTIVE",
+            "tor.coin-miners.info": "INACTIVE",
+            "tor.node.coin-miners.info": "INACTIVE",
+            "torn.coin-miners.info": "INACTIVE",
+            "torn.node.coin-miners.info": "INACTIVE",
+            "toronto-canada.pools.minexca.com": "INACTIVE",
+            "torque.herominers.com": "INACTIVE"
+        },
+        "1579142544": {
+            "torque.nodes.hashvault.pro": "INACTIVE",
+            "torrent.coin-miners.info": "INACTIVE",
+            "torrent.node.coin-miners.info": "INACTIVE",
+            "tortugamor.cf": "INACTIVE",
+            "toshi.bitaccess.co": "INACTIVE",
+            "tou.mine-vn.com": "INACTIVE",
+            "tou.pool.sexy": "INACTIVE",
+            "touch.suprnova.cc": "INACTIVE"
+        },
+        "1579142545": {
+            "tower.burstcoin.ro": "INACTIVE",
+            "tp1.suprnova.cc": "INACTIVE",
+            "tpbpiratbay.cl": "INACTIVE",
+            "tpi-bt.btcc.com": "INACTIVE"
         }
     }
 }
