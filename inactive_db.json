@@ -8073,149 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578840144": {
-            "www.ethsolo.maxhash.org": "INACTIVE",
-            "www.ethweb.antpool.com": "INACTIVE",
-            "www.etlrsq.ru": "INACTIVE",
-            "www.etn.hash2mine.com": "INACTIVE",
-            "www.etn.llama.horse": "INACTIVE"
-        },
-        "1578840145": {
-            "www.etn.lucky-mining.com.ua": "INACTIVE",
-            "www.etn.smartcoinpool.com": "INACTIVE",
-            "www.etnhash.net": "INACTIVE",
-            "www.etnhashpool.tk": "INACTIVE",
-            "www.eu.alpereum.ch": "INACTIVE",
-            "www.eu.coin-miners.info": "INACTIVE",
-            "www.eu.netcodepool.org": "INACTIVE"
-        },
-        "1578840146": {
-            "www.eu.node.bohemianpool.com": "INACTIVE",
-            "www.eu.node.coin-miners.info": "INACTIVE",
-            "www.eu.stratum.antpool.com": "INACTIVE",
-            "www.eu.stratum.node.viaxmr.com": "INACTIVE",
-            "www.eu.stratum.viaxmr.com": "INACTIVE",
-            "www.eu.turtlepool.space": "INACTIVE",
-            "www.eu1.bitminter.com": "INACTIVE",
-            "www.eu2.coin-miners.info": "INACTIVE"
-        },
-        "1578840147": {
-            "www.eu2.node.coin-miners.info": "INACTIVE",
-            "www.evengparme.com": "INACTIVE",
-            "www.ex-notify.coinbase.com": "INACTIVE",
-            "www.ex.blockhunter.info": "INACTIVE",
-            "www.exchange.btcc.com": "INACTIVE",
-            "www.exchange.btcchina.com": "INACTIVE"
-        },
-        "1578840148": {
-            "www.exchange1.mia.nocroom.com": "INACTIVE",
-            "www.exchange1.mia.pool.nocroom.com": "INACTIVE",
-            "www.exp.clona.ru": "INACTIVE",
-            "www.exp.epool.io": "INACTIVE",
-            "www.explorer.bitcoinrh.org": "INACTIVE",
-            "www.explorer.celcoin.io": "INACTIVE",
-            "www.explorer.cryptorescue.org": "INACTIVE"
-        },
-        "1578840149": {
-            "www.explorer.namecoin.info": "INACTIVE",
-            "www.explorer.parsicoin.net": "INACTIVE",
-            "www.explorer.pornpoint.org": "INACTIVE",
-            "www.explorer.qrlmining.info": "INACTIVE",
-            "www.explorer.sumokoin.com": "INACTIVE",
-            "www.explorer.sumominer.com": "INACTIVE",
-            "www.explorer.testnet.z.cash": "INACTIVE",
-            "www.explorer.ybcoin.com": "INACTIVE"
-        },
-        "1578840150": {
-            "www.explorer.z.cash": "INACTIVE",
-            "www.explorer2.celcoin.io": "INACTIVE",
-            "www.exppool.maxhash.org": "INACTIVE",
-            "www.ezystorm.com": "INACTIVE",
-            "www.f4e8j36h8572a.com": "INACTIVE",
-            "www.fairpool.cloud": "INACTIVE",
-            "www.fairpool.xyz": "INACTIVE"
-        },
-        "1578840151": {
-            "www.fastmovers.moneroseeds.ae.org": "INACTIVE",
-            "www.fatisin.ru": "INACTIVE",
-            "www.faucet.epool.io": "INACTIVE",
-            "www.faucet.testnet.z.cash": "INACTIVE",
-            "www.fdtpyqqsnzxvt.ru": "INACTIVE"
-        },
-        "1578840152": {
-            "www.fearmypenguin.ath.cx": "INACTIVE",
-            "www.feeds.alpereum.ch": "INACTIVE",
-            "www.festival.smartcoinpool.com": "INACTIVE",
-            "www.fibre.coin-miners.info": "INACTIVE",
-            "www.fibre.node.coin-miners.info": "INACTIVE",
-            "www.filetransfer.coinbase.com": "INACTIVE",
-            "www.finance.antpool.com": "INACTIVE"
-        },
-        "1578840153": {
-            "www.findme.moneroseeds.ae.org": "INACTIVE",
-            "www.firstordermineroutlook.com": "INACTIVE",
-            "www.flashplayerd-4.com": "INACTIVE",
-            "www.flashplayerdownloadvip.com": "INACTIVE",
-            "www.flashpool.club": "INACTIVE",
-            "www.flowplayer.space": "INACTIVE"
-        },
-        "1578840154": {
-            "www.flx.lightninghash.com": "INACTIVE",
-            "www.flymining.ch": "INACTIVE",
-            "www.flypool.net": "INACTIVE",
-            "www.flypool.ru": "INACTIVE",
-            "www.focus-pool.com": "INACTIVE",
-            "www.forever.btcc.com": "INACTIVE",
-            "www.foreverpool.org": "INACTIVE"
-        },
-        "1578840155": {
-            "www.forex.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1578840847": {
-            "www.forgetop.com": "INACTIVE"
-        },
-        "1578840848": {
-            "www.forum.aionpool.tech": "INACTIVE",
-            "www.forum.bitcoin.com": "INACTIVE",
-            "www.forum.crypto-court.com": "INACTIVE",
-            "www.forum.cryptorescue.org": "INACTIVE",
-            "www.forum.lucky-mining.com.ua": "INACTIVE",
-            "www.forum.minergate.com": "INACTIVE",
-            "www.forum.node.expanse.tech": "INACTIVE",
-            "www.forum.z.cash": "INACTIVE"
-        },
-        "1578840849": {
-            "www.forwards.btcchina.com": "INACTIVE",
-            "www.foxx.to": "INACTIVE",
-            "www.foxypool.cf": "INACTIVE",
-            "www.fr-pool.com": "INACTIVE",
-            "www.fr.bitclub.network": "INACTIVE",
-            "www.frackingminer.com": "INACTIVE",
-            "www.freakhouse.us": "INACTIVE"
-        },
-        "1578840850": {
-            "www.freecontent.bi": "INACTIVE",
-            "www.freecontent.com": "INACTIVE",
-            "www.freecontent.do": "INACTIVE",
-            "www.freecontent.download": "INACTIVE",
-            "www.freecontent.info": "INACTIVE",
-            "www.freecontent.loan": "INACTIVE",
-            "www.freecontent.pa": "INACTIVE"
-        },
-        "1578840851": {
-            "www.freecontent.racing": "INACTIVE",
-            "www.freecontent.re": "INACTIVE",
-            "www.freecontent.review": "INACTIVE",
-            "www.freecontent.sc": "INACTIVE",
-            "www.freecontent.science": "INACTIVE",
-            "www.freecontent.st": "INACTIVE",
-            "www.freecontent.tr": "INACTIVE",
-            "www.freecontent.win": "INACTIVE"
-        },
         "1578840852": {
-            "www.frenchmedicalexcellence.moneroseeds.ae.org": "INACTIVE",
-            "www.freshrefreshnerer186.info": "INACTIVE",
-            "www.freshrefreshnerer186rb.info": "INACTIVE",
             "www.fruitice.realnetwrk.com": "INACTIVE",
             "www.ftp.coin-miners.info": "INACTIVE"
         },
@@ -29410,6 +29268,153 @@
             "www.ethos-usa.alpereum.ch": "INACTIVE",
             "www.ethos.alpereum.ch": "INACTIVE",
             "www.ethpool.maxhash.org": "INACTIVE"
+        },
+        "1579155960": {
+            "www.ethsolo.maxhash.org": "INACTIVE",
+            "www.ethweb.antpool.com": "INACTIVE",
+            "www.etlrsq.ru": "INACTIVE",
+            "www.etn.hash2mine.com": "INACTIVE",
+            "www.etn.llama.horse": "INACTIVE",
+            "www.etn.smartcoinpool.com": "INACTIVE"
+        },
+        "1579155961": {
+            "www.etn.lucky-mining.com.ua": "INACTIVE",
+            "www.etnhash.net": "INACTIVE",
+            "www.etnhashpool.tk": "INACTIVE",
+            "www.etzbnfuigipwvs.ru": "INACTIVE",
+            "www.eu.alpereum.ch": "INACTIVE",
+            "www.eu.coin-miners.info": "INACTIVE",
+            "www.eu.netcodepool.org": "INACTIVE"
+        },
+        "1579155962": {
+            "www.eu.node.bohemianpool.com": "INACTIVE",
+            "www.eu.node.coin-miners.info": "INACTIVE",
+            "www.eu.stratum.antpool.com": "INACTIVE",
+            "www.eu.stratum.node.viaxmr.com": "INACTIVE",
+            "www.eu.stratum.viaxmr.com": "INACTIVE",
+            "www.eu.turtlepool.space": "INACTIVE",
+            "www.eu1.bitminter.com": "INACTIVE",
+            "www.eu2.coin-miners.info": "INACTIVE"
+        },
+        "1579155963": {
+            "www.eu2.node.coin-miners.info": "INACTIVE",
+            "www.evengparme.com": "INACTIVE",
+            "www.ex-notify.coinbase.com": "INACTIVE",
+            "www.ex.blockhunter.info": "INACTIVE",
+            "www.exchange.btcc.com": "INACTIVE",
+            "www.exchange.btcchina.com": "INACTIVE",
+            "www.exchange1.mia.nocroom.com": "INACTIVE"
+        },
+        "1579155964": {
+            "www.exchange1.mia.pool.nocroom.com": "INACTIVE",
+            "www.exe.thecoin.pw": "INACTIVE",
+            "www.exp.clona.ru": "INACTIVE",
+            "www.exp.epool.io": "INACTIVE",
+            "www.explorer.bitcoinrh.org": "INACTIVE",
+            "www.explorer.celcoin.io": "INACTIVE",
+            "www.explorer.cryptorescue.org": "INACTIVE"
+        },
+        "1579155965": {
+            "www.explorer.namecoin.info": "INACTIVE",
+            "www.explorer.parsicoin.net": "INACTIVE",
+            "www.explorer.pornpoint.org": "INACTIVE",
+            "www.explorer.qrlmining.info": "INACTIVE",
+            "www.explorer.sumokoin.com": "INACTIVE",
+            "www.explorer.sumominer.com": "INACTIVE",
+            "www.explorer.testnet.z.cash": "INACTIVE"
+        },
+        "1579155966": {
+            "www.explorer.ybcoin.com": "INACTIVE",
+            "www.explorer.z.cash": "INACTIVE",
+            "www.explorer2.celcoin.io": "INACTIVE",
+            "www.exppool.maxhash.org": "INACTIVE",
+            "www.ezystorm.com": "INACTIVE",
+            "www.f4e8j36h8572a.com": "INACTIVE",
+            "www.fairpool.cloud": "INACTIVE"
+        },
+        "1579155967": {
+            "www.fairpool.xyz": "INACTIVE",
+            "www.fastmovers.moneroseeds.ae.org": "INACTIVE",
+            "www.fatisin.ru": "INACTIVE",
+            "www.faucet.epool.io": "INACTIVE",
+            "www.faucet.testnet.z.cash": "INACTIVE"
+        },
+        "1579155968": {
+            "www.fcc.thecoin.pw": "INACTIVE",
+            "www.fdtpyqqsnzxvt.ru": "INACTIVE",
+            "www.fearmypenguin.ath.cx": "INACTIVE",
+            "www.feeds.alpereum.ch": "INACTIVE",
+            "www.festival.smartcoinpool.com": "INACTIVE",
+            "www.fibre.coin-miners.info": "INACTIVE",
+            "www.fibre.node.coin-miners.info": "INACTIVE"
+        },
+        "1579155969": {
+            "www.filetransfer.coinbase.com": "INACTIVE",
+            "www.finance.antpool.com": "INACTIVE",
+            "www.findme.moneroseeds.ae.org": "INACTIVE",
+            "www.fireflycoin.thecoin.pw": "INACTIVE",
+            "www.firstordermineroutlook.com": "INACTIVE",
+            "www.flashplayerd-4.com": "INACTIVE"
+        },
+        "1579155970": {
+            "www.flashplayerdownloadvip.com": "INACTIVE",
+            "www.flashpool.club": "INACTIVE",
+            "www.flow.thecoin.pw": "INACTIVE",
+            "www.flowplayer.space": "INACTIVE",
+            "www.flx.lightninghash.com": "INACTIVE",
+            "www.flymining.ch": "INACTIVE"
+        },
+        "1579155971": {
+            "www.flypool.net": "INACTIVE",
+            "www.flypool.ru": "INACTIVE",
+            "www.focus-pool.com": "INACTIVE",
+            "www.forever.btcc.com": "INACTIVE",
+            "www.foreverpool.org": "INACTIVE",
+            "www.forex.moneroseeds.ae.org": "INACTIVE",
+            "www.forgetop.com": "INACTIVE",
+            "www.forum.aionpool.tech": "INACTIVE"
+        },
+        "1579155972": {
+            "www.forum.bitcoin.com": "INACTIVE",
+            "www.forum.crypto-court.com": "INACTIVE",
+            "www.forum.cryptorescue.org": "INACTIVE",
+            "www.forum.lucky-mining.com.ua": "INACTIVE",
+            "www.forum.minergate.com": "INACTIVE",
+            "www.forum.node.expanse.tech": "INACTIVE",
+            "www.forum.z.cash": "INACTIVE",
+            "www.foxx.to": "INACTIVE"
+        },
+        "1579155973": {
+            "www.forwards.btcchina.com": "INACTIVE",
+            "www.foxypool.cf": "INACTIVE",
+            "www.fr-pool.com": "INACTIVE",
+            "www.fr.bitclub.network": "INACTIVE",
+            "www.frackingminer.com": "INACTIVE",
+            "www.freakhouse.us": "INACTIVE"
+        },
+        "1579155974": {
+            "www.freecontent.bi": "INACTIVE",
+            "www.freecontent.com": "INACTIVE",
+            "www.freecontent.do": "INACTIVE",
+            "www.freecontent.download": "INACTIVE",
+            "www.freecontent.info": "INACTIVE",
+            "www.freecontent.loan": "INACTIVE",
+            "www.freecontent.pa": "INACTIVE",
+            "www.freecontent.re": "INACTIVE"
+        },
+        "1579155975": {
+            "www.freecontent.racing": "INACTIVE",
+            "www.freecontent.review": "INACTIVE",
+            "www.freecontent.sc": "INACTIVE",
+            "www.freecontent.science": "INACTIVE",
+            "www.freecontent.st": "INACTIVE",
+            "www.freecontent.tr": "INACTIVE",
+            "www.freecontent.win": "INACTIVE"
+        },
+        "1579155976": {
+            "www.frenchmedicalexcellence.moneroseeds.ae.org": "INACTIVE",
+            "www.freshrefreshnerer186.info": "INACTIVE",
+            "www.freshrefreshnerer186rb.info": "INACTIVE"
         }
     }
 }
