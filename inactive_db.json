@@ -8073,103 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1578851462": {
-            "x170.openvpn.f2pool.com": "INACTIVE",
-            "x1f.btcc.com": "INACTIVE",
-            "x2-88.btcc.com": "INACTIVE",
-            "x3c.youpool.io": "INACTIVE"
-        },
-        "1578851463": {
-            "x4.nlpool.nl": "INACTIVE",
-            "x40.btcc.com": "INACTIVE",
-            "x44.btcc.com": "INACTIVE",
-            "x44155.btcc.com": "INACTIVE",
-            "x465.btcc.com": "INACTIVE",
-            "x5-56.btcc.com": "INACTIVE",
-            "x578.btcc.com": "INACTIVE",
-            "x61.btcc.com": "INACTIVE"
-        },
-        "1578851464": {
-            "x6159.btcc.com": "INACTIVE",
-            "x88.btcc.com": "INACTIVE",
-            "x8f.btcc.com": "INACTIVE",
-            "x976.btcc.com": "INACTIVE",
-            "xad.hashlink.eu": "INACTIVE"
-        },
-        "1578851465": {
-            "xao.newpool.pw": "INACTIVE",
-            "xao.pool.gntl.co.uk": "INACTIVE",
-            "xao2.mine2gether.com": "INACTIVE",
-            "xar.nosekefik.com": "INACTIVE",
-            "xaria.multiminer.us": "INACTIVE",
-            "xat.miningpool.gq": "INACTIVE",
-            "xat.youpool.io": "INACTIVE"
-        },
-        "1578851466": {
-            "xavatar.1stminingpool.com": "INACTIVE",
-            "xavieron.us": "INACTIVE",
-            "xba9.openvpn.f2pool.com": "INACTIVE",
-            "xbbu.e-pool.net": "INACTIVE",
-            "xbg.cryptoblock.uk": "INACTIVE",
-            "xbit.hashlink.eu": "INACTIVE",
-            "xbit.luckypool.cn": "INACTIVE",
-            "xbl.miningfield.com": "INACTIVE"
-        },
-        "1578852183": {
-            "xbot.coin-miners.info": "INACTIVE",
-            "xbot.hashlink.eu": "INACTIVE",
-            "xbot.node.coin-miners.info": "INACTIVE",
-            "xc.luckypool.cn": "INACTIVE"
-        },
-        "1578852184": {
-            "xc.suprnova.cc": "INACTIVE",
-            "xca.1isolution.com": "INACTIVE",
-            "xca.bluerockpools.net": "INACTIVE",
-            "xca.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "xca.steadyhash.org": "INACTIVE",
-            "xcash.666pool.cn": "INACTIVE"
-        },
-        "1578852185": {
-            "xcash.clevery.xyz": "INACTIVE",
-            "xcash.coin-miners.info": "INACTIVE",
-            "xcash.coolmine.top": "INACTIVE",
-            "xcash.etherdig.org": "INACTIVE",
-            "xcash.hashvault.pro": "INACTIVE",
-            "xcash.node.coin-miners.info": "INACTIVE",
-            "xcash.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1578852186": {
-            "xcash.suprnova.cc": "INACTIVE",
-            "xcash.vnpools.tk": "INACTIVE",
-            "xcash.youpool.io": "INACTIVE",
-            "xcc.youpool.io": "INACTIVE",
-            "xce.suprnova.cc": "INACTIVE",
-            "xci.crypto-coins.club": "INACTIVE",
-            "xci.mypool.name": "INACTIVE"
-        },
-        "1578852187": {
-            "xcn.luckypool.io": "INACTIVE",
-            "xcn.theblocksfactory.com": "INACTIVE",
-            "xcnpool.1gh.com": "INACTIVE",
-            "xcnpool2.1gh.com": "INACTIVE",
-            "xco.coin-miners.info": "INACTIVE",
-            "xco.lotterymining.com": "INACTIVE",
-            "xco.node.coin-miners.info": "INACTIVE",
-            "xco.suprnova.cc": "INACTIVE"
-        },
-        "1578852188": {
-            "xcoin.coin-miners.info": "INACTIVE",
-            "xcoin.cryptonote.club": "INACTIVE",
-            "xcoin.miningpoolhub.com": "INACTIVE",
-            "xcoin.node.coin-miners.info": "INACTIVE",
-            "xcy.bluerockpools.net": "INACTIVE",
-            "xcz.mypool.name": "INACTIVE"
-        },
         "1578852189": {
-            "xdag.coolmine.top": "INACTIVE",
-            "xdag.f2pool.com": "INACTIVE",
-            "xdag.pandaminer.com": "INACTIVE",
-            "xdag.pool.ga": "INACTIVE",
             "xdb.suprnova.cc": "INACTIVE",
             "xde.hashlink.eu": "INACTIVE",
             "xdn.crypto-pool.fr": "INACTIVE"
@@ -29515,6 +29419,106 @@
         "1579167283": {
             "x16r.mining-dutch.nl": "INACTIVE",
             "x16r.pool.private-locker.com": "INACTIVE"
+        },
+        "1579167978": {
+            "x1f.btcc.com": "INACTIVE"
+        },
+        "1579167979": {
+            "x170.openvpn.f2pool.com": "INACTIVE",
+            "x2-88.btcc.com": "INACTIVE",
+            "x3c.youpool.io": "INACTIVE",
+            "x4.nlpool.nl": "INACTIVE"
+        },
+        "1579167980": {
+            "x40.btcc.com": "INACTIVE",
+            "x44.btcc.com": "INACTIVE",
+            "x5-56.btcc.com": "INACTIVE",
+            "x578.btcc.com": "INACTIVE",
+            "x61.btcc.com": "INACTIVE",
+            "x6159.btcc.com": "INACTIVE",
+            "x88.btcc.com": "INACTIVE"
+        },
+        "1579167981": {
+            "x8f.btcc.com": "INACTIVE",
+            "x9.seed.bitcoin.jonasschnelli.ch": "INACTIVE",
+            "x976.btcc.com": "INACTIVE",
+            "xad.hashlink.eu": "INACTIVE"
+        },
+        "1579167982": {
+            "xao.newpool.pw": "INACTIVE",
+            "xao.pool.gntl.co.uk": "INACTIVE",
+            "xao2.mine2gether.com": "INACTIVE",
+            "xar.nosekefik.com": "INACTIVE",
+            "xaria.multiminer.us": "INACTIVE",
+            "xat.miningpool.gq": "INACTIVE",
+            "xat.youpool.io": "INACTIVE"
+        },
+        "1579167983": {
+            "xavatar.1stminingpool.com": "INACTIVE",
+            "xavieron.us": "INACTIVE",
+            "xba9.openvpn.f2pool.com": "INACTIVE",
+            "xbbu.e-pool.net": "INACTIVE",
+            "xbd.thecoin.pw": "INACTIVE",
+            "xbg.cryptoblock.uk": "INACTIVE",
+            "xbit.hashlink.eu": "INACTIVE",
+            "xbit.luckypool.cn": "INACTIVE"
+        },
+        "1579167984": {
+            "xbl.miningfield.com": "INACTIVE",
+            "xbot.coin-miners.info": "INACTIVE",
+            "xbot.hashlink.eu": "INACTIVE",
+            "xbot.node.coin-miners.info": "INACTIVE",
+            "xc.luckypool.cn": "INACTIVE",
+            "xc.suprnova.cc": "INACTIVE",
+            "xca.1isolution.com": "INACTIVE"
+        },
+        "1579167985": {
+            "xca.bluerockpools.net": "INACTIVE",
+            "xca.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "xca.steadyhash.org": "INACTIVE",
+            "xcash.666pool.cn": "INACTIVE",
+            "xcash.clevery.xyz": "INACTIVE"
+        },
+        "1579167986": {
+            "xcash.coin-miners.info": "INACTIVE",
+            "xcash.coolmine.top": "INACTIVE",
+            "xcash.etherdig.org": "INACTIVE",
+            "xcash.hashvault.pro": "INACTIVE",
+            "xcash.node.coin-miners.info": "INACTIVE",
+            "xcash.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579167987": {
+            "xcash.suprnova.cc": "INACTIVE",
+            "xcash.vnpools.tk": "INACTIVE",
+            "xcash.youpool.io": "INACTIVE",
+            "xcc.youpool.io": "INACTIVE",
+            "xce.suprnova.cc": "INACTIVE",
+            "xci.crypto-coins.club": "INACTIVE",
+            "xci.mypool.name": "INACTIVE"
+        },
+        "1579167988": {
+            "xcn.luckypool.io": "INACTIVE",
+            "xcn.theblocksfactory.com": "INACTIVE",
+            "xcnpool.1gh.com": "INACTIVE",
+            "xcnpool2.1gh.com": "INACTIVE",
+            "xco.coin-miners.info": "INACTIVE",
+            "xco.lotterymining.com": "INACTIVE",
+            "xco.node.coin-miners.info": "INACTIVE",
+            "xcoin.coin-miners.info": "INACTIVE"
+        },
+        "1579167989": {
+            "xco.suprnova.cc": "INACTIVE",
+            "xcoin.cryptonote.club": "INACTIVE",
+            "xcoin.miningpoolhub.com": "INACTIVE",
+            "xcoin.node.coin-miners.info": "INACTIVE",
+            "xcy.bluerockpools.net": "INACTIVE",
+            "xcz.mypool.name": "INACTIVE"
+        },
+        "1579167990": {
+            "xdag.coolmine.top": "INACTIVE",
+            "xdag.f2pool.com": "INACTIVE",
+            "xdag.pandaminer.com": "INACTIVE",
+            "xdag.pool.ga": "INACTIVE"
         }
     }
 }
