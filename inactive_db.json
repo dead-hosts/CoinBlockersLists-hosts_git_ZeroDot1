@@ -8073,172 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579124814": {
-            "ns2.p2pmining.com": "INACTIVE",
-            "ns2.system-update.info": "INACTIVE",
-            "ns2.webmining.co": "INACTIVE",
-            "ns2.youcrazy.me": "INACTIVE",
-            "ns2.yvz.blockmasters.co": "INACTIVE",
-            "ns21.minemonero.pro": "INACTIVE"
-        },
-        "1579124815": {
-            "ns21.nodes.hashvault.pro": "INACTIVE",
-            "ns3.gigsis.net": "INACTIVE",
-            "ns3.lucky-mining.com.ua": "INACTIVE",
-            "ns3.majanetwork.com": "INACTIVE",
-            "ns3.p2pmining.com": "INACTIVE",
-            "ns3.ryopool.eu": "INACTIVE",
-            "ns3.youcrazy.me": "INACTIVE"
-        },
-        "1579124816": {
-            "ns31.minemonero.pro": "INACTIVE",
-            "ns31.nodes.hashvault.pro": "INACTIVE",
-            "ns4.intensecoin.net": "INACTIVE",
-            "ns41.minemonero.pro": "INACTIVE",
-            "ns41.nodes.hashvault.pro": "INACTIVE",
-            "ns5.connectbtc.com": "INACTIVE",
-            "ns5.intensecoin.net": "INACTIVE"
-        },
-        "1579124817": {
-            "ns5.persianmine.com": "INACTIVE",
-            "ns51.minemonero.pro": "INACTIVE",
-            "ns51.nodes.hashvault.pro": "INACTIVE",
-            "ns6.intensecoin.net": "INACTIVE",
-            "ns6.persianmine.com": "INACTIVE",
-            "ns61.minemonero.pro": "INACTIVE",
-            "ns61.nodes.hashvault.pro": "INACTIVE",
-            "nsc.suprnova.cc": "INACTIVE"
-        },
-        "1579124818": {
-            "nsk.p2pool.site": "INACTIVE",
-            "nte.mine-vn.com": "INACTIVE",
-            "ntm.lightninghash.com": "INACTIVE",
-            "ntom.xminingpool.com": "INACTIVE",
-            "ntrn.coin-miners.info": "INACTIVE",
-            "ntrn.node.coin-miners.info": "INACTIVE"
-        },
-        "1579124819": {
-            "ntrn.suprnova.cc": "INACTIVE",
-            "nub.miningpoolhub.com": "INACTIVE",
-            "nubis.suprnova.cc": "INACTIVE",
-            "nuc.suprnova.cc": "INACTIVE",
-            "nuko.crazypool.org": "INACTIVE",
-            "nuko.crypto-pool.pro": "INACTIVE",
-            "nuko.cryptopools.info": "INACTIVE",
-            "nuko.ehashcoins.org": "INACTIVE"
-        },
-        "1579124820": {
-            "nuko.mine-vn.com": "INACTIVE",
-            "nuko.node.pocketwhale.info": "INACTIVE",
-            "nuko.solopool.org": "INACTIVE"
-        },
-        "1579125505": {
-            "nutzdoch.einfach-iota.de": "INACTIVE",
-            "nutzdoch.node.einfach-iota.de": "INACTIVE",
-            "nvc.coinmine.pl": "INACTIVE"
-        },
-        "1579125506": {
-            "nvc.coinpool.ru": "INACTIVE",
-            "nvc.e-pool.net": "INACTIVE",
-            "nvc.hashing.space": "INACTIVE",
-            "nvc.majorminers.com": "INACTIVE",
-            "nvc.mine-vn.com": "INACTIVE",
-            "nwo.suprnova.cc": "INACTIVE",
-            "nwx1.btcchina.com": "INACTIVE",
-            "nxb-us.labbinarymining.com": "INACTIVE",
-            "nxb.luckypool.io": "INACTIVE"
-        },
-        "1579125507": {
-            "nxb.youpool.io": "INACTIVE",
-            "nxboost.labbinarymining.com": "INACTIVE",
-            "nxe.suprnova.cc": "INACTIVE",
-            "nxie.openvpn.f2pool.com": "INACTIVE",
-            "nxm.c3pool.com": "INACTIVE",
-            "nxm.llama.horse": "INACTIVE",
-            "nxt.cryptopool.tk": "INACTIVE",
-            "ny.masterpro.site": "INACTIVE"
-        },
-        "1579125508": {
-            "ny.vertco.in": "INACTIVE",
-            "ny1.minez.zone": "INACTIVE",
-            "ny1.xmrminingproxy.com": "INACTIVE",
-            "ny2.minez.zone": "INACTIVE",
-            "ny7f6goy.bid": "INACTIVE",
-            "nya.roflanzdarova.ru": "INACTIVE",
-            "nyan.coincave.nl": "INACTIVE",
-            "nyan.hash-to-coins.com": "INACTIVE"
-        },
-        "1579125509": {
-            "nyan.poolto.be": "INACTIVE",
-            "nyc.akumaxmr.com": "INACTIVE",
-            "nyc.coinsprofit.com": "INACTIVE",
-            "nyc01.beta.supportxmr.com": "INACTIVE",
-            "nyc01.node.supportxmr.com": "INACTIVE",
-            "nyc02.beta.supportxmr.com": "INACTIVE",
-            "nyc02.node.supportxmr.com": "INACTIVE",
-            "nyc03.beta.supportxmr.com": "INACTIVE"
-        },
-        "1579125510": {
-            "nyc03-01.stake.scecf.org": "INACTIVE",
-            "nyc03.node.supportxmr.com": "INACTIVE",
-            "nyc04.beta.supportxmr.com": "INACTIVE",
-            "nyc04.node.supportxmr.com": "INACTIVE",
-            "nyc05.beta.supportxmr.com": "INACTIVE",
-            "nyc05.node.supportxmr.com": "INACTIVE",
-            "nyc3-01.wallet.scecf.org": "INACTIVE",
-            "nyc3-02.pools.scecf.org": "INACTIVE"
-        },
-        "1579125511": {
-            "o10.cryptobrowser.site": "INACTIVE",
-            "o13.phoneum.io": "INACTIVE",
-            "o16.coinimp.com": "INACTIVE",
-            "o21.phoneum.io": "INACTIVE",
-            "o9.openvpn.f2pool.com": "INACTIVE",
-            "oata-api-4.btcc.com": "INACTIVE"
-        },
-        "1579125512": {
-            "oaoboyulewang.btcc.com": "INACTIVE",
-            "oata-api.btcc.com": "INACTIVE",
-            "oata156-202.btcc.com": "INACTIVE",
-            "oatataoboyulewang.btcc.com": "INACTIVE",
-            "oatax03.btcc.com": "INACTIVE",
-            "oauth1nightly.fix.btcc.com": "INACTIVE",
-            "ob.btcc.com": "INACTIVE",
-            "obpmw.minero.pw": "INACTIVE"
-        },
-        "1579125513": {
-            "obscure.herominers.com": "INACTIVE",
-            "observer.hashvault.pro": "INACTIVE",
-            "observer.nodes.hashvault.pro": "INACTIVE",
-            "oc.node.moneroworld.com": "INACTIVE",
-            "oc.suprnova.cc": "INACTIVE",
-            "occ.hashlink.eu": "INACTIVE",
-            "occ.suprnova.cc": "INACTIVE",
-            "ocean.cryptoloot.pro": "INACTIVE"
-        },
-        "1579125514": {
-            "ockoy.deliveryclub-6589.download": "INACTIVE",
-            "ocoin.miningpoolhub.com": "INACTIVE",
-            "ocsnext.coinimp.com": "INACTIVE",
-            "ocsnext.phoneum.io": "INACTIVE",
-            "oct.suprnova.cc": "INACTIVE",
-            "ocu.suprnova.cc": "INACTIVE",
-            "ocupy.coin-miners.info": "INACTIVE",
-            "ocupy.node.coin-miners.info": "INACTIVE"
-        },
-        "1579125515": {
-            "ocupy.suprnova.cc": "INACTIVE",
-            "odhaljpigjag.miner.rocks": "INACTIVE",
-            "odroid-server.bluematt.me": "INACTIVE",
-            "oec.democats.org": "INACTIVE",
-            "oec.poolto.be": "INACTIVE",
-            "oestlcoin.miningpoolhub.com": "INACTIVE"
-        },
         "1579125516": {
-            "oewang.btcc.com": "INACTIVE",
-            "oewang160us.btcc.com": "INACTIVE",
-            "off.coinpool.ru": "INACTIVE",
-            "offer101.tk": "INACTIVE",
             "offer102.tk": "INACTIVE",
             "office.lv.pool.nocroom.com": "INACTIVE",
             "office.miningexpress.com": "INACTIVE",
@@ -29555,6 +29390,165 @@
             "ns2.minertopia.org": "INACTIVE",
             "ns2.moneropool.nl": "INACTIVE",
             "ns2.mutuza.win": "INACTIVE"
+        },
+        "1579372632": {
+            "ns2.p2pmining.com": "INACTIVE",
+            "ns2.system-update.info": "INACTIVE",
+            "ns2.webmining.co": "INACTIVE",
+            "ns2.youcrazy.me": "INACTIVE"
+        },
+        "1579372633": {
+            "ns2.yvz.blockmasters.co": "INACTIVE",
+            "ns21.minemonero.pro": "INACTIVE",
+            "ns21.nodes.hashvault.pro": "INACTIVE",
+            "ns3.gigsis.net": "INACTIVE",
+            "ns3.lucky-mining.com.ua": "INACTIVE",
+            "ns3.majanetwork.com": "INACTIVE",
+            "ns3.p2pmining.com": "INACTIVE",
+            "ns3.ryopool.eu": "INACTIVE"
+        },
+        "1579372634": {
+            "ns3.youcrazy.me": "INACTIVE",
+            "ns31.minemonero.pro": "INACTIVE",
+            "ns31.nodes.hashvault.pro": "INACTIVE",
+            "ns4.intensecoin.net": "INACTIVE",
+            "ns41.minemonero.pro": "INACTIVE",
+            "ns41.nodes.hashvault.pro": "INACTIVE",
+            "ns5.connectbtc.com": "INACTIVE"
+        },
+        "1579372635": {
+            "ns5.intensecoin.net": "INACTIVE",
+            "ns5.persianmine.com": "INACTIVE",
+            "ns51.minemonero.pro": "INACTIVE",
+            "ns51.nodes.hashvault.pro": "INACTIVE",
+            "ns6.intensecoin.net": "INACTIVE",
+            "ns6.persianmine.com": "INACTIVE",
+            "ns61.minemonero.pro": "INACTIVE",
+            "ns61.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579372636": {
+            "nsc.suprnova.cc": "INACTIVE",
+            "nsk.p2pool.site": "INACTIVE",
+            "nte.mine-vn.com": "INACTIVE",
+            "ntm.lightninghash.com": "INACTIVE",
+            "ntom.xminingpool.com": "INACTIVE",
+            "ntrn.coin-miners.info": "INACTIVE"
+        },
+        "1579372637": {
+            "ntrn.node.coin-miners.info": "INACTIVE",
+            "ntrn.suprnova.cc": "INACTIVE",
+            "nub.miningpoolhub.com": "INACTIVE",
+            "nubis.suprnova.cc": "INACTIVE",
+            "nuc.suprnova.cc": "INACTIVE",
+            "nuko.crazypool.org": "INACTIVE",
+            "nuko.crypto-pool.pro": "INACTIVE",
+            "nuko.cryptopools.info": "INACTIVE"
+        },
+        "1579372638": {
+            "nuko.ehashcoins.org": "INACTIVE",
+            "nuko.mine-vn.com": "INACTIVE",
+            "nuko.node.pocketwhale.info": "INACTIVE",
+            "nuko.solopool.org": "INACTIVE",
+            "numeric.btcc.com": "INACTIVE",
+            "nutzdoch.einfach-iota.de": "INACTIVE",
+            "nutzdoch.node.einfach-iota.de": "INACTIVE"
+        },
+        "1579372639": {
+            "nvc.coinmine.pl": "INACTIVE",
+            "nvc.coinpool.ru": "INACTIVE",
+            "nvc.e-pool.net": "INACTIVE",
+            "nvc.hashing.space": "INACTIVE",
+            "nvc.majorminers.com": "INACTIVE",
+            "nvc.mine-vn.com": "INACTIVE",
+            "nwo.suprnova.cc": "INACTIVE",
+            "nwx1.btcchina.com": "INACTIVE"
+        },
+        "1579372640": {
+            "nxb-us.labbinarymining.com": "INACTIVE",
+            "nxb.luckypool.io": "INACTIVE",
+            "nxb.youpool.io": "INACTIVE",
+            "nxboost.labbinarymining.com": "INACTIVE",
+            "nxe.suprnova.cc": "INACTIVE",
+            "nxie.openvpn.f2pool.com": "INACTIVE",
+            "nxm.c3pool.com": "INACTIVE",
+            "nxm.llama.horse": "INACTIVE",
+            "nxt.cryptopool.tk": "INACTIVE"
+        },
+        "1579372641": {
+            "ny.masterpro.site": "INACTIVE",
+            "ny.vertco.in": "INACTIVE",
+            "ny1.minez.zone": "INACTIVE",
+            "ny1.xmrminingproxy.com": "INACTIVE",
+            "ny2.minez.zone": "INACTIVE",
+            "ny7f6goy.bid": "INACTIVE",
+            "nya.roflanzdarova.ru": "INACTIVE",
+            "nyan.coincave.nl": "INACTIVE"
+        },
+        "1579372642": {
+            "nyan.hash-to-coins.com": "INACTIVE",
+            "nyan.poolto.be": "INACTIVE",
+            "nyc.akumaxmr.com": "INACTIVE",
+            "nyc.coinsprofit.com": "INACTIVE",
+            "nyc01.beta.supportxmr.com": "INACTIVE",
+            "nyc01.node.supportxmr.com": "INACTIVE",
+            "nyc02.beta.supportxmr.com": "INACTIVE"
+        },
+        "1579372643": {
+            "nyc02.node.supportxmr.com": "INACTIVE",
+            "nyc03-01.stake.scecf.org": "INACTIVE",
+            "nyc03.beta.supportxmr.com": "INACTIVE",
+            "nyc03.node.supportxmr.com": "INACTIVE",
+            "nyc04.beta.supportxmr.com": "INACTIVE",
+            "nyc04.node.supportxmr.com": "INACTIVE",
+            "nyc05.beta.supportxmr.com": "INACTIVE",
+            "nyc05.node.supportxmr.com": "INACTIVE"
+        },
+        "1579372644": {
+            "nyc3-01.wallet.scecf.org": "INACTIVE",
+            "nyc3-02.pools.scecf.org": "INACTIVE",
+            "o10.cryptobrowser.site": "INACTIVE",
+            "o13.phoneum.io": "INACTIVE",
+            "o16.coinimp.com": "INACTIVE",
+            "o21.phoneum.io": "INACTIVE"
+        },
+        "1579372645": {
+            "o9.openvpn.f2pool.com": "INACTIVE",
+            "oata-j68-40.btcc.com": "INACTIVE",
+            "oata156-202.btcc.com": "INACTIVE",
+            "oauth1nightly.fix.btcc.com": "INACTIVE"
+        },
+        "1579372646": {
+            "obpmw.minero.pw": "INACTIVE",
+            "obscure.herominers.com": "INACTIVE",
+            "observer.hashvault.pro": "INACTIVE",
+            "observer.nodes.hashvault.pro": "INACTIVE",
+            "oc.node.moneroworld.com": "INACTIVE",
+            "oc.suprnova.cc": "INACTIVE",
+            "occ.hashlink.eu": "INACTIVE",
+            "occ.suprnova.cc": "INACTIVE"
+        },
+        "1579372647": {
+            "ocean.cryptoloot.pro": "INACTIVE",
+            "ockoy.deliveryclub-6589.download": "INACTIVE",
+            "ocoin.miningpoolhub.com": "INACTIVE",
+            "ocsnext.coinimp.com": "INACTIVE",
+            "ocsnext.phoneum.io": "INACTIVE",
+            "oct.suprnova.cc": "INACTIVE",
+            "ocupy.coin-miners.info": "INACTIVE"
+        },
+        "1579372648": {
+            "ocu.suprnova.cc": "INACTIVE",
+            "ocupy.node.coin-miners.info": "INACTIVE",
+            "ocupy.suprnova.cc": "INACTIVE",
+            "odhaljpigjag.miner.rocks": "INACTIVE",
+            "odroid-server.bluematt.me": "INACTIVE",
+            "oec.democats.org": "INACTIVE",
+            "oec.poolto.be": "INACTIVE"
+        },
+        "1579372649": {
+            "oestlcoin.miningpoolhub.com": "INACTIVE",
+            "off.coinpool.ru": "INACTIVE",
+            "offer101.tk": "INACTIVE"
         }
     }
 }
