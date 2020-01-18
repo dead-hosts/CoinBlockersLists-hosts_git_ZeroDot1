@@ -8073,177 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579105680": {
-            "gpool.guru": "INACTIVE",
-            "gps.phoneum.io": "INACTIVE",
-            "gpu.poolto.be": "INACTIVE",
-            "gpu.suprnova.cc": "INACTIVE",
-            "gpu.sushipool.com": "INACTIVE",
-            "gr.connectbtc.com": "INACTIVE",
-            "grafana.1ds.us": "INACTIVE"
-        },
-        "1579105681": {
-            "grafana.ahash.ru": "INACTIVE",
-            "grafana.eu-west.cryptopay.me": "INACTIVE",
-            "grafana.hashvault.pro": "INACTIVE",
-            "grafana.j3hkwe.sparkpool.com": "INACTIVE",
-            "grafana.minemonero.pro": "INACTIVE",
-            "grafana.nodes.hashvault.pro": "INACTIVE",
-            "graft.bluerockpools.net": "INACTIVE",
-            "graft.crypto-coins.club": "INACTIVE"
-        },
-        "1579105682": {
-            "graft.kratos.biz": "INACTIVE",
-            "graft.modpool.org": "INACTIVE",
-            "graft.multipooler.com": "INACTIVE",
-            "graft.nodes.hashvault.pro": "INACTIVE",
-            "graft.pool.golix.com": "INACTIVE",
-            "graft.pool.nocroom.com": "INACTIVE",
-            "graft.poolisto.com": "INACTIVE"
-        },
-        "1579105683": {
-            "graft.poolmining.net": "INACTIVE",
-            "graft.superminer.vip": "INACTIVE",
-            "graft.uax.io": "INACTIVE",
-            "graft.zelerius.ru": "INACTIVE",
-            "graftpool.poolmining.net": "INACTIVE",
-            "gram.coin-miners.info": "INACTIVE",
-            "gram.node.coin-miners.info": "INACTIVE",
-            "gram2.coin-miners.info": "INACTIVE"
-        },
-        "1579105684": {
-            "gram.suprnova.cc": "INACTIVE",
-            "gram2.node.coin-miners.info": "INACTIVE",
-            "grandcoin.youcrazy.me": "INACTIVE",
-            "granite.suprnova.cc": "INACTIVE",
-            "grap.coin-miners.info": "INACTIVE",
-            "grap.node.coin-miners.info": "INACTIVE",
-            "graph.suprnova.cc": "INACTIVE",
-            "graphite.clona.ru": "INACTIVE",
-            "graphite.multipool.us": "INACTIVE"
-        },
-        "1579105685": {
-            "grav.suprnova.cc": "INACTIVE",
-            "graylog.sushipool.com": "INACTIVE",
-            "grce.suprnova.cc": "INACTIVE",
-            "gre.hashlink.eu": "INACTIVE",
-            "greece.suprnova.cc": "INACTIVE",
-            "greed.suprnova.cc": "INACTIVE",
-            "green-pools.com": "INACTIVE"
-        },
-        "1579105686": {
-            "greenpool.site": "INACTIVE",
-            "greff.coin-miners.info": "INACTIVE",
-            "greff.node.coin-miners.info": "INACTIVE",
-            "grf.cryptopool.space": "INACTIVE",
-            "grft-api.semipool.com": "INACTIVE",
-            "grft-pool.proxpool.com": "INACTIVE",
-            "grft.crypto-coins.club": "INACTIVE",
-            "grft.cryptoblock.uk": "INACTIVE"
-        },
-        "1579105687": {
-            "grft.europool.me": "INACTIVE",
-            "grft.optimusblue.com": "INACTIVE",
-            "grft.pool.golix.com": "INACTIVE",
-            "grft.pool.pool.gntl.co.uk": "INACTIVE",
-            "grft.proxpool.com": "INACTIVE",
-            "grft.solopool.org": "INACTIVE",
-            "grid.coin-miners.info": "INACTIVE",
-            "grid.node.coin-miners.info": "INACTIVE",
-            "grid.suprnova.cc": "INACTIVE"
-        },
-        "1579105688": {
-            "gridsql.gridcoin.us": "INACTIVE",
-            "gridsql.node.gridcoin.us": "INACTIVE",
-            "grin-test.2miners.com": "INACTIVE",
-            "grin.ingest-asia.cryptoknight.cc": "INACTIVE",
-            "grin.ingest-us.cryptoknight.cc": "INACTIVE",
-            "grin.ingest.cryptoknight.cc": "INACTIVE"
-        },
-        "1579105689": {
-            "grin00-vouzhubili.btcc.com": "INACTIVE",
-            "grin08-vouzhubili.btcc.com": "INACTIVE",
-            "grin29-163.btcc.com": "INACTIVE",
-            "grin29m.btcc.com": "INACTIVE",
-            "grin31-vouzhubili.btcc.com": "INACTIVE",
-            "grin31hgfe.btcc.com": "INACTIVE",
-            "grin59-vouzhubili.btcc.com": "INACTIVE"
-        },
-        "1579105690": {
-            "grinssl-38.btcc.com": "INACTIVE",
-            "grinssl-55.btcc.com": "INACTIVE",
-            "grinssl-91.btcc.com": "INACTIVE",
-            "grintest.2miners.com": "INACTIVE",
-            "grk.hashlink.eu": "INACTIVE",
-            "grkib.gigarho.com": "INACTIVE"
-        },
-        "1579105691": {
-            "groestlcoin.miningpools.cloud": "INACTIVE",
-            "groskuik.clevery.xyz": "INACTIVE",
-            "groups.connectbtc.com": "INACTIVE",
-            "grow.suprnova.cc": "INACTIVE",
-            "grt.suprnova.cc": "INACTIVE",
-            "gruppoaturia.moneroseeds.ae.org": "INACTIVE",
-            "gsm.coin-miners.info": "INACTIVE"
-        },
-        "1579105692": {
-            "gsm.node.coin-miners.info": "INACTIVE",
-            "gsm.suprnova.cc": "INACTIVE",
-            "gsuite.moneroseeds.ae.org": "INACTIVE",
-            "gsy.suprnova.cc": "INACTIVE",
-            "gtm.elitehash.net": "INACTIVE",
-            "gtm.paris.elitehash.net": "INACTIVE",
-            "gua.suprnova.cc": "INACTIVE",
-            "guam.fix.btcc.com": "INACTIVE",
-            "guangdong2-pool.ethfans.org": "INACTIVE"
-        },
-        "1579105693": {
-            "guard-energi.minecrypto.pro": "INACTIVE",
-            "guard.energi.minecrypto.pro": "INACTIVE",
-            "gue.coin-miners.info": "INACTIVE",
-            "gue.node.coin-miners.info": "INACTIVE",
-            "gue.poolto.be": "INACTIVE",
-            "gue.suprnova.cc": "INACTIVE",
-            "gun.coincave.nl": "INACTIVE"
-        },
-        "1579105694": {
-            "gun.lightninghash.com": "INACTIVE",
-            "gun.theblocksfactory.com": "INACTIVE",
-            "gun.thecoin.pw": "INACTIVE",
-            "gunbot.altpool.pro": "INACTIVE",
-            "guntan.btcc.com": "INACTIVE",
-            "gustaver.ddns.ne": "INACTIVE",
-            "gut.mine-vn.com": "INACTIVE",
-            "gw.coinminerz.com": "INACTIVE",
-            "h-239.btcc.com": "INACTIVE"
-        },
-        "1579105695": {
-            "h-46.openvpn.f2pool.com": "INACTIVE",
-            "h-732.btcc.com": "INACTIVE",
-            "h.bitcoin.co.pt": "INACTIVE",
-            "h.chileminers.cl": "INACTIVE",
-            "h.ipadi.xyz": "INACTIVE",
-            "h.suprnova.cc": "INACTIVE",
-            "h075.openvpn.f2pool.com": "INACTIVE",
-            "h1.node.einfach-iota.de": "INACTIVE",
-            "h1.node.node.einfach-iota.de": "INACTIVE"
-        },
-        "1579106392": {
-            "h142.btcc.com": "INACTIVE",
-            "h17.btcc.com": "INACTIVE",
-            "h19.btcc.com": "INACTIVE",
-            "h2-160-1.btcc.com": "INACTIVE",
-            "h2.node.einfach-iota.de": "INACTIVE",
-            "h2.node.node.einfach-iota.de": "INACTIVE"
-        },
         "1579106393": {
-            "h2o-explorer.arcpool.com": "INACTIVE",
-            "h2o.poolto.be": "INACTIVE",
-            "h3016.btcc.com": "INACTIVE",
-            "h5-160-3.btcc.com": "INACTIVE",
-            "h5-160-us.btcc.com": "INACTIVE",
-            "h5-160.btcc.com": "INACTIVE",
-            "h5.haopool.com": "INACTIVE",
             "ha.clona.ru": "INACTIVE",
             "hack.masterpro.site": "INACTIVE"
         },
@@ -29503,6 +29333,177 @@
             "gp.node.coin-miners.info": "INACTIVE",
             "gpc.hashlink.eu": "INACTIVE",
             "gpieces.suprnova.cc": "INACTIVE"
+        },
+        "1579352813": {
+            "gpool.guru": "INACTIVE",
+            "gps.phoneum.io": "INACTIVE",
+            "gpu.poolto.be": "INACTIVE",
+            "gpu.suprnova.cc": "INACTIVE",
+            "gpu.sushipool.com": "INACTIVE"
+        },
+        "1579352814": {
+            "gr.connectbtc.com": "INACTIVE",
+            "grafana.1ds.us": "INACTIVE",
+            "grafana.ahash.ru": "INACTIVE",
+            "grafana.eu-west.cryptopay.me": "INACTIVE",
+            "grafana.hashvault.pro": "INACTIVE",
+            "grafana.j3hkwe.sparkpool.com": "INACTIVE",
+            "grafana.minemonero.pro": "INACTIVE",
+            "grafana.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579352815": {
+            "graft.bluerockpools.net": "INACTIVE",
+            "graft.crypto-coins.club": "INACTIVE",
+            "graft.kratos.biz": "INACTIVE",
+            "graft.modpool.org": "INACTIVE",
+            "graft.multipooler.com": "INACTIVE",
+            "graft.nodes.hashvault.pro": "INACTIVE",
+            "graft.pool.nocroom.com": "INACTIVE"
+        },
+        "1579352816": {
+            "graft.pool.golix.com": "INACTIVE",
+            "graft.poolisto.com": "INACTIVE",
+            "graft.poolmining.net": "INACTIVE",
+            "graft.superminer.vip": "INACTIVE",
+            "graft.uax.io": "INACTIVE",
+            "graft.zelerius.ru": "INACTIVE",
+            "graftpool.poolmining.net": "INACTIVE",
+            "gram.coin-miners.info": "INACTIVE"
+        },
+        "1579352817": {
+            "gram.node.coin-miners.info": "INACTIVE",
+            "gram.suprnova.cc": "INACTIVE",
+            "gram2.coin-miners.info": "INACTIVE",
+            "gram2.node.coin-miners.info": "INACTIVE",
+            "grandcoin.youcrazy.me": "INACTIVE",
+            "granite.suprnova.cc": "INACTIVE",
+            "grap.coin-miners.info": "INACTIVE",
+            "grap.node.coin-miners.info": "INACTIVE",
+            "graph.suprnova.cc": "INACTIVE"
+        },
+        "1579352818": {
+            "graphite.clona.ru": "INACTIVE",
+            "graphite.multipool.us": "INACTIVE",
+            "grav.suprnova.cc": "INACTIVE",
+            "graylog.sushipool.com": "INACTIVE",
+            "grce.suprnova.cc": "INACTIVE",
+            "gre.hashlink.eu": "INACTIVE",
+            "greece.suprnova.cc": "INACTIVE",
+            "greed.suprnova.cc": "INACTIVE"
+        },
+        "1579352819": {
+            "green-pools.com": "INACTIVE",
+            "greenpool.site": "INACTIVE",
+            "greff.coin-miners.info": "INACTIVE",
+            "greff.node.coin-miners.info": "INACTIVE",
+            "grf.cryptopool.space": "INACTIVE",
+            "grft-api.semipool.com": "INACTIVE",
+            "grft-pool.proxpool.com": "INACTIVE",
+            "grft.crypto-coins.club": "INACTIVE"
+        },
+        "1579352820": {
+            "grft.cryptoblock.uk": "INACTIVE",
+            "grft.europool.me": "INACTIVE",
+            "grft.optimusblue.com": "INACTIVE",
+            "grft.pool.golix.com": "INACTIVE",
+            "grft.pool.pool.gntl.co.uk": "INACTIVE",
+            "grft.proxpool.com": "INACTIVE",
+            "grft.solopool.org": "INACTIVE",
+            "grid.coin-miners.info": "INACTIVE",
+            "grid.node.coin-miners.info": "INACTIVE"
+        },
+        "1579352821": {
+            "grid.suprnova.cc": "INACTIVE",
+            "gridsql.gridcoin.us": "INACTIVE",
+            "gridsql.node.gridcoin.us": "INACTIVE",
+            "grin-test.2miners.com": "INACTIVE",
+            "grin.ingest-asia.cryptoknight.cc": "INACTIVE",
+            "grin.ingest-us.cryptoknight.cc": "INACTIVE"
+        },
+        "1579352822": {
+            "grin.ingest.cryptoknight.cc": "INACTIVE",
+            "grin00-vouzhubili.btcc.com": "INACTIVE",
+            "grin08-vouzhubili.btcc.com": "INACTIVE",
+            "grin29-163.btcc.com": "INACTIVE",
+            "grin29m.btcc.com": "INACTIVE",
+            "grin31-vouzhubili.btcc.com": "INACTIVE",
+            "grin31hgfe.btcc.com": "INACTIVE",
+            "grin59-vouzhubili.btcc.com": "INACTIVE"
+        },
+        "1579352823": {
+            "grinssl-38.btcc.com": "INACTIVE",
+            "grinssl-55.btcc.com": "INACTIVE",
+            "grinssl-91.btcc.com": "INACTIVE",
+            "grintest.2miners.com": "INACTIVE",
+            "grk.hashlink.eu": "INACTIVE",
+            "grkib.gigarho.com": "INACTIVE"
+        },
+        "1579352824": {
+            "groestlcoin.miningpools.cloud": "INACTIVE",
+            "groskuik.clevery.xyz": "INACTIVE",
+            "groups.connectbtc.com": "INACTIVE",
+            "grow.suprnova.cc": "INACTIVE",
+            "grt.suprnova.cc": "INACTIVE",
+            "gruppoaturia.moneroseeds.ae.org": "INACTIVE",
+            "gsm.coin-miners.info": "INACTIVE"
+        },
+        "1579352825": {
+            "gsm.node.coin-miners.info": "INACTIVE",
+            "gsm.suprnova.cc": "INACTIVE",
+            "gsuite.moneroseeds.ae.org": "INACTIVE",
+            "gsy.suprnova.cc": "INACTIVE",
+            "gtm.elitehash.net": "INACTIVE",
+            "gtm.paris.elitehash.net": "INACTIVE",
+            "gua.suprnova.cc": "INACTIVE",
+            "guam.fix.btcc.com": "INACTIVE",
+            "guangdong2-pool.ethfans.org": "INACTIVE"
+        },
+        "1579352826": {
+            "guard-energi.minecrypto.pro": "INACTIVE",
+            "guard.energi.minecrypto.pro": "INACTIVE",
+            "gue.coin-miners.info": "INACTIVE",
+            "gue.node.coin-miners.info": "INACTIVE",
+            "gue.poolto.be": "INACTIVE",
+            "gue.suprnova.cc": "INACTIVE",
+            "gun.theblocksfactory.com": "INACTIVE"
+        },
+        "1579352827": {
+            "gun.lightninghash.com": "INACTIVE",
+            "gun.thecoin.pw": "INACTIVE",
+            "gunbot.altpool.pro": "INACTIVE",
+            "guntan.btcc.com": "INACTIVE",
+            "gustaver.ddns.ne": "INACTIVE",
+            "gut.mine-vn.com": "INACTIVE",
+            "gw.coinminerz.com": "INACTIVE",
+            "h-239.btcc.com": "INACTIVE",
+            "h-46.openvpn.f2pool.com": "INACTIVE"
+        },
+        "1579352828": {
+            "h-732.btcc.com": "INACTIVE",
+            "h.bitcoin.co.pt": "INACTIVE",
+            "h.chileminers.cl": "INACTIVE",
+            "h.ipadi.xyz": "INACTIVE",
+            "h.suprnova.cc": "INACTIVE",
+            "h075.openvpn.f2pool.com": "INACTIVE",
+            "h1.node.einfach-iota.de": "INACTIVE",
+            "h1.node.node.einfach-iota.de": "INACTIVE",
+            "h142.btcc.com": "INACTIVE"
+        },
+        "1579352829": {
+            "h17.btcc.com": "INACTIVE",
+            "h19.btcc.com": "INACTIVE",
+            "h2-160-1.btcc.com": "INACTIVE",
+            "h2.node.einfach-iota.de": "INACTIVE",
+            "h2.node.node.einfach-iota.de": "INACTIVE",
+            "h2o-explorer.arcpool.com": "INACTIVE",
+            "h2o.poolto.be": "INACTIVE",
+            "h3016.btcc.com": "INACTIVE",
+            "h5-160-us.btcc.com": "INACTIVE"
+        },
+        "1579352830": {
+            "h5-160-3.btcc.com": "INACTIVE",
+            "h5-160.btcc.com": "INACTIVE",
+            "h5.haopool.com": "INACTIVE"
         }
     }
 }
