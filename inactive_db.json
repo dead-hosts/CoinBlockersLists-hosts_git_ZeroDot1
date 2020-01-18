@@ -8073,151 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579107818": {
-            "hostmaster.hostmaster.hostmaster.hostmaster.www.etc.cryptopool.online": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.hostmaster.www.ethereum.cryptopool.online": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.hostmaster.www.minep.it": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.hostmaster.www.monero.cryptopool.online": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.hostmaster.www.xhash.net": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.hostmaster.xhash.net": "INACTIVE"
-        },
-        "1579108520": {
-            "hostmaster.hostmaster.hostmaster.mail.xhash.net": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.minep.it": "INACTIVE"
-        },
-        "1579108521": {
-            "hostmaster.hostmaster.hostmaster.monero.cryptopool.online": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.pool2.xhash.net": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.www.etc.cryptopool.online": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.www.ethereum.cryptopool.online": "INACTIVE"
-        },
-        "1579108522": {
-            "hostmaster.hostmaster.hostmaster.www.minep.it": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.www.monero.cryptopool.online": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.www.xhash.net": "INACTIVE",
-            "hostmaster.hostmaster.hostmaster.xhash.net": "INACTIVE",
-            "hostmaster.hostmaster.mail.bitcoal.io": "INACTIVE",
-            "hostmaster.hostmaster.mail.xhash.net": "INACTIVE",
-            "hostmaster.hostmaster.minep.it": "INACTIVE"
-        },
-        "1579108523": {
-            "hostmaster.hostmaster.monero.cryptopool.online": "INACTIVE",
-            "hostmaster.hostmaster.p2pool.pl": "INACTIVE",
-            "hostmaster.hostmaster.pool2.xhash.net": "INACTIVE",
-            "hostmaster.hostmaster.www.etc.cryptopool.online": "INACTIVE"
-        },
-        "1579108524": {
-            "hostmaster.hostmaster.www.ethereum.cryptopool.online": "INACTIVE",
-            "hostmaster.hostmaster.www.minep.it": "INACTIVE",
-            "hostmaster.hostmaster.www.monero.cryptopool.online": "INACTIVE",
-            "hostmaster.hostmaster.www.p2pool.pl": "INACTIVE",
-            "hostmaster.hostmaster.www.xhash.net": "INACTIVE",
-            "hostmaster.hostmaster.xhash.net": "INACTIVE",
-            "hostmaster.hostmaster.xmrpool.xyz": "INACTIVE",
-            "hostmaster.hostmaster.yongjia.0769.it": "INACTIVE"
-        },
-        "1579108525": {
-            "hostmaster.intrepidpool.com": "INACTIVE",
-            "hostmaster.jitbit.de": "INACTIVE",
-            "hostmaster.jsecoin.com": "INACTIVE",
-            "hostmaster.labbinarymining.com": "INACTIVE",
-            "hostmaster.ltfn.org": "INACTIVE",
-            "hostmaster.mail.bitcoal.io": "INACTIVE",
-            "hostmaster.mail.xhash.net": "INACTIVE"
-        },
-        "1579108526": {
-            "hostmaster.mastermine.eu": "INACTIVE",
-            "hostmaster.minep.it": "INACTIVE",
-            "hostmaster.minero.ru": "INACTIVE",
-            "hostmaster.minerspool.cc": "INACTIVE",
-            "hostmaster.minexca.com": "INACTIVE",
-            "hostmaster.miningpool.at": "INACTIVE",
-            "hostmaster.minpool.net": "INACTIVE",
-            "hostmaster.moacpool.xyz": "INACTIVE",
-            "hostmaster.modpool.org": "INACTIVE"
-        },
-        "1579108527": {
-            "hostmaster.monero.cryptopool.online": "INACTIVE",
-            "hostmaster.monerominingpool.com": "INACTIVE",
-            "hostmaster.multiminer.us": "INACTIVE",
-            "hostmaster.nasdapool.com": "INACTIVE",
-            "hostmaster.nosekefik.com": "INACTIVE",
-            "hostmaster.nutucoin.club": "INACTIVE"
-        },
-        "1579108528": {
-            "hostmaster.p2pool.pl": "INACTIVE",
-            "hostmaster.p2pool.work": "INACTIVE",
-            "hostmaster.pcmining.xyz": "INACTIVE",
-            "hostmaster.pioncoin.org": "INACTIVE",
-            "hostmaster.pool.gntl.co.uk": "INACTIVE",
-            "hostmaster.pool2.xhash.net": "INACTIVE",
-            "hostmaster.pool2mine.com": "INACTIVE",
-            "hostmaster.poolforcoin.com": "INACTIVE",
-            "hostmaster.s.smartpool.by": "INACTIVE"
-        },
-        "1579108529": {
-            "hostmaster.simplemulti.com": "INACTIVE",
-            "hostmaster.simplycoin.eu": "INACTIVE",
-            "hostmaster.superpools.online": "INACTIVE",
-            "hostmaster.svpool.com": "INACTIVE",
-            "hostmaster.trtlbutton.com": "INACTIVE",
-            "hostmaster.unms.xyz": "INACTIVE",
-            "hostmaster.upxpool.com": "INACTIVE"
-        },
-        "1579108530": {
-            "hostmaster.wlink-net.com": "INACTIVE",
-            "hostmaster.www.etc.cryptopool.online": "INACTIVE",
-            "hostmaster.www.ethereum.cryptopool.online": "INACTIVE",
-            "hostmaster.www.minep.it": "INACTIVE",
-            "hostmaster.www.monero.cryptopool.online": "INACTIVE",
-            "hostmaster.www.monerominingpool.com": "INACTIVE"
-        },
-        "1579108531": {
-            "hostmaster.www.p2pool.pl": "INACTIVE",
-            "hostmaster.www.suchpool.pw": "INACTIVE",
-            "hostmaster.www.xhash.net": "INACTIVE",
-            "hostmaster.xhash.net": "INACTIVE",
-            "hostmaster.xmrminingproxy.com": "INACTIVE",
-            "hostmaster.xmrpool.xyz": "INACTIVE",
-            "hostmaster.yenten-pool.info": "INACTIVE",
-            "hostmaster.yiimp.eu": "INACTIVE"
-        },
-        "1579108532": {
-            "hostmaster.yongjia.0769.it": "INACTIVE",
-            "hostmaster.zel.cash": "INACTIVE",
-            "hostmaster0769.it": "INACTIVE",
-            "hostuseast.alpereum.ch": "INACTIVE",
-            "hot.wemineltc.com": "INACTIVE",
-            "hotel.bittrader.io": "INACTIVE",
-            "hotelbyte.coin-miners.info": "INACTIVE",
-            "hotelbyte.node.coin-miners.info": "INACTIVE"
-        },
-        "1579108533": {
-            "houzhubili-160.btcc.com": "INACTIVE",
-            "houzhubili.btcc.com": "INACTIVE",
-            "hq.ipadi.xyz": "INACTIVE",
-            "hq.moriaxmr.com": "INACTIVE",
-            "hqpta.17173.elitter.net": "INACTIVE",
-            "hrcn.cryptonote.club": "INACTIVE",
-            "hrd.sharjah.moneroseeds.ae.org": "INACTIVE",
-            "hrfziiddxa.ru": "INACTIVE"
-        },
-        "1579108534": {
-            "hsr.mine.zergpool.com": "INACTIVE",
-            "hsr.uupool.cn": "INACTIVE",
-            "hsrp.fix.btcc.com": "INACTIVE",
-            "ht.aikapool.com": "INACTIVE",
-            "hth.mine-vn.com": "INACTIVE",
-            "html-west.majorminers.com": "INACTIVE",
-            "html.majorminers.com": "INACTIVE",
-            "http.httpspace.space": "INACTIVE"
-        },
         "1579108535": {
-            "httpp.gdn": "INACTIVE",
-            "httpsget.cryptobrowser.site": "INACTIVE",
-            "httpswww.cryptopia.co.nz": "INACTIVE",
-            "httpww.mining-dutch.nl": "INACTIVE",
-            "httpwww.cryptopia.co.nz": "INACTIVE",
             "huabei2-pool.ethfans.org": "INACTIVE",
             "huadong1-aeon.ppxxmr.com": "INACTIVE",
             "hub.c3pool.com": "INACTIVE"
@@ -29505,6 +29361,152 @@
         },
         "1579354935": {
             "hostmaster.hostmaster.hostmaster.hostmaster.pool2.xhash.net": "INACTIVE"
+        },
+        "1579355617": {
+            "hostmaster.hostmaster.hostmaster.hostmaster.www.etc.cryptopool.online": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.hostmaster.www.ethereum.cryptopool.online": "INACTIVE"
+        },
+        "1579355618": {
+            "hostmaster.hostmaster.hostmaster.hostmaster.www.minep.it": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.hostmaster.www.monero.cryptopool.online": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.hostmaster.www.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.hostmaster.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.mail.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.minep.it": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.monero.cryptopool.online": "INACTIVE"
+        },
+        "1579355619": {
+            "hostmaster.hostmaster.hostmaster.pool2.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.www.etc.cryptopool.online": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.www.ethereum.cryptopool.online": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.www.minep.it": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.www.monero.cryptopool.online": "INACTIVE"
+        },
+        "1579355620": {
+            "hostmaster.hostmaster.hostmaster.www.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.hostmaster.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.mail.bitcoal.io": "INACTIVE",
+            "hostmaster.hostmaster.mail.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.minep.it": "INACTIVE",
+            "hostmaster.hostmaster.monero.cryptopool.online": "INACTIVE"
+        },
+        "1579355621": {
+            "hostmaster.hostmaster.p2pool.pl": "INACTIVE",
+            "hostmaster.hostmaster.pool2.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.www.etc.cryptopool.online": "INACTIVE",
+            "hostmaster.hostmaster.www.ethereum.cryptopool.online": "INACTIVE",
+            "hostmaster.hostmaster.www.minep.it": "INACTIVE"
+        },
+        "1579355622": {
+            "hostmaster.hostmaster.www.monero.cryptopool.online": "INACTIVE",
+            "hostmaster.hostmaster.www.p2pool.pl": "INACTIVE",
+            "hostmaster.hostmaster.www.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.xhash.net": "INACTIVE",
+            "hostmaster.hostmaster.xmrpool.xyz": "INACTIVE",
+            "hostmaster.hostmaster.yongjia.0769.it": "INACTIVE",
+            "hostmaster.intrepidpool.com": "INACTIVE",
+            "hostmaster.jitbit.de": "INACTIVE"
+        },
+        "1579355623": {
+            "hostmaster.jsecoin.com": "INACTIVE",
+            "hostmaster.labbinarymining.com": "INACTIVE",
+            "hostmaster.ltfn.org": "INACTIVE",
+            "hostmaster.mail.bitcoal.io": "INACTIVE",
+            "hostmaster.mail.xhash.net": "INACTIVE",
+            "hostmaster.mastermine.eu": "INACTIVE",
+            "hostmaster.minep.it": "INACTIVE"
+        },
+        "1579355624": {
+            "hostmaster.minero.ru": "INACTIVE",
+            "hostmaster.minerspool.cc": "INACTIVE",
+            "hostmaster.minexca.com": "INACTIVE",
+            "hostmaster.miningpool.at": "INACTIVE",
+            "hostmaster.minpool.net": "INACTIVE",
+            "hostmaster.moacpool.xyz": "INACTIVE",
+            "hostmaster.modpool.org": "INACTIVE",
+            "hostmaster.monero.cryptopool.online": "INACTIVE",
+            "hostmaster.monerominingpool.com": "INACTIVE"
+        },
+        "1579355625": {
+            "hostmaster.multiminer.us": "INACTIVE",
+            "hostmaster.nasdapool.com": "INACTIVE",
+            "hostmaster.nosekefik.com": "INACTIVE",
+            "hostmaster.nutucoin.club": "INACTIVE",
+            "hostmaster.p2pool.pl": "INACTIVE",
+            "hostmaster.p2pool.work": "INACTIVE",
+            "hostmaster.pioncoin.org": "INACTIVE"
+        },
+        "1579355626": {
+            "hostmaster.pcmining.xyz": "INACTIVE",
+            "hostmaster.pool.gntl.co.uk": "INACTIVE",
+            "hostmaster.pool2.xhash.net": "INACTIVE",
+            "hostmaster.pool2mine.com": "INACTIVE",
+            "hostmaster.poolforcoin.com": "INACTIVE",
+            "hostmaster.s.smartpool.by": "INACTIVE",
+            "hostmaster.simplemulti.com": "INACTIVE",
+            "hostmaster.simplycoin.eu": "INACTIVE"
+        },
+        "1579355627": {
+            "hostmaster.superpools.online": "INACTIVE",
+            "hostmaster.svpool.com": "INACTIVE",
+            "hostmaster.trtlbutton.com": "INACTIVE",
+            "hostmaster.unms.xyz": "INACTIVE",
+            "hostmaster.upxpool.com": "INACTIVE",
+            "hostmaster.wlink-net.com": "INACTIVE"
+        },
+        "1579355628": {
+            "hostmaster.www.etc.cryptopool.online": "INACTIVE",
+            "hostmaster.www.ethereum.cryptopool.online": "INACTIVE",
+            "hostmaster.www.minep.it": "INACTIVE",
+            "hostmaster.www.monero.cryptopool.online": "INACTIVE",
+            "hostmaster.www.monerominingpool.com": "INACTIVE",
+            "hostmaster.www.p2pool.pl": "INACTIVE",
+            "hostmaster.www.suchpool.pw": "INACTIVE",
+            "hostmaster.www.xhash.net": "INACTIVE"
+        },
+        "1579355629": {
+            "hostmaster.xhash.net": "INACTIVE",
+            "hostmaster.xmrminingproxy.com": "INACTIVE",
+            "hostmaster.xmrpool.xyz": "INACTIVE",
+            "hostmaster.yenten-pool.info": "INACTIVE",
+            "hostmaster.yiimp.eu": "INACTIVE",
+            "hostmaster.yongjia.0769.it": "INACTIVE",
+            "hostmaster.zel.cash": "INACTIVE",
+            "hostmaster0769.it": "INACTIVE",
+            "hostuseast.alpereum.ch": "INACTIVE"
+        },
+        "1579355630": {
+            "hot.wemineltc.com": "INACTIVE",
+            "hotel.bittrader.io": "INACTIVE",
+            "hotelbyte.coin-miners.info": "INACTIVE",
+            "hotelbyte.node.coin-miners.info": "INACTIVE",
+            "houzhubili-160.btcc.com": "INACTIVE",
+            "houzhubili.btcc.com": "INACTIVE",
+            "hq.ipadi.xyz": "INACTIVE"
+        },
+        "1579355631": {
+            "hq.moriaxmr.com": "INACTIVE",
+            "hqpta.17173.elitter.net": "INACTIVE",
+            "hrcn.cryptonote.club": "INACTIVE",
+            "hrd.sharjah.moneroseeds.ae.org": "INACTIVE",
+            "hrfziiddxa.ru": "INACTIVE",
+            "hsr.mine.zergpool.com": "INACTIVE",
+            "hsr.uupool.cn": "INACTIVE",
+            "ht.aikapool.com": "INACTIVE"
+        },
+        "1579355632": {
+            "hsrp.fix.btcc.com": "INACTIVE",
+            "hth.mine-vn.com": "INACTIVE",
+            "html-west.majorminers.com": "INACTIVE",
+            "html.majorminers.com": "INACTIVE",
+            "http.httpspace.space": "INACTIVE",
+            "httpp.gdn": "INACTIVE",
+            "httpsget.cryptobrowser.site": "INACTIVE",
+            "httpswww.cryptopia.co.nz": "INACTIVE"
+        },
+        "1579355633": {
+            "httpww.mining-dutch.nl": "INACTIVE",
+            "httpwww.cryptopia.co.nz": "INACTIVE"
         }
     }
 }
