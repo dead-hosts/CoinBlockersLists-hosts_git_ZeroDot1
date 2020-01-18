@@ -8073,205 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579112076": {
-            "loki.basementpool.org": "INACTIVE",
-            "loki.bluerockpools.net": "INACTIVE"
-        },
-        "1579112077": {
-            "loki.crypto-coins.club": "INACTIVE",
-            "loki.cryptocoins-digging.space": "INACTIVE",
-            "loki.elasticpool.com": "INACTIVE",
-            "loki.europool.me": "INACTIVE",
-            "loki.forgetop.com": "INACTIVE",
-            "loki.frackingminer.com": "INACTIVE",
-            "loki.ingest-asia.cryptoknight.cc": "INACTIVE",
-            "loki.ingest-us.cryptoknight.cc": "INACTIVE",
-            "loki.ingest.cryptoknight.cc": "INACTIVE"
-        },
-        "1579112078": {
-            "loki.kiramine.com": "INACTIVE",
-            "loki.modpool.org": "INACTIVE",
-            "loki.newpool.pw": "INACTIVE",
-            "loki.nodes.hashvault.pro": "INACTIVE",
-            "loki.optimusblue.com": "INACTIVE",
-            "loki.proxpool.com": "INACTIVE",
-            "loki.scecf.org": "INACTIVE",
-            "loki.snowmining.com": "INACTIVE"
-        },
-        "1579112079": {
-            "loki.solopool.org": "INACTIVE",
-            "loki.thulani.za.net": "INACTIVE",
-            "loki2.luckypool.io": "INACTIVE",
-            "lokielph.newpool.xyz": "INACTIVE",
-            "lokitl.merged.stx.nl": "INACTIVE",
-            "lokitrtg.newpool.xyz": "INACTIVE",
-            "lolkekss.us": "INACTIVE",
-            "lon-1.xmrbackb.one": "INACTIVE"
-        },
-        "1579112080": {
-            "lon1-01.stake.scecf.org": "INACTIVE",
-            "london.darkcoinp2pool.com": "INACTIVE"
-        },
-        "1579112772": {
-            "london.electroneum.hashvault.pro": "INACTIVE",
-            "london.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "london.hashing.space": "INACTIVE",
-            "london.minemonero.pro": "INACTIVE",
-            "london.monero.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1579112773": {
-            "london.monero.hashvault.pro": "INACTIVE",
-            "london01.electroneum.hashvault.pro": "INACTIVE",
-            "london01.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "london01.fonero.hashvault.pro": "INACTIVE",
-            "london01.fonero.nodes.hashvault.pro": "INACTIVE",
-            "london01.intense.hashvault.pro": "INACTIVE",
-            "london01.intense.nodes.hashvault.pro": "INACTIVE",
-            "london01.monero.hashvault.pro": "INACTIVE",
-            "london01.monero.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1579112774": {
-            "london01.sumokoin.hashvault.pro": "INACTIVE",
-            "london01.sumokoin.nodes.hashvault.pro": "INACTIVE",
-            "long-hard-deck.foxypool.cf": "INACTIVE",
-            "lorca.rmc.one": "INACTIVE",
-            "losangeles.electroneum.hashvault.pro": "INACTIVE",
-            "losangeles.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "losangeles.minemonero.pro": "INACTIVE",
-            "losangeles.monero.hashvault.pro": "INACTIVE",
-            "losangeles.monero.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1579112775": {
-            "losangeles01.electroneum.hashvault.pro": "INACTIVE",
-            "losangeles01.electroneum.nodes.hashvault.pro": "INACTIVE",
-            "losangeles01.minemonero.pro": "INACTIVE",
-            "losangeles01.monero.hashvault.pro": "INACTIVE",
-            "losangeles01.monero.nodes.hashvault.pro": "INACTIVE",
-            "losangeles02.hub.semipool.com": "INACTIVE",
-            "lot.coincave.nl": "INACTIVE",
-            "lot.cryptopools.com": "INACTIVE"
-        },
-        "1579112776": {
-            "lot.hash-to-coins.com": "INACTIVE",
-            "lotus.bitpool.ro": "INACTIVE",
-            "louhimo.club": "INACTIVE",
-            "loyo.elitter.net": "INACTIVE",
-            "lp.beahh.com": "INACTIVE",
-            "lp1.hashflare.io": "INACTIVE",
-            "lp2.hashflare.io": "INACTIVE"
-        },
-        "1579112777": {
-            "lp3.hashflare.io": "INACTIVE",
-            "lsd.coin-miners.info": "INACTIVE",
-            "lsd.node.coin-miners.info": "INACTIVE",
-            "lsd2.systemten.org": "INACTIVE",
-            "lt.cryptopia.co.nz": "INACTIVE",
-            "ltc-230.btcc.com": "INACTIVE",
-            "ltc-25118.btcc.com": "INACTIVE",
-            "ltc-bj-prod.poolin.com": "INACTIVE"
-        },
-        "1579112778": {
-            "ltc-bj.poolin.com": "INACTIVE",
-            "ltc-dab69.btcc.com": "INACTIVE",
-            "ltc-sg.hashing.space": "INACTIVE",
-            "ltc-sz-prod2.poolin.com": "INACTIVE",
-            "ltc-sz.poolin.com": "INACTIVE",
-            "ltc.bw.com": "INACTIVE",
-            "ltc.coin-lab.com": "INACTIVE"
-        },
-        "1579112779": {
-            "ltc.coinat.com": "INACTIVE",
-            "ltc.coinmine.pl": "INACTIVE",
-            "ltc.cryptopia.co.nz": "INACTIVE",
-            "ltc.cryptopool.io": "INACTIVE",
-            "ltc.e-pool.net": "INACTIVE",
-            "ltc.ghash.io": "INACTIVE",
-            "ltc.hashing.space": "INACTIVE",
-            "ltc.hashlink.eu": "INACTIVE"
-        },
-        "1579112780": {
-            "ltc.hashrate.eu": "INACTIVE",
-            "ltc.mine-vn.com": "INACTIVE",
-            "ltc.netcodepool.org": "INACTIVE",
-            "ltc.nicepool.net": "INACTIVE",
-            "ltc.nordicp2pool.org": "INACTIVE",
-            "ltc.p2pmining.com": "INACTIVE",
-            "ltc.p2pool.org": "INACTIVE",
-            "ltc.p2pool.pl": "INACTIVE"
-        },
-        "1579112781": {
-            "ltc.thecoin.pw": "INACTIVE",
-            "ltc01.pool.warphash.com": "INACTIVE",
-            "ltcd.hashlink.eu": "INACTIVE",
-            "ltcg.suprnova.cc": "INACTIVE",
-            "ltcu.nordicp2pool.org": "INACTIVE",
-            "ltcx.hashlink.eu": "INACTIVE",
-            "ltcx.poolto.be": "INACTIVE"
-        },
-        "1579112782": {
-            "ltcz.basementpool.org": "INACTIVE",
-            "ltcz.mine-vn.com": "INACTIVE",
-            "lthn-pool.proxpool.com": "INACTIVE",
-            "lthn.bluerockpools.net": "INACTIVE",
-            "lthn.pool.golix.com": "INACTIVE",
-            "lthn.pool.pool.gntl.co.uk": "INACTIVE",
-            "lthn.pool.pool.golix.com": "INACTIVE",
-            "ltl.youpool.io": "INACTIVE"
-        },
-        "1579112783": {
-            "ltk.miningpool.shop": "INACTIVE",
-            "ltnc-exp.miners.rocks": "INACTIVE",
-            "lts.coin-miners.info": "INACTIVE",
-            "lts.hashlink.eu": "INACTIVE",
-            "lts.node.coin-miners.info": "INACTIVE",
-            "lts.poolto.be": "INACTIVE",
-            "lts.suprnova.cc": "INACTIVE",
-            "ltz.basementpool.org": "INACTIVE"
-        },
-        "1579112784": {
-            "ltz-test.ragnarpool.ovh": "INACTIVE",
-            "ltz.bitpool.ro": "INACTIVE",
-            "ltz.crypto-mining-pool.com": "INACTIVE",
-            "ltz.ehashcoins.org": "INACTIVE",
-            "ltz.magnificentpool.com": "INACTIVE",
-            "ltz.pool.sexy": "INACTIVE",
-            "ltz.ragnarpool.ovh": "INACTIVE",
-            "ltz.solopool.org": "INACTIVE",
-            "ltz.wfmpools.com": "INACTIVE"
-        },
-        "1579112785": {
-            "ltzexplorer.magnificentpool.com": "INACTIVE",
-            "lucky-mining.com.ua": "INACTIVE",
-            "lucky.mine-vn.com": "INACTIVE",
-            "luk.4miner.me": "INACTIVE",
-            "luk.llama.horse": "INACTIVE",
-            "luka.youpool.io": "INACTIVE"
-        },
-        "1579112786": {
-            "lumeneo.blockfoundry.org": "INACTIVE",
-            "lumeneo.clevery.xyz": "INACTIVE",
-            "lumeneo.modpool.org": "INACTIVE",
-            "lumeneo.smartcoinpool.com": "INACTIVE",
-            "lumeno.blockfoundry.org": "INACTIVE",
-            "lun.suprnova.cc": "INACTIVE",
-            "luna.coin-miners.info": "INACTIVE",
-            "luna.mine-vn.com": "INACTIVE",
-            "luna.node.coin-miners.info": "INACTIVE"
-        },
-        "1579112787": {
-            "luna.suprnova.cc": "INACTIVE",
-            "lux.coin-miners.info": "INACTIVE",
-            "lux.crypto-mining-pool.com": "INACTIVE",
-            "lux.node.coin-miners.info": "INACTIVE",
-            "lux.suprnova.cc": "INACTIVE",
-            "lvc.mining.garden": "INACTIVE",
-            "lvpy.minero.pw": "INACTIVE"
-        },
         "1579112788": {
-            "ly.suprnova.cc": "INACTIVE",
-            "lyb.suprnova.cc": "INACTIVE",
-            "lyc-east.majorminers.com": "INACTIVE",
-            "lyc-west.majorminers.com": "INACTIVE",
             "lyc.hashlink.eu": "INACTIVE",
             "lyc.majorminers.com": "INACTIVE",
             "lyc.universalpool.net": "INACTIVE",
@@ -29523,6 +29325,204 @@
         },
         "1579359165": {
             "loki.asiapool.io": "INACTIVE"
+        },
+        "1579359862": {
+            "loki.basementpool.org": "INACTIVE",
+            "loki.bluerockpools.net": "INACTIVE",
+            "loki.crypto-coins.club": "INACTIVE",
+            "loki.cryptocoins-digging.space": "INACTIVE",
+            "loki.elasticpool.com": "INACTIVE",
+            "loki.europool.me": "INACTIVE",
+            "loki.forgetop.com": "INACTIVE"
+        },
+        "1579359863": {
+            "loki.frackingminer.com": "INACTIVE",
+            "loki.ingest-asia.cryptoknight.cc": "INACTIVE",
+            "loki.ingest-us.cryptoknight.cc": "INACTIVE",
+            "loki.ingest.cryptoknight.cc": "INACTIVE",
+            "loki.kiramine.com": "INACTIVE",
+            "loki.modpool.org": "INACTIVE",
+            "loki.newpool.pw": "INACTIVE",
+            "loki.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579359864": {
+            "loki.optimusblue.com": "INACTIVE",
+            "loki.proxpool.com": "INACTIVE",
+            "loki.scecf.org": "INACTIVE",
+            "loki.snowmining.com": "INACTIVE",
+            "loki.solopool.org": "INACTIVE",
+            "loki.swap.miningpool.online": "INACTIVE",
+            "loki.thulani.za.net": "INACTIVE",
+            "loki2.luckypool.io": "INACTIVE",
+            "lokielph.newpool.xyz": "INACTIVE"
+        },
+        "1579359865": {
+            "lokitl.merged.stx.nl": "INACTIVE",
+            "lokitrtg.newpool.xyz": "INACTIVE",
+            "lolkekss.us": "INACTIVE",
+            "lon-1.xmrbackb.one": "INACTIVE",
+            "lon1-01.stake.scecf.org": "INACTIVE",
+            "london.darkcoinp2pool.com": "INACTIVE",
+            "london.electroneum.hashvault.pro": "INACTIVE",
+            "london.electroneum.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579359866": {
+            "london.hashing.space": "INACTIVE",
+            "london.minemonero.pro": "INACTIVE",
+            "london.monero.hashvault.pro": "INACTIVE",
+            "london.monero.nodes.hashvault.pro": "INACTIVE",
+            "london01.electroneum.hashvault.pro": "INACTIVE",
+            "london01.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "london01.fonero.hashvault.pro": "INACTIVE",
+            "london01.fonero.nodes.hashvault.pro": "INACTIVE",
+            "london01.intense.hashvault.pro": "INACTIVE",
+            "london01.intense.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579359867": {
+            "london01.monero.hashvault.pro": "INACTIVE",
+            "london01.monero.nodes.hashvault.pro": "INACTIVE",
+            "london01.sumokoin.hashvault.pro": "INACTIVE",
+            "london01.sumokoin.nodes.hashvault.pro": "INACTIVE",
+            "long-hard-deck.foxypool.cf": "INACTIVE",
+            "lorca.rmc.one": "INACTIVE",
+            "losangeles.electroneum.hashvault.pro": "INACTIVE",
+            "losangeles.electroneum.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579359868": {
+            "losangeles.minemonero.pro": "INACTIVE",
+            "losangeles.monero.hashvault.pro": "INACTIVE",
+            "losangeles.monero.nodes.hashvault.pro": "INACTIVE",
+            "losangeles01.electroneum.hashvault.pro": "INACTIVE",
+            "losangeles01.electroneum.nodes.hashvault.pro": "INACTIVE",
+            "losangeles01.minemonero.pro": "INACTIVE",
+            "losangeles01.monero.hashvault.pro": "INACTIVE",
+            "losangeles01.monero.nodes.hashvault.pro": "INACTIVE",
+            "losangeles02.hub.semipool.com": "INACTIVE",
+            "lot.coincave.nl": "INACTIVE"
+        },
+        "1579359869": {
+            "lot.cryptopools.com": "INACTIVE",
+            "lot.hash-to-coins.com": "INACTIVE",
+            "lotus.bitpool.ro": "INACTIVE",
+            "louhimo.club": "INACTIVE",
+            "loyo.elitter.net": "INACTIVE"
+        },
+        "1579359870": {
+            "lp1.hashflare.io": "INACTIVE",
+            "lp2.hashflare.io": "INACTIVE",
+            "lp3.hashflare.io": "INACTIVE",
+            "lsd.coin-miners.info": "INACTIVE",
+            "lsd.node.coin-miners.info": "INACTIVE",
+            "lsd2.systemten.org": "INACTIVE",
+            "lt.cryptopia.co.nz": "INACTIVE",
+            "ltc-230.btcc.com": "INACTIVE",
+            "ltc-25118.btcc.com": "INACTIVE"
+        },
+        "1579359871": {
+            "ltc-bj-prod.poolin.com": "INACTIVE",
+            "ltc-bj.poolin.com": "INACTIVE",
+            "ltc-dab69.btcc.com": "INACTIVE",
+            "ltc-sg.hashing.space": "INACTIVE",
+            "ltc-sz-prod2.poolin.com": "INACTIVE",
+            "ltc-sz.poolin.com": "INACTIVE",
+            "ltc.bw.com": "INACTIVE"
+        },
+        "1579359872": {
+            "ltc.coin-lab.com": "INACTIVE",
+            "ltc.coinat.com": "INACTIVE",
+            "ltc.coincave.nl": "INACTIVE",
+            "ltc.coinmine.pl": "INACTIVE",
+            "ltc.cryptopia.co.nz": "INACTIVE",
+            "ltc.cryptopool.io": "INACTIVE",
+            "ltc.e-pool.net": "INACTIVE",
+            "ltc.ghash.io": "INACTIVE",
+            "ltc.hashing.space": "INACTIVE"
+        },
+        "1579359873": {
+            "ltc.hashlink.eu": "INACTIVE",
+            "ltc.hashrate.eu": "INACTIVE",
+            "ltc.mine-vn.com": "INACTIVE",
+            "ltc.netcodepool.org": "INACTIVE",
+            "ltc.nicepool.net": "INACTIVE",
+            "ltc.nordicp2pool.org": "INACTIVE",
+            "ltc.p2pmining.com": "INACTIVE",
+            "ltc.p2pool.org": "INACTIVE",
+            "ltc.p2pool.pl": "INACTIVE"
+        },
+        "1579359874": {
+            "ltc.thecoin.pw": "INACTIVE",
+            "ltc01.pool.warphash.com": "INACTIVE",
+            "ltcd.hashlink.eu": "INACTIVE",
+            "ltcg.suprnova.cc": "INACTIVE",
+            "ltcu.nordicp2pool.org": "INACTIVE",
+            "ltcx.hashlink.eu": "INACTIVE"
+        },
+        "1579359875": {
+            "ltcx.poolto.be": "INACTIVE",
+            "ltcz.basementpool.org": "INACTIVE",
+            "ltcz.mine-vn.com": "INACTIVE",
+            "lthn-pool.proxpool.com": "INACTIVE",
+            "lthn.bluerockpools.net": "INACTIVE",
+            "lthn.pool.golix.com": "INACTIVE",
+            "lthn.pool.pool.gntl.co.uk": "INACTIVE",
+            "lthn.pool.pool.golix.com": "INACTIVE"
+        },
+        "1579359876": {
+            "ltk.miningpool.shop": "INACTIVE",
+            "ltl.youpool.io": "INACTIVE",
+            "ltnc-exp.miners.rocks": "INACTIVE",
+            "lts.coin-miners.info": "INACTIVE",
+            "lts.hashlink.eu": "INACTIVE",
+            "lts.node.coin-miners.info": "INACTIVE",
+            "lts.poolto.be": "INACTIVE",
+            "lts.suprnova.cc": "INACTIVE",
+            "ltz-test.ragnarpool.ovh": "INACTIVE"
+        },
+        "1579359877": {
+            "ltz.basementpool.org": "INACTIVE",
+            "ltz.bitpool.ro": "INACTIVE",
+            "ltz.crypto-mining-pool.com": "INACTIVE",
+            "ltz.ehashcoins.org": "INACTIVE",
+            "ltz.magnificentpool.com": "INACTIVE",
+            "ltz.pool.sexy": "INACTIVE",
+            "ltz.ragnarpool.ovh": "INACTIVE",
+            "ltz.solopool.org": "INACTIVE",
+            "ltz.wfmpools.com": "INACTIVE"
+        },
+        "1579359878": {
+            "ltzexplorer.magnificentpool.com": "INACTIVE",
+            "lucky-mining.com.ua": "INACTIVE",
+            "lucky.mine-vn.com": "INACTIVE",
+            "luk.4miner.me": "INACTIVE",
+            "luk.llama.horse": "INACTIVE",
+            "luka.youpool.io": "INACTIVE"
+        },
+        "1579359879": {
+            "lumeneo.blockfoundry.org": "INACTIVE",
+            "lumeneo.clevery.xyz": "INACTIVE",
+            "lumeneo.modpool.org": "INACTIVE",
+            "lumeneo.smartcoinpool.com": "INACTIVE",
+            "lumeno.blockfoundry.org": "INACTIVE",
+            "lun.suprnova.cc": "INACTIVE",
+            "luna.coin-miners.info": "INACTIVE",
+            "luna.mine-vn.com": "INACTIVE",
+            "luna.node.coin-miners.info": "INACTIVE"
+        },
+        "1579359880": {
+            "luna.suprnova.cc": "INACTIVE",
+            "lux.coin-miners.info": "INACTIVE",
+            "lux.crypto-mining-pool.com": "INACTIVE",
+            "lux.node.coin-miners.info": "INACTIVE",
+            "lux.suprnova.cc": "INACTIVE",
+            "lvc.mining.garden": "INACTIVE",
+            "lvpy.minero.pw": "INACTIVE"
+        },
+        "1579359881": {
+            "ly.suprnova.cc": "INACTIVE",
+            "lyb.suprnova.cc": "INACTIVE",
+            "lyc-east.majorminers.com": "INACTIVE",
+            "lyc-west.majorminers.com": "INACTIVE",
+            "lyc.coincave.nl": "INACTIVE"
         }
     }
 }
