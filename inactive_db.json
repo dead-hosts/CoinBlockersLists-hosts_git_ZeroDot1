@@ -8073,113 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579150343": {
-            "ww43.cryptoescrow.eu": "INACTIVE",
-            "ww45.poolbux.com": "INACTIVE",
-            "ww5.blackminer.com": "INACTIVE",
-            "ww5.crunchpool.com": "INACTIVE"
-        },
-        "1579150344": {
-            "ww7.backup-pool.com": "INACTIVE",
-            "ww7.flypool.net": "INACTIVE",
-            "ww7.goodluckpool.com": "INACTIVE",
-            "ww7.labbinarymining.com": "INACTIVE",
-            "ww7.poolforcoin.com": "INACTIVE",
-            "ww8.cryptomininggame.com": "INACTIVE"
-        },
-        "1579150345": {
-            "ww8.multipool.com": "INACTIVE",
-            "ww8.ypool.ga": "INACTIVE",
-            "wwc.poolto.be": "INACTIVE",
-            "wwc.suprnova.cc": "INACTIVE",
-            "www--6-9.btcc.com": "INACTIVE"
-        },
-        "1579151033": {
-            "www-03-0.btcc.com": "INACTIVE",
-            "www-081.btcc.com": "INACTIVE"
-        },
-        "1579151034": {
-            "www-0742.btcc.com": "INACTIVE",
-            "www-1.prod.coingeek.com": "INACTIVE",
-            "www-1.staging.coingeek.com": "INACTIVE",
-            "www-20-08.btcc.com": "INACTIVE",
-            "www-27-07.btcc.com": "INACTIVE",
-            "www-322.btcc.com": "INACTIVE",
-            "www-40-52.btcc.com": "INACTIVE",
-            "www-5-3.btcc.com": "INACTIVE"
-        },
-        "1579151035": {
-            "www-5.btcc.com": "INACTIVE",
-            "www-52-5.btcc.com": "INACTIVE",
-            "www-725-1.btcc.com": "INACTIVE",
-            "www-8-9.btcc.com": "INACTIVE",
-            "www-80-68.btcc.com": "INACTIVE",
-            "www-9-7.btcc.com": "INACTIVE",
-            "www-97-19.btcc.com": "INACTIVE",
-            "www-new.unimining.net": "INACTIVE"
-        },
-        "1579151036": {
-            "www-tb7c.pr0gramm.com": "INACTIVE",
-            "www-test-dev.nicehash.com": "INACTIVE",
-            "www-test.mining.garden": "INACTIVE",
-            "www-test.nicehash.com": "INACTIVE",
-            "www.01xmrpool.com": "INACTIVE",
-            "www.1-hash.com": "INACTIVE",
-            "www.13.bitcoin.co.pt": "INACTIVE",
-            "www.1dig.pro": "INACTIVE"
-        },
-        "1579151037": {
-            "www.1isolution.com": "INACTIVE",
-            "www.1mh.net": "INACTIVE",
-            "www.1q2w3.me": "INACTIVE",
-            "www.1q2w3.top": "INACTIVE",
-            "www.1stminingpool.com": "INACTIVE",
-            "www.2acoin.smartcoinpool.com": "INACTIVE",
-            "www.2giga.link": "INACTIVE"
-        },
-        "1579151038": {
-            "www.360kci.moneroseeds.ae.org": "INACTIVE",
-            "www.611.thecoin.pw": "INACTIVE",
-            "www.64uq73u7ug.webcam": "INACTIVE",
-            "www.7p.bitcoin.co.pt": "INACTIVE",
-            "www.888.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1579151039": {
-            "www.8bit.coin-miners.info": "INACTIVE",
-            "www.8bit.node.coin-miners.info": "INACTIVE",
-            "www.99miners.com": "INACTIVE",
-            "www.aaryaglobalfire.moneroseeds.ae.org": "INACTIVE",
-            "www.abcbitcoin.net": "INACTIVE",
-            "www.abdig.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1579151040": {
-            "www.ablen02.tk": "INACTIVE",
-            "www.ablen04.tk": "INACTIVE",
-            "www.ablen12.tk": "INACTIVE",
-            "www.abudhabibitcoin.99btc.net": "INACTIVE",
-            "www.ac.moneroseeds.ae.org": "INACTIVE",
-            "www.account.atomminer.com": "INACTIVE"
-        },
-        "1579151041": {
-            "www.acn.thecoin.pw": "INACTIVE",
-            "www.acoin-be.thecoin.pw": "INACTIVE",
-            "www.acoin.thecoin.pw": "INACTIVE",
-            "www.acpool.me": "INACTIVE",
-            "www.activebitcoinminers.com": "INACTIVE",
-            "www.ad.antpool.com": "INACTIVE"
-        },
-        "1579151042": {
-            "www.adany.moneroseeds.ae.org": "INACTIVE",
-            "www.adfd.moneroseeds.ae.org": "INACTIVE",
-            "www.adig.moneroseeds.ae.org": "INACTIVE",
-            "www.admin.coin-miners.info": "INACTIVE",
-            "www.admin.node.coin-miners.info": "INACTIVE",
-            "www.adobeupdater.mcdir.ru": "INACTIVE",
-            "www.adolfcoin.camp": "INACTIVE"
-        },
         "1579151043": {
-            "www.aemro.moneroseeds.ae.org": "INACTIVE",
-            "www.aeon.hash2mine.com": "INACTIVE",
             "www.aeon.sumominer.com": "INACTIVE",
             "www.aeonhash.com": "INACTIVE",
             "www.aeonpool.xyz": "INACTIVE"
@@ -29536,6 +29430,104 @@
             "ww4.cryptoescrow.eu": "INACTIVE",
             "ww4.lightninghash.com": "INACTIVE",
             "ww4.simplemulti.com": "INACTIVE"
+        },
+        "1579420012": {
+            "ww43.cryptoescrow.eu": "INACTIVE",
+            "ww45.poolbux.com": "INACTIVE",
+            "ww5.blackminer.com": "INACTIVE",
+            "ww5.crunchpool.com": "INACTIVE",
+            "ww7.backup-pool.com": "INACTIVE",
+            "ww7.flypool.net": "INACTIVE",
+            "ww7.goodluckpool.com": "INACTIVE"
+        },
+        "1579420013": {
+            "ww7.labbinarymining.com": "INACTIVE",
+            "ww7.poolforcoin.com": "INACTIVE",
+            "ww8.cryptomininggame.com": "INACTIVE",
+            "ww8.multipool.com": "INACTIVE",
+            "ww8.ypool.ga": "INACTIVE",
+            "wwc.poolto.be": "INACTIVE",
+            "wwc.suprnova.cc": "INACTIVE"
+        },
+        "1579420014": {
+            "www-1.prod.coingeek.com": "INACTIVE",
+            "www-1.staging.coingeek.com": "INACTIVE",
+            "www-20-08.btcc.com": "INACTIVE"
+        },
+        "1579420015": {
+            "www-40-52.btcc.com": "INACTIVE",
+            "www-5-3.btcc.com": "INACTIVE",
+            "www-5.btcc.com": "INACTIVE",
+            "www-52-5.btcc.com": "INACTIVE",
+            "www-725-1.btcc.com": "INACTIVE",
+            "www-8-9.btcc.com": "INACTIVE",
+            "www-80-68.btcc.com": "INACTIVE",
+            "www-9-7.btcc.com": "INACTIVE",
+            "www-97-19.btcc.com": "INACTIVE"
+        },
+        "1579420016": {
+            "www-new.unimining.net": "INACTIVE",
+            "www-tb7c.pr0gramm.com": "INACTIVE",
+            "www-test-dev.nicehash.com": "INACTIVE",
+            "www-test.mining.garden": "INACTIVE",
+            "www-test.nicehash.com": "INACTIVE",
+            "www.01xmrpool.com": "INACTIVE",
+            "www.1-hash.com": "INACTIVE"
+        },
+        "1579420017": {
+            "www.13.bitcoin.co.pt": "INACTIVE",
+            "www.1dig.pro": "INACTIVE",
+            "www.1isolution.com": "INACTIVE",
+            "www.1mh.net": "INACTIVE",
+            "www.1q2w3.me": "INACTIVE",
+            "www.1q2w3.top": "INACTIVE",
+            "www.1stminingpool.com": "INACTIVE",
+            "www.2acoin.smartcoinpool.com": "INACTIVE"
+        },
+        "1579420018": {
+            "www.2giga.link": "INACTIVE",
+            "www.360kci.moneroseeds.ae.org": "INACTIVE",
+            "www.611.thecoin.pw": "INACTIVE",
+            "www.64uq73u7ug.webcam": "INACTIVE"
+        },
+        "1579420019": {
+            "www.7p.bitcoin.co.pt": "INACTIVE",
+            "www.888.moneroseeds.ae.org": "INACTIVE",
+            "www.8bit.coin-miners.info": "INACTIVE",
+            "www.8bit.node.coin-miners.info": "INACTIVE",
+            "www.99miners.com": "INACTIVE",
+            "www.aaryaglobalfire.moneroseeds.ae.org": "INACTIVE",
+            "www.abcbitcoin.net": "INACTIVE"
+        },
+        "1579420020": {
+            "www.abdig.moneroseeds.ae.org": "INACTIVE",
+            "www.ablen02.tk": "INACTIVE",
+            "www.ablen04.tk": "INACTIVE",
+            "www.ablen12.tk": "INACTIVE",
+            "www.abudhabibitcoin.99btc.net": "INACTIVE",
+            "www.ac.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1579420021": {
+            "www.account.atomminer.com": "INACTIVE",
+            "www.acn.thecoin.pw": "INACTIVE",
+            "www.acoin-be.thecoin.pw": "INACTIVE",
+            "www.acoin.thecoin.pw": "INACTIVE",
+            "www.acpool.me": "INACTIVE",
+            "www.activebitcoinminers.com": "INACTIVE"
+        },
+        "1579420022": {
+            "www.ad.antpool.com": "INACTIVE",
+            "www.adany.moneroseeds.ae.org": "INACTIVE",
+            "www.adfd.moneroseeds.ae.org": "INACTIVE",
+            "www.adig.moneroseeds.ae.org": "INACTIVE",
+            "www.admin.coin-miners.info": "INACTIVE",
+            "www.admin.node.coin-miners.info": "INACTIVE",
+            "www.adobeupdater.mcdir.ru": "INACTIVE"
+        },
+        "1579420023": {
+            "www.adolfcoin.camp": "INACTIVE",
+            "www.aemro.moneroseeds.ae.org": "INACTIVE",
+            "www.aeon.hash2mine.com": "INACTIVE"
         }
     }
 }
