@@ -8073,80 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579167283": {
-            "x16r.mining-dutch.nl": "INACTIVE",
-            "x16r.pool.private-locker.com": "INACTIVE"
-        },
-        "1579167978": {
-            "x1f.btcc.com": "INACTIVE"
-        },
-        "1579167979": {
-            "x170.openvpn.f2pool.com": "INACTIVE",
-            "x2-88.btcc.com": "INACTIVE",
-            "x3c.youpool.io": "INACTIVE",
-            "x4.nlpool.nl": "INACTIVE"
-        },
-        "1579167980": {
-            "x40.btcc.com": "INACTIVE",
-            "x44.btcc.com": "INACTIVE",
-            "x5-56.btcc.com": "INACTIVE",
-            "x578.btcc.com": "INACTIVE",
-            "x61.btcc.com": "INACTIVE",
-            "x6159.btcc.com": "INACTIVE",
-            "x88.btcc.com": "INACTIVE"
-        },
-        "1579167981": {
-            "x8f.btcc.com": "INACTIVE",
-            "x9.seed.bitcoin.jonasschnelli.ch": "INACTIVE",
-            "x976.btcc.com": "INACTIVE",
-            "xad.hashlink.eu": "INACTIVE"
-        },
-        "1579167982": {
-            "xao.newpool.pw": "INACTIVE",
-            "xao.pool.gntl.co.uk": "INACTIVE",
-            "xao2.mine2gether.com": "INACTIVE",
-            "xar.nosekefik.com": "INACTIVE",
-            "xaria.multiminer.us": "INACTIVE",
-            "xat.miningpool.gq": "INACTIVE",
-            "xat.youpool.io": "INACTIVE"
-        },
-        "1579167983": {
-            "xavatar.1stminingpool.com": "INACTIVE",
-            "xavieron.us": "INACTIVE",
-            "xba9.openvpn.f2pool.com": "INACTIVE",
-            "xbbu.e-pool.net": "INACTIVE",
-            "xbd.thecoin.pw": "INACTIVE",
-            "xbg.cryptoblock.uk": "INACTIVE",
-            "xbit.hashlink.eu": "INACTIVE",
-            "xbit.luckypool.cn": "INACTIVE"
-        },
-        "1579167984": {
-            "xbl.miningfield.com": "INACTIVE",
-            "xbot.coin-miners.info": "INACTIVE",
-            "xbot.hashlink.eu": "INACTIVE",
-            "xbot.node.coin-miners.info": "INACTIVE",
-            "xc.luckypool.cn": "INACTIVE",
-            "xc.suprnova.cc": "INACTIVE",
-            "xca.1isolution.com": "INACTIVE"
-        },
-        "1579167985": {
-            "xca.bluerockpools.net": "INACTIVE",
-            "xca.heigh-ho.funkypenguin.co.nz": "INACTIVE",
-            "xca.steadyhash.org": "INACTIVE",
-            "xcash.666pool.cn": "INACTIVE",
-            "xcash.clevery.xyz": "INACTIVE"
-        },
-        "1579167986": {
-            "xcash.coin-miners.info": "INACTIVE",
-            "xcash.coolmine.top": "INACTIVE",
-            "xcash.etherdig.org": "INACTIVE",
-            "xcash.hashvault.pro": "INACTIVE",
-            "xcash.node.coin-miners.info": "INACTIVE",
-            "xcash.nodes.hashvault.pro": "INACTIVE"
-        },
         "1579167987": {
-            "xcash.suprnova.cc": "INACTIVE",
-            "xcash.vnpools.tk": "INACTIVE",
             "xcash.youpool.io": "INACTIVE",
             "xcc.youpool.io": "INACTIVE",
             "xce.suprnova.cc": "INACTIVE",
@@ -29500,6 +29427,82 @@
             "x15.in.nicehash.com": "INACTIVE",
             "x15.jp.nicehash.com": "INACTIVE",
             "x15.usa.nicehash.com": "INACTIVE"
+        },
+        "1579446562": {
+            "x16r.pool.private-locker.com": "INACTIVE"
+        },
+        "1579446563": {
+            "x170.openvpn.f2pool.com": "INACTIVE",
+            "x1f.btcc.com": "INACTIVE",
+            "x2-88.btcc.com": "INACTIVE",
+            "x3c.youpool.io": "INACTIVE",
+            "x4.nlpool.nl": "INACTIVE"
+        },
+        "1579446564": {
+            "x40.btcc.com": "INACTIVE",
+            "x44.btcc.com": "INACTIVE",
+            "x44155.btcc.com": "INACTIVE",
+            "x465.btcc.com": "INACTIVE",
+            "x5-56.btcc.com": "INACTIVE",
+            "x578.btcc.com": "INACTIVE",
+            "x61.btcc.com": "INACTIVE",
+            "x613.btcc.com": "INACTIVE"
+        },
+        "1579446565": {
+            "x6159.btcc.com": "INACTIVE",
+            "x818370318392606711.btcc.com": "INACTIVE",
+            "x88.btcc.com": "INACTIVE",
+            "x8f.btcc.com": "INACTIVE",
+            "x9.seed.bitcoin.jonasschnelli.ch": "INACTIVE",
+            "x976.btcc.com": "INACTIVE",
+            "xad.hashlink.eu": "INACTIVE"
+        },
+        "1579446566": {
+            "xao.newpool.pw": "INACTIVE",
+            "xao.pool.gntl.co.uk": "INACTIVE",
+            "xao2.mine2gether.com": "INACTIVE",
+            "xar.nosekefik.com": "INACTIVE",
+            "xaria.multiminer.us": "INACTIVE",
+            "xat.youpool.io": "INACTIVE"
+        },
+        "1579446567": {
+            "xat.miningpool.gq": "INACTIVE",
+            "xavatar.1stminingpool.com": "INACTIVE",
+            "xavieron.us": "INACTIVE",
+            "xba9.openvpn.f2pool.com": "INACTIVE",
+            "xbbu.e-pool.net": "INACTIVE",
+            "xbd.thecoin.pw": "INACTIVE",
+            "xbg.cryptoblock.uk": "INACTIVE"
+        },
+        "1579446568": {
+            "xbit.hashlink.eu": "INACTIVE",
+            "xbit.luckypool.cn": "INACTIVE",
+            "xbl.miningfield.com": "INACTIVE",
+            "xbot.coin-miners.info": "INACTIVE",
+            "xbot.hashlink.eu": "INACTIVE",
+            "xbot.node.coin-miners.info": "INACTIVE",
+            "xc.luckypool.cn": "INACTIVE"
+        },
+        "1579446569": {
+            "xc.suprnova.cc": "INACTIVE",
+            "xca.1isolution.com": "INACTIVE",
+            "xca.bluerockpools.net": "INACTIVE",
+            "xca.heigh-ho.funkypenguin.co.nz": "INACTIVE",
+            "xca.steadyhash.org": "INACTIVE",
+            "xcash.666pool.cn": "INACTIVE"
+        },
+        "1579446570": {
+            "xcash.clevery.xyz": "INACTIVE",
+            "xcash.coin-miners.info": "INACTIVE",
+            "xcash.coolmine.top": "INACTIVE",
+            "xcash.etherdig.org": "INACTIVE",
+            "xcash.hashvault.pro": "INACTIVE",
+            "xcash.node.coin-miners.info": "INACTIVE",
+            "xcash.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1579446571": {
+            "xcash.suprnova.cc": "INACTIVE",
+            "xcash.vnpools.tk": "INACTIVE"
         }
     }
 }
