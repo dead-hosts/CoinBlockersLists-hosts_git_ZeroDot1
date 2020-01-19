@@ -8073,205 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579149603": {
-            "ws.aeon-pool.com": "INACTIVE",
-            "ws.bhzejltg.info": "INACTIVE",
-            "ws.freebitco.in": "INACTIVE",
-            "ws.ghash.io": "INACTIVE"
-        },
-        "1579149604": {
-            "ws.hashnest.com": "INACTIVE",
-            "ws.l33tsite.info": "INACTIVE",
-            "ws.poolmining.net": "INACTIVE",
-            "ws.pzoifaum.info": "INACTIVE",
-            "ws.ranger.asiapool.io": "INACTIVE",
-            "ws.ranger.etgd.com": "INACTIVE",
-            "ws.sandbox.coinbase.com": "INACTIVE",
-            "ws.tidafors.xyz": "INACTIVE"
-        },
-        "1579149605": {
-            "ws.xmrm.pw": "INACTIVE",
-            "ws000.coinhive.com": "INACTIVE",
-            "ws001.authedmine.com": "INACTIVE",
-            "ws001.coinhive.com": "INACTIVE",
-            "ws001.ws.tidafors.xyz": "INACTIVE",
-            "ws002.authedmine.com": "INACTIVE"
-        },
-        "1579149606": {
-            "ws002.coinhive.com": "INACTIVE",
-            "ws002.ws.tidafors.xyz": "INACTIVE",
-            "ws003.authedmine.com": "INACTIVE",
-            "ws003.coinhive.com": "INACTIVE",
-            "ws003.ws.tidafors.xyz": "INACTIVE",
-            "ws004.authedmine.com": "INACTIVE",
-            "ws004.coinhive.com": "INACTIVE"
-        },
-        "1579149607": {
-            "ws004.ws.tidafors.xyz": "INACTIVE",
-            "ws005.authedmine.com": "INACTIVE",
-            "ws005.coinhive.com": "INACTIVE",
-            "ws005.ws.tidafors.xyz": "INACTIVE",
-            "ws006.authedmine.com": "INACTIVE",
-            "ws006.coinhive.com": "INACTIVE"
-        },
-        "1579149608": {
-            "ws006.ws.tidafors.xyz": "INACTIVE",
-            "ws007.authedmine.com": "INACTIVE",
-            "ws007.coinhive.com": "INACTIVE",
-            "ws007.ws.tidafors.xyz": "INACTIVE",
-            "ws008.authedmine.com": "INACTIVE",
-            "ws008.coinhive.com": "INACTIVE",
-            "ws008.hemnes.win": "INACTIVE"
-        },
-        "1579149609": {
-            "ws008.node.coin-hive.com": "INACTIVE",
-            "ws008.ws.tidafors.xyz": "INACTIVE",
-            "ws009.authedmine.com": "INACTIVE",
-            "ws009.coinhive.com": "INACTIVE",
-            "ws009.ws.tidafors.xyz": "INACTIVE",
-            "ws01.coinlab.biz": "INACTIVE"
-        },
-        "1579149610": {
-            "ws010.authedmine.com": "INACTIVE",
-            "ws010.coinhive.com": "INACTIVE",
-            "ws010.ws.tidafors.xyz": "INACTIVE",
-            "ws011.authedmine.com": "INACTIVE",
-            "ws011.coinhive.com": "INACTIVE",
-            "ws011.ws.tidafors.xyz": "INACTIVE",
-            "ws012.authedmine.com": "INACTIVE"
-        },
-        "1579149611": {
-            "ws012.coinhive.com": "INACTIVE",
-            "ws012.ws.tidafors.xyz": "INACTIVE",
-            "ws013.authedmine.com": "INACTIVE",
-            "ws013.coinhive.com": "INACTIVE",
-            "ws013.ws.tidafors.xyz": "INACTIVE",
-            "ws014.authedmine.com": "INACTIVE",
-            "ws014.coinhive.com": "INACTIVE"
-        },
-        "1579149612": {
-            "ws014.ws.tidafors.xyz": "INACTIVE",
-            "ws015.authedmine.com": "INACTIVE",
-            "ws015.coinhive.com": "INACTIVE",
-            "ws015.ws.tidafors.xyz": "INACTIVE",
-            "ws016.authedmine.com": "INACTIVE",
-            "ws016.coinhive.com": "INACTIVE"
-        },
-        "1579149613": {
-            "ws016.ws.tidafors.xyz": "INACTIVE",
-            "ws017.authedmine.com": "INACTIVE",
-            "ws017.coinhive.com": "INACTIVE",
-            "ws017.ws.tidafors.xyz": "INACTIVE",
-            "ws018.authedmine.com": "INACTIVE",
-            "ws018.coinhive.com": "INACTIVE",
-            "ws018.ws.tidafors.xyz": "INACTIVE"
-        },
-        "1579149614": {
-            "ws019.authedmine.com": "INACTIVE",
-            "ws019.coinhive.com": "INACTIVE",
-            "ws019.ws.tidafors.xyz": "INACTIVE",
-            "ws02.1q2w3.me": "INACTIVE",
-            "ws020.authedmine.com": "INACTIVE"
-        },
-        "1579149615": {
-            "ws020.coinhive.com": "INACTIVE",
-            "ws020.ws.tidafors.xyz": "INACTIVE",
-            "ws021.authedmine.com": "INACTIVE",
-            "ws021.coinhive.com": "INACTIVE",
-            "ws021.ws.tidafors.xyz": "INACTIVE",
-            "ws022.authedmine.com": "INACTIVE",
-            "ws022.coinhive.com": "INACTIVE"
-        },
-        "1579149616": {
-            "ws022.ws.tidafors.xyz": "INACTIVE",
-            "ws023.authedmine.com": "INACTIVE",
-            "ws023.ws.tidafors.xyz": "INACTIVE",
-            "ws024.authedmine.com": "INACTIVE",
-            "ws024.ws.tidafors.xyz": "INACTIVE"
-        },
-        "1579149617": {
-            "ws025.authedmine.com": "INACTIVE",
-            "ws025.ws.tidafors.xyz": "INACTIVE",
-            "ws026.authedmine.com": "INACTIVE",
-            "ws026.ws.tidafors.xyz": "INACTIVE",
-            "ws027.authedmine.com": "INACTIVE"
-        },
-        "1579149618": {
-            "ws027.ws.tidafors.xyz": "INACTIVE",
-            "ws028.authedmine.com": "INACTIVE",
-            "ws028.ws.tidafors.xyz": "INACTIVE",
-            "ws029.authedmine.com": "INACTIVE",
-            "ws029.ws.tidafors.xyz": "INACTIVE",
-            "ws03.1q2w3.me": "INACTIVE"
-        },
-        "1579149619": {
-            "ws030.authedmine.com": "INACTIVE",
-            "ws030.ws.tidafors.xyz": "INACTIVE",
-            "ws031.authedmine.com": "INACTIVE",
-            "ws031.ws.tidafors.xyz": "INACTIVE",
-            "ws032.authedmine.com": "INACTIVE"
-        },
-        "1579149620": {
-            "ws032.ws.tidafors.xyz": "INACTIVE",
-            "ws035.coinhive.com": "INACTIVE",
-            "ws09.coinhive.com": "INACTIVE",
-            "ws1.1beb2a44.space": "INACTIVE",
-            "ws1.300ca0d0.space": "INACTIVE",
-            "ws1.320ca3f6.space": "INACTIVE"
-        },
-        "1579149621": {
-            "ws1.330ca589.space": "INACTIVE",
-            "ws1.340ca71c.space": "INACTIVE",
-            "ws1.360caa42.space": "INACTIVE",
-            "ws1.370cabd5.space": "INACTIVE",
-            "ws1.3c0cb3b4.space": "INACTIVE",
-            "ws1.3d0cb547.space": "INACTIVE",
-            "ws1.coin-have.com": "INACTIVE"
-        },
-        "1579149622": {
-            "ws1.stati.bid": "INACTIVE",
-            "ws1.static-cnt.bid": "INACTIVE",
-            "ws1.statistic.date": "INACTIVE",
-            "ws10.coin-have.com": "INACTIVE"
-        },
-        "1579149623": {
-            "ws2.1beb2a44.space": "INACTIVE",
-            "ws2.300ca0d0.space": "INACTIVE",
-            "ws2.310ca263.space": "INACTIVE",
-            "ws2.320ca3f6.space": "INACTIVE",
-            "ws2.330ca589.space": "INACTIVE",
-            "ws2.340ca71c.space": "INACTIVE",
-            "ws2.360caa42.space": "INACTIVE"
-        },
-        "1579149624": {
-            "ws2.370cabd5.space": "INACTIVE",
-            "ws2.3c0cb3b4.space": "INACTIVE",
-            "ws2.3d0cb547.space": "INACTIVE",
-            "ws2.coin-have.com": "INACTIVE",
-            "ws2.stati.bid": "INACTIVE",
-            "ws2.statistic.date": "INACTIVE"
-        },
-        "1579149625": {
-            "ws24.crypto-loot.com": "INACTIVE",
-            "ws24.crypto.csgocpu.com": "INACTIVE"
-        },
-        "1579150319": {
-            "ws3.1beb2a44.space": "INACTIVE",
-            "ws3.310ca263.space": "INACTIVE"
-        },
-        "1579150320": {
-            "ws3.300ca0d0.space": "INACTIVE",
-            "ws3.320ca3f6.space": "INACTIVE",
-            "ws3.330ca589.space": "INACTIVE",
-            "ws3.340ca71c.space": "INACTIVE",
-            "ws3.360caa42.space": "INACTIVE",
-            "ws3.370cabd5.space": "INACTIVE",
-            "ws3.3c0cb3b4.space": "INACTIVE",
-            "ws3.3d0cb547.space": "INACTIVE",
-            "ws3.bmnr.pw": "INACTIVE"
-        },
         "1579150321": {
-            "ws3.coin-have.com": "INACTIVE",
             "ws3.statistic.date": "INACTIVE",
             "ws4.1beb2a44.space": "INACTIVE",
             "ws4.300ca0d0.space": "INACTIVE",
@@ -29536,6 +29338,198 @@
         "1579416427": {
             "wrxgandsfcz.ru": "INACTIVE",
             "ws-c2c-test-9xskqcm3sf.bitcoin.de": "INACTIVE"
+        },
+        "1579417718": {
+            "ws.aeon-pool.com": "INACTIVE",
+            "ws.bhzejltg.info": "INACTIVE"
+        },
+        "1579417719": {
+            "ws.freebitco.in": "INACTIVE",
+            "ws.ghash.io": "INACTIVE",
+            "ws.hashnest.com": "INACTIVE",
+            "ws.l33tsite.info": "INACTIVE",
+            "ws.poolmining.net": "INACTIVE",
+            "ws.pzoifaum.info": "INACTIVE",
+            "ws.ranger.asiapool.io": "INACTIVE"
+        },
+        "1579417720": {
+            "ws.ranger.etgd.com": "INACTIVE",
+            "ws.sandbox.coinbase.com": "INACTIVE",
+            "ws.tidafors.xyz": "INACTIVE",
+            "ws.xmrm.pw": "INACTIVE",
+            "ws000.coinhive.com": "INACTIVE",
+            "ws001.authedmine.com": "INACTIVE",
+            "ws001.coinhive.com": "INACTIVE",
+            "ws001.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417721": {
+            "ws002.authedmine.com": "INACTIVE",
+            "ws002.coinhive.com": "INACTIVE",
+            "ws002.ws.tidafors.xyz": "INACTIVE",
+            "ws003.authedmine.com": "INACTIVE",
+            "ws003.coinhive.com": "INACTIVE",
+            "ws003.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417722": {
+            "ws004.authedmine.com": "INACTIVE",
+            "ws004.coinhive.com": "INACTIVE",
+            "ws004.ws.tidafors.xyz": "INACTIVE",
+            "ws005.authedmine.com": "INACTIVE",
+            "ws005.coinhive.com": "INACTIVE",
+            "ws005.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417723": {
+            "ws006.authedmine.com": "INACTIVE",
+            "ws006.coinhive.com": "INACTIVE",
+            "ws006.ws.tidafors.xyz": "INACTIVE",
+            "ws007.authedmine.com": "INACTIVE",
+            "ws007.coinhive.com": "INACTIVE",
+            "ws007.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417724": {
+            "ws008.authedmine.com": "INACTIVE",
+            "ws008.coinhive.com": "INACTIVE",
+            "ws008.ws.tidafors.xyz": "INACTIVE",
+            "ws009.authedmine.com": "INACTIVE",
+            "ws009.coinhive.com": "INACTIVE",
+            "ws009.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417725": {
+            "ws01.coinlab.biz": "INACTIVE",
+            "ws010.authedmine.com": "INACTIVE",
+            "ws010.coinhive.com": "INACTIVE",
+            "ws010.ws.tidafors.xyz": "INACTIVE",
+            "ws011.authedmine.com": "INACTIVE",
+            "ws011.coinhive.com": "INACTIVE",
+            "ws011.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417726": {
+            "ws012.authedmine.com": "INACTIVE",
+            "ws012.coinhive.com": "INACTIVE",
+            "ws012.ws.tidafors.xyz": "INACTIVE",
+            "ws013.authedmine.com": "INACTIVE",
+            "ws013.coinhive.com": "INACTIVE",
+            "ws013.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417727": {
+            "ws014.authedmine.com": "INACTIVE",
+            "ws014.coinhive.com": "INACTIVE",
+            "ws014.ws.tidafors.xyz": "INACTIVE",
+            "ws015.authedmine.com": "INACTIVE",
+            "ws015.coinhive.com": "INACTIVE",
+            "ws015.ws.tidafors.xyz": "INACTIVE",
+            "ws016.authedmine.com": "INACTIVE"
+        },
+        "1579417728": {
+            "ws016.coinhive.com": "INACTIVE",
+            "ws016.ws.tidafors.xyz": "INACTIVE",
+            "ws017.authedmine.com": "INACTIVE",
+            "ws017.coinhive.com": "INACTIVE",
+            "ws017.ws.tidafors.xyz": "INACTIVE",
+            "ws018.authedmine.com": "INACTIVE"
+        },
+        "1579417729": {
+            "ws018.coinhive.com": "INACTIVE",
+            "ws018.ws.tidafors.xyz": "INACTIVE",
+            "ws019.authedmine.com": "INACTIVE",
+            "ws019.coinhive.com": "INACTIVE",
+            "ws019.ws.tidafors.xyz": "INACTIVE",
+            "ws02.1q2w3.me": "INACTIVE"
+        },
+        "1579417730": {
+            "ws020.authedmine.com": "INACTIVE",
+            "ws020.coinhive.com": "INACTIVE",
+            "ws020.ws.tidafors.xyz": "INACTIVE",
+            "ws021.authedmine.com": "INACTIVE",
+            "ws021.coinhive.com": "INACTIVE",
+            "ws021.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417731": {
+            "ws022.authedmine.com": "INACTIVE",
+            "ws022.coinhive.com": "INACTIVE",
+            "ws022.ws.tidafors.xyz": "INACTIVE",
+            "ws023.authedmine.com": "INACTIVE",
+            "ws023.ws.tidafors.xyz": "INACTIVE",
+            "ws024.authedmine.com": "INACTIVE"
+        },
+        "1579417732": {
+            "ws024.ws.tidafors.xyz": "INACTIVE",
+            "ws025.authedmine.com": "INACTIVE",
+            "ws025.ws.tidafors.xyz": "INACTIVE",
+            "ws026.authedmine.com": "INACTIVE",
+            "ws026.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417733": {
+            "ws027.authedmine.com": "INACTIVE",
+            "ws027.ws.tidafors.xyz": "INACTIVE",
+            "ws028.authedmine.com": "INACTIVE",
+            "ws028.ws.tidafors.xyz": "INACTIVE",
+            "ws029.authedmine.com": "INACTIVE"
+        },
+        "1579417734": {
+            "ws029.ws.tidafors.xyz": "INACTIVE",
+            "ws03.1q2w3.me": "INACTIVE",
+            "ws030.authedmine.com": "INACTIVE",
+            "ws030.ws.tidafors.xyz": "INACTIVE",
+            "ws031.authedmine.com": "INACTIVE",
+            "ws031.ws.tidafors.xyz": "INACTIVE"
+        },
+        "1579417735": {
+            "ws032.authedmine.com": "INACTIVE",
+            "ws032.ws.tidafors.xyz": "INACTIVE",
+            "ws035.coinhive.com": "INACTIVE",
+            "ws09.coinhive.com": "INACTIVE"
+        },
+        "1579417736": {
+            "ws1.1beb2a44.space": "INACTIVE",
+            "ws1.300ca0d0.space": "INACTIVE",
+            "ws1.320ca3f6.space": "INACTIVE",
+            "ws1.330ca589.space": "INACTIVE",
+            "ws1.340ca71c.space": "INACTIVE",
+            "ws1.360caa42.space": "INACTIVE",
+            "ws1.370cabd5.space": "INACTIVE",
+            "ws1.3c0cb3b4.space": "INACTIVE",
+            "ws1.3d0cb547.space": "INACTIVE"
+        },
+        "1579417737": {
+            "ws1.coin-have.com": "INACTIVE",
+            "ws1.stati.bid": "INACTIVE",
+            "ws1.static-cnt.bid": "INACTIVE",
+            "ws1.statistic.date": "INACTIVE",
+            "ws10.coin-have.com": "INACTIVE"
+        },
+        "1579417738": {
+            "ws2.1beb2a44.space": "INACTIVE",
+            "ws2.300ca0d0.space": "INACTIVE",
+            "ws2.310ca263.space": "INACTIVE",
+            "ws2.320ca3f6.space": "INACTIVE",
+            "ws2.330ca589.space": "INACTIVE"
+        },
+        "1579417739": {
+            "ws2.340ca71c.space": "INACTIVE",
+            "ws2.360caa42.space": "INACTIVE",
+            "ws2.370cabd5.space": "INACTIVE",
+            "ws2.3c0cb3b4.space": "INACTIVE",
+            "ws2.3d0cb547.space": "INACTIVE",
+            "ws2.coin-have.com": "INACTIVE",
+            "ws2.stati.bid": "INACTIVE"
+        },
+        "1579417740": {
+            "ws2.statistic.date": "INACTIVE",
+            "ws3.1beb2a44.space": "INACTIVE",
+            "ws3.300ca0d0.space": "INACTIVE",
+            "ws3.310ca263.space": "INACTIVE",
+            "ws3.320ca3f6.space": "INACTIVE"
+        },
+        "1579417741": {
+            "ws3.330ca589.space": "INACTIVE",
+            "ws3.340ca71c.space": "INACTIVE",
+            "ws3.360caa42.space": "INACTIVE",
+            "ws3.370cabd5.space": "INACTIVE",
+            "ws3.3c0cb3b4.space": "INACTIVE",
+            "ws3.3d0cb547.space": "INACTIVE",
+            "ws3.bmnr.pw": "INACTIVE",
+            "ws3.coin-have.com": "INACTIVE"
         }
     }
 }
