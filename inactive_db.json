@@ -8074,8 +8074,6 @@
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
         "1579316832": {
-            "aeon.collusion.tech": "INACTIVE",
-            "aeon.cool-pool.net": "INACTIVE",
             "aeon.cryptopool.ru": "INACTIVE",
             "aeon.cryptoserb.com": "INACTIVE"
         },
@@ -29683,6 +29681,12 @@
         },
         "1579724581": {
             "aeon.4miner.me": "INACTIVE"
+        },
+        "1579728810": {
+            "aeon.collusion.tech": "INACTIVE"
+        },
+        "1579728811": {
+            "aeon.cool-pool.net": "INACTIVE"
         }
     }
 }
