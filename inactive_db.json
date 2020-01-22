@@ -8073,25 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579316830": {
-            "adrenali.gq": "INACTIVE",
-            "ads.ab.2013.aa.aa.analytics.amm.btcc.com": "INACTIVE",
-            "ads.cryptobrowser.site": "INACTIVE",
-            "adsp._domainkey.phoneum.io": "INACTIVE",
-            "adv.e-libra.ru": "INACTIVE",
-            "adv.multipools.club": "INACTIVE",
-            "advance.multipools.club": "INACTIVE",
-            "advancerevshare.com": "INACTIVE"
-        },
         "1579316831": {
-            "adz.mine-vn.com": "INACTIVE",
-            "ae.bitcoin.co.pt": "INACTIVE",
-            "aeg.btcc.com": "INACTIVE",
-            "aegis.coin-miners.info": "INACTIVE",
-            "aegis.node.coin-miners.info": "INACTIVE",
-            "aemro.moneroseeds.ae.org": "INACTIVE",
-            "aen.openvpn.f2pool.com": "INACTIVE",
-            "aeon-api.luckypool.io": "INACTIVE",
             "aeon-api.semipool.com": "INACTIVE"
         },
         "1579316832": {
@@ -29676,6 +29658,27 @@
         },
         "1579716386": {
             "adon.herominers.com": "INACTIVE"
+        },
+        "1579720380": {
+            "216-254-228.btcc.com": "INACTIVE"
+        },
+        "1579720384": {
+            "adrenali.gq": "INACTIVE",
+            "ads.cryptobrowser.site": "INACTIVE",
+            "adsp._domainkey.phoneum.io": "INACTIVE",
+            "adv.e-libra.ru": "INACTIVE",
+            "adv.multipools.club": "INACTIVE",
+            "advance.multipools.club": "INACTIVE"
+        },
+        "1579720385": {
+            "advancerevshare.com": "INACTIVE",
+            "adz.mine-vn.com": "INACTIVE",
+            "ae.bitcoin.co.pt": "INACTIVE",
+            "aegis.coin-miners.info": "INACTIVE",
+            "aegis.node.coin-miners.info": "INACTIVE",
+            "aemro.moneroseeds.ae.org": "INACTIVE",
+            "aen.openvpn.f2pool.com": "INACTIVE",
+            "aeon-api.luckypool.io": "INACTIVE"
         }
     }
 }
