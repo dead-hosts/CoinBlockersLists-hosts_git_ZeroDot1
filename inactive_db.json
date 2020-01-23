@@ -8073,10 +8073,6 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579316832": {
-            "aeon.cryptopool.ru": "INACTIVE",
-            "aeon.cryptoserb.com": "INACTIVE"
-        },
         "1579316833": {
             "aeon.hashparty.net": "INACTIVE",
             "aeon.luckypool.io": "INACTIVE",
@@ -29693,6 +29689,10 @@
         },
         "1579741855": {
             "100btcpalace.com": "INACTIVE"
+        },
+        "1579745690": {
+            "aeon.cryptopool.ru": "INACTIVE",
+            "aeon.cryptoserb.com": "INACTIVE"
         }
     }
 }
