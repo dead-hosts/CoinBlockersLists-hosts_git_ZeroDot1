@@ -8074,8 +8074,6 @@
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
         "1579316833": {
-            "aeon.hashparty.net": "INACTIVE",
-            "aeon.luckypool.io": "INACTIVE",
             "aeon.minecraftpool.com": "INACTIVE",
             "aeon.minepool.live": "INACTIVE",
             "aeon.miner-coin.eu": "INACTIVE",
@@ -29693,6 +29691,11 @@
         "1579745690": {
             "aeon.cryptopool.ru": "INACTIVE",
             "aeon.cryptoserb.com": "INACTIVE"
+        },
+        "1579753684": {
+            "aeon.hackerknowledge.de": "INACTIVE",
+            "aeon.hashparty.net": "INACTIVE",
+            "aeon.luckypool.io": "INACTIVE"
         }
     }
 }
