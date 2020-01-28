@@ -802,7 +802,7 @@
     "aceminers.com": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "aceprofits.net": {
         "epoch": 1611014400.0,
@@ -850,8 +850,8 @@
         "state": "future"
     },
     "ad-miner.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "adalso.com": {
