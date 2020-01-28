@@ -8073,18 +8073,7 @@
         }
     },
     "/home/travis/build/dead-hosts/CoinBlockersLists-hosts_git_ZeroDot1/domains.list": {
-        "1579318824": {
-            "allminer.cl": "INACTIVE",
-            "alloy-api.luckypool.io": "INACTIVE",
-            "alloy.cryptomine.pro": "INACTIVE",
-            "alloy.herominers.com": "INACTIVE",
-            "alloy.ingest.cryptoknight.cc": "INACTIVE",
-            "alloy.labbinarymining.com": "INACTIVE",
-            "alloy.luckypool.io": "INACTIVE"
-        },
         "1579318825": {
-            "alm-limited.com": "INACTIVE",
-            "almonna.moneroseeds.ae.org": "INACTIVE",
             "alpha-pool.cryptocatalyst.net": "INACTIVE",
             "alpha.bixin.com": "INACTIVE",
             "alpha.cryptocatalyst.net": "INACTIVE",
@@ -29753,6 +29742,19 @@
         "1580224007": {
             "alleoncoin.miningpoolhub.com": "INACTIVE",
             "allfree.elitter.net": "INACTIVE"
+        },
+        "1580235161": {
+            "allminer.cl": "INACTIVE",
+            "alloy-api.luckypool.io": "INACTIVE",
+            "alloy.cryptomine.pro": "INACTIVE",
+            "alloy.herominers.com": "INACTIVE"
+        },
+        "1580235162": {
+            "alloy.ingest.cryptoknight.cc": "INACTIVE",
+            "alloy.labbinarymining.com": "INACTIVE",
+            "alloy.luckypool.io": "INACTIVE",
+            "alm-limited.com": "INACTIVE",
+            "almonna.moneroseeds.ae.org": "INACTIVE"
         }
     }
 }
