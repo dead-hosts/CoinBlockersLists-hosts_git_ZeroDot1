@@ -28123,13 +28123,6 @@
             "www.hostingcloud.tr": "INACTIVE",
             "www.mail.coin-miners.info": "INACTIVE"
         },
-        "1580208284": {
-            "aen.openvpn.f2pool.com": "INACTIVE",
-            "aeon-api.luckypool.io": "INACTIVE",
-            "aeon-api.semipool.com": "INACTIVE",
-            "aeon-api.uax.io": "INACTIVE",
-            "aeon-pool.sytes.net": "INACTIVE"
-        },
         "1580212536": {
             "aeon-proxy1.semipool.com": "INACTIVE",
             "aeon-web.semipool.com": "INACTIVE",
@@ -29773,6 +29766,15 @@
             "aegis.coin-miners.info": "INACTIVE",
             "aegis.node.coin-miners.info": "INACTIVE",
             "aemro.moneroseeds.ae.org": "INACTIVE"
+        },
+        "1580298074": {
+            "aen.openvpn.f2pool.com": "INACTIVE",
+            "aeon-api.luckypool.io": "INACTIVE",
+            "aeon-api.semipool.com": "INACTIVE",
+            "aeon-api.uax.io": "INACTIVE"
+        },
+        "1580298075": {
+            "aeon-pool.sytes.net": "INACTIVE"
         }
     }
 }
