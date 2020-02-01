@@ -28203,49 +28203,7 @@
             "akroma.cubepool.eu": "INACTIVE",
             "akroma.miningpool.fun": "INACTIVE"
         },
-        "1580478245": {
-            "6392.btcc.com": "INACTIVE"
-        },
-        "1580478247": {
-            "aeon-proxy1.semipool.com": "INACTIVE"
-        },
-        "1580478248": {
-            "aeon-web.semipool.com": "INACTIVE",
-            "aeon.4miner.me": "INACTIVE",
-            "aeon.collusion.tech": "INACTIVE",
-            "aeon.cool-pool.net": "INACTIVE",
-            "aeon.cryptopool.ru": "INACTIVE",
-            "aeon.cryptoserb.com": "INACTIVE",
-            "aeon.hackerknowledge.de": "INACTIVE",
-            "aeon.hashparty.net": "INACTIVE",
-            "aeon.luckypool.io": "INACTIVE",
-            "aeon.minepool.live": "INACTIVE"
-        },
-        "1580478249": {
-            "aeon.minecraftpool.com": "INACTIVE",
-            "aeon.miner-coin.eu": "INACTIVE",
-            "aeon.minereasy.com": "INACTIVE",
-            "aeon.modpool.org": "INACTIVE",
-            "aeon.multipooler.com": "INACTIVE",
-            "aeon.nodes.hashvault.pro": "INACTIVE",
-            "aeon.pool.golix.com": "INACTIVE",
-            "aeon.pool.pool.gntl.co.uk": "INACTIVE",
-            "aeon.pooltupi.com": "INACTIVE"
-        },
-        "1580478250": {
-            "aeon.rupool.tk": "INACTIVE",
-            "aeon.teracycle.net": "INACTIVE",
-            "aeon.uax.io": "INACTIVE",
-            "aeon.xnpool.com": "INACTIVE",
-            "aeonapi.c1d2.com": "INACTIVE",
-            "aeonold.semipool.com": "INACTIVE",
-            "aeonpool.xyz": "INACTIVE",
-            "aeont.semipool.com": "INACTIVE",
-            "aeonweb.semipool.com": "INACTIVE"
-        },
         "1580478251": {
-            "aeonweb.ru": "INACTIVE",
-            "aergo.mine.zergpool.com": "INACTIVE",
             "aeros03.tk": "INACTIVE"
         },
         "1580482139": {
@@ -29806,6 +29764,47 @@
             "aeon-api.semipool.com": "INACTIVE",
             "aeon-api.uax.io": "INACTIVE",
             "aeon-pool.sytes.net": "INACTIVE"
+        },
+        "1580568367": {
+            "6392.btcc.com": "INACTIVE"
+        },
+        "1580568370": {
+            "aeon-proxy1.semipool.com": "INACTIVE",
+            "aeon-web.semipool.com": "INACTIVE",
+            "aeon.4miner.me": "INACTIVE",
+            "aeon.collusion.tech": "INACTIVE",
+            "aeon.cool-pool.net": "INACTIVE",
+            "aeon.cryptopool.ru": "INACTIVE",
+            "aeon.cryptoserb.com": "INACTIVE",
+            "aeon.hackerknowledge.de": "INACTIVE"
+        },
+        "1580568371": {
+            "aeon.hashparty.net": "INACTIVE",
+            "aeon.luckypool.io": "INACTIVE",
+            "aeon.minepool.live": "INACTIVE",
+            "aeon.miner-coin.eu": "INACTIVE",
+            "aeon.minereasy.com": "INACTIVE",
+            "aeon.modpool.org": "INACTIVE",
+            "aeon.multipooler.com": "INACTIVE",
+            "aeon.nodes.hashvault.pro": "INACTIVE"
+        },
+        "1580568372": {
+            "aeon.pool.golix.com": "INACTIVE",
+            "aeon.pool.pool.gntl.co.uk": "INACTIVE",
+            "aeon.pooltupi.com": "INACTIVE",
+            "aeon.rupool.tk": "INACTIVE",
+            "aeon.teracycle.net": "INACTIVE",
+            "aeon.uax.io": "INACTIVE",
+            "aeon.xnpool.com": "INACTIVE",
+            "aeonapi.c1d2.com": "INACTIVE"
+        },
+        "1580568373": {
+            "aeonold.semipool.com": "INACTIVE",
+            "aeonpool.xyz": "INACTIVE",
+            "aeont.semipool.com": "INACTIVE",
+            "aeonweb.ru": "INACTIVE",
+            "aeonweb.semipool.com": "INACTIVE",
+            "aergo.mine.zergpool.com": "INACTIVE"
         }
     }
 }
