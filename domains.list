@@ -1,6 +1,6 @@
 html>
 class="devise-layout-html">
-nonce="BSZieFTLk0cG3Dfv4AIarw==">
+nonce="LvfKEX3FDBq3M1TnGJhjeA==">
 //<![CDATA[
 (window.location.hash
 ===
@@ -68,7 +68,7 @@ rel="stylesheet"
 media="all"
 href="https://assets.gitlab-static.net/assets/highlight/themes/white-3144068cf4f603d290f553b653926358ddcd02493b9728f62417682657fc58c0.css"
 />
-nonce="BSZieFTLk0cG3Dfv4AIarw==">
+nonce="LvfKEX3FDBq3M1TnGJhjeA==">
 //<![CDATA[
 window.gon={};
 //]]>
@@ -87,10 +87,10 @@ name="csrf-param"
 content="authenticity_token"
 />
 name="csrf-token"
-content="P1WX+PNUuUALjcU1Hf0R4G9TzTz4YR7sdAG+SE5uIrjCBziLr4YdM9l9EGTwI5tjJR+JJWOSJNLrEaWp7wnaaQ=="
+content="NkCEyOjI+JX6XbzIhMyG7erfMrgxfkBEn1aBFgPH0+ymmWAwHPzC15pn0SgqTjqDSM4Npd65NDnomjwFwArAUg=="
 />
 name="csp-nonce"
-content="BSZieFTLk0cG3Dfv4AIarw=="
+content="LvfKEX3FDBq3M1TnGJhjeA=="
 />
 content="origin-when-cross-origin"
 name="referrer">
@@ -126,7 +126,7 @@ rel="mask-icon">
 content="https://assets.gitlab-static.net/assets/msapplication-tile-1196ec67452f618d39cdd85e2e3a542f76574c071051ae7effbfde01710eb17d.png"
 name="msapplication-TileImage">
 content="
-nonce="BSZieFTLk0cG3Dfv4AIarw==">
+nonce="LvfKEX3FDBq3M1TnGJhjeA==">
 //<![CDATA[
 ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
 p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
@@ -145,7 +145,7 @@ navless
 ui-indigo"
 data-page="sessions:new"
 data-qa-selector="login_page">
-nonce="BSZieFTLk0cG3Dfv4AIarw==">
+nonce="LvfKEX3FDBq3M1TnGJhjeA==">
 //<![CDATA[
 =
 window.gl
@@ -341,10 +341,10 @@ name="utf8"
 type="hidden"
 value="&
 </div>
-class="lastname_1580673135"><style
-media="screen">.lastname_1580673135
-{position:absolute!important;top:-9999px;left:-9999px;}</style><label
-for="lastname">If
+class="firstname_1580676556"><style
+media="screen">.firstname_1580676556
+{display:none;}</style><label
+for="firstname">If
 you
 are
 human,
@@ -353,8 +353,8 @@ ignore
 this
 field.</label><input
 type="text"
-name="lastname"
-id="lastname"
+name="firstname"
+id="firstname"
 autocomplete="off"
 tabindex="-1"
 /></div>
