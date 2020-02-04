@@ -29384,7 +29384,6 @@
             "www.stratum-xmr.antpool.com": "INACTIVE"
         },
         "1580677192": {
-            "aion.f2pool.com": "INACTIVE",
             "cpanel.sharjah.moneroseeds.ae.org": "INACTIVE",
             "eospeering.blockmatrix.net": "INACTIVE",
             "pool.nocroom.com": "INACTIVE",
@@ -29503,23 +29502,6 @@
         "1580677203": {
             "ncsc.thecoin.pw": "INACTIVE",
             "sapling-faucet.testnet.z.cash": "INACTIVE"
-        },
-        "1580713787": {
-            "agent.aiw.btcc.com": "INACTIVE",
-            "agent.btcc.com": "INACTIVE",
-            "agostinfinance.com": "INACTIVE",
-            "agpf.moneroseeds.ae.org": "INACTIVE",
-            "ahahyip.com": "INACTIVE",
-            "ahmsaeed.moneroseeds.ae.org": "INACTIVE"
-        },
-        "1580717567": {
-            "ai.bitcoin.co.pt": "INACTIVE",
-            "aib.moneroseeds.ae.org": "INACTIVE",
-            "aiden.suprnova.cc": "INACTIVE",
-            "ail.openvpn.f2pool.com": "INACTIVE"
-        },
-        "1580731835": {
-            "aimbtc.biz": "INACTIVE"
         },
         "1580740183": {
             "aeon.pools.e-scavo.net.ar": "INACTIVE"
@@ -31073,6 +31055,23 @@
         "1580819763": {
             "afteroneday.com": "INACTIVE",
             "ag.bitcoin.co.pt": "INACTIVE"
+        },
+        "1580823746": {
+            "agent.aiw.btcc.com": "INACTIVE"
+        },
+        "1580823747": {
+            "agostinfinance.com": "INACTIVE",
+            "agpf.moneroseeds.ae.org": "INACTIVE",
+            "ahahyip.com": "INACTIVE",
+            "ahmsaeed.moneroseeds.ae.org": "INACTIVE",
+            "ai.bitcoin.co.pt": "INACTIVE",
+            "aib.moneroseeds.ae.org": "INACTIVE",
+            "aiden.suprnova.cc": "INACTIVE"
+        },
+        "1580823748": {
+            "ail.openvpn.f2pool.com": "INACTIVE",
+            "aimbtc.biz": "INACTIVE",
+            "aion.f2pool.com": "INACTIVE"
         }
     }
 }
