@@ -29582,16 +29582,6 @@
             "aeq.btcc.com": "INACTIVE",
             "aergo.mine.zergpool.com": "INACTIVE"
         },
-        "1585596764": {
-            "aeon.miningpool.online": "INACTIVE",
-            "aeon.modpool.org": "INACTIVE",
-            "aeon.multipooler.com": "INACTIVE",
-            "aeon.nodes.hashvault.pro": "INACTIVE"
-        },
-        "1585596765": {
-            "aeon.pool.golix.com": "INACTIVE",
-            "aeon.pool.pool.gntl.co.uk": "INACTIVE"
-        },
         "1585605159": {
             "0-0.028.openvpn.cloud.btcchina.com": "INACTIVE",
             "0-100-bhd.foxypool.cf": "INACTIVE",
@@ -31826,6 +31816,16 @@
             "aeon.minexmr24.ru": "INACTIVE",
             "aeon.xnpool.com": "INACTIVE",
             "aeonapi.c1d2.com": "INACTIVE"
+        },
+        "1585683696": {
+            "aeon.modpool.org": "INACTIVE"
+        },
+        "1585683697": {
+            "aeon.miningpool.online": "INACTIVE",
+            "aeon.multipooler.com": "INACTIVE",
+            "aeon.nodes.hashvault.pro": "INACTIVE",
+            "aeon.pool.golix.com": "INACTIVE",
+            "aeon.pool.pool.gntl.co.uk": "INACTIVE"
         }
     }
 }
