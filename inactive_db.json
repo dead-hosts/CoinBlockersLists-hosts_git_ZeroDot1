@@ -29572,18 +29572,7 @@
         "1585691700": {
             "aergo.mine.zergpool.com": "INACTIVE"
         },
-        "1585769211": {
-            "17173.elitter.net": "INACTIVE"
-        },
-        "1585772982": {
-            "aeon.miningpool.online": "INACTIVE"
-        },
         "1585772983": {
-            "aeon.modpool.org": "INACTIVE",
-            "aeon.multipooler.com": "INACTIVE",
-            "aeon.nodes.hashvault.pro": "INACTIVE",
-            "aeon.pool.golix.com": "INACTIVE",
-            "aeon.pool.pool.gntl.co.uk": "INACTIVE",
             "aeon.xnpool.com": "INACTIVE",
             "aeonapi.c1d2.com": "INACTIVE",
             "aerisdev.onlycash.ddns.net": "INACTIVE"
@@ -31828,6 +31817,16 @@
         },
         "1585855851": {
             "aeon.uax.io": "INACTIVE"
+        },
+        "1585862865": {
+            "aeon.miningpool.online": "INACTIVE",
+            "aeon.modpool.org": "INACTIVE",
+            "aeon.multipooler.com": "INACTIVE"
+        },
+        "1585862866": {
+            "aeon.nodes.hashvault.pro": "INACTIVE",
+            "aeon.pool.golix.com": "INACTIVE",
+            "aeon.pool.pool.gntl.co.uk": "INACTIVE"
         }
     }
 }
