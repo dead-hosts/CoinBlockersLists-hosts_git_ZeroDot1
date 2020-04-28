@@ -10336,6 +10336,13 @@
             "last_retested_at_iso": "2020-04-27T21:33:59.090886",
             "status": "INACTIVE"
         },
+        "882-83.btcc.com": {
+            "included_at_epoch": 1588035498.788214,
+            "included_at_iso": "2020-04-28T00:58:18.788214",
+            "last_retested_at_epoch": 1588035498.788214,
+            "last_retested_at_iso": "2020-04-28T00:58:18.788214",
+            "status": "INACTIVE"
+        },
         "882-hz.btcc.com": {
             "included_at_epoch": 1587926862.743264,
             "included_at_iso": "2020-04-26T18:47:42.743264",
@@ -12453,43 +12460,43 @@
         "admin.zettapool.com": {
             "included_at_epoch": 1587931624.340989,
             "included_at_iso": "2020-04-26T20:07:04.340989",
-            "last_retested_at_epoch": 1587931624.340989,
-            "last_retested_at_iso": "2020-04-26T20:07:04.340989",
+            "last_retested_at_epoch": 1588035499.844633,
+            "last_retested_at_iso": "2020-04-28T00:58:19.844633",
             "status": "INACTIVE"
         },
         "admin01.cryptopool.io": {
             "included_at_epoch": 1586647056.0,
             "included_at_iso": "2020-04-11T23:17:36",
-            "last_retested_at_epoch": 1587931624.367291,
-            "last_retested_at_iso": "2020-04-26T20:07:04.367291",
+            "last_retested_at_epoch": 1588035499.818677,
+            "last_retested_at_iso": "2020-04-28T00:58:19.818677",
             "status": "INACTIVE"
         },
         "admin2.crypto-mining-pool.com": {
             "included_at_epoch": 1587931624.394814,
             "included_at_iso": "2020-04-26T20:07:04.394814",
-            "last_retested_at_epoch": 1587931624.394814,
-            "last_retested_at_iso": "2020-04-26T20:07:04.394814",
+            "last_retested_at_epoch": 1588035499.896018,
+            "last_retested_at_iso": "2020-04-28T00:58:19.896018",
             "status": "INACTIVE"
         },
         "adminerspero.sperocoin.org": {
             "included_at_epoch": 1587931624.422185,
             "included_at_iso": "2020-04-26T20:07:04.422185",
-            "last_retested_at_epoch": 1587931624.422185,
-            "last_retested_at_iso": "2020-04-26T20:07:04.422185",
+            "last_retested_at_epoch": 1588035499.922017,
+            "last_retested_at_iso": "2020-04-28T00:58:19.922017",
             "status": "INACTIVE"
         },
         "adminka-pro.ru": {
             "included_at_epoch": 1587931624.484397,
             "included_at_iso": "2020-04-26T20:07:04.484397",
-            "last_retested_at_epoch": 1587931624.484397,
-            "last_retested_at_iso": "2020-04-26T20:07:04.484397",
+            "last_retested_at_epoch": 1588035499.98446,
+            "last_retested_at_iso": "2020-04-28T00:58:19.984460",
             "status": "INACTIVE"
         },
         "admintosa.onlycash.ddns.net": {
             "included_at_epoch": 1587931624.509239,
             "included_at_iso": "2020-04-26T20:07:04.509239",
-            "last_retested_at_epoch": 1587931624.509239,
-            "last_retested_at_iso": "2020-04-26T20:07:04.509239",
+            "last_retested_at_epoch": 1588035499.958529,
+            "last_retested_at_iso": "2020-04-28T00:58:19.958529",
             "status": "INACTIVE"
         },
         "adminvps.coinpoolit.webhop.me": {
