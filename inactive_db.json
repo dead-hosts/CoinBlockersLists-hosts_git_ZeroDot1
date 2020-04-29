@@ -7690,6 +7690,13 @@
             "last_retested_at_iso": "2020-04-28T21:45:39.775291",
             "status": "INACTIVE"
         },
+        "2acoin.blockfoundry.org": {
+            "included_at_epoch": 1588142006.508659,
+            "included_at_iso": "2020-04-29T06:33:26.508659",
+            "last_retested_at_epoch": 1588142006.508659,
+            "last_retested_at_iso": "2020-04-29T06:33:26.508659",
+            "status": "INACTIVE"
+        },
         "2acoin.smartcoinpool.com": {
             "included_at_epoch": 1587924557.062455,
             "included_at_iso": "2020-04-26T18:09:17.062455",
@@ -12322,6 +12329,13 @@
             "included_at_iso": "2020-04-26T19:29:12.075233",
             "last_retested_at_epoch": 1588122401.083008,
             "last_retested_at_iso": "2020-04-29T01:06:41.083008",
+            "status": "INACTIVE"
+        },
+        "admin.drkpool.com": {
+            "included_at_epoch": 1588142009.035779,
+            "included_at_iso": "2020-04-29T06:33:29.035779",
+            "last_retested_at_epoch": 1588142009.035779,
+            "last_retested_at_iso": "2020-04-29T06:33:29.035779",
             "status": "INACTIVE"
         },
         "admin.flypool.net": {
