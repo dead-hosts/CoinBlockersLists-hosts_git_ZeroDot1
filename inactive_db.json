@@ -1873,6 +1873,13 @@
             "last_retested_at_iso": "2020-04-28T18:13:38.046299",
             "status": "INACTIVE"
         },
+        "1.monerise.com": {
+            "included_at_epoch": 1588175796.704988,
+            "included_at_iso": "2020-04-29T15:56:36.704988",
+            "last_retested_at_epoch": 1588175796.704988,
+            "last_retested_at_iso": "2020-04-29T15:56:36.704988",
+            "status": "INACTIVE"
+        },
         "10-149.openvpn.btcchina.com": {
             "included_at_epoch": 1587918935.295738,
             "included_at_iso": "2020-04-26T16:35:35.295738",
