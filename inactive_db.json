@@ -9965,6 +9965,13 @@
             "last_retested_at_iso": "2020-04-28T22:55:35.220188",
             "status": "INACTIVE"
         },
+        "710-230.btcc.com": {
+            "included_at_epoch": 1588126409.739994,
+            "included_at_iso": "2020-04-29T02:13:29.739994",
+            "last_retested_at_epoch": 1588126409.739994,
+            "last_retested_at_iso": "2020-04-29T02:13:29.739994",
+            "status": "INACTIVE"
+        },
         "71hgfe.btcc.com": {
             "included_at_epoch": 1587926861.507981,
             "included_at_iso": "2020-04-26T18:47:41.507981",
@@ -10329,6 +10336,13 @@
             "last_retested_at_iso": "2020-04-28T22:55:36.868766",
             "status": "INACTIVE"
         },
+        "882-83.btcc.com": {
+            "included_at_epoch": 1588126410.01175,
+            "included_at_iso": "2020-04-29T02:13:30.011750",
+            "last_retested_at_epoch": 1588126410.01175,
+            "last_retested_at_iso": "2020-04-29T02:13:30.011750",
+            "status": "INACTIVE"
+        },
         "882-hz.btcc.com": {
             "included_at_epoch": 1588118343.642968,
             "included_at_iso": "2020-04-28T23:59:03.642968",
@@ -10546,6 +10560,13 @@
             "last_retested_at_iso": "2020-04-28T22:55:37.765479",
             "status": "INACTIVE"
         },
+        "925d.btcc.com": {
+            "included_at_epoch": 1588126410.084198,
+            "included_at_iso": "2020-04-29T02:13:30.084198",
+            "last_retested_at_epoch": 1588126410.084198,
+            "last_retested_at_iso": "2020-04-29T02:13:30.084198",
+            "status": "INACTIVE"
+        },
         "929-240.btcc.com": {
             "included_at_epoch": 1588118343.772337,
             "included_at_iso": "2020-04-28T23:59:03.772337",
@@ -10621,6 +10642,13 @@
             "included_at_iso": "2020-04-26T18:47:43.687193",
             "last_retested_at_epoch": 1588114538.03663,
             "last_retested_at_iso": "2020-04-28T22:55:38.036630",
+            "status": "INACTIVE"
+        },
+        "95d17.btcc.com": {
+            "included_at_epoch": 1588126410.109023,
+            "included_at_iso": "2020-04-29T02:13:30.109023",
+            "last_retested_at_epoch": 1588126410.109023,
+            "last_retested_at_iso": "2020-04-29T02:13:30.109023",
             "status": "INACTIVE"
         },
         "96.114.157.78.coinminerz.com": {
@@ -12432,29 +12460,29 @@
         "admin.zettapool.com": {
             "included_at_epoch": 1587931624.340989,
             "included_at_iso": "2020-04-26T20:07:04.340989",
-            "last_retested_at_epoch": 1588035499.844633,
-            "last_retested_at_iso": "2020-04-28T00:58:19.844633",
+            "last_retested_at_epoch": 1588126411.108429,
+            "last_retested_at_iso": "2020-04-29T02:13:31.108429",
             "status": "INACTIVE"
         },
         "admin01.cryptopool.io": {
             "included_at_epoch": 1586647056.0,
             "included_at_iso": "2020-04-11T23:17:36",
-            "last_retested_at_epoch": 1588035499.818677,
-            "last_retested_at_iso": "2020-04-28T00:58:19.818677",
+            "last_retested_at_epoch": 1588126411.083159,
+            "last_retested_at_iso": "2020-04-29T02:13:31.083159",
             "status": "INACTIVE"
         },
         "admin2.crypto-mining-pool.com": {
             "included_at_epoch": 1587931624.394814,
             "included_at_iso": "2020-04-26T20:07:04.394814",
-            "last_retested_at_epoch": 1588035499.896018,
-            "last_retested_at_iso": "2020-04-28T00:58:19.896018",
+            "last_retested_at_epoch": 1588126411.158543,
+            "last_retested_at_iso": "2020-04-29T02:13:31.158543",
             "status": "INACTIVE"
         },
         "adminerspero.sperocoin.org": {
             "included_at_epoch": 1587931624.422185,
             "included_at_iso": "2020-04-26T20:07:04.422185",
-            "last_retested_at_epoch": 1588035499.922017,
-            "last_retested_at_iso": "2020-04-28T00:58:19.922017",
+            "last_retested_at_epoch": 1588126411.18411,
+            "last_retested_at_iso": "2020-04-29T02:13:31.184110",
             "status": "INACTIVE"
         },
         "adminka-pro.ru": {
