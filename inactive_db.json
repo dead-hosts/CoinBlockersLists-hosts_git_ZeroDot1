@@ -12457,6 +12457,13 @@
             "last_retested_at_iso": "2020-04-29T01:06:41.621492",
             "status": "INACTIVE"
         },
+        "admin.switchercoin.com": {
+            "included_at_epoch": 1588154086.303746,
+            "included_at_iso": "2020-04-29T09:54:46.303746",
+            "last_retested_at_epoch": 1588154086.303746,
+            "last_retested_at_iso": "2020-04-29T09:54:46.303746",
+            "status": "INACTIVE"
+        },
         "admin.talerpool.by": {
             "included_at_epoch": 1587931624.303317,
             "included_at_iso": "2020-04-26T20:07:04.303317",
@@ -12831,36 +12838,36 @@
         "advancerevshare.com": {
             "included_at_epoch": 1587934124.633265,
             "included_at_iso": "2020-04-26T20:48:44.633265",
-            "last_retested_at_epoch": 1588063317.84712,
-            "last_retested_at_iso": "2020-04-28T08:41:57.847120",
+            "last_retested_at_epoch": 1588154086.480753,
+            "last_retested_at_iso": "2020-04-29T09:54:46.480753",
             "status": "INACTIVE"
         },
         "advstudwelding.onlycash.ddns.net": {
             "included_at_epoch": 1587934124.658965,
             "included_at_iso": "2020-04-26T20:48:44.658965",
-            "last_retested_at_epoch": 1588063317.872583,
-            "last_retested_at_iso": "2020-04-28T08:41:57.872583",
+            "last_retested_at_epoch": 1588154086.505967,
+            "last_retested_at_iso": "2020-04-29T09:54:46.505967",
             "status": "INACTIVE"
         },
         "adx.jsecoin.com": {
             "included_at_epoch": 1587934124.710258,
             "included_at_iso": "2020-04-26T20:48:44.710258",
-            "last_retested_at_epoch": 1588063317.920835,
-            "last_retested_at_iso": "2020-04-28T08:41:57.920835",
+            "last_retested_at_epoch": 1588154086.554899,
+            "last_retested_at_iso": "2020-04-29T09:54:46.554899",
             "status": "INACTIVE"
         },
         "adyhome.evolution-project.go.ro": {
             "included_at_epoch": 1587934124.761682,
             "included_at_iso": "2020-04-26T20:48:44.761682",
-            "last_retested_at_epoch": 1588063317.970869,
-            "last_retested_at_iso": "2020-04-28T08:41:57.970869",
+            "last_retested_at_epoch": 1588154086.604811,
+            "last_retested_at_iso": "2020-04-29T09:54:46.604811",
             "status": "INACTIVE"
         },
         "adz.mine-vn.com": {
             "included_at_epoch": 1587934124.787242,
             "included_at_iso": "2020-04-26T20:48:44.787242",
-            "last_retested_at_epoch": 1588063317.995898,
-            "last_retested_at_iso": "2020-04-28T08:41:57.995898",
+            "last_retested_at_epoch": 1588154086.629827,
+            "last_retested_at_iso": "2020-04-29T09:54:46.629827",
             "status": "INACTIVE"
         },
         "ae-eu.f2pool.com": {
