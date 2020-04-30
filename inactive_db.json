@@ -12348,8 +12348,8 @@
         "admin.flypool.net": {
             "included_at_epoch": 1587929352.135777,
             "included_at_iso": "2020-04-26T19:29:12.135777",
-            "last_retested_at_epoch": 1588122401.155374,
-            "last_retested_at_iso": "2020-04-29T01:06:41.155374",
+            "last_retested_at_epoch": 1588290017.008175,
+            "last_retested_at_iso": "2020-04-30T23:40:17.008175",
             "status": "INACTIVE"
         },
         "admin.itam.hashparty.net": {
@@ -13099,20 +13099,6 @@
             "included_at_iso": "2020-04-03T23:34:32",
             "last_retested_at_epoch": 1585956872.0,
             "last_retested_at_iso": "2020-04-03T23:34:32",
-            "status": "INACTIVE"
-        },
-        "aeros05.tk": {
-            "included_at_epoch": 1585869661.0,
-            "included_at_iso": "2020-04-02T23:21:01",
-            "last_retested_at_epoch": 1585869661.0,
-            "last_retested_at_iso": "2020-04-02T23:21:01",
-            "status": "INACTIVE"
-        },
-        "aeros06.tk": {
-            "included_at_epoch": 1585869662.0,
-            "included_at_iso": "2020-04-02T23:21:02",
-            "last_retested_at_epoch": 1585869662.0,
-            "last_retested_at_iso": "2020-04-02T23:21:02",
             "status": "INACTIVE"
         },
         "aeros09.tk": {
