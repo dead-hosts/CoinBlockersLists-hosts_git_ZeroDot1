@@ -1892,7 +1892,7 @@
     "asiapool.trade": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "asiaprofit.biz": {
         "epoch": 1594944000.0,
@@ -1909,6 +1909,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "asicbit-pool.ru": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
     "asicminermarket.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -1922,7 +1927,7 @@
     "asiconminer.com": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "asicpool.co": {
         "epoch": 1558828800,
@@ -1949,6 +1954,11 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "asicpool.ru": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
+        "state": "future"
+    },
     "asicpool.us": {
         "epoch": "1563321600",
         "expiration_date": "17-jul-2019",
@@ -1960,8 +1970,8 @@
         "state": "future"
     },
     "asonno.com": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "asset-finance.com": {
@@ -2000,8 +2010,8 @@
         "state": "future"
     },
     "assominer.com": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "at0m.pw": {
@@ -2014,9 +2024,14 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "atheios.com": {
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
+        "state": "future"
+    },
     "atlanticprofit.com": {
-        "epoch": 1586476800.0,
-        "expiration_date": "10-apr-2020",
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "atlantinv.com": {
@@ -2030,13 +2045,13 @@
         "state": "future"
     },
     "atm-holding.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "atm2you.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1594771200.0,
+        "expiration_date": "15-jul-2020",
         "state": "future"
     },
     "atmbtc.biz": {
@@ -2045,8 +2060,8 @@
         "state": "past"
     },
     "atomicbitcoin.com": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "atomminer.com": {
