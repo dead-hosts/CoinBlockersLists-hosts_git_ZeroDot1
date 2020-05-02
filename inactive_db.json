@@ -51922,6 +51922,265 @@
             "last_retested_at_epoch": 1588459070.388154,
             "last_retested_at_iso": "2020-05-02T22:37:50.388154",
             "status": "INACTIVE"
+        },
+        "ella.cryptopool.network": {
+            "included_at_epoch": 1588459781.732468,
+            "included_at_iso": "2020-05-02T22:49:41.732468",
+            "last_retested_at_epoch": 1588459781.732468,
+            "last_retested_at_iso": "2020-05-02T22:49:41.732468",
+            "status": "INACTIVE"
+        },
+        "ella.cryptopools.info": {
+            "included_at_epoch": 1588459781.851559,
+            "included_at_iso": "2020-05-02T22:49:41.851559",
+            "last_retested_at_epoch": 1588459781.851559,
+            "last_retested_at_iso": "2020-05-02T22:49:41.851559",
+            "status": "INACTIVE"
+        },
+        "ella.cubepool.eu": {
+            "included_at_epoch": 1588459781.961474,
+            "included_at_iso": "2020-05-02T22:49:41.961474",
+            "last_retested_at_epoch": 1588459781.961474,
+            "last_retested_at_iso": "2020-05-02T22:49:41.961474",
+            "status": "INACTIVE"
+        },
+        "ella.dev.2miners.com": {
+            "included_at_epoch": 1588459782.062804,
+            "included_at_iso": "2020-05-02T22:49:42.062804",
+            "last_retested_at_epoch": 1588459782.062804,
+            "last_retested_at_iso": "2020-05-02T22:49:42.062804",
+            "status": "INACTIVE"
+        },
+        "ella.drowningpool.net": {
+            "included_at_epoch": 1588459782.171915,
+            "included_at_iso": "2020-05-02T22:49:42.171915",
+            "last_retested_at_epoch": 1588459782.171915,
+            "last_retested_at_iso": "2020-05-02T22:49:42.171915",
+            "status": "INACTIVE"
+        },
+        "ella.ehashcoins.org": {
+            "included_at_epoch": 1588459782.273821,
+            "included_at_iso": "2020-05-02T22:49:42.273821",
+            "last_retested_at_epoch": 1588459782.273821,
+            "last_retested_at_iso": "2020-05-02T22:49:42.273821",
+            "status": "INACTIVE"
+        },
+        "ella.mine-vn.com": {
+            "included_at_epoch": 1588459782.392641,
+            "included_at_iso": "2020-05-02T22:49:42.392641",
+            "last_retested_at_epoch": 1588459782.392641,
+            "last_retested_at_iso": "2020-05-02T22:49:42.392641",
+            "status": "INACTIVE"
+        },
+        "ella.minertopia.org": {
+            "included_at_epoch": 1588459782.609707,
+            "included_at_iso": "2020-05-02T22:49:42.609707",
+            "last_retested_at_epoch": 1588459782.609707,
+            "last_retested_at_iso": "2020-05-02T22:49:42.609707",
+            "status": "INACTIVE"
+        },
+        "ella.mining-pool.fr": {
+            "included_at_epoch": 1588459782.504978,
+            "included_at_iso": "2020-05-02T22:49:42.504978",
+            "last_retested_at_epoch": 1588459782.504978,
+            "last_retested_at_iso": "2020-05-02T22:49:42.504978",
+            "status": "INACTIVE"
+        },
+        "ella.mole-pool.net": {
+            "included_at_epoch": 1588459782.723196,
+            "included_at_iso": "2020-05-02T22:49:42.723196",
+            "last_retested_at_epoch": 1588459782.723196,
+            "last_retested_at_iso": "2020-05-02T22:49:42.723196",
+            "status": "INACTIVE"
+        },
+        "ella.p00l.org": {
+            "included_at_epoch": 1588459782.84509,
+            "included_at_iso": "2020-05-02T22:49:42.845090",
+            "last_retested_at_epoch": 1588459782.84509,
+            "last_retested_at_iso": "2020-05-02T22:49:42.845090",
+            "status": "INACTIVE"
+        },
+        "ella.reidocoin.com.br": {
+            "included_at_epoch": 1588459783.084197,
+            "included_at_iso": "2020-05-02T22:49:43.084197",
+            "last_retested_at_epoch": 1588459783.084197,
+            "last_retested_at_iso": "2020-05-02T22:49:43.084197",
+            "status": "INACTIVE"
+        },
+        "ella.rustpool.com": {
+            "included_at_epoch": 1588459782.981016,
+            "included_at_iso": "2020-05-02T22:49:42.981016",
+            "last_retested_at_epoch": 1588459782.981016,
+            "last_retested_at_iso": "2020-05-02T22:49:42.981016",
+            "status": "INACTIVE"
+        },
+        "ella.solopool.org": {
+            "included_at_epoch": 1588459783.186373,
+            "included_at_iso": "2020-05-02T22:49:43.186373",
+            "last_retested_at_epoch": 1588459783.186373,
+            "last_retested_at_iso": "2020-05-02T22:49:43.186373",
+            "status": "INACTIVE"
+        },
+        "ella.soyminero.es": {
+            "included_at_epoch": 1588459783.287253,
+            "included_at_iso": "2020-05-02T22:49:43.287253",
+            "last_retested_at_epoch": 1588459783.287253,
+            "last_retested_at_iso": "2020-05-02T22:49:43.287253",
+            "status": "INACTIVE"
+        },
+        "ella.upool.in": {
+            "included_at_epoch": 1588459783.415407,
+            "included_at_iso": "2020-05-02T22:49:43.415407",
+            "last_retested_at_epoch": 1588459783.415407,
+            "last_retested_at_iso": "2020-05-02T22:49:43.415407",
+            "status": "INACTIVE"
+        },
+        "ella.xeminer.net": {
+            "included_at_epoch": 1588459783.518781,
+            "included_at_iso": "2020-05-02T22:49:43.518781",
+            "last_retested_at_epoch": 1588459783.518781,
+            "last_retested_at_iso": "2020-05-02T22:49:43.518781",
+            "status": "INACTIVE"
+        },
+        "ella2.solopool.org": {
+            "included_at_epoch": 1588459783.620932,
+            "included_at_iso": "2020-05-02T22:49:43.620932",
+            "last_retested_at_epoch": 1588459783.620932,
+            "last_retested_at_iso": "2020-05-02T22:49:43.620932",
+            "status": "INACTIVE"
+        },
+        "elli.mine-vn.com": {
+            "included_at_epoch": 1588459783.766437,
+            "included_at_iso": "2020-05-02T22:49:43.766437",
+            "last_retested_at_epoch": 1588459783.766437,
+            "last_retested_at_iso": "2020-05-02T22:49:43.766437",
+            "status": "INACTIVE"
+        },
+        "elliasalon.evolution-project.go.ro": {
+            "included_at_epoch": 1588459784.009584,
+            "included_at_iso": "2020-05-02T22:49:44.009584",
+            "last_retested_at_epoch": 1588459784.009584,
+            "last_retested_at_iso": "2020-05-02T22:49:44.009584",
+            "status": "INACTIVE"
+        },
+        "elm30net.onlycash.ddns.net": {
+            "included_at_epoch": 1588459783.899864,
+            "included_at_iso": "2020-05-02T22:49:43.899864",
+            "last_retested_at_epoch": 1588459783.899864,
+            "last_retested_at_iso": "2020-05-02T22:49:43.899864",
+            "status": "INACTIVE"
+        },
+        "elmoutaouakil.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588459784.111281,
+            "included_at_iso": "2020-05-02T22:49:44.111281",
+            "last_retested_at_epoch": 1588459784.111281,
+            "last_retested_at_iso": "2020-05-02T22:49:44.111281",
+            "status": "INACTIVE"
+        },
+        "eloy.evolution-project.go.ro": {
+            "included_at_epoch": 1588459784.212469,
+            "included_at_iso": "2020-05-02T22:49:44.212469",
+            "last_retested_at_epoch": 1588459784.212469,
+            "last_retested_at_iso": "2020-05-02T22:49:44.212469",
+            "status": "INACTIVE"
+        },
+        "elp.mine-vn.com": {
+            "included_at_epoch": 1588459784.322952,
+            "included_at_iso": "2020-05-02T22:49:44.322952",
+            "last_retested_at_epoch": 1588459784.322952,
+            "last_retested_at_iso": "2020-05-02T22:49:44.322952",
+            "status": "INACTIVE"
+        },
+        "elph-api.4miner.me": {
+            "included_at_epoch": 1588459784.425237,
+            "included_at_iso": "2020-05-02T22:49:44.425237",
+            "last_retested_at_epoch": 1588459784.425237,
+            "last_retested_at_iso": "2020-05-02T22:49:44.425237",
+            "status": "INACTIVE"
+        },
+        "elph-pool.4miner.me": {
+            "included_at_epoch": 1588459784.537575,
+            "included_at_iso": "2020-05-02T22:49:44.537575",
+            "last_retested_at_epoch": 1588459784.537575,
+            "last_retested_at_iso": "2020-05-02T22:49:44.537575",
+            "status": "INACTIVE"
+        },
+        "elph-pool.s2ii.xyz": {
+            "included_at_epoch": 1588459784.642275,
+            "included_at_iso": "2020-05-02T22:49:44.642275",
+            "last_retested_at_epoch": 1588459784.642275,
+            "last_retested_at_iso": "2020-05-02T22:49:44.642275",
+            "status": "INACTIVE"
+        },
+        "elph.4miner.me": {
+            "included_at_epoch": 1588459784.744803,
+            "included_at_iso": "2020-05-02T22:49:44.744803",
+            "last_retested_at_epoch": 1588459784.744803,
+            "last_retested_at_iso": "2020-05-02T22:49:44.744803",
+            "status": "INACTIVE"
+        },
+        "elph.cryptocoins-digging.space": {
+            "included_at_epoch": 1588459784.846903,
+            "included_at_iso": "2020-05-02T22:49:44.846903",
+            "last_retested_at_epoch": 1588459784.846903,
+            "last_retested_at_iso": "2020-05-02T22:49:44.846903",
+            "status": "INACTIVE"
+        },
+        "elph.llama.horse": {
+            "included_at_epoch": 1588459784.957266,
+            "included_at_iso": "2020-05-02T22:49:44.957266",
+            "last_retested_at_epoch": 1588459784.957266,
+            "last_retested_at_iso": "2020-05-02T22:49:44.957266",
+            "status": "INACTIVE"
+        },
+        "elphfaucet.llama.horse": {
+            "included_at_epoch": 1588459785.161936,
+            "included_at_iso": "2020-05-02T22:49:45.161936",
+            "last_retested_at_epoch": 1588459785.161936,
+            "last_retested_at_iso": "2020-05-02T22:49:45.161936",
+            "status": "INACTIVE"
+        },
+        "elphwallet.llama.horse": {
+            "included_at_epoch": 1588459785.060192,
+            "included_at_iso": "2020-05-02T22:49:45.060192",
+            "last_retested_at_epoch": 1588459785.060192,
+            "last_retested_at_iso": "2020-05-02T22:49:45.060192",
+            "status": "INACTIVE"
+        },
+        "elphyrecoin.clevery.xyz": {
+            "included_at_epoch": 1588459785.365731,
+            "included_at_iso": "2020-05-02T22:49:45.365731",
+            "last_retested_at_epoch": 1588459785.365731,
+            "last_retested_at_iso": "2020-05-02T22:49:45.365731",
+            "status": "INACTIVE"
+        },
+        "elphyrecoin.s2ii.xyz": {
+            "included_at_epoch": 1588459785.263805,
+            "included_at_iso": "2020-05-02T22:49:45.263805",
+            "last_retested_at_epoch": 1588459785.263805,
+            "last_retested_at_iso": "2020-05-02T22:49:45.263805",
+            "status": "INACTIVE"
+        },
+        "elserviciotecnico.onlycash.ddns.net": {
+            "included_at_epoch": 1588459785.468687,
+            "included_at_iso": "2020-05-02T22:49:45.468687",
+            "last_retested_at_epoch": 1588459785.468687,
+            "last_retested_at_iso": "2020-05-02T22:49:45.468687",
+            "status": "INACTIVE"
+        },
+        "elsevpn.onlycash.ddns.net": {
+            "included_at_epoch": 1588459785.602291,
+            "included_at_iso": "2020-05-02T22:49:45.602291",
+            "last_retested_at_epoch": 1588459785.602291,
+            "last_retested_at_iso": "2020-05-02T22:49:45.602291",
+            "status": "INACTIVE"
+        },
+        "elsworthy.miningpool.thruhere.net": {
+            "included_at_epoch": 1588459785.70713,
+            "included_at_iso": "2020-05-02T22:49:45.707130",
+            "last_retested_at_epoch": 1588459785.70713,
+            "last_retested_at_iso": "2020-05-02T22:49:45.707130",
+            "status": "INACTIVE"
         }
     }
 }
