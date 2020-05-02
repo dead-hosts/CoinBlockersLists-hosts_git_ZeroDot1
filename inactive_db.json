@@ -47897,6 +47897,83 @@
             "last_retested_at_epoch": 1588441165.998798,
             "last_retested_at_iso": "2020-05-02T17:39:25.998798",
             "status": "INACTIVE"
+        },
+        "dnsseed.our-rapture.com": {
+            "included_at_epoch": 1588441887.688762,
+            "included_at_iso": "2020-05-02T17:51:27.688762",
+            "last_retested_at_epoch": 1588441887.688762,
+            "last_retested_at_iso": "2020-05-02T17:51:27.688762",
+            "status": "INACTIVE"
+        },
+        "dnsseed.superpool.win": {
+            "included_at_epoch": 1588441887.846998,
+            "included_at_iso": "2020-05-02T17:51:27.846998",
+            "last_retested_at_epoch": 1588441887.846998,
+            "last_retested_at_iso": "2020-05-02T17:51:27.846998",
+            "status": "INACTIVE"
+        },
+        "dnsseed.xebec.site": {
+            "included_at_epoch": 1588441887.971954,
+            "included_at_iso": "2020-05-02T17:51:27.971954",
+            "last_retested_at_epoch": 1588441887.971954,
+            "last_retested_at_iso": "2020-05-02T17:51:27.971954",
+            "status": "INACTIVE"
+        },
+        "dnszvn.evolution-project.go.ro": {
+            "included_at_epoch": 1588441888.109401,
+            "included_at_iso": "2020-05-02T17:51:28.109401",
+            "last_retested_at_epoch": 1588441888.109401,
+            "last_retested_at_iso": "2020-05-02T17:51:28.109401",
+            "status": "INACTIVE"
+        },
+        "do.bitcoin.co.pt": {
+            "included_at_epoch": 1588441888.208952,
+            "included_at_iso": "2020-05-02T17:51:28.208952",
+            "last_retested_at_epoch": 1588441888.208952,
+            "last_retested_at_iso": "2020-05-02T17:51:28.208952",
+            "status": "INACTIVE"
+        },
+        "do.bluematt.me": {
+            "included_at_epoch": 1588441888.403955,
+            "included_at_iso": "2020-05-02T17:51:28.403955",
+            "last_retested_at_epoch": 1588441888.403955,
+            "last_retested_at_iso": "2020-05-02T17:51:28.403955",
+            "status": "INACTIVE"
+        },
+        "do.btcc.com": {
+            "included_at_epoch": 1588441888.307978,
+            "included_at_iso": "2020-05-02T17:51:28.307978",
+            "last_retested_at_epoch": 1588441888.307978,
+            "last_retested_at_iso": "2020-05-02T17:51:28.307978",
+            "status": "INACTIVE"
+        },
+        "do69ifsly4.me": {
+            "included_at_epoch": 1588441888.518639,
+            "included_at_iso": "2020-05-02T17:51:28.518639",
+            "last_retested_at_epoch": 1588441888.518639,
+            "last_retested_at_iso": "2020-05-02T17:51:28.518639",
+            "status": "INACTIVE"
+        },
+        "dobian.evolution-project.go.ro": {
+            "included_at_epoch": 1588441888.625228,
+            "included_at_iso": "2020-05-02T17:51:28.625228",
+            "last_retested_at_epoch": 1588441888.625228,
+            "last_retested_at_iso": "2020-05-02T17:51:28.625228",
+            "status": "INACTIVE"
+        },
+        "dobrefilms.evolution-project.go.ro": {
+            "included_at_epoch": 1588441888.727017,
+            "included_at_iso": "2020-05-02T17:51:28.727017",
+            "last_retested_at_epoch": 1588441888.727017,
+            "last_retested_at_iso": "2020-05-02T17:51:28.727017",
+            "status": "INACTIVE"
+        },
+        "dobrescu.evolution-project.go.ro": {
+            "included_at_epoch": 1588441888.823719,
+            "included_at_iso": "2020-05-02T17:51:28.823719",
+            "last_retested_at_epoch": 1588441888.823719,
+            "last_retested_at_iso": "2020-05-02T17:51:28.823719",
+            "status": "INACTIVE"
         }
     }
 }
