@@ -52839,6 +52839,90 @@
             "last_retested_at_epoch": 1588462668.838561,
             "last_retested_at_iso": "2020-05-02T23:37:48.838561",
             "status": "INACTIVE"
+        },
+        "eosboot.chainrift.com": {
+            "included_at_epoch": 1588463443.684598,
+            "included_at_iso": "2020-05-02T23:50:43.684598",
+            "last_retested_at_epoch": 1588463443.684598,
+            "last_retested_at_iso": "2020-05-02T23:50:43.684598",
+            "status": "INACTIVE"
+        },
+        "eosbp.buildteam.io": {
+            "included_at_epoch": 1588463443.930388,
+            "included_at_iso": "2020-05-02T23:50:43.930388",
+            "last_retested_at_epoch": 1588463443.930388,
+            "last_retested_at_iso": "2020-05-02T23:50:43.930388",
+            "status": "INACTIVE"
+        },
+        "eosbp.kuna.io": {
+            "included_at_epoch": 1588463443.823599,
+            "included_at_iso": "2020-05-02T23:50:43.823599",
+            "last_retested_at_epoch": 1588463443.823599,
+            "last_retested_at_iso": "2020-05-02T23:50:43.823599",
+            "status": "INACTIVE"
+        },
+        "eosc-exp.farmine.net": {
+            "included_at_epoch": 1588463444.038442,
+            "included_at_iso": "2020-05-02T23:50:44.038442",
+            "last_retested_at_epoch": 1588463444.038442,
+            "last_retested_at_iso": "2020-05-02T23:50:44.038442",
+            "status": "INACTIVE"
+        },
+        "eosc-solo.baikalmine.com": {
+            "included_at_epoch": 1588463444.146315,
+            "included_at_iso": "2020-05-02T23:50:44.146315",
+            "last_retested_at_epoch": 1588463444.146315,
+            "last_retested_at_iso": "2020-05-02T23:50:44.146315",
+            "status": "INACTIVE"
+        },
+        "eosc.baikalmine.com": {
+            "included_at_epoch": 1588463444.251915,
+            "included_at_iso": "2020-05-02T23:50:44.251915",
+            "last_retested_at_epoch": 1588463444.251915,
+            "last_retested_at_iso": "2020-05-02T23:50:44.251915",
+            "status": "INACTIVE"
+        },
+        "eosc.digitalmines.io": {
+            "included_at_epoch": 1588463444.378361,
+            "included_at_iso": "2020-05-02T23:50:44.378361",
+            "last_retested_at_epoch": 1588463444.378361,
+            "last_retested_at_iso": "2020-05-02T23:50:44.378361",
+            "status": "INACTIVE"
+        },
+        "eosc.dugipools.org": {
+            "included_at_epoch": 1588463444.486162,
+            "included_at_iso": "2020-05-02T23:50:44.486162",
+            "last_retested_at_epoch": 1588463444.486162,
+            "last_retested_at_iso": "2020-05-02T23:50:44.486162",
+            "status": "INACTIVE"
+        },
+        "eosc.farmine.net": {
+            "included_at_epoch": 1588463444.634737,
+            "included_at_iso": "2020-05-02T23:50:44.634737",
+            "last_retested_at_epoch": 1588463444.634737,
+            "last_retested_at_iso": "2020-05-02T23:50:44.634737",
+            "status": "INACTIVE"
+        },
+        "eosdusseldorf.de": {
+            "included_at_epoch": 1588463444.74069,
+            "included_at_iso": "2020-05-02T23:50:44.740690",
+            "last_retested_at_epoch": 1588463444.74069,
+            "last_retested_at_iso": "2020-05-02T23:50:44.740690",
+            "status": "INACTIVE"
+        },
+        "eosnode.b1.ru": {
+            "included_at_epoch": 1588463444.96557,
+            "included_at_iso": "2020-05-02T23:50:44.965570",
+            "last_retested_at_epoch": 1588463444.96557,
+            "last_retested_at_iso": "2020-05-02T23:50:44.965570",
+            "status": "INACTIVE"
+        },
+        "eosnode.mo": {
+            "included_at_epoch": 1588463444.85788,
+            "included_at_iso": "2020-05-02T23:50:44.857880",
+            "last_retested_at_epoch": 1588463444.85788,
+            "last_retested_at_iso": "2020-05-02T23:50:44.857880",
+            "status": "INACTIVE"
         }
     }
 }
