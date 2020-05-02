@@ -3555,13 +3555,23 @@
         "state": "future"
     },
     "bubblemine.com": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
+    "burst-alliance.org": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "burst-team.us": {
         "epoch": 1627862400.0,
         "expiration_date": "02-aug-2021",
+        "state": "future"
+    },
+    "burstcoin.me": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "burstcoin.ml": {
@@ -3590,14 +3600,19 @@
         "state": "future"
     },
     "butcalve.com": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "butterflylabs.com": {
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "buyandfun.review": {
         "epoch": 1584316800.0,
         "expiration_date": "16-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bw.com": {
         "epoch": 1788912000.0,
