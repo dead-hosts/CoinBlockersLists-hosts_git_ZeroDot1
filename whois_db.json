@@ -3839,14 +3839,19 @@
         "expiration_date": "08-jan-2021",
         "state": "future"
     },
+    "chickenpool.com": {
+        "epoch": 1697673600.0,
+        "expiration_date": "19-oct-2023",
+        "state": "future"
+    },
     "chileminers.cl": {
         "epoch": "1553817600",
         "expiration_date": "29-mar-2019",
         "state": "past"
     },
     "chimachinenow.com": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "chinaenter.cn": {
@@ -3867,6 +3872,11 @@
     "cipherpool.io": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
+    "cirquity.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
         "state": "future"
     },
     "ckpool.com": {
