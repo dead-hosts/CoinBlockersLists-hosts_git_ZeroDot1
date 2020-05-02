@@ -49157,6 +49157,62 @@
             "last_retested_at_epoch": 1588446245.651912,
             "last_retested_at_iso": "2020-05-02T19:04:05.651912",
             "status": "INACTIVE"
+        },
+        "dream.suchpool.pw": {
+            "included_at_epoch": 1588446966.33807,
+            "included_at_iso": "2020-05-02T19:16:06.338070",
+            "last_retested_at_epoch": 1588446966.33807,
+            "last_retested_at_iso": "2020-05-02T19:16:06.338070",
+            "status": "INACTIVE"
+        },
+        "dreamer.miningpool.thruhere.net": {
+            "included_at_epoch": 1588446966.218866,
+            "included_at_iso": "2020-05-02T19:16:06.218866",
+            "last_retested_at_epoch": 1588446966.218866,
+            "last_retested_at_iso": "2020-05-02T19:16:06.218866",
+            "status": "INACTIVE"
+        },
+        "dreamshells.evolution-project.go.ro": {
+            "included_at_epoch": 1588446966.436294,
+            "included_at_iso": "2020-05-02T19:16:06.436294",
+            "last_retested_at_epoch": 1588446966.436294,
+            "last_retested_at_iso": "2020-05-02T19:16:06.436294",
+            "status": "INACTIVE"
+        },
+        "dreamtheater.evolution-project.go.ro": {
+            "included_at_epoch": 1588446966.56646,
+            "included_at_iso": "2020-05-02T19:16:06.566460",
+            "last_retested_at_epoch": 1588446966.56646,
+            "last_retested_at_iso": "2020-05-02T19:16:06.566460",
+            "status": "INACTIVE"
+        },
+        "dreamworld.evolution-project.go.ro": {
+            "included_at_epoch": 1588446966.769854,
+            "included_at_iso": "2020-05-02T19:16:06.769854",
+            "last_retested_at_epoch": 1588446966.769854,
+            "last_retested_at_iso": "2020-05-02T19:16:06.769854",
+            "status": "INACTIVE"
+        },
+        "dreinblein0nj2019.onlycash.ddns.net": {
+            "included_at_epoch": 1588446966.67367,
+            "included_at_iso": "2020-05-02T19:16:06.673670",
+            "last_retested_at_epoch": 1588446966.67367,
+            "last_retested_at_iso": "2020-05-02T19:16:06.673670",
+            "status": "INACTIVE"
+        },
+        "drewes.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588446966.865826,
+            "included_at_iso": "2020-05-02T19:16:06.865826",
+            "last_retested_at_epoch": 1588446966.865826,
+            "last_retested_at_iso": "2020-05-02T19:16:06.865826",
+            "status": "INACTIVE"
+        },
+        "drgl.cool-pool.net": {
+            "included_at_epoch": 1588446966.961832,
+            "included_at_iso": "2020-05-02T19:16:06.961832",
+            "last_retested_at_epoch": 1588446966.961832,
+            "last_retested_at_iso": "2020-05-02T19:16:06.961832",
+            "status": "INACTIVE"
         }
     }
 }
