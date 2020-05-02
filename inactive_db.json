@@ -43802,6 +43802,146 @@
             "last_retested_at_epoch": 1588421323.052442,
             "last_retested_at_iso": "2020-05-02T12:08:43.052442",
             "status": "INACTIVE"
+        },
+        "dbix.altpool.pro": {
+            "included_at_epoch": 1588422267.039682,
+            "included_at_iso": "2020-05-02T12:24:27.039682",
+            "last_retested_at_epoch": 1588422267.039682,
+            "last_retested_at_iso": "2020-05-02T12:24:27.039682",
+            "status": "INACTIVE"
+        },
+        "dbix.coin-miners.info": {
+            "included_at_epoch": 1588422267.153481,
+            "included_at_iso": "2020-05-02T12:24:27.153481",
+            "last_retested_at_epoch": 1588422267.153481,
+            "last_retested_at_iso": "2020-05-02T12:24:27.153481",
+            "status": "INACTIVE"
+        },
+        "dbix.drowningpool.net": {
+            "included_at_epoch": 1588422267.298321,
+            "included_at_iso": "2020-05-02T12:24:27.298321",
+            "last_retested_at_epoch": 1588422267.298321,
+            "last_retested_at_iso": "2020-05-02T12:24:27.298321",
+            "status": "INACTIVE"
+        },
+        "dbix.ehashcoins.org": {
+            "included_at_epoch": 1588422267.387448,
+            "included_at_iso": "2020-05-02T12:24:27.387448",
+            "last_retested_at_epoch": 1588422267.387448,
+            "last_retested_at_iso": "2020-05-02T12:24:27.387448",
+            "status": "INACTIVE"
+        },
+        "dbix.explorer.icanmining.ru": {
+            "included_at_epoch": 1588422267.483633,
+            "included_at_iso": "2020-05-02T12:24:27.483633",
+            "last_retested_at_epoch": 1588422267.483633,
+            "last_retested_at_iso": "2020-05-02T12:24:27.483633",
+            "status": "INACTIVE"
+        },
+        "dbix.fairpool.xyz": {
+            "included_at_epoch": 1588422267.571345,
+            "included_at_iso": "2020-05-02T12:24:27.571345",
+            "last_retested_at_epoch": 1588422267.571345,
+            "last_retested_at_iso": "2020-05-02T12:24:27.571345",
+            "status": "INACTIVE"
+        },
+        "dbix.frostypool.com": {
+            "included_at_epoch": 1588422267.667624,
+            "included_at_iso": "2020-05-02T12:24:27.667624",
+            "last_retested_at_epoch": 1588422267.667624,
+            "last_retested_at_iso": "2020-05-02T12:24:27.667624",
+            "status": "INACTIVE"
+        },
+        "dbix.hashingmasters.com": {
+            "included_at_epoch": 1588422267.780727,
+            "included_at_iso": "2020-05-02T12:24:27.780727",
+            "last_retested_at_epoch": 1588422267.780727,
+            "last_retested_at_iso": "2020-05-02T12:24:27.780727",
+            "status": "INACTIVE"
+        },
+        "dbix.mine-vn.com": {
+            "included_at_epoch": 1588422267.876946,
+            "included_at_iso": "2020-05-02T12:24:27.876946",
+            "last_retested_at_epoch": 1588422267.876946,
+            "last_retested_at_iso": "2020-05-02T12:24:27.876946",
+            "status": "INACTIVE"
+        },
+        "dbix.minecrypto.pro": {
+            "included_at_epoch": 1588422267.980706,
+            "included_at_iso": "2020-05-02T12:24:27.980706",
+            "last_retested_at_epoch": 1588422267.980706,
+            "last_retested_at_iso": "2020-05-02T12:24:27.980706",
+            "status": "INACTIVE"
+        },
+        "dbix.minershq.net": {
+            "included_at_epoch": 1588422268.156724,
+            "included_at_iso": "2020-05-02T12:24:28.156724",
+            "last_retested_at_epoch": 1588422268.156724,
+            "last_retested_at_iso": "2020-05-02T12:24:28.156724",
+            "status": "INACTIVE"
+        },
+        "dbix.mole-pool.net": {
+            "included_at_epoch": 1588422268.068797,
+            "included_at_iso": "2020-05-02T12:24:28.068797",
+            "last_retested_at_epoch": 1588422268.068797,
+            "last_retested_at_iso": "2020-05-02T12:24:28.068797",
+            "status": "INACTIVE"
+        },
+        "dbix.node.coin-miners.info": {
+            "included_at_epoch": 1588422268.245509,
+            "included_at_iso": "2020-05-02T12:24:28.245509",
+            "last_retested_at_epoch": 1588422268.245509,
+            "last_retested_at_iso": "2020-05-02T12:24:28.245509",
+            "status": "INACTIVE"
+        },
+        "dbix.poolxyz.com": {
+            "included_at_epoch": 1588422268.447013,
+            "included_at_iso": "2020-05-02T12:24:28.447013",
+            "last_retested_at_epoch": 1588422268.447013,
+            "last_retested_at_iso": "2020-05-02T12:24:28.447013",
+            "status": "INACTIVE"
+        },
+        "dbix.reidocoin.com.br": {
+            "included_at_epoch": 1588422268.358332,
+            "included_at_iso": "2020-05-02T12:24:28.358332",
+            "last_retested_at_epoch": 1588422268.358332,
+            "last_retested_at_iso": "2020-05-02T12:24:28.358332",
+            "status": "INACTIVE"
+        },
+        "dbix.stats.icanmining.ru": {
+            "included_at_epoch": 1588422268.54288,
+            "included_at_iso": "2020-05-02T12:24:28.542880",
+            "last_retested_at_epoch": 1588422268.54288,
+            "last_retested_at_iso": "2020-05-02T12:24:28.542880",
+            "status": "INACTIVE"
+        },
+        "dbix.vipool.net": {
+            "included_at_epoch": 1588422268.631551,
+            "included_at_iso": "2020-05-02T12:24:28.631551",
+            "last_retested_at_epoch": 1588422268.631551,
+            "last_retested_at_iso": "2020-05-02T12:24:28.631551",
+            "status": "INACTIVE"
+        },
+        "dbix2.pool.sexy": {
+            "included_at_epoch": 1588422268.81821,
+            "included_at_iso": "2020-05-02T12:24:28.818210",
+            "last_retested_at_epoch": 1588422268.81821,
+            "last_retested_at_iso": "2020-05-02T12:24:28.818210",
+            "status": "INACTIVE"
+        },
+        "dbix3.pool.sexy": {
+            "included_at_epoch": 1588422268.729893,
+            "included_at_iso": "2020-05-02T12:24:28.729893",
+            "last_retested_at_epoch": 1588422268.729893,
+            "last_retested_at_iso": "2020-05-02T12:24:28.729893",
+            "status": "INACTIVE"
+        },
+        "dbixstats.clona.ru": {
+            "included_at_epoch": 1588422268.955213,
+            "included_at_iso": "2020-05-02T12:24:28.955213",
+            "last_retested_at_epoch": 1588422268.955213,
+            "last_retested_at_iso": "2020-05-02T12:24:28.955213",
+            "status": "INACTIVE"
         }
     }
 }
