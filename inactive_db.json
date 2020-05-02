@@ -46490,6 +46490,83 @@
             "last_retested_at_epoch": 1588435404.982014,
             "last_retested_at_iso": "2020-05-02T16:03:24.982014",
             "status": "INACTIVE"
+        },
+        "dgb.scrypt.coinstop.me": {
+            "included_at_epoch": 1588436117.273836,
+            "included_at_iso": "2020-05-02T16:15:17.273836",
+            "last_retested_at_epoch": 1588436117.273836,
+            "last_retested_at_iso": "2020-05-02T16:15:17.273836",
+            "status": "INACTIVE"
+        },
+        "dgb01.pool.warphash.com": {
+            "included_at_epoch": 1588436117.428707,
+            "included_at_iso": "2020-05-02T16:15:17.428707",
+            "last_retested_at_epoch": 1588436117.428707,
+            "last_retested_at_iso": "2020-05-02T16:15:17.428707",
+            "status": "INACTIVE"
+        },
+        "dgbsha.cryptopools.com": {
+            "included_at_epoch": 1588436117.622725,
+            "included_at_iso": "2020-05-02T16:15:17.622725",
+            "last_retested_at_epoch": 1588436117.622725,
+            "last_retested_at_iso": "2020-05-02T16:15:17.622725",
+            "status": "INACTIVE"
+        },
+        "dgc.coin-lab.com": {
+            "included_at_epoch": 1588436117.77596,
+            "included_at_iso": "2020-05-02T16:15:17.775960",
+            "last_retested_at_epoch": 1588436117.77596,
+            "last_retested_at_iso": "2020-05-02T16:15:17.775960",
+            "status": "INACTIVE"
+        },
+        "dgc.coinmine.pl": {
+            "included_at_epoch": 1588436117.868618,
+            "included_at_iso": "2020-05-02T16:15:17.868618",
+            "last_retested_at_epoch": 1588436117.868618,
+            "last_retested_at_iso": "2020-05-02T16:15:17.868618",
+            "status": "INACTIVE"
+        },
+        "dgc.coinsprofit.com": {
+            "included_at_epoch": 1588436118.054029,
+            "included_at_iso": "2020-05-02T16:15:18.054029",
+            "last_retested_at_epoch": 1588436118.054029,
+            "last_retested_at_iso": "2020-05-02T16:15:18.054029",
+            "status": "INACTIVE"
+        },
+        "dgc.cryptopools.com": {
+            "included_at_epoch": 1588436117.96125,
+            "included_at_iso": "2020-05-02T16:15:17.961250",
+            "last_retested_at_epoch": 1588436117.96125,
+            "last_retested_at_iso": "2020-05-02T16:15:17.961250",
+            "status": "INACTIVE"
+        },
+        "dgc.deltapool.net": {
+            "included_at_epoch": 1588436118.14653,
+            "included_at_iso": "2020-05-02T16:15:18.146530",
+            "last_retested_at_epoch": 1588436118.14653,
+            "last_retested_at_iso": "2020-05-02T16:15:18.146530",
+            "status": "INACTIVE"
+        },
+        "dgc.happymining.eu": {
+            "included_at_epoch": 1588436118.247933,
+            "included_at_iso": "2020-05-02T16:15:18.247933",
+            "last_retested_at_epoch": 1588436118.247933,
+            "last_retested_at_iso": "2020-05-02T16:15:18.247933",
+            "status": "INACTIVE"
+        },
+        "dgc.hashrate.eu": {
+            "included_at_epoch": 1588436118.341386,
+            "included_at_iso": "2020-05-02T16:15:18.341386",
+            "last_retested_at_epoch": 1588436118.341386,
+            "last_retested_at_iso": "2020-05-02T16:15:18.341386",
+            "status": "INACTIVE"
+        },
+        "dgc.suchpool.pw": {
+            "included_at_epoch": 1588436118.443105,
+            "included_at_iso": "2020-05-02T16:15:18.443105",
+            "last_retested_at_epoch": 1588436118.443105,
+            "last_retested_at_iso": "2020-05-02T16:15:18.443105",
+            "status": "INACTIVE"
         }
     }
 }
