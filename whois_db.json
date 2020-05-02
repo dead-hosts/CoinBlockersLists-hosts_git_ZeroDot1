@@ -4065,8 +4065,8 @@
         "state": "future"
     },
     "coandroid.ru": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "cocozuma.net": {
@@ -4075,13 +4075,13 @@
         "state": "future"
     },
     "code.ws": {
-        "epoch": 1587859200.0,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1745625600.0,
+        "expiration_date": "26-apr-2025",
         "state": "future"
     },
     "codpool.com": {
-        "epoch": 1587168000.0,
-        "expiration_date": "18-apr-2020",
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
         "state": "future"
     },
     "cody.services": {
@@ -4099,6 +4099,11 @@
         "expiration_date": "10-oct-2018",
         "state": "past"
     },
+    "coin-base.info": {
+        "epoch": 1594771200.0,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
     "coin-blocker.com": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
@@ -4110,8 +4115,8 @@
         "state": "future"
     },
     "coin-digger.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "coin-have.com": {
@@ -4130,13 +4135,13 @@
         "state": "future"
     },
     "coin-mine.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "coin-miner.top": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "coin-miners.info": {
@@ -4145,8 +4150,8 @@
         "state": "future"
     },
     "coin-mining.net": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "coin-service.com": {
@@ -4197,7 +4202,7 @@
     "coineasybuy.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "coiner.site": {
         "epoch": "1567123200",
@@ -4207,6 +4212,11 @@
     "coinerra.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "coinevo.tech": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "coinfirm.io": {
@@ -4245,8 +4255,8 @@
         "state": "future"
     },
     "coinhive.info": {
-        "epoch": 1583193600.0,
-        "expiration_date": "03-mar-2020",
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "coinhive.net": {
@@ -4295,8 +4305,8 @@
         "state": "future"
     },
     "coinium.org": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
         "state": "future"
     },
     "coinive.com": {
@@ -4315,9 +4325,14 @@
         "state": "future"
     },
     "coinlab.biz": {
-        "epoch": 1570060800.0,
-        "expiration_date": "03-oct-2019",
-        "state": "past"
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "coinmama.com": {
+        "epoch": 1650153600.0,
+        "expiration_date": "17-apr-2022",
+        "state": "future"
     },
     "coinmarketcat.top": {
         "epoch": 1586995200.0,
