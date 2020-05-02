@@ -43179,6 +43179,146 @@
             "last_retested_at_epoch": 1588418265.415367,
             "last_retested_at_iso": "2020-05-02T11:17:45.415367",
             "status": "INACTIVE"
+        },
+        "dash.cryptobro.eu": {
+            "included_at_epoch": 1588419206.633654,
+            "included_at_iso": "2020-05-02T11:33:26.633654",
+            "last_retested_at_epoch": 1588419206.633654,
+            "last_retested_at_iso": "2020-05-02T11:33:26.633654",
+            "status": "INACTIVE"
+        },
+        "dash.cryptopool.io": {
+            "included_at_epoch": 1588419206.732679,
+            "included_at_iso": "2020-05-02T11:33:26.732679",
+            "last_retested_at_epoch": 1588419206.732679,
+            "last_retested_at_iso": "2020-05-02T11:33:26.732679",
+            "status": "INACTIVE"
+        },
+        "dash.hashing.space": {
+            "included_at_epoch": 1588419206.873978,
+            "included_at_iso": "2020-05-02T11:33:26.873978",
+            "last_retested_at_epoch": 1588419206.873978,
+            "last_retested_at_iso": "2020-05-02T11:33:26.873978",
+            "status": "INACTIVE"
+        },
+        "dash.insight.miningpool.thruhere.net": {
+            "included_at_epoch": 1588419206.96166,
+            "included_at_iso": "2020-05-02T11:33:26.961660",
+            "last_retested_at_epoch": 1588419206.96166,
+            "last_retested_at_iso": "2020-05-02T11:33:26.961660",
+            "status": "INACTIVE"
+        },
+        "dash.laintimes.com": {
+            "included_at_epoch": 1588419207.056951,
+            "included_at_iso": "2020-05-02T11:33:27.056951",
+            "last_retested_at_epoch": 1588419207.056951,
+            "last_retested_at_iso": "2020-05-02T11:33:27.056951",
+            "status": "INACTIVE"
+        },
+        "dash.mine-vn.com": {
+            "included_at_epoch": 1588419207.144055,
+            "included_at_iso": "2020-05-02T11:33:27.144055",
+            "last_retested_at_epoch": 1588419207.144055,
+            "last_retested_at_iso": "2020-05-02T11:33:27.144055",
+            "status": "INACTIVE"
+        },
+        "dash.minertopia.org": {
+            "included_at_epoch": 1588419207.231903,
+            "included_at_iso": "2020-05-02T11:33:27.231903",
+            "last_retested_at_epoch": 1588419207.231903,
+            "last_retested_at_iso": "2020-05-02T11:33:27.231903",
+            "status": "INACTIVE"
+        },
+        "dash.mole-pool.net": {
+            "included_at_epoch": 1588419207.345564,
+            "included_at_iso": "2020-05-02T11:33:27.345564",
+            "last_retested_at_epoch": 1588419207.345564,
+            "last_retested_at_iso": "2020-05-02T11:33:27.345564",
+            "status": "INACTIVE"
+        },
+        "dash.mpool.su": {
+            "included_at_epoch": 1588419207.435207,
+            "included_at_iso": "2020-05-02T11:33:27.435207",
+            "last_retested_at_epoch": 1588419207.435207,
+            "last_retested_at_iso": "2020-05-02T11:33:27.435207",
+            "status": "INACTIVE"
+        },
+        "dash.multipool.su": {
+            "included_at_epoch": 1588419207.524362,
+            "included_at_iso": "2020-05-02T11:33:27.524362",
+            "last_retested_at_epoch": 1588419207.524362,
+            "last_retested_at_iso": "2020-05-02T11:33:27.524362",
+            "status": "INACTIVE"
+        },
+        "dash.poolmining.eu": {
+            "included_at_epoch": 1588419207.670462,
+            "included_at_iso": "2020-05-02T11:33:27.670462",
+            "last_retested_at_epoch": 1588419207.670462,
+            "last_retested_at_iso": "2020-05-02T11:33:27.670462",
+            "status": "INACTIVE"
+        },
+        "dash.thecoin.pw": {
+            "included_at_epoch": 1588419207.800589,
+            "included_at_iso": "2020-05-02T11:33:27.800589",
+            "last_retested_at_epoch": 1588419207.800589,
+            "last_retested_at_iso": "2020-05-02T11:33:27.800589",
+            "status": "INACTIVE"
+        },
+        "dash01.pool.warphash.com": {
+            "included_at_epoch": 1588419207.92074,
+            "included_at_iso": "2020-05-02T11:33:27.920740",
+            "last_retested_at_epoch": 1588419207.92074,
+            "last_retested_at_iso": "2020-05-02T11:33:27.920740",
+            "status": "INACTIVE"
+        },
+        "dash1.p2pool.ru": {
+            "included_at_epoch": 1588419208.049975,
+            "included_at_iso": "2020-05-02T11:33:28.049975",
+            "last_retested_at_epoch": 1588419208.049975,
+            "last_retested_at_iso": "2020-05-02T11:33:28.049975",
+            "status": "INACTIVE"
+        },
+        "dash2.mpool.su": {
+            "included_at_epoch": 1588419208.153757,
+            "included_at_iso": "2020-05-02T11:33:28.153757",
+            "last_retested_at_epoch": 1588419208.153757,
+            "last_retested_at_iso": "2020-05-02T11:33:28.153757",
+            "status": "INACTIVE"
+        },
+        "dash2.p2pool.ru": {
+            "included_at_epoch": 1588419208.329301,
+            "included_at_iso": "2020-05-02T11:33:28.329301",
+            "last_retested_at_epoch": 1588419208.329301,
+            "last_retested_at_iso": "2020-05-02T11:33:28.329301",
+            "status": "INACTIVE"
+        },
+        "dash3.p2pool.ru": {
+            "included_at_epoch": 1588419208.241509,
+            "included_at_iso": "2020-05-02T11:33:28.241509",
+            "last_retested_at_epoch": 1588419208.241509,
+            "last_retested_at_iso": "2020-05-02T11:33:28.241509",
+            "status": "INACTIVE"
+        },
+        "dashboard.bsl.miningpool.thruhere.net": {
+            "included_at_epoch": 1588419208.508311,
+            "included_at_iso": "2020-05-02T11:33:28.508311",
+            "last_retested_at_epoch": 1588419208.508311,
+            "last_retested_at_iso": "2020-05-02T11:33:28.508311",
+            "status": "INACTIVE"
+        },
+        "dashboard.fr-pool.com": {
+            "included_at_epoch": 1588419208.604083,
+            "included_at_iso": "2020-05-02T11:33:28.604083",
+            "last_retested_at_epoch": 1588419208.604083,
+            "last_retested_at_iso": "2020-05-02T11:33:28.604083",
+            "status": "INACTIVE"
+        },
+        "dashboard.gos.cx": {
+            "included_at_epoch": 1588419208.700003,
+            "included_at_iso": "2020-05-02T11:33:28.700003",
+            "last_retested_at_epoch": 1588419208.700003,
+            "last_retested_at_iso": "2020-05-02T11:33:28.700003",
+            "status": "INACTIVE"
         }
     }
 }
