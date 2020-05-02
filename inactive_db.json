@@ -51180,6 +51180,118 @@
             "last_retested_at_epoch": 1588454733.694623,
             "last_retested_at_iso": "2020-05-02T21:25:33.694623",
             "status": "INACTIVE"
+        },
+        "egem.ethash.farm": {
+            "included_at_epoch": 1588455450.308923,
+            "included_at_iso": "2020-05-02T21:37:30.308923",
+            "last_retested_at_epoch": 1588455450.308923,
+            "last_retested_at_iso": "2020-05-02T21:37:30.308923",
+            "status": "INACTIVE"
+        },
+        "egem.explorer.icanmining.ru": {
+            "included_at_epoch": 1588455450.441094,
+            "included_at_iso": "2020-05-02T21:37:30.441094",
+            "last_retested_at_epoch": 1588455450.441094,
+            "last_retested_at_iso": "2020-05-02T21:37:30.441094",
+            "status": "INACTIVE"
+        },
+        "egem.forgetop.com": {
+            "included_at_epoch": 1588455450.542561,
+            "included_at_iso": "2020-05-02T21:37:30.542561",
+            "last_retested_at_epoch": 1588455450.542561,
+            "last_retested_at_iso": "2020-05-02T21:37:30.542561",
+            "status": "INACTIVE"
+        },
+        "egem.hashingmasters.com": {
+            "included_at_epoch": 1588455450.654191,
+            "included_at_iso": "2020-05-02T21:37:30.654191",
+            "last_retested_at_epoch": 1588455450.654191,
+            "last_retested_at_iso": "2020-05-02T21:37:30.654191",
+            "status": "INACTIVE"
+        },
+        "egem.luckypool.io": {
+            "included_at_epoch": 1588455450.809515,
+            "included_at_iso": "2020-05-02T21:37:30.809515",
+            "last_retested_at_epoch": 1588455450.809515,
+            "last_retested_at_iso": "2020-05-02T21:37:30.809515",
+            "status": "INACTIVE"
+        },
+        "egem.p00l.org": {
+            "included_at_epoch": 1588455450.930678,
+            "included_at_iso": "2020-05-02T21:37:30.930678",
+            "last_retested_at_epoch": 1588455450.930678,
+            "last_retested_at_iso": "2020-05-02T21:37:30.930678",
+            "status": "INACTIVE"
+        },
+        "egem.protonmine.io": {
+            "included_at_epoch": 1588455451.032756,
+            "included_at_iso": "2020-05-02T21:37:31.032756",
+            "last_retested_at_epoch": 1588455451.032756,
+            "last_retested_at_iso": "2020-05-02T21:37:31.032756",
+            "status": "INACTIVE"
+        },
+        "egem.reversegainz.info": {
+            "included_at_epoch": 1588455451.134239,
+            "included_at_iso": "2020-05-02T21:37:31.134239",
+            "last_retested_at_epoch": 1588455451.134239,
+            "last_retested_at_iso": "2020-05-02T21:37:31.134239",
+            "status": "INACTIVE"
+        },
+        "egem.stats.icanmining.ru": {
+            "included_at_epoch": 1588455451.246345,
+            "included_at_iso": "2020-05-02T21:37:31.246345",
+            "last_retested_at_epoch": 1588455451.246345,
+            "last_retested_at_iso": "2020-05-02T21:37:31.246345",
+            "status": "INACTIVE"
+        },
+        "egen.protonmine.io": {
+            "included_at_epoch": 1588455451.369441,
+            "included_at_iso": "2020-05-02T21:37:31.369441",
+            "last_retested_at_epoch": 1588455451.369441,
+            "last_retested_at_iso": "2020-05-02T21:37:31.369441",
+            "status": "INACTIVE"
+        },
+        "egm.4miner.me": {
+            "included_at_epoch": 1588455451.51385,
+            "included_at_iso": "2020-05-02T21:37:31.513850",
+            "last_retested_at_epoch": 1588455451.51385,
+            "last_retested_at_iso": "2020-05-02T21:37:31.513850",
+            "status": "INACTIVE"
+        },
+        "egostudio.evolution-project.go.ro": {
+            "included_at_epoch": 1588455451.651288,
+            "included_at_iso": "2020-05-02T21:37:31.651288",
+            "last_retested_at_epoch": 1588455451.651288,
+            "last_retested_at_iso": "2020-05-02T21:37:31.651288",
+            "status": "INACTIVE"
+        },
+        "egreuviatalatara.evolution-project.go.ro": {
+            "included_at_epoch": 1588455451.85829,
+            "included_at_iso": "2020-05-02T21:37:31.858290",
+            "last_retested_at_epoch": 1588455451.85829,
+            "last_retested_at_iso": "2020-05-02T21:37:31.858290",
+            "status": "INACTIVE"
+        },
+        "egsupport.onlycash.ddns.net": {
+            "included_at_epoch": 1588455451.754865,
+            "included_at_iso": "2020-05-02T21:37:31.754865",
+            "last_retested_at_epoch": 1588455451.754865,
+            "last_retested_at_iso": "2020-05-02T21:37:31.754865",
+            "status": "INACTIVE"
+        },
+        "egtofte.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588455451.961288,
+            "included_at_iso": "2020-05-02T21:37:31.961288",
+            "last_retested_at_epoch": 1588455451.961288,
+            "last_retested_at_iso": "2020-05-02T21:37:31.961288",
+            "status": "INACTIVE"
+        },
+        "egxnshdlenucey.onlycash.ddns.net": {
+            "included_at_epoch": 1588455452.073805,
+            "included_at_iso": "2020-05-02T21:37:32.073805",
+            "last_retested_at_epoch": 1588455452.073805,
+            "last_retested_at_iso": "2020-05-02T21:37:32.073805",
+            "status": "INACTIVE"
         }
     }
 }
