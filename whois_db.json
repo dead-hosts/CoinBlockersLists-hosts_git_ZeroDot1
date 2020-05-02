@@ -3632,7 +3632,7 @@
     "bytecoin.cloud": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "bytecoin.pt": {
         "epoch": 1581984000.0,
@@ -3645,8 +3645,8 @@
         "state": "future"
     },
     "bytecoins.world": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
         "state": "future"
     },
     "bytepool.com": {
@@ -3665,8 +3665,8 @@
         "state": "past"
     },
     "c1d2.com": {
-        "epoch": 1588118400.0,
-        "expiration_date": "29-apr-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
         "state": "future"
     },
     "c3pool.com": {
@@ -3675,8 +3675,8 @@
         "state": "future"
     },
     "callistopool.org": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "camillesanz.com": {
