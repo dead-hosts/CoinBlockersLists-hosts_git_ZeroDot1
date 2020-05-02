@@ -44474,6 +44474,146 @@
             "last_retested_at_epoch": 1588428225.103465,
             "last_retested_at_iso": "2020-05-02T14:03:45.103465",
             "status": "INACTIVE"
+        },
+        "ddos.bitcoinaffiliatenetwork.com": {
+            "included_at_epoch": 1588428934.249153,
+            "included_at_iso": "2020-05-02T14:15:34.249153",
+            "last_retested_at_epoch": 1588428934.249153,
+            "last_retested_at_iso": "2020-05-02T14:15:34.249153",
+            "status": "INACTIVE"
+        },
+        "ddsumo.cnpool.cc": {
+            "included_at_epoch": 1588428934.343115,
+            "included_at_iso": "2020-05-02T14:15:34.343115",
+            "last_retested_at_epoch": 1588428934.343115,
+            "last_retested_at_iso": "2020-05-02T14:15:34.343115",
+            "status": "INACTIVE"
+        },
+        "ddw.pool.so": {
+            "included_at_epoch": 1588428934.448511,
+            "included_at_iso": "2020-05-02T14:15:34.448511",
+            "last_retested_at_epoch": 1588428934.448511,
+            "last_retested_at_iso": "2020-05-02T14:15:34.448511",
+            "status": "INACTIVE"
+        },
+        "ddz.miningpool.thruhere.net": {
+            "included_at_epoch": 1588428934.537328,
+            "included_at_iso": "2020-05-02T14:15:34.537328",
+            "last_retested_at_epoch": 1588428934.537328,
+            "last_retested_at_iso": "2020-05-02T14:15:34.537328",
+            "status": "INACTIVE"
+        },
+        "de-cumparat.evolution-project.go.ro": {
+            "included_at_epoch": 1588428934.656876,
+            "included_at_iso": "2020-05-02T14:15:34.656876",
+            "last_retested_at_epoch": 1588428934.656876,
+            "last_retested_at_iso": "2020-05-02T14:15:34.656876",
+            "status": "INACTIVE"
+        },
+        "de.beta.supportxmr.com": {
+            "included_at_epoch": 1588428934.880197,
+            "included_at_iso": "2020-05-02T14:15:34.880197",
+            "last_retested_at_epoch": 1588428934.880197,
+            "last_retested_at_iso": "2020-05-02T14:15:34.880197",
+            "status": "INACTIVE"
+        },
+        "de.bitcoin.co.pt": {
+            "included_at_epoch": 1588428934.984875,
+            "included_at_iso": "2020-05-02T14:15:34.984875",
+            "last_retested_at_epoch": 1588428934.984875,
+            "last_retested_at_iso": "2020-05-02T14:15:34.984875",
+            "status": "INACTIVE"
+        },
+        "de.btcz.pool.pink": {
+            "included_at_epoch": 1588428935.081949,
+            "included_at_iso": "2020-05-02T14:15:35.081949",
+            "last_retested_at_epoch": 1588428935.081949,
+            "last_retested_at_iso": "2020-05-02T14:15:35.081949",
+            "status": "INACTIVE"
+        },
+        "de.connectbtc.com": {
+            "included_at_epoch": 1588428935.211793,
+            "included_at_iso": "2020-05-02T14:15:35.211793",
+            "last_retested_at_epoch": 1588428935.211793,
+            "last_retested_at_iso": "2020-05-02T14:15:35.211793",
+            "status": "INACTIVE"
+        },
+        "de.cryptopool.ru": {
+            "included_at_epoch": 1588428935.325891,
+            "included_at_iso": "2020-05-02T14:15:35.325891",
+            "last_retested_at_epoch": 1588428935.325891,
+            "last_retested_at_iso": "2020-05-02T14:15:35.325891",
+            "status": "INACTIVE"
+        },
+        "de.etc-poolcrypto.org": {
+            "included_at_epoch": 1588428935.423236,
+            "included_at_iso": "2020-05-02T14:15:35.423236",
+            "last_retested_at_epoch": 1588428935.423236,
+            "last_retested_at_iso": "2020-05-02T14:15:35.423236",
+            "status": "INACTIVE"
+        },
+        "de.miningpool.thruhere.net": {
+            "included_at_epoch": 1588428935.562094,
+            "included_at_iso": "2020-05-02T14:15:35.562094",
+            "last_retested_at_epoch": 1588428935.562094,
+            "last_retested_at_iso": "2020-05-02T14:15:35.562094",
+            "status": "INACTIVE"
+        },
+        "de.moriaxmr.com": {
+            "included_at_epoch": 1588428935.659039,
+            "included_at_iso": "2020-05-02T14:15:35.659039",
+            "last_retested_at_epoch": 1588428935.659039,
+            "last_retested_at_iso": "2020-05-02T14:15:35.659039",
+            "status": "INACTIVE"
+        },
+        "de.node.ckpool.org": {
+            "included_at_epoch": 1588428935.748332,
+            "included_at_iso": "2020-05-02T14:15:35.748332",
+            "last_retested_at_epoch": 1588428935.748332,
+            "last_retested_at_iso": "2020-05-02T14:15:35.748332",
+            "status": "INACTIVE"
+        },
+        "de.node.minexmr.com": {
+            "included_at_epoch": 1588428935.9259,
+            "included_at_iso": "2020-05-02T14:15:35.925900",
+            "last_retested_at_epoch": 1588428935.9259,
+            "last_retested_at_iso": "2020-05-02T14:15:35.925900",
+            "status": "INACTIVE"
+        },
+        "de.node.supportxmr.com": {
+            "included_at_epoch": 1588428935.837062,
+            "included_at_iso": "2020-05-02T14:15:35.837062",
+            "last_retested_at_epoch": 1588428935.837062,
+            "last_retested_at_iso": "2020-05-02T14:15:35.837062",
+            "status": "INACTIVE"
+        },
+        "de.supportxmr.com": {
+            "included_at_epoch": 1588428936.022516,
+            "included_at_iso": "2020-05-02T14:15:36.022516",
+            "last_retested_at_epoch": 1588428936.022516,
+            "last_retested_at_iso": "2020-05-02T14:15:36.022516",
+            "status": "INACTIVE"
+        },
+        "de.ultranote.org": {
+            "included_at_epoch": 1588428936.111184,
+            "included_at_iso": "2020-05-02T14:15:36.111184",
+            "last_retested_at_epoch": 1588428936.111184,
+            "last_retested_at_iso": "2020-05-02T14:15:36.111184",
+            "status": "INACTIVE"
+        },
+        "de01.beta.supportxmr.com": {
+            "included_at_epoch": 1588428936.224647,
+            "included_at_iso": "2020-05-02T14:15:36.224647",
+            "last_retested_at_epoch": 1588428936.224647,
+            "last_retested_at_iso": "2020-05-02T14:15:36.224647",
+            "status": "INACTIVE"
+        },
+        "de01.node.supportxmr.com": {
+            "included_at_epoch": 1588428936.321876,
+            "included_at_iso": "2020-05-02T14:15:36.321876",
+            "last_retested_at_epoch": 1588428936.321876,
+            "last_retested_at_iso": "2020-05-02T14:15:36.321876",
+            "status": "INACTIVE"
         }
     }
 }
