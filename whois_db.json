@@ -3464,6 +3464,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "btcmine.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "btcmp.com": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
@@ -3480,8 +3485,8 @@
         "state": "future"
     },
     "btcpmine.pro": {
-        "epoch": 1583020800.0,
-        "expiration_date": "01-mar-2020",
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "btcpool24.com": {
@@ -3500,8 +3505,8 @@
         "state": "future"
     },
     "btcprivate.pro": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
         "state": "future"
     },
     "btcprivatepool.club": {
@@ -3517,7 +3522,7 @@
     "btcwulf.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "btcz.app": {
         "epoch": 1694390400.0,
