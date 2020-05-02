@@ -51887,6 +51887,41 @@
             "last_retested_at_epoch": 1588458351.24498,
             "last_retested_at_iso": "2020-05-02T22:25:51.244980",
             "status": "INACTIVE"
+        },
+        "ella.1dig.pro": {
+            "included_at_epoch": 1588459069.882052,
+            "included_at_iso": "2020-05-02T22:37:49.882052",
+            "last_retested_at_epoch": 1588459069.882052,
+            "last_retested_at_iso": "2020-05-02T22:37:49.882052",
+            "status": "INACTIVE"
+        },
+        "ella.altpool.pro": {
+            "included_at_epoch": 1588459070.035558,
+            "included_at_iso": "2020-05-02T22:37:50.035558",
+            "last_retested_at_epoch": 1588459070.035558,
+            "last_retested_at_iso": "2020-05-02T22:37:50.035558",
+            "status": "INACTIVE"
+        },
+        "ella.anorak.tech": {
+            "included_at_epoch": 1588459070.158478,
+            "included_at_iso": "2020-05-02T22:37:50.158478",
+            "last_retested_at_epoch": 1588459070.158478,
+            "last_retested_at_iso": "2020-05-02T22:37:50.158478",
+            "status": "INACTIVE"
+        },
+        "ella.cryptobitpool.eu": {
+            "included_at_epoch": 1588459070.283931,
+            "included_at_iso": "2020-05-02T22:37:50.283931",
+            "last_retested_at_epoch": 1588459070.283931,
+            "last_retested_at_iso": "2020-05-02T22:37:50.283931",
+            "status": "INACTIVE"
+        },
+        "ella.cryptodig.ru": {
+            "included_at_epoch": 1588459070.388154,
+            "included_at_iso": "2020-05-02T22:37:50.388154",
+            "last_retested_at_epoch": 1588459070.388154,
+            "last_retested_at_iso": "2020-05-02T22:37:50.388154",
+            "status": "INACTIVE"
         }
     }
 }
