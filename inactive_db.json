@@ -50886,6 +50886,41 @@
             "last_retested_at_epoch": 1588451998.789398,
             "last_retested_at_iso": "2020-05-02T20:39:58.789398",
             "status": "INACTIVE"
+        },
+        "edekaberg.onlycash.ddns.net": {
+            "included_at_epoch": 1588453180.969883,
+            "included_at_iso": "2020-05-02T20:59:40.969883",
+            "last_retested_at_epoch": 1588453180.969883,
+            "last_retested_at_iso": "2020-05-02T20:59:40.969883",
+            "status": "INACTIVE"
+        },
+        "eden0521.onlycash.ddns.net": {
+            "included_at_epoch": 1588453180.842323,
+            "included_at_iso": "2020-05-02T20:59:40.842323",
+            "last_retested_at_epoch": 1588453180.842323,
+            "last_retested_at_iso": "2020-05-02T20:59:40.842323",
+            "status": "INACTIVE"
+        },
+        "edenrisecctv.onlycash.ddns.net": {
+            "included_at_epoch": 1588453181.073546,
+            "included_at_iso": "2020-05-02T20:59:41.073546",
+            "last_retested_at_epoch": 1588453181.073546,
+            "last_retested_at_iso": "2020-05-02T20:59:41.073546",
+            "status": "INACTIVE"
+        },
+        "edge.miningpool.thruhere.net": {
+            "included_at_epoch": 1588453181.192626,
+            "included_at_iso": "2020-05-02T20:59:41.192626",
+            "last_retested_at_epoch": 1588453181.192626,
+            "last_retested_at_iso": "2020-05-02T20:59:41.192626",
+            "status": "INACTIVE"
+        },
+        "edge.suchpool.pw": {
+            "included_at_epoch": 1588453181.298915,
+            "included_at_iso": "2020-05-02T20:59:41.298915",
+            "last_retested_at_epoch": 1588453181.298915,
+            "last_retested_at_iso": "2020-05-02T20:59:41.298915",
+            "status": "INACTIVE"
         }
     }
 }
