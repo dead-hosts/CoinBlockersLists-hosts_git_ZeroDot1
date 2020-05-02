@@ -51642,6 +51642,48 @@
             "last_retested_at_epoch": 1588456189.9253,
             "last_retested_at_iso": "2020-05-02T21:49:49.925300",
             "status": "INACTIVE"
+        },
+        "electroneum.miningspeed.com": {
+            "included_at_epoch": 1588456905.880706,
+            "included_at_iso": "2020-05-02T22:01:45.880706",
+            "last_retested_at_epoch": 1588456905.880706,
+            "last_retested_at_iso": "2020-05-02T22:01:45.880706",
+            "status": "INACTIVE"
+        },
+        "electroneum.nodes.hashvault.pro": {
+            "included_at_epoch": 1588456906.062431,
+            "included_at_iso": "2020-05-02T22:01:46.062431",
+            "last_retested_at_epoch": 1588456906.062431,
+            "last_retested_at_iso": "2020-05-02T22:01:46.062431",
+            "status": "INACTIVE"
+        },
+        "electroneum.quebec": {
+            "included_at_epoch": 1588456906.280628,
+            "included_at_iso": "2020-05-02T22:01:46.280628",
+            "last_retested_at_epoch": 1588456906.280628,
+            "last_retested_at_iso": "2020-05-02T22:01:46.280628",
+            "status": "INACTIVE"
+        },
+        "electroneum.riefly.id": {
+            "included_at_epoch": 1588456906.175144,
+            "included_at_iso": "2020-05-02T22:01:46.175144",
+            "last_retested_at_epoch": 1588456906.175144,
+            "last_retested_at_iso": "2020-05-02T22:01:46.175144",
+            "status": "INACTIVE"
+        },
+        "electroneum.uax.io": {
+            "included_at_epoch": 1588456906.385949,
+            "included_at_iso": "2020-05-02T22:01:46.385949",
+            "last_retested_at_epoch": 1588456906.385949,
+            "last_retested_at_iso": "2020-05-02T22:01:46.385949",
+            "status": "INACTIVE"
+        },
+        "electrotehnoconcept.evolution-project.go.ro": {
+            "included_at_epoch": 1588456906.533548,
+            "included_at_iso": "2020-05-02T22:01:46.533548",
+            "last_retested_at_epoch": 1588456906.533548,
+            "last_retested_at_iso": "2020-05-02T22:01:46.533548",
+            "status": "INACTIVE"
         }
     }
 }
