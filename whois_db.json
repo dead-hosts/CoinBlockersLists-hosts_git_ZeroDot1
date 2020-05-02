@@ -2530,8 +2530,8 @@
         "state": "future"
     },
     "betweenblocks.org": {
-        "epoch": 1583366400.0,
-        "expiration_date": "05-mar-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "bewaslac.com": {
@@ -2547,6 +2547,11 @@
     "bezoglasa.online": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
+        "state": "past"
+    },
+    "bfgminer.org": {
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "bhzejltg.info": {
@@ -2584,9 +2589,14 @@
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
+    "billiecoin.green": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
     "binance.associates": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "binance.auction": {
@@ -2595,8 +2605,8 @@
         "state": "future"
     },
     "binance.center": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "binance.click": {
@@ -2605,7 +2615,7 @@
         "state": "future"
     },
     "binance.com": {
-        "epoch": "1617235200",
+        "epoch": 1617235200.0,
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
@@ -2615,18 +2625,18 @@
         "state": "future"
     },
     "binance.directory": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "binance.enterprises": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "binance.express": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "binance.financial": {
@@ -2647,16 +2657,16 @@
     "binance.media": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "binance.tools": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "binance.ventures": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1592092800.0,
+        "expiration_date": "14-jun-2020",
         "state": "future"
     },
     "binancebch.com": {
@@ -2665,18 +2675,18 @@
         "state": "past"
     },
     "binancebtc.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "binancecash.com": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "binancesignin.com": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "binanceus.com": {
@@ -2697,11 +2707,16 @@
     "binm.xyz": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "binqg.xyz": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "bis-pool.io": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "bitaccess.co": {
@@ -2719,6 +2734,16 @@
         "expiration_date": "27-sep-2024",
         "state": "future"
     },
+    "bitcanna.io": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "bitclockers.com": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "bitclub.network": {
         "epoch": 1639612800.0,
         "expiration_date": "16-dec-2021",
@@ -2730,8 +2755,8 @@
         "state": "future"
     },
     "bitclubpool.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
         "state": "future"
     },
     "bitcoad.fun": {
@@ -2740,8 +2765,8 @@
         "state": "past"
     },
     "bitcoal.io": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "bitcoin-doubler.us": {
@@ -2765,14 +2790,14 @@
         "state": "future"
     },
     "bitcoin-russia.ru": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
         "state": "future"
     },
     "bitcoin-ukraine.com.ua": {
         "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bitcoin.com": {
         "epoch": 1641254400.0,
@@ -2782,6 +2807,11 @@
     "bitcoin.cz": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "bitcoin.it": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "bitcoinaffiliatenetwork.com": {
@@ -2814,9 +2844,19 @@
         "expiration_date": "13-dec-2020",
         "state": "future"
     },
+    "bitcoinlatina.org": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "bitcoinmonkey.com": {
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
+        "state": "future"
+    },
     "bitcoinmono.io": {
-        "epoch": 1581292800.0,
-        "expiration_date": "10-feb-2020",
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "bitcoinn.biz": {
