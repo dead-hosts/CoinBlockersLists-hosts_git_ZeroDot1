@@ -46028,6 +46028,83 @@
             "last_retested_at_epoch": 1588433257.521373,
             "last_retested_at_iso": "2020-05-02T15:27:37.521373",
             "status": "INACTIVE"
+        },
+        "dev.viabtc.com": {
+            "included_at_epoch": 1588433971.819465,
+            "included_at_iso": "2020-05-02T15:39:31.819465",
+            "last_retested_at_epoch": 1588433971.819465,
+            "last_retested_at_iso": "2020-05-02T15:39:31.819465",
+            "status": "INACTIVE"
+        },
+        "dev.xhash.net": {
+            "included_at_epoch": 1588433972.047427,
+            "included_at_iso": "2020-05-02T15:39:32.047427",
+            "last_retested_at_epoch": 1588433972.047427,
+            "last_retested_at_iso": "2020-05-02T15:39:32.047427",
+            "status": "INACTIVE"
+        },
+        "dev.xmr.to": {
+            "included_at_epoch": 1588433971.954667,
+            "included_at_iso": "2020-05-02T15:39:31.954667",
+            "last_retested_at_epoch": 1588433971.954667,
+            "last_retested_at_iso": "2020-05-02T15:39:31.954667",
+            "status": "INACTIVE"
+        },
+        "dev1.gntl.co.uk": {
+            "included_at_epoch": 1588433972.18199,
+            "included_at_iso": "2020-05-02T15:39:32.181990",
+            "last_retested_at_epoch": 1588433972.18199,
+            "last_retested_at_iso": "2020-05-02T15:39:32.181990",
+            "status": "INACTIVE"
+        },
+        "dev1212.poolin.com": {
+            "included_at_epoch": 1588433972.309715,
+            "included_at_iso": "2020-05-02T15:39:32.309715",
+            "last_retested_at_epoch": 1588433972.309715,
+            "last_retested_at_iso": "2020-05-02T15:39:32.309715",
+            "status": "INACTIVE"
+        },
+        "dev2.gntl.co.uk": {
+            "included_at_epoch": 1588433972.402127,
+            "included_at_iso": "2020-05-02T15:39:32.402127",
+            "last_retested_at_epoch": 1588433972.402127,
+            "last_retested_at_iso": "2020-05-02T15:39:32.402127",
+            "status": "INACTIVE"
+        },
+        "dev2.minertopia.org": {
+            "included_at_epoch": 1588433972.502475,
+            "included_at_iso": "2020-05-02T15:39:32.502475",
+            "last_retested_at_epoch": 1588433972.502475,
+            "last_retested_at_iso": "2020-05-02T15:39:32.502475",
+            "status": "INACTIVE"
+        },
+        "dev3.gntl.co.uk": {
+            "included_at_epoch": 1588433972.595768,
+            "included_at_iso": "2020-05-02T15:39:32.595768",
+            "last_retested_at_epoch": 1588433972.595768,
+            "last_retested_at_iso": "2020-05-02T15:39:32.595768",
+            "status": "INACTIVE"
+        },
+        "dev8.cryptomininggame.com": {
+            "included_at_epoch": 1588433972.778964,
+            "included_at_iso": "2020-05-02T15:39:32.778964",
+            "last_retested_at_epoch": 1588433972.778964,
+            "last_retested_at_iso": "2020-05-02T15:39:32.778964",
+            "status": "INACTIVE"
+        },
+        "devazure.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588433972.872694,
+            "included_at_iso": "2020-05-02T15:39:32.872694",
+            "last_retested_at_epoch": 1588433972.872694,
+            "last_retested_at_iso": "2020-05-02T15:39:32.872694",
+            "status": "INACTIVE"
+        },
+        "devbuilds.connectbtc.com": {
+            "included_at_epoch": 1588433972.981543,
+            "included_at_iso": "2020-05-02T15:39:32.981543",
+            "last_retested_at_epoch": 1588433972.981543,
+            "last_retested_at_iso": "2020-05-02T15:39:32.981543",
+            "status": "INACTIVE"
         }
     }
 }
