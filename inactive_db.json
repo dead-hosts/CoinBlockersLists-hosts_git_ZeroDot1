@@ -47855,6 +47855,48 @@
             "last_retested_at_epoch": 1588440448.768245,
             "last_retested_at_iso": "2020-05-02T17:27:28.768245",
             "status": "INACTIVE"
+        },
+        "dnsseed.btcprivate.org": {
+            "included_at_epoch": 1588441165.437732,
+            "included_at_iso": "2020-05-02T17:39:25.437732",
+            "last_retested_at_epoch": 1588441165.437732,
+            "last_retested_at_iso": "2020-05-02T17:39:25.437732",
+            "status": "INACTIVE"
+        },
+        "dnsseed.darkcoin.io": {
+            "included_at_epoch": 1588441165.561102,
+            "included_at_iso": "2020-05-02T17:39:25.561102",
+            "last_retested_at_epoch": 1588441165.561102,
+            "last_retested_at_iso": "2020-05-02T17:39:25.561102",
+            "status": "INACTIVE"
+        },
+        "dnsseed.gridcoin.us": {
+            "included_at_epoch": 1588441165.656241,
+            "included_at_iso": "2020-05-02T17:39:25.656241",
+            "last_retested_at_epoch": 1588441165.656241,
+            "last_retested_at_iso": "2020-05-02T17:39:25.656241",
+            "status": "INACTIVE"
+        },
+        "dnsseed.guardcoin.trade": {
+            "included_at_epoch": 1588441165.751068,
+            "included_at_iso": "2020-05-02T17:39:25.751068",
+            "last_retested_at_epoch": 1588441165.751068,
+            "last_retested_at_iso": "2020-05-02T17:39:25.751068",
+            "status": "INACTIVE"
+        },
+        "dnsseed.node.gridcoin.us": {
+            "included_at_epoch": 1588441165.88414,
+            "included_at_iso": "2020-05-02T17:39:25.884140",
+            "last_retested_at_epoch": 1588441165.88414,
+            "last_retested_at_iso": "2020-05-02T17:39:25.884140",
+            "status": "INACTIVE"
+        },
+        "dnsseed.novaco.in": {
+            "included_at_epoch": 1588441165.998798,
+            "included_at_iso": "2020-05-02T17:39:25.998798",
+            "last_retested_at_epoch": 1588441165.998798,
+            "last_retested_at_iso": "2020-05-02T17:39:25.998798",
+            "status": "INACTIVE"
         }
     }
 }

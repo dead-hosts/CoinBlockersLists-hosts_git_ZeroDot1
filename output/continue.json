@@ -6002,7 +6002,17 @@
             "dns3.node.hiveon.net",
             "dns4.biblepay.org",
             "dns3.vip69.ru",
-            "dns4.vip69.ru"
+            "dns4.vip69.ru",
+            "dnsseed.bluematt.me",
+            "dnsseed.advtech.group",
+            "dnsseed.btcc.com",
+            "dnsseed.cpuchain.org",
+            "dnsseed.italocoin.com",
+            "dnsseed.humanscoin.org",
+            "dnsseed.kipcoin.org",
+            "dnsseed.litecoinpool.org",
+            "dnsseed.minesum.com",
+            "dnsseed.omegapool.cc"
         ],
         "INACTIVE": [
             "0-219215.btcc.com",
@@ -12770,7 +12780,13 @@
             "dns982478596.coinpoolit.webhop.me",
             "dnsadmin.bluematt.me",
             "dnslookup.onlycash.ddns.net",
-            "dnsseed-rapid.superpool.win"
+            "dnsseed-rapid.superpool.win",
+            "dnsseed.btcprivate.org",
+            "dnsseed.darkcoin.io",
+            "dnsseed.gridcoin.us",
+            "dnsseed.guardcoin.trade",
+            "dnsseed.node.gridcoin.us",
+            "dnsseed.novaco.in"
         ],
         "INVALID": [
             "POOL.moneropool.com"
