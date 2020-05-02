@@ -52531,6 +52531,118 @@
             "last_retested_at_epoch": 1588461217.811298,
             "last_retested_at_iso": "2020-05-02T23:13:37.811298",
             "status": "INACTIVE"
+        },
+        "en.xla.cryptopool.space": {
+            "included_at_epoch": 1588461953.235238,
+            "included_at_iso": "2020-05-02T23:25:53.235238",
+            "last_retested_at_epoch": 1588461953.235238,
+            "last_retested_at_iso": "2020-05-02T23:25:53.235238",
+            "status": "INACTIVE"
+        },
+        "enc.aikapool.com": {
+            "included_at_epoch": 1588461953.383574,
+            "included_at_iso": "2020-05-02T23:25:53.383574",
+            "last_retested_at_epoch": 1588461953.383574,
+            "last_retested_at_iso": "2020-05-02T23:25:53.383574",
+            "status": "INACTIVE"
+        },
+        "enc.coin-miners.info": {
+            "included_at_epoch": 1588461953.490976,
+            "included_at_iso": "2020-05-02T23:25:53.490976",
+            "last_retested_at_epoch": 1588461953.490976,
+            "last_retested_at_iso": "2020-05-02T23:25:53.490976",
+            "status": "INACTIVE"
+        },
+        "enc.hashlink.eu": {
+            "included_at_epoch": 1588461953.715014,
+            "included_at_iso": "2020-05-02T23:25:53.715014",
+            "last_retested_at_epoch": 1588461953.715014,
+            "last_retested_at_iso": "2020-05-02T23:25:53.715014",
+            "status": "INACTIVE"
+        },
+        "enc.node.coin-miners.info": {
+            "included_at_epoch": 1588461953.607368,
+            "included_at_iso": "2020-05-02T23:25:53.607368",
+            "last_retested_at_epoch": 1588461953.607368,
+            "last_retested_at_iso": "2020-05-02T23:25:53.607368",
+            "status": "INACTIVE"
+        },
+        "enc.suprnova.cc": {
+            "included_at_epoch": 1588461953.927702,
+            "included_at_iso": "2020-05-02T23:25:53.927702",
+            "last_retested_at_epoch": 1588461953.927702,
+            "last_retested_at_iso": "2020-05-02T23:25:53.927702",
+            "status": "INACTIVE"
+        },
+        "enco.pickaxe.pro": {
+            "included_at_epoch": 1588461953.821331,
+            "included_at_iso": "2020-05-02T23:25:53.821331",
+            "last_retested_at_epoch": 1588461953.821331,
+            "last_retested_at_iso": "2020-05-02T23:25:53.821331",
+            "status": "INACTIVE"
+        },
+        "encon.evolution-project.go.ro": {
+            "included_at_epoch": 1588461954.034102,
+            "included_at_iso": "2020-05-02T23:25:54.034102",
+            "last_retested_at_epoch": 1588461954.034102,
+            "last_retested_at_iso": "2020-05-02T23:25:54.034102",
+            "status": "INACTIVE"
+        },
+        "ene.suprnova.cc": {
+            "included_at_epoch": 1588461954.174111,
+            "included_at_iso": "2020-05-02T23:25:54.174111",
+            "last_retested_at_epoch": 1588461954.174111,
+            "last_retested_at_iso": "2020-05-02T23:25:54.174111",
+            "status": "INACTIVE"
+        },
+        "ener.evolution-project.go.ro": {
+            "included_at_epoch": 1588461954.291657,
+            "included_at_iso": "2020-05-02T23:25:54.291657",
+            "last_retested_at_epoch": 1588461954.291657,
+            "last_retested_at_iso": "2020-05-02T23:25:54.291657",
+            "status": "INACTIVE"
+        },
+        "energi.ahash.ru": {
+            "included_at_epoch": 1588461954.409634,
+            "included_at_iso": "2020-05-02T23:25:54.409634",
+            "last_retested_at_epoch": 1588461954.409634,
+            "last_retested_at_iso": "2020-05-02T23:25:54.409634",
+            "status": "INACTIVE"
+        },
+        "energi.minecrypto.pro": {
+            "included_at_epoch": 1588461954.51897,
+            "included_at_iso": "2020-05-02T23:25:54.518970",
+            "last_retested_at_epoch": 1588461954.51897,
+            "last_retested_at_iso": "2020-05-02T23:25:54.518970",
+            "status": "INACTIVE"
+        },
+        "energo.evolution-project.go.ro": {
+            "included_at_epoch": 1588461954.626501,
+            "included_at_iso": "2020-05-02T23:25:54.626501",
+            "last_retested_at_epoch": 1588461954.626501,
+            "last_retested_at_iso": "2020-05-02T23:25:54.626501",
+            "status": "INACTIVE"
+        },
+        "energycarserv.evolution-project.go.ro": {
+            "included_at_epoch": 1588461954.734828,
+            "included_at_iso": "2020-05-02T23:25:54.734828",
+            "last_retested_at_epoch": 1588461954.734828,
+            "last_retested_at_iso": "2020-05-02T23:25:54.734828",
+            "status": "INACTIVE"
+        },
+        "energyzone.evolution-project.go.ro": {
+            "included_at_epoch": 1588461954.952014,
+            "included_at_iso": "2020-05-02T23:25:54.952014",
+            "last_retested_at_epoch": 1588461954.952014,
+            "last_retested_at_iso": "2020-05-02T23:25:54.952014",
+            "status": "INACTIVE"
+        },
+        "eng.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588461954.842086,
+            "included_at_iso": "2020-05-02T23:25:54.842086",
+            "last_retested_at_epoch": 1588461954.842086,
+            "last_retested_at_iso": "2020-05-02T23:25:54.842086",
+            "status": "INACTIVE"
         }
     }
 }
