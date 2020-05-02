@@ -5694,6 +5694,11 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "easticoin.io": {
+        "epoch": 1676937600.0,
+        "expiration_date": "21-feb-2023",
+        "state": "future"
+    },
     "easticoin.org": {
         "epoch": 1676937600.0,
         "expiration_date": "21-feb-2023",
@@ -5715,8 +5720,8 @@
         "state": "future"
     },
     "easyhash.pro": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1614038400.0,
+        "expiration_date": "23-feb-2021",
         "state": "future"
     },
     "echo-terminal.org": {
