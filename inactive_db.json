@@ -51145,6 +51145,41 @@
             "last_retested_at_epoch": 1588454006.841351,
             "last_retested_at_iso": "2020-05-02T21:13:26.841351",
             "status": "INACTIVE"
+        },
+        "egem.crazypool.org": {
+            "included_at_epoch": 1588454733.371193,
+            "included_at_iso": "2020-05-02T21:25:33.371193",
+            "last_retested_at_epoch": 1588454733.371193,
+            "last_retested_at_iso": "2020-05-02T21:25:33.371193",
+            "status": "INACTIVE"
+        },
+        "egem.cryptobitpool.eu": {
+            "included_at_epoch": 1588454733.243082,
+            "included_at_iso": "2020-05-02T21:25:33.243082",
+            "last_retested_at_epoch": 1588454733.243082,
+            "last_retested_at_iso": "2020-05-02T21:25:33.243082",
+            "status": "INACTIVE"
+        },
+        "egem.cubepool.eu": {
+            "included_at_epoch": 1588454733.475074,
+            "included_at_iso": "2020-05-02T21:25:33.475074",
+            "last_retested_at_epoch": 1588454733.475074,
+            "last_retested_at_iso": "2020-05-02T21:25:33.475074",
+            "status": "INACTIVE"
+        },
+        "egem.cubepool.tk": {
+            "included_at_epoch": 1588454733.578807,
+            "included_at_iso": "2020-05-02T21:25:33.578807",
+            "last_retested_at_epoch": 1588454733.578807,
+            "last_retested_at_iso": "2020-05-02T21:25:33.578807",
+            "status": "INACTIVE"
+        },
+        "egem.dgpool.ru": {
+            "included_at_epoch": 1588454733.694623,
+            "included_at_iso": "2020-05-02T21:25:33.694623",
+            "last_retested_at_epoch": 1588454733.694623,
+            "last_retested_at_iso": "2020-05-02T21:25:33.694623",
+            "status": "INACTIVE"
         }
     }
 }
