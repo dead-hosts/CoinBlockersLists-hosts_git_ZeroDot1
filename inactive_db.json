@@ -29886,6 +29886,573 @@
             "last_retested_at_epoch": 1588391334.083613,
             "last_retested_at_iso": "2020-05-02T03:48:54.083613",
             "status": "INACTIVE"
+        },
+        "btcz-eu.coinblockers.com": {
+            "included_at_epoch": 1588392869.340229,
+            "included_at_iso": "2020-05-02T04:14:29.340229",
+            "last_retested_at_epoch": 1588392869.340229,
+            "last_retested_at_iso": "2020-05-02T04:14:29.340229",
+            "status": "INACTIVE"
+        },
+        "btcz-eu1.mineflowpool.pl": {
+            "included_at_epoch": 1588392869.417289,
+            "included_at_iso": "2020-05-02T04:14:29.417289",
+            "last_retested_at_epoch": 1588392869.417289,
+            "last_retested_at_iso": "2020-05-02T04:14:29.417289",
+            "status": "INACTIVE"
+        },
+        "btcz-na.equipool.equipool.1ds.us": {
+            "included_at_epoch": 1588392869.478461,
+            "included_at_iso": "2020-05-02T04:14:29.478461",
+            "last_retested_at_epoch": 1588392869.478461,
+            "last_retested_at_iso": "2020-05-02T04:14:29.478461",
+            "status": "INACTIVE"
+        },
+        "btcz-us.coinblockers.com": {
+            "included_at_epoch": 1588392869.605128,
+            "included_at_iso": "2020-05-02T04:14:29.605128",
+            "last_retested_at_epoch": 1588392869.605128,
+            "last_retested_at_iso": "2020-05-02T04:14:29.605128",
+            "status": "INACTIVE"
+        },
+        "btcz.1ds.us": {
+            "included_at_epoch": 1588392869.544973,
+            "included_at_iso": "2020-05-02T04:14:29.544973",
+            "last_retested_at_epoch": 1588392869.544973,
+            "last_retested_at_iso": "2020-05-02T04:14:29.544973",
+            "status": "INACTIVE"
+        },
+        "btcz.4miner.me": {
+            "included_at_epoch": 1588392869.685607,
+            "included_at_iso": "2020-05-02T04:14:29.685607",
+            "last_retested_at_epoch": 1588392869.685607,
+            "last_retested_at_iso": "2020-05-02T04:14:29.685607",
+            "status": "INACTIVE"
+        },
+        "btcz.basementpool.org": {
+            "included_at_epoch": 1588392869.780496,
+            "included_at_iso": "2020-05-02T04:14:29.780496",
+            "last_retested_at_epoch": 1588392869.780496,
+            "last_retested_at_iso": "2020-05-02T04:14:29.780496",
+            "status": "INACTIVE"
+        },
+        "btcz.bitpool.ro": {
+            "included_at_epoch": 1588392869.840067,
+            "included_at_iso": "2020-05-02T04:14:29.840067",
+            "last_retested_at_epoch": 1588392869.840067,
+            "last_retested_at_iso": "2020-05-02T04:14:29.840067",
+            "status": "INACTIVE"
+        },
+        "btcz.city": {
+            "included_at_epoch": 1588392869.90039,
+            "included_at_iso": "2020-05-02T04:14:29.900390",
+            "last_retested_at_epoch": 1588392869.90039,
+            "last_retested_at_iso": "2020-05-02T04:14:29.900390",
+            "status": "INACTIVE"
+        },
+        "btcz.cloneempirecryptomining.com": {
+            "included_at_epoch": 1588392869.960011,
+            "included_at_iso": "2020-05-02T04:14:29.960011",
+            "last_retested_at_epoch": 1588392869.960011,
+            "last_retested_at_iso": "2020-05-02T04:14:29.960011",
+            "status": "INACTIVE"
+        },
+        "btcz.coinblockers.com": {
+            "included_at_epoch": 1588392870.08004,
+            "included_at_iso": "2020-05-02T04:14:30.080040",
+            "last_retested_at_epoch": 1588392870.08004,
+            "last_retested_at_iso": "2020-05-02T04:14:30.080040",
+            "status": "INACTIVE"
+        },
+        "btcz.coinstop.me": {
+            "included_at_epoch": 1588392870.020474,
+            "included_at_iso": "2020-05-02T04:14:30.020474",
+            "last_retested_at_epoch": 1588392870.020474,
+            "last_retested_at_iso": "2020-05-02T04:14:30.020474",
+            "status": "INACTIVE"
+        },
+        "btcz.dev.2miners.com": {
+            "included_at_epoch": 1588392870.140033,
+            "included_at_iso": "2020-05-02T04:14:30.140033",
+            "last_retested_at_epoch": 1588392870.140033,
+            "last_retested_at_iso": "2020-05-02T04:14:30.140033",
+            "status": "INACTIVE"
+        },
+        "btcz.ehashcoins.org": {
+            "included_at_epoch": 1588392870.199812,
+            "included_at_iso": "2020-05-02T04:14:30.199812",
+            "last_retested_at_epoch": 1588392870.199812,
+            "last_retested_at_iso": "2020-05-02T04:14:30.199812",
+            "status": "INACTIVE"
+        },
+        "btcz.equipool.1ds.us": {
+            "included_at_epoch": 1588392870.259327,
+            "included_at_iso": "2020-05-02T04:14:30.259327",
+            "last_retested_at_epoch": 1588392870.259327,
+            "last_retested_at_iso": "2020-05-02T04:14:30.259327",
+            "status": "INACTIVE"
+        },
+        "btcz.mine-vn.com": {
+            "included_at_epoch": 1588392870.325084,
+            "included_at_iso": "2020-05-02T04:14:30.325084",
+            "last_retested_at_epoch": 1588392870.325084,
+            "last_retested_at_iso": "2020-05-02T04:14:30.325084",
+            "status": "INACTIVE"
+        },
+        "btcz.minepool.ch": {
+            "included_at_epoch": 1588392870.385649,
+            "included_at_iso": "2020-05-02T04:14:30.385649",
+            "last_retested_at_epoch": 1588392870.385649,
+            "last_retested_at_iso": "2020-05-02T04:14:30.385649",
+            "status": "INACTIVE"
+        },
+        "btcz.minepool.hu": {
+            "included_at_epoch": 1588392870.446112,
+            "included_at_iso": "2020-05-02T04:14:30.446112",
+            "last_retested_at_epoch": 1588392870.446112,
+            "last_retested_at_iso": "2020-05-02T04:14:30.446112",
+            "status": "INACTIVE"
+        },
+        "btcz.minertopia.org": {
+            "included_at_epoch": 1588392870.506334,
+            "included_at_iso": "2020-05-02T04:14:30.506334",
+            "last_retested_at_epoch": 1588392870.506334,
+            "last_retested_at_iso": "2020-05-02T04:14:30.506334",
+            "status": "INACTIVE"
+        },
+        "btcz.pickaxe.pro": {
+            "included_at_epoch": 1588392870.589289,
+            "included_at_iso": "2020-05-02T04:14:30.589289",
+            "last_retested_at_epoch": 1588392870.589289,
+            "last_retested_at_iso": "2020-05-02T04:14:30.589289",
+            "status": "INACTIVE"
+        },
+        "btcz.poolmate.online": {
+            "included_at_epoch": 1588392870.655848,
+            "included_at_iso": "2020-05-02T04:14:30.655848",
+            "last_retested_at_epoch": 1588392870.655848,
+            "last_retested_at_iso": "2020-05-02T04:14:30.655848",
+            "status": "INACTIVE"
+        },
+        "btcz.ragnarpool.ovh": {
+            "included_at_epoch": 1588392870.715917,
+            "included_at_iso": "2020-05-02T04:14:30.715917",
+            "last_retested_at_epoch": 1588392870.715917,
+            "last_retested_at_iso": "2020-05-02T04:14:30.715917",
+            "status": "INACTIVE"
+        },
+        "btcz.wfmpools.com": {
+            "included_at_epoch": 1588392870.849681,
+            "included_at_iso": "2020-05-02T04:14:30.849681",
+            "last_retested_at_epoch": 1588392870.849681,
+            "last_retested_at_iso": "2020-05-02T04:14:30.849681",
+            "status": "INACTIVE"
+        },
+        "btcz.zellabs.net": {
+            "included_at_epoch": 1588392870.788315,
+            "included_at_iso": "2020-05-02T04:14:30.788315",
+            "last_retested_at_epoch": 1588392870.788315,
+            "last_retested_at_iso": "2020-05-02T04:14:30.788315",
+            "status": "INACTIVE"
+        },
+        "btd.coin-miners.info": {
+            "included_at_epoch": 1588392870.938686,
+            "included_at_iso": "2020-05-02T04:14:30.938686",
+            "last_retested_at_epoch": 1588392870.938686,
+            "last_retested_at_iso": "2020-05-02T04:14:30.938686",
+            "status": "INACTIVE"
+        },
+        "btd.node.coin-miners.info": {
+            "included_at_epoch": 1588392870.99867,
+            "included_at_iso": "2020-05-02T04:14:30.998670",
+            "last_retested_at_epoch": 1588392870.99867,
+            "last_retested_at_iso": "2020-05-02T04:14:30.998670",
+            "status": "INACTIVE"
+        },
+        "bte.dsync.net": {
+            "included_at_epoch": 1588392871.064321,
+            "included_at_iso": "2020-05-02T04:14:31.064321",
+            "last_retested_at_epoch": 1588392871.064321,
+            "last_retested_at_iso": "2020-05-02T04:14:31.064321",
+            "status": "INACTIVE"
+        },
+        "btg-api-2.suprnova.cc": {
+            "included_at_epoch": 1588392871.130365,
+            "included_at_iso": "2020-05-02T04:14:31.130365",
+            "last_retested_at_epoch": 1588392871.130365,
+            "last_retested_at_iso": "2020-05-02T04:14:31.130365",
+            "status": "INACTIVE"
+        },
+        "btg-asia.cryptopros.us": {
+            "included_at_epoch": 1588392871.208245,
+            "included_at_iso": "2020-05-02T04:14:31.208245",
+            "last_retested_at_epoch": 1588392871.208245,
+            "last_retested_at_iso": "2020-05-02T04:14:31.208245",
+            "status": "INACTIVE"
+        },
+        "btg-cn.zhash.pro": {
+            "included_at_epoch": 1588392871.268188,
+            "included_at_iso": "2020-05-02T04:14:31.268188",
+            "last_retested_at_epoch": 1588392871.268188,
+            "last_retested_at_iso": "2020-05-02T04:14:31.268188",
+            "status": "INACTIVE"
+        },
+        "btg-eu.cryptopros.us": {
+            "included_at_epoch": 1588392871.327799,
+            "included_at_iso": "2020-05-02T04:14:31.327799",
+            "last_retested_at_epoch": 1588392871.327799,
+            "last_retested_at_iso": "2020-05-02T04:14:31.327799",
+            "status": "INACTIVE"
+        },
+        "btg-tw.gpumine.org": {
+            "included_at_epoch": 1588392871.405907,
+            "included_at_iso": "2020-05-02T04:14:31.405907",
+            "last_retested_at_epoch": 1588392871.405907,
+            "last_retested_at_iso": "2020-05-02T04:14:31.405907",
+            "status": "INACTIVE"
+        },
+        "btg.4miner.me": {
+            "included_at_epoch": 1588392871.483184,
+            "included_at_iso": "2020-05-02T04:14:31.483184",
+            "last_retested_at_epoch": 1588392871.483184,
+            "last_retested_at_iso": "2020-05-02T04:14:31.483184",
+            "status": "INACTIVE"
+        },
+        "btg.bcmonster.com": {
+            "included_at_epoch": 1588392871.560304,
+            "included_at_iso": "2020-05-02T04:14:31.560304",
+            "last_retested_at_epoch": 1588392871.560304,
+            "last_retested_at_iso": "2020-05-02T04:14:31.560304",
+            "status": "INACTIVE"
+        },
+        "btg.beepool.org": {
+            "included_at_epoch": 1588392871.620473,
+            "included_at_iso": "2020-05-02T04:14:31.620473",
+            "last_retested_at_epoch": 1588392871.620473,
+            "last_retested_at_iso": "2020-05-02T04:14:31.620473",
+            "status": "INACTIVE"
+        },
+        "btg.bitpool.ro": {
+            "included_at_epoch": 1588392871.6868,
+            "included_at_iso": "2020-05-02T04:14:31.686800",
+            "last_retested_at_epoch": 1588392871.6868,
+            "last_retested_at_iso": "2020-05-02T04:14:31.686800",
+            "status": "INACTIVE"
+        },
+        "btg.cloudpools.net": {
+            "included_at_epoch": 1588392871.753699,
+            "included_at_iso": "2020-05-02T04:14:31.753699",
+            "last_retested_at_epoch": 1588392871.753699,
+            "last_retested_at_iso": "2020-05-02T04:14:31.753699",
+            "status": "INACTIVE"
+        },
+        "btg.cryptopools.com": {
+            "included_at_epoch": 1588392871.813951,
+            "included_at_iso": "2020-05-02T04:14:31.813951",
+            "last_retested_at_epoch": 1588392871.813951,
+            "last_retested_at_iso": "2020-05-02T04:14:31.813951",
+            "status": "INACTIVE"
+        },
+        "btg.dev.2miners.com": {
+            "included_at_epoch": 1588392871.885161,
+            "included_at_iso": "2020-05-02T04:14:31.885161",
+            "last_retested_at_epoch": 1588392871.885161,
+            "last_retested_at_iso": "2020-05-02T04:14:31.885161",
+            "status": "INACTIVE"
+        },
+        "btg.dnsseed.minertopia.org": {
+            "included_at_epoch": 1588392872.006084,
+            "included_at_iso": "2020-05-02T04:14:32.006084",
+            "last_retested_at_epoch": 1588392872.006084,
+            "last_retested_at_iso": "2020-05-02T04:14:32.006084",
+            "status": "INACTIVE"
+        },
+        "btg.eqpool.cash": {
+            "included_at_epoch": 1588392871.945623,
+            "included_at_iso": "2020-05-02T04:14:31.945623",
+            "last_retested_at_epoch": 1588392871.945623,
+            "last_retested_at_iso": "2020-05-02T04:14:31.945623",
+            "status": "INACTIVE"
+        },
+        "btg.equihash.pro": {
+            "included_at_epoch": 1588392872.066083,
+            "included_at_iso": "2020-05-02T04:14:32.066083",
+            "last_retested_at_epoch": 1588392872.066083,
+            "last_retested_at_iso": "2020-05-02T04:14:32.066083",
+            "status": "INACTIVE"
+        },
+        "btg.goldenshow.io": {
+            "included_at_epoch": 1588392872.132486,
+            "included_at_iso": "2020-05-02T04:14:32.132486",
+            "last_retested_at_epoch": 1588392872.132486,
+            "last_retested_at_iso": "2020-05-02T04:14:32.132486",
+            "status": "INACTIVE"
+        },
+        "btg.gpumine.org": {
+            "included_at_epoch": 1588392872.19891,
+            "included_at_iso": "2020-05-02T04:14:32.198910",
+            "last_retested_at_epoch": 1588392872.19891,
+            "last_retested_at_iso": "2020-05-02T04:14:32.198910",
+            "status": "INACTIVE"
+        },
+        "btg.happy2mine.com": {
+            "included_at_epoch": 1588392872.260005,
+            "included_at_iso": "2020-05-02T04:14:32.260005",
+            "last_retested_at_epoch": 1588392872.260005,
+            "last_retested_at_iso": "2020-05-02T04:14:32.260005",
+            "status": "INACTIVE"
+        },
+        "btg.lucky-mining.com.ua": {
+            "included_at_epoch": 1588392872.321305,
+            "included_at_iso": "2020-05-02T04:14:32.321305",
+            "last_retested_at_epoch": 1588392872.321305,
+            "last_retested_at_iso": "2020-05-02T04:14:32.321305",
+            "status": "INACTIVE"
+        },
+        "btg.mine-vn.com": {
+            "included_at_epoch": 1588392872.388424,
+            "included_at_iso": "2020-05-02T04:14:32.388424",
+            "last_retested_at_epoch": 1588392872.388424,
+            "last_retested_at_iso": "2020-05-02T04:14:32.388424",
+            "status": "INACTIVE"
+        },
+        "btg.minepool.hu": {
+            "included_at_epoch": 1588392872.449168,
+            "included_at_iso": "2020-05-02T04:14:32.449168",
+            "last_retested_at_epoch": 1588392872.449168,
+            "last_retested_at_iso": "2020-05-02T04:14:32.449168",
+            "status": "INACTIVE"
+        },
+        "btg.minertopia.org": {
+            "included_at_epoch": 1588392872.527789,
+            "included_at_iso": "2020-05-02T04:14:32.527789",
+            "last_retested_at_epoch": 1588392872.527789,
+            "last_retested_at_iso": "2020-05-02T04:14:32.527789",
+            "status": "INACTIVE"
+        },
+        "btg.multipool.es": {
+            "included_at_epoch": 1588392872.594292,
+            "included_at_iso": "2020-05-02T04:14:32.594292",
+            "last_retested_at_epoch": 1588392872.594292,
+            "last_retested_at_iso": "2020-05-02T04:14:32.594292",
+            "status": "INACTIVE"
+        },
+        "btg.pool.sexy": {
+            "included_at_epoch": 1588392872.678638,
+            "included_at_iso": "2020-05-02T04:14:32.678638",
+            "last_retested_at_epoch": 1588392872.678638,
+            "last_retested_at_iso": "2020-05-02T04:14:32.678638",
+            "status": "INACTIVE"
+        },
+        "btg.prod.2miners.com": {
+            "included_at_epoch": 1588392872.74509,
+            "included_at_iso": "2020-05-02T04:14:32.745090",
+            "last_retested_at_epoch": 1588392872.74509,
+            "last_retested_at_iso": "2020-05-02T04:14:32.745090",
+            "status": "INACTIVE"
+        },
+        "btg.rubypool.com": {
+            "included_at_epoch": 1588392872.812187,
+            "included_at_iso": "2020-05-02T04:14:32.812187",
+            "last_retested_at_epoch": 1588392872.812187,
+            "last_retested_at_iso": "2020-05-02T04:14:32.812187",
+            "status": "INACTIVE"
+        },
+        "btg.uax.io": {
+            "included_at_epoch": 1588392872.885226,
+            "included_at_iso": "2020-05-02T04:14:32.885226",
+            "last_retested_at_epoch": 1588392872.885226,
+            "last_retested_at_iso": "2020-05-02T04:14:32.885226",
+            "status": "INACTIVE"
+        },
+        "btg_cn.happy2mine.com": {
+            "included_at_epoch": 1588392872.972393,
+            "included_at_iso": "2020-05-02T04:14:32.972393",
+            "last_retested_at_epoch": 1588392872.972393,
+            "last_retested_at_iso": "2020-05-02T04:14:32.972393",
+            "status": "INACTIVE"
+        },
+        "btg_en.happy2mine.com": {
+            "included_at_epoch": 1588392873.034545,
+            "included_at_iso": "2020-05-02T04:14:33.034545",
+            "last_retested_at_epoch": 1588392873.034545,
+            "last_retested_at_iso": "2020-05-02T04:14:33.034545",
+            "status": "INACTIVE"
+        },
+        "btg_tw.happy2mine.com": {
+            "included_at_epoch": 1588392873.096895,
+            "included_at_iso": "2020-05-02T04:14:33.096895",
+            "last_retested_at_epoch": 1588392873.096895,
+            "last_retested_at_iso": "2020-05-02T04:14:33.096895",
+            "status": "INACTIVE"
+        },
+        "btgcn.happy2mine.com": {
+            "included_at_epoch": 1588392873.158756,
+            "included_at_iso": "2020-05-02T04:14:33.158756",
+            "last_retested_at_epoch": 1588392873.158756,
+            "last_retested_at_iso": "2020-05-02T04:14:33.158756",
+            "status": "INACTIVE"
+        },
+        "btgirl.com.cn": {
+            "included_at_epoch": 1588392873.227018,
+            "included_at_iso": "2020-05-02T04:14:33.227018",
+            "last_retested_at_epoch": 1588392873.227018,
+            "last_retested_at_iso": "2020-05-02T04:14:33.227018",
+            "status": "INACTIVE"
+        },
+        "btgminers.eu": {
+            "included_at_epoch": 1588392873.352795,
+            "included_at_iso": "2020-05-02T04:14:33.352795",
+            "last_retested_at_epoch": 1588392873.352795,
+            "last_retested_at_iso": "2020-05-02T04:14:33.352795",
+            "status": "INACTIVE"
+        },
+        "btgpool.eu": {
+            "included_at_epoch": 1588392873.4445,
+            "included_at_iso": "2020-05-02T04:14:33.444500",
+            "last_retested_at_epoch": 1588392873.4445,
+            "last_retested_at_iso": "2020-05-02T04:14:33.444500",
+            "status": "INACTIVE"
+        },
+        "btgsolo.cl": {
+            "included_at_epoch": 1588392873.535009,
+            "included_at_iso": "2020-05-02T04:14:33.535009",
+            "last_retested_at_epoch": 1588392873.535009,
+            "last_retested_at_iso": "2020-05-02T04:14:33.535009",
+            "status": "INACTIVE"
+        },
+        "bth.openvpn.f2pool.com": {
+            "included_at_epoch": 1588392873.626,
+            "included_at_iso": "2020-05-02T04:14:33.626000",
+            "last_retested_at_epoch": 1588392873.626,
+            "last_retested_at_iso": "2020-05-02T04:14:33.626000",
+            "status": "INACTIVE"
+        },
+        "bti.coin-miners.info": {
+            "included_at_epoch": 1588392873.747855,
+            "included_at_iso": "2020-05-02T04:14:33.747855",
+            "last_retested_at_epoch": 1588392873.747855,
+            "last_retested_at_iso": "2020-05-02T04:14:33.747855",
+            "status": "INACTIVE"
+        },
+        "bti.node.coin-miners.info": {
+            "included_at_epoch": 1588392873.68743,
+            "included_at_iso": "2020-05-02T04:14:33.687430",
+            "last_retested_at_epoch": 1588392873.68743,
+            "last_retested_at_iso": "2020-05-02T04:14:33.687430",
+            "status": "INACTIVE"
+        },
+        "btls.hashlink.eu": {
+            "included_at_epoch": 1588392873.820635,
+            "included_at_iso": "2020-05-02T04:14:33.820635",
+            "last_retested_at_epoch": 1588392873.820635,
+            "last_retested_at_iso": "2020-05-02T04:14:33.820635",
+            "status": "INACTIVE"
+        },
+        "btm.bitpool.ro": {
+            "included_at_epoch": 1588392873.887058,
+            "included_at_iso": "2020-05-02T04:14:33.887058",
+            "last_retested_at_epoch": 1588392873.887058,
+            "last_retested_at_iso": "2020-05-02T04:14:33.887058",
+            "status": "INACTIVE"
+        },
+        "btm.hashlink.eu": {
+            "included_at_epoch": 1588392873.954578,
+            "included_at_iso": "2020-05-02T04:14:33.954578",
+            "last_retested_at_epoch": 1588392873.954578,
+            "last_retested_at_iso": "2020-05-02T04:14:33.954578",
+            "status": "INACTIVE"
+        },
+        "btm.viabtc.com": {
+            "included_at_epoch": 1588392874.104545,
+            "included_at_iso": "2020-05-02T04:14:34.104545",
+            "last_retested_at_epoch": 1588392874.104545,
+            "last_retested_at_iso": "2020-05-02T04:14:34.104545",
+            "status": "INACTIVE"
+        },
+        "btmi.coin-miners.info": {
+            "included_at_epoch": 1588392874.0368,
+            "included_at_iso": "2020-05-02T04:14:34.036800",
+            "last_retested_at_epoch": 1588392874.0368,
+            "last_retested_at_iso": "2020-05-02T04:14:34.036800",
+            "status": "INACTIVE"
+        },
+        "btmi.node.coin-miners.info": {
+            "included_at_epoch": 1588392874.170372,
+            "included_at_iso": "2020-05-02T04:14:34.170372",
+            "last_retested_at_epoch": 1588392874.170372,
+            "last_retested_at_iso": "2020-05-02T04:14:34.170372",
+            "status": "INACTIVE"
+        },
+        "btn.bobpool.cc": {
+            "included_at_epoch": 1588392874.2391,
+            "included_at_iso": "2020-05-02T04:14:34.239100",
+            "last_retested_at_epoch": 1588392874.2391,
+            "last_retested_at_iso": "2020-05-02T04:14:34.239100",
+            "status": "INACTIVE"
+        },
+        "btn.hashlink.eu": {
+            "included_at_epoch": 1588392874.325166,
+            "included_at_iso": "2020-05-02T04:14:34.325166",
+            "last_retested_at_epoch": 1588392874.325166,
+            "last_retested_at_iso": "2020-05-02T04:14:34.325166",
+            "status": "INACTIVE"
+        },
+        "btn.youpool.io": {
+            "included_at_epoch": 1588392874.393984,
+            "included_at_iso": "2020-05-02T04:14:34.393984",
+            "last_retested_at_epoch": 1588392874.393984,
+            "last_retested_at_iso": "2020-05-02T04:14:34.393984",
+            "status": "INACTIVE"
+        },
+        "btor.cryptocoins-digging.space": {
+            "included_at_epoch": 1588392874.52349,
+            "included_at_iso": "2020-05-02T04:14:34.523490",
+            "last_retested_at_epoch": 1588392874.52349,
+            "last_retested_at_iso": "2020-05-02T04:14:34.523490",
+            "status": "INACTIVE"
+        },
+        "btor.llama.horse": {
+            "included_at_epoch": 1588392874.462066,
+            "included_at_iso": "2020-05-02T04:14:34.462066",
+            "last_retested_at_epoch": 1588392874.462066,
+            "last_retested_at_iso": "2020-05-02T04:14:34.462066",
+            "status": "INACTIVE"
+        },
+        "btor.minexmr24.ru": {
+            "included_at_epoch": 1588392874.64497,
+            "included_at_iso": "2020-05-02T04:14:34.644970",
+            "last_retested_at_epoch": 1588392874.64497,
+            "last_retested_at_iso": "2020-05-02T04:14:34.644970",
+            "status": "INACTIVE"
+        },
+        "btor.thepiratemine.nl": {
+            "included_at_epoch": 1588392874.58442,
+            "included_at_iso": "2020-05-02T04:14:34.584420",
+            "last_retested_at_epoch": 1588392874.58442,
+            "last_retested_at_iso": "2020-05-02T04:14:34.584420",
+            "status": "INACTIVE"
+        },
+        "btor.youpool.io": {
+            "included_at_epoch": 1588392874.808011,
+            "included_at_iso": "2020-05-02T04:14:34.808011",
+            "last_retested_at_epoch": 1588392874.808011,
+            "last_retested_at_iso": "2020-05-02T04:14:34.808011",
+            "status": "INACTIVE"
+        },
+        "btp.suprnova.cc": {
+            "included_at_epoch": 1588392874.724975,
+            "included_at_iso": "2020-05-02T04:14:34.724975",
+            "last_retested_at_epoch": 1588392874.724975,
+            "last_retested_at_iso": "2020-05-02T04:14:34.724975",
+            "status": "INACTIVE"
+        },
+        "btplus.onlycash.ddns.net": {
+            "included_at_epoch": 1588392874.892371,
+            "included_at_iso": "2020-05-02T04:14:34.892371",
+            "last_retested_at_epoch": 1588392874.892371,
+            "last_retested_at_iso": "2020-05-02T04:14:34.892371",
+            "status": "INACTIVE"
         }
     }
 }
