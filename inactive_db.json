@@ -44334,6 +44334,146 @@
             "last_retested_at_epoch": 1588427506.851725,
             "last_retested_at_iso": "2020-05-02T13:51:46.851725",
             "status": "INACTIVE"
+        },
+        "dcr-bj-prod.poolin.com": {
+            "included_at_epoch": 1588428223.010433,
+            "included_at_iso": "2020-05-02T14:03:43.010433",
+            "last_retested_at_epoch": 1588428223.010433,
+            "last_retested_at_iso": "2020-05-02T14:03:43.010433",
+            "status": "INACTIVE"
+        },
+        "dcr-bj2.ss.poolin.com": {
+            "included_at_epoch": 1588428223.115146,
+            "included_at_iso": "2020-05-02T14:03:43.115146",
+            "last_retested_at_epoch": 1588428223.115146,
+            "last_retested_at_iso": "2020-05-02T14:03:43.115146",
+            "status": "INACTIVE"
+        },
+        "dcr-lp.coinmine.pl": {
+            "included_at_epoch": 1588428223.262724,
+            "included_at_iso": "2020-05-02T14:03:43.262724",
+            "last_retested_at_epoch": 1588428223.262724,
+            "last_retested_at_iso": "2020-05-02T14:03:43.262724",
+            "status": "INACTIVE"
+        },
+        "dcr-pool.beepool.org": {
+            "included_at_epoch": 1588428223.36389,
+            "included_at_iso": "2020-05-02T14:03:43.363890",
+            "last_retested_at_epoch": 1588428223.36389,
+            "last_retested_at_iso": "2020-05-02T14:03:43.363890",
+            "status": "INACTIVE"
+        },
+        "dcr.beepool.org": {
+            "included_at_epoch": 1588428223.481002,
+            "included_at_iso": "2020-05-02T14:03:43.481002",
+            "last_retested_at_epoch": 1588428223.481002,
+            "last_retested_at_iso": "2020-05-02T14:03:43.481002",
+            "status": "INACTIVE"
+        },
+        "dcr.cryptopools.com": {
+            "included_at_epoch": 1588428223.591208,
+            "included_at_iso": "2020-05-02T14:03:43.591208",
+            "last_retested_at_epoch": 1588428223.591208,
+            "last_retested_at_iso": "2020-05-02T14:03:43.591208",
+            "status": "INACTIVE"
+        },
+        "dcr.reidocoin.com.br": {
+            "included_at_epoch": 1588428223.754094,
+            "included_at_iso": "2020-05-02T14:03:43.754094",
+            "last_retested_at_epoch": 1588428223.754094,
+            "last_retested_at_iso": "2020-05-02T14:03:43.754094",
+            "status": "INACTIVE"
+        },
+        "dcr.viabtc.com": {
+            "included_at_epoch": 1588428223.892258,
+            "included_at_iso": "2020-05-02T14:03:43.892258",
+            "last_retested_at_epoch": 1588428223.892258,
+            "last_retested_at_iso": "2020-05-02T14:03:43.892258",
+            "status": "INACTIVE"
+        },
+        "dcredits.cryptopools.com": {
+            "included_at_epoch": 1588428223.996172,
+            "included_at_iso": "2020-05-02T14:03:43.996172",
+            "last_retested_at_epoch": 1588428223.996172,
+            "last_retested_at_iso": "2020-05-02T14:03:43.996172",
+            "status": "INACTIVE"
+        },
+        "dcrpool04.coinmine.pl": {
+            "included_at_epoch": 1588428224.090025,
+            "included_at_iso": "2020-05-02T14:03:44.090025",
+            "last_retested_at_epoch": 1588428224.090025,
+            "last_retested_at_iso": "2020-05-02T14:03:44.090025",
+            "status": "INACTIVE"
+        },
+        "dcwaxx.onlycash.ddns.net": {
+            "included_at_epoch": 1588428224.198768,
+            "included_at_iso": "2020-05-02T14:03:44.198768",
+            "last_retested_at_epoch": 1588428224.198768,
+            "last_retested_at_iso": "2020-05-02T14:03:44.198768",
+            "status": "INACTIVE"
+        },
+        "dcy.cpufan.club": {
+            "included_at_epoch": 1588428224.308252,
+            "included_at_iso": "2020-05-02T14:03:44.308252",
+            "last_retested_at_epoch": 1588428224.308252,
+            "last_retested_at_iso": "2020-05-02T14:03:44.308252",
+            "status": "INACTIVE"
+        },
+        "dcy.hashgang.io": {
+            "included_at_epoch": 1588428224.408833,
+            "included_at_iso": "2020-05-02T14:03:44.408833",
+            "last_retested_at_epoch": 1588428224.408833,
+            "last_retested_at_iso": "2020-05-02T14:03:44.408833",
+            "status": "INACTIVE"
+        },
+        "dcy.llama.horse": {
+            "included_at_epoch": 1588428224.509733,
+            "included_at_iso": "2020-05-02T14:03:44.509733",
+            "last_retested_at_epoch": 1588428224.509733,
+            "last_retested_at_iso": "2020-05-02T14:03:44.509733",
+            "status": "INACTIVE"
+        },
+        "dcy.mypool.name": {
+            "included_at_epoch": 1588428224.601575,
+            "included_at_iso": "2020-05-02T14:03:44.601575",
+            "last_retested_at_epoch": 1588428224.601575,
+            "last_retested_at_iso": "2020-05-02T14:03:44.601575",
+            "status": "INACTIVE"
+        },
+        "dcy.reidocoin.com.br": {
+            "included_at_epoch": 1588428224.719858,
+            "included_at_iso": "2020-05-02T14:03:44.719858",
+            "last_retested_at_epoch": 1588428224.719858,
+            "last_retested_at_iso": "2020-05-02T14:03:44.719858",
+            "status": "INACTIVE"
+        },
+        "dd.btcc.com": {
+            "included_at_epoch": 1588428224.911866,
+            "included_at_iso": "2020-05-02T14:03:44.911866",
+            "last_retested_at_epoch": 1588428224.911866,
+            "last_retested_at_iso": "2020-05-02T14:03:44.911866",
+            "status": "INACTIVE"
+        },
+        "dd.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588428224.820107,
+            "included_at_iso": "2020-05-02T14:03:44.820107",
+            "last_retested_at_epoch": 1588428224.820107,
+            "last_retested_at_iso": "2020-05-02T14:03:44.820107",
+            "status": "INACTIVE"
+        },
+        "dd37.onlycash.ddns.net": {
+            "included_at_epoch": 1588428225.003515,
+            "included_at_iso": "2020-05-02T14:03:45.003515",
+            "last_retested_at_epoch": 1588428225.003515,
+            "last_retested_at_iso": "2020-05-02T14:03:45.003515",
+            "status": "INACTIVE"
+        },
+        "ddkhome.onlycash.ddns.net": {
+            "included_at_epoch": 1588428225.103465,
+            "included_at_iso": "2020-05-02T14:03:45.103465",
+            "last_retested_at_epoch": 1588428225.103465,
+            "last_retested_at_iso": "2020-05-02T14:03:45.103465",
+            "status": "INACTIVE"
         }
     }
 }
