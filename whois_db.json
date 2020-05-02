@@ -3195,8 +3195,8 @@
         "state": "future"
     },
     "blockbucket.net": {
-        "epoch": 1585440000.0,
-        "expiration_date": "29-mar-2020",
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "blockchained.party": {
@@ -3205,8 +3205,8 @@
         "state": "past"
     },
     "blockchainmeup.org": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "blockchaiun.biz": {
@@ -3235,8 +3235,8 @@
         "state": "future"
     },
     "blockcooperation.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "blockcrushers.xyz": {
@@ -3245,8 +3245,8 @@
         "state": "future"
     },
     "blockfoundry.org": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "blockhunter.info": {
@@ -3260,8 +3260,8 @@
         "state": "future"
     },
     "blockmasters.co": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1647388800.0,
+        "expiration_date": "16-mar-2022",
         "state": "future"
     },
     "blockminer.me": {
@@ -3295,8 +3295,8 @@
         "state": "future"
     },
     "bluerockpools.net": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "bluewpool.io": {
@@ -3305,13 +3305,18 @@
         "state": "future"
     },
     "bmcm.pw": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
         "state": "future"
     },
     "bmgpool.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "bminer.me": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "bmnadutub.ru": {
@@ -3337,7 +3342,7 @@
     "bobpool.cc": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bohemianpool.com": {
         "epoch": 1595894400.0,
