@@ -51684,6 +51684,97 @@
             "last_retested_at_epoch": 1588456906.533548,
             "last_retested_at_iso": "2020-05-02T22:01:46.533548",
             "status": "INACTIVE"
+        },
+        "electrum.bell.pecadol.xyz": {
+            "included_at_epoch": 1588457620.80903,
+            "included_at_iso": "2020-05-02T22:13:40.809030",
+            "last_retested_at_epoch": 1588457620.80903,
+            "last_retested_at_iso": "2020-05-02T22:13:40.809030",
+            "status": "INACTIVE"
+        },
+        "electrum.btcprivate.org": {
+            "included_at_epoch": 1588457620.945876,
+            "included_at_iso": "2020-05-02T22:13:40.945876",
+            "last_retested_at_epoch": 1588457620.945876,
+            "last_retested_at_iso": "2020-05-02T22:13:40.945876",
+            "status": "INACTIVE"
+        },
+        "electrum.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588457621.060504,
+            "included_at_iso": "2020-05-02T22:13:41.060504",
+            "last_retested_at_epoch": 1588457621.060504,
+            "last_retested_at_iso": "2020-05-02T22:13:41.060504",
+            "status": "INACTIVE"
+        },
+        "electrum.em.bitcoin.co.pt": {
+            "included_at_epoch": 1588457621.175253,
+            "included_at_iso": "2020-05-02T22:13:41.175253",
+            "last_retested_at_epoch": 1588457621.175253,
+            "last_retested_at_iso": "2020-05-02T22:13:41.175253",
+            "status": "INACTIVE"
+        },
+        "electrum.mkt-coin.com": {
+            "included_at_epoch": 1588457621.302982,
+            "included_at_iso": "2020-05-02T22:13:41.302982",
+            "last_retested_at_epoch": 1588457621.302982,
+            "last_retested_at_iso": "2020-05-02T22:13:41.302982",
+            "status": "INACTIVE"
+        },
+        "electrum2.btcprivate.org": {
+            "included_at_epoch": 1588457621.429323,
+            "included_at_iso": "2020-05-02T22:13:41.429323",
+            "last_retested_at_epoch": 1588457621.429323,
+            "last_retested_at_iso": "2020-05-02T22:13:41.429323",
+            "status": "INACTIVE"
+        },
+        "electrum2.mkt-coin.com": {
+            "included_at_epoch": 1588457621.555005,
+            "included_at_iso": "2020-05-02T22:13:41.555005",
+            "last_retested_at_epoch": 1588457621.555005,
+            "last_retested_at_iso": "2020-05-02T22:13:41.555005",
+            "status": "INACTIVE"
+        },
+        "electrum3.btcprivate.org": {
+            "included_at_epoch": 1588457621.659662,
+            "included_at_iso": "2020-05-02T22:13:41.659662",
+            "last_retested_at_epoch": 1588457621.659662,
+            "last_retested_at_iso": "2020-05-02T22:13:41.659662",
+            "status": "INACTIVE"
+        },
+        "electrum3.mkt-coin.com": {
+            "included_at_epoch": 1588457621.764838,
+            "included_at_iso": "2020-05-02T22:13:41.764838",
+            "last_retested_at_epoch": 1588457621.764838,
+            "last_retested_at_iso": "2020-05-02T22:13:41.764838",
+            "status": "INACTIVE"
+        },
+        "electrum4.mkt-coin.com": {
+            "included_at_epoch": 1588457621.881488,
+            "included_at_iso": "2020-05-02T22:13:41.881488",
+            "last_retested_at_epoch": 1588457621.881488,
+            "last_retested_at_iso": "2020-05-02T22:13:41.881488",
+            "status": "INACTIVE"
+        },
+        "electrum5.mkt-coin.com": {
+            "included_at_epoch": 1588457621.986775,
+            "included_at_iso": "2020-05-02T22:13:41.986775",
+            "last_retested_at_epoch": 1588457621.986775,
+            "last_retested_at_iso": "2020-05-02T22:13:41.986775",
+            "status": "INACTIVE"
+        },
+        "elekespanzio.evolution-project.go.ro": {
+            "included_at_epoch": 1588457622.24974,
+            "included_at_iso": "2020-05-02T22:13:42.249740",
+            "last_retested_at_epoch": 1588457622.24974,
+            "last_retested_at_iso": "2020-05-02T22:13:42.249740",
+            "status": "INACTIVE"
+        },
+        "elektro-net.onlycash.ddns.net": {
+            "included_at_epoch": 1588457622.144349,
+            "included_at_iso": "2020-05-02T22:13:42.144349",
+            "last_retested_at_epoch": 1588457622.144349,
+            "last_retested_at_iso": "2020-05-02T22:13:42.144349",
+            "status": "INACTIVE"
         }
     }
 }
