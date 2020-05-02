@@ -43697,6 +43697,111 @@
             "last_retested_at_epoch": 1588419969.914619,
             "last_retested_at_iso": "2020-05-02T11:46:09.914619",
             "status": "INACTIVE"
+        },
+        "db.bitcoin.co.pt": {
+            "included_at_epoch": 1588421321.497076,
+            "included_at_iso": "2020-05-02T12:08:41.497076",
+            "last_retested_at_epoch": 1588421321.497076,
+            "last_retested_at_iso": "2020-05-02T12:08:41.497076",
+            "status": "INACTIVE"
+        },
+        "db.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588421321.619867,
+            "included_at_iso": "2020-05-02T12:08:41.619867",
+            "last_retested_at_epoch": 1588421321.619867,
+            "last_retested_at_iso": "2020-05-02T12:08:41.619867",
+            "status": "INACTIVE"
+        },
+        "db.saltpool.net": {
+            "included_at_epoch": 1588421321.79692,
+            "included_at_iso": "2020-05-02T12:08:41.796920",
+            "last_retested_at_epoch": 1588421321.79692,
+            "last_retested_at_iso": "2020-05-02T12:08:41.796920",
+            "status": "INACTIVE"
+        },
+        "db.suprnova.cc": {
+            "included_at_epoch": 1588421321.892869,
+            "included_at_iso": "2020-05-02T12:08:41.892869",
+            "last_retested_at_epoch": 1588421321.892869,
+            "last_retested_at_iso": "2020-05-02T12:08:41.892869",
+            "status": "INACTIVE"
+        },
+        "db1.suprnova.cc": {
+            "included_at_epoch": 1588421322.099141,
+            "included_at_iso": "2020-05-02T12:08:42.099141",
+            "last_retested_at_epoch": 1588421322.099141,
+            "last_retested_at_iso": "2020-05-02T12:08:42.099141",
+            "status": "INACTIVE"
+        },
+        "db2-stg-vm.fix.btcc.com": {
+            "included_at_epoch": 1588421322.202087,
+            "included_at_iso": "2020-05-02T12:08:42.202087",
+            "last_retested_at_epoch": 1588421322.202087,
+            "last_retested_at_iso": "2020-05-02T12:08:42.202087",
+            "status": "INACTIVE"
+        },
+        "db2-vm.fix.btcc.com": {
+            "included_at_epoch": 1588421322.290371,
+            "included_at_iso": "2020-05-02T12:08:42.290371",
+            "last_retested_at_epoch": 1588421322.290371,
+            "last_retested_at_iso": "2020-05-02T12:08:42.290371",
+            "status": "INACTIVE"
+        },
+        "db2.suprnova.cc": {
+            "included_at_epoch": 1588421322.380035,
+            "included_at_iso": "2020-05-02T12:08:42.380035",
+            "last_retested_at_epoch": 1588421322.380035,
+            "last_retested_at_iso": "2020-05-02T12:08:42.380035",
+            "status": "INACTIVE"
+        },
+        "db4.suprnova.cc": {
+            "included_at_epoch": 1588421322.470239,
+            "included_at_iso": "2020-05-02T12:08:42.470239",
+            "last_retested_at_epoch": 1588421322.470239,
+            "last_retested_at_iso": "2020-05-02T12:08:42.470239",
+            "status": "INACTIVE"
+        },
+        "db5.suprnova.cc": {
+            "included_at_epoch": 1588421322.566344,
+            "included_at_iso": "2020-05-02T12:08:42.566344",
+            "last_retested_at_epoch": 1588421322.566344,
+            "last_retested_at_iso": "2020-05-02T12:08:42.566344",
+            "status": "INACTIVE"
+        },
+        "db9b5.btcc.com": {
+            "included_at_epoch": 1588421322.65395,
+            "included_at_iso": "2020-05-02T12:08:42.653950",
+            "last_retested_at_epoch": 1588421322.65395,
+            "last_retested_at_iso": "2020-05-02T12:08:42.653950",
+            "status": "INACTIVE"
+        },
+        "dbg.thecoin.pw": {
+            "included_at_epoch": 1588421322.774541,
+            "included_at_iso": "2020-05-02T12:08:42.774541",
+            "last_retested_at_epoch": 1588421322.774541,
+            "last_retested_at_iso": "2020-05-02T12:08:42.774541",
+            "status": "INACTIVE"
+        },
+        "dbic.gcpool.eu": {
+            "included_at_epoch": 1588421322.861991,
+            "included_at_iso": "2020-05-02T12:08:42.861991",
+            "last_retested_at_epoch": 1588421322.861991,
+            "last_retested_at_iso": "2020-05-02T12:08:42.861991",
+            "status": "INACTIVE"
+        },
+        "dbix-explorer.pool.sexy": {
+            "included_at_epoch": 1588421322.949017,
+            "included_at_iso": "2020-05-02T12:08:42.949017",
+            "last_retested_at_epoch": 1588421322.949017,
+            "last_retested_at_iso": "2020-05-02T12:08:42.949017",
+            "status": "INACTIVE"
+        },
+        "dbix-solo.cryptodig.ru": {
+            "included_at_epoch": 1588421323.052442,
+            "included_at_iso": "2020-05-02T12:08:43.052442",
+            "last_retested_at_epoch": 1588421323.052442,
+            "last_retested_at_iso": "2020-05-02T12:08:43.052442",
+            "status": "INACTIVE"
         }
     }
 }
