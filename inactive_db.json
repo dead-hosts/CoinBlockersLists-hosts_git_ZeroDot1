@@ -52923,6 +52923,20 @@
             "last_retested_at_epoch": 1588463444.85788,
             "last_retested_at_iso": "2020-05-02T23:50:44.857880",
             "status": "INACTIVE"
+        },
+        "eospeering.blockmatrix.net": {
+            "included_at_epoch": 1588464179.79516,
+            "included_at_iso": "2020-05-03T00:02:59.795160",
+            "last_retested_at_epoch": 1588464179.79516,
+            "last_retested_at_iso": "2020-05-03T00:02:59.795160",
+            "status": "INACTIVE"
+        },
+        "eot.coinstop.me": {
+            "included_at_epoch": 1588464179.664312,
+            "included_at_iso": "2020-05-03T00:02:59.664312",
+            "last_retested_at_epoch": 1588464179.664312,
+            "last_retested_at_iso": "2020-05-03T00:02:59.664312",
+            "status": "INACTIVE"
         }
     }
 }
