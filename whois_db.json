@@ -5899,6 +5899,11 @@
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
+    "equihash.network": {
+        "epoch": 1692835200.0,
+        "expiration_date": "24-aug-2023",
+        "state": "future"
+    },
     "equihash.pro": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",

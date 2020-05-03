@@ -53168,6 +53168,111 @@
             "last_retested_at_epoch": 1588510094.564287,
             "last_retested_at_iso": "2020-05-03T12:48:14.564287",
             "status": "INACTIVE"
+        },
+        "equihash.nosekefik.com": {
+            "included_at_epoch": 1588510806.559813,
+            "included_at_iso": "2020-05-03T13:00:06.559813",
+            "last_retested_at_epoch": 1588510806.559813,
+            "last_retested_at_iso": "2020-05-03T13:00:06.559813",
+            "status": "INACTIVE"
+        },
+        "equihash.pickaxe.pro": {
+            "included_at_epoch": 1588510806.720806,
+            "included_at_iso": "2020-05-03T13:00:06.720806",
+            "last_retested_at_epoch": 1588510806.720806,
+            "last_retested_at_iso": "2020-05-03T13:00:06.720806",
+            "status": "INACTIVE"
+        },
+        "equihash.pool.private-locker.com": {
+            "included_at_epoch": 1588510806.829715,
+            "included_at_iso": "2020-05-03T13:00:06.829715",
+            "last_retested_at_epoch": 1588510806.829715,
+            "last_retested_at_iso": "2020-05-03T13:00:06.829715",
+            "status": "INACTIVE"
+        },
+        "equihash.sonofatech.com": {
+            "included_at_epoch": 1588510806.999591,
+            "included_at_iso": "2020-05-03T13:00:06.999591",
+            "last_retested_at_epoch": 1588510806.999591,
+            "last_retested_at_iso": "2020-05-03T13:00:06.999591",
+            "status": "INACTIVE"
+        },
+        "equihash144btcz.mine.zergpool.com": {
+            "included_at_epoch": 1588510807.161692,
+            "included_at_iso": "2020-05-03T13:00:07.161692",
+            "last_retested_at_epoch": 1588510807.161692,
+            "last_retested_at_iso": "2020-05-03T13:00:07.161692",
+            "status": "INACTIVE"
+        },
+        "equihash144zel.mine.zergpool.com": {
+            "included_at_epoch": 1588510807.270255,
+            "included_at_iso": "2020-05-03T13:00:07.270255",
+            "last_retested_at_epoch": 1588510807.270255,
+            "last_retested_at_iso": "2020-05-03T13:00:07.270255",
+            "status": "INACTIVE"
+        },
+        "equihash2.pool.private-locker.com": {
+            "included_at_epoch": 1588510807.399237,
+            "included_at_iso": "2020-05-03T13:00:07.399237",
+            "last_retested_at_epoch": 1588510807.399237,
+            "last_retested_at_iso": "2020-05-03T13:00:07.399237",
+            "status": "INACTIVE"
+        },
+        "equihash3.pool.private-locker.com": {
+            "included_at_epoch": 1588510807.50863,
+            "included_at_iso": "2020-05-03T13:00:07.508630",
+            "last_retested_at_epoch": 1588510807.50863,
+            "last_retested_at_iso": "2020-05-03T13:00:07.508630",
+            "status": "INACTIVE"
+        },
+        "equilibria.herominers.com": {
+            "included_at_epoch": 1588510807.658285,
+            "included_at_iso": "2020-05-03T13:00:07.658285",
+            "last_retested_at_epoch": 1588510807.658285,
+            "last_retested_at_iso": "2020-05-03T13:00:07.658285",
+            "status": "INACTIVE"
+        },
+        "equipool.equipool.1ds.us": {
+            "included_at_epoch": 1588510807.776675,
+            "included_at_iso": "2020-05-03T13:00:07.776675",
+            "last_retested_at_epoch": 1588510807.776675,
+            "last_retested_at_iso": "2020-05-03T13:00:07.776675",
+            "status": "INACTIVE"
+        },
+        "er.btcc.com": {
+            "included_at_epoch": 1588510807.895265,
+            "included_at_iso": "2020-05-03T13:00:07.895265",
+            "last_retested_at_epoch": 1588510807.895265,
+            "last_retested_at_iso": "2020-05-03T13:00:07.895265",
+            "status": "INACTIVE"
+        },
+        "era-securebilling.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588510808.143137,
+            "included_at_iso": "2020-05-03T13:00:08.143137",
+            "last_retested_at_epoch": 1588510808.143137,
+            "last_retested_at_iso": "2020-05-03T13:00:08.143137",
+            "status": "INACTIVE"
+        },
+        "eragon.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588510808.034686,
+            "included_at_iso": "2020-05-03T13:00:08.034686",
+            "last_retested_at_epoch": 1588510808.034686,
+            "last_retested_at_iso": "2020-05-03T13:00:08.034686",
+            "status": "INACTIVE"
+        },
+        "erc.luckypool.cn": {
+            "included_at_epoch": 1588510808.383525,
+            "included_at_iso": "2020-05-03T13:00:08.383525",
+            "last_retested_at_epoch": 1588510808.383525,
+            "last_retested_at_iso": "2020-05-03T13:00:08.383525",
+            "status": "INACTIVE"
+        },
+        "erc.poolto.be": {
+            "included_at_epoch": 1588510808.271646,
+            "included_at_iso": "2020-05-03T13:00:08.271646",
+            "last_retested_at_epoch": 1588510808.271646,
+            "last_retested_at_iso": "2020-05-03T13:00:08.271646",
+            "status": "INACTIVE"
         }
     }
 }
