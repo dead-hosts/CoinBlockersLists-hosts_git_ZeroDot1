@@ -53413,6 +53413,139 @@
             "last_retested_at_epoch": 1588511533.380559,
             "last_retested_at_iso": "2020-05-03T13:12:13.380559",
             "status": "INACTIVE"
+        },
+        "es.forum.namecoin.info": {
+            "included_at_epoch": 1588512250.174627,
+            "included_at_iso": "2020-05-03T13:24:10.174627",
+            "last_retested_at_epoch": 1588512250.174627,
+            "last_retested_at_iso": "2020-05-03T13:24:10.174627",
+            "status": "INACTIVE"
+        },
+        "es.miningpool.thruhere.net": {
+            "included_at_epoch": 1588512250.357095,
+            "included_at_iso": "2020-05-03T13:24:10.357095",
+            "last_retested_at_epoch": 1588512250.357095,
+            "last_retested_at_iso": "2020-05-03T13:24:10.357095",
+            "status": "INACTIVE"
+        },
+        "es.okcash.co": {
+            "included_at_epoch": 1588512250.466298,
+            "included_at_iso": "2020-05-03T13:24:10.466298",
+            "last_retested_at_epoch": 1588512250.466298,
+            "last_retested_at_iso": "2020-05-03T13:24:10.466298",
+            "status": "INACTIVE"
+        },
+        "esbtf.miningpool.thruhere.net": {
+            "included_at_epoch": 1588512250.689932,
+            "included_at_iso": "2020-05-03T13:24:10.689932",
+            "last_retested_at_epoch": 1588512250.689932,
+            "last_retested_at_iso": "2020-05-03T13:24:10.689932",
+            "status": "INACTIVE"
+        },
+        "esc.asia.gonsmine.com": {
+            "included_at_epoch": 1588512250.582504,
+            "included_at_iso": "2020-05-03T13:24:10.582504",
+            "last_retested_at_epoch": 1588512250.582504,
+            "last_retested_at_iso": "2020-05-03T13:24:10.582504",
+            "status": "INACTIVE"
+        },
+        "esc.hashlink.eu": {
+            "included_at_epoch": 1588512250.824898,
+            "included_at_iso": "2020-05-03T13:24:10.824898",
+            "last_retested_at_epoch": 1588512250.824898,
+            "last_retested_at_iso": "2020-05-03T13:24:10.824898",
+            "status": "INACTIVE"
+        },
+        "esc.thecoin.pw": {
+            "included_at_epoch": 1588512250.931383,
+            "included_at_iso": "2020-05-03T13:24:10.931383",
+            "last_retested_at_epoch": 1588512250.931383,
+            "last_retested_at_iso": "2020-05-03T13:24:10.931383",
+            "status": "INACTIVE"
+        },
+        "esc.topmining.co.kr": {
+            "included_at_epoch": 1588512251.155213,
+            "included_at_iso": "2020-05-03T13:24:11.155213",
+            "last_retested_at_epoch": 1588512251.155213,
+            "last_retested_at_iso": "2020-05-03T13:24:11.155213",
+            "status": "INACTIVE"
+        },
+        "escapade.evolution-project.go.ro": {
+            "included_at_epoch": 1588512251.04781,
+            "included_at_iso": "2020-05-03T13:24:11.047810",
+            "last_retested_at_epoch": 1588512251.04781,
+            "last_retested_at_iso": "2020-05-03T13:24:11.047810",
+            "status": "INACTIVE"
+        },
+        "escapi-kr.gonsmine.com": {
+            "included_at_epoch": 1588512251.260961,
+            "included_at_iso": "2020-05-03T13:24:11.260961",
+            "last_retested_at_epoch": 1588512251.260961,
+            "last_retested_at_iso": "2020-05-03T13:24:11.260961",
+            "status": "INACTIVE"
+        },
+        "escapi.gonsmine.com": {
+            "included_at_epoch": 1588512251.367465,
+            "included_at_iso": "2020-05-03T13:24:11.367465",
+            "last_retested_at_epoch": 1588512251.367465,
+            "last_retested_at_iso": "2020-05-03T13:24:11.367465",
+            "status": "INACTIVE"
+        },
+        "eschele.safex.org": {
+            "included_at_epoch": 1588512251.493647,
+            "included_at_iso": "2020-05-03T13:24:11.493647",
+            "last_retested_at_epoch": 1588512251.493647,
+            "last_retested_at_iso": "2020-05-03T13:24:11.493647",
+            "status": "INACTIVE"
+        },
+        "escortalert.moneroseeds.ae.org": {
+            "included_at_epoch": 1588512251.737084,
+            "included_at_iso": "2020-05-03T13:24:11.737084",
+            "last_retested_at_epoch": 1588512251.737084,
+            "last_retested_at_iso": "2020-05-03T13:24:11.737084",
+            "status": "INACTIVE"
+        },
+        "escoserratrebol.onlycash.ddns.net": {
+            "included_at_epoch": 1588512251.629817,
+            "included_at_iso": "2020-05-03T13:24:11.629817",
+            "last_retested_at_epoch": 1588512251.629817,
+            "last_retested_at_iso": "2020-05-03T13:24:11.629817",
+            "status": "INACTIVE"
+        },
+        "escrow.umine.org": {
+            "included_at_epoch": 1588512251.843537,
+            "included_at_iso": "2020-05-03T13:24:11.843537",
+            "last_retested_at_epoch": 1588512251.843537,
+            "last_retested_at_iso": "2020-05-03T13:24:11.843537",
+            "status": "INACTIVE"
+        },
+        "escwallet-dev.gonsmine.com": {
+            "included_at_epoch": 1588512251.959741,
+            "included_at_iso": "2020-05-03T13:24:11.959741",
+            "last_retested_at_epoch": 1588512251.959741,
+            "last_retested_at_iso": "2020-05-03T13:24:11.959741",
+            "status": "INACTIVE"
+        },
+        "eservices.dhr.moneroseeds.ae.org": {
+            "included_at_epoch": 1588512252.103454,
+            "included_at_iso": "2020-05-03T13:24:12.103454",
+            "last_retested_at_epoch": 1588512252.103454,
+            "last_retested_at_iso": "2020-05-03T13:24:12.103454",
+            "status": "INACTIVE"
+        },
+        "esn-beta.topmining.co.kr": {
+            "included_at_epoch": 1588512252.240443,
+            "included_at_iso": "2020-05-03T13:24:12.240443",
+            "last_retested_at_epoch": 1588512252.240443,
+            "last_retested_at_iso": "2020-05-03T13:24:12.240443",
+            "status": "INACTIVE"
+        },
+        "esn-chart.topmining.co.kr": {
+            "included_at_epoch": 1588512252.355178,
+            "included_at_iso": "2020-05-03T13:24:12.355178",
+            "last_retested_at_epoch": 1588512252.355178,
+            "last_retested_at_iso": "2020-05-03T13:24:12.355178",
+            "status": "INACTIVE"
         }
     }
 }
