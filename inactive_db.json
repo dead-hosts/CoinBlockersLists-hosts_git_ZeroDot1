@@ -53546,6 +53546,62 @@
             "last_retested_at_epoch": 1588512252.355178,
             "last_retested_at_iso": "2020-05-03T13:24:12.355178",
             "status": "INACTIVE"
+        },
+        "esn-web.topmining.co.kr": {
+            "included_at_epoch": 1588512970.22375,
+            "included_at_iso": "2020-05-03T13:36:10.223750",
+            "last_retested_at_epoch": 1588512970.22375,
+            "last_retested_at_iso": "2020-05-03T13:36:10.223750",
+            "status": "INACTIVE"
+        },
+        "esn.bkkmining.asia": {
+            "included_at_epoch": 1588512970.350483,
+            "included_at_iso": "2020-05-03T13:36:10.350483",
+            "last_retested_at_epoch": 1588512970.350483,
+            "last_retested_at_iso": "2020-05-03T13:36:10.350483",
+            "status": "INACTIVE"
+        },
+        "esn.clona.ru": {
+            "included_at_epoch": 1588512970.468489,
+            "included_at_iso": "2020-05-03T13:36:10.468489",
+            "last_retested_at_epoch": 1588512970.468489,
+            "last_retested_at_iso": "2020-05-03T13:36:10.468489",
+            "status": "INACTIVE"
+        },
+        "esn.cubepool.eu": {
+            "included_at_epoch": 1588512970.683781,
+            "included_at_iso": "2020-05-03T13:36:10.683781",
+            "last_retested_at_epoch": 1588512970.683781,
+            "last_retested_at_iso": "2020-05-03T13:36:10.683781",
+            "status": "INACTIVE"
+        },
+        "esn.drunkenpool.me": {
+            "included_at_epoch": 1588512970.576317,
+            "included_at_iso": "2020-05-03T13:36:10.576317",
+            "last_retested_at_epoch": 1588512970.576317,
+            "last_retested_at_iso": "2020-05-03T13:36:10.576317",
+            "status": "INACTIVE"
+        },
+        "esn.ehashcoins.org": {
+            "included_at_epoch": 1588512970.801119,
+            "included_at_iso": "2020-05-03T13:36:10.801119",
+            "last_retested_at_epoch": 1588512970.801119,
+            "last_retested_at_iso": "2020-05-03T13:36:10.801119",
+            "status": "INACTIVE"
+        },
+        "esn.etherdig.org": {
+            "included_at_epoch": 1588512970.90869,
+            "included_at_iso": "2020-05-03T13:36:10.908690",
+            "last_retested_at_epoch": 1588512970.90869,
+            "last_retested_at_iso": "2020-05-03T13:36:10.908690",
+            "status": "INACTIVE"
+        },
+        "esn.mole-pool.net": {
+            "included_at_epoch": 1588512971.065615,
+            "included_at_iso": "2020-05-03T13:36:11.065615",
+            "last_retested_at_epoch": 1588512971.065615,
+            "last_retested_at_iso": "2020-05-03T13:36:11.065615",
+            "status": "INACTIVE"
         }
     }
 }
