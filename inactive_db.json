@@ -54862,6 +54862,41 @@
             "last_retested_at_epoch": 1588533057.70944,
             "last_retested_at_iso": "2020-05-03T19:10:57.709440",
             "status": "INACTIVE"
+        },
+        "eth.suchpool.pw": {
+            "included_at_epoch": 1588534469.245625,
+            "included_at_iso": "2020-05-03T19:34:29.245625",
+            "last_retested_at_epoch": 1588534469.245625,
+            "last_retested_at_iso": "2020-05-03T19:34:29.245625",
+            "status": "INACTIVE"
+        },
+        "eth.test.2miners.com": {
+            "included_at_epoch": 1588534469.37028,
+            "included_at_iso": "2020-05-03T19:34:29.370280",
+            "last_retested_at_epoch": 1588534469.37028,
+            "last_retested_at_iso": "2020-05-03T19:34:29.370280",
+            "status": "INACTIVE"
+        },
+        "eth.thecoin.pw": {
+            "included_at_epoch": 1588534469.505918,
+            "included_at_iso": "2020-05-03T19:34:29.505918",
+            "last_retested_at_epoch": 1588534469.505918,
+            "last_retested_at_iso": "2020-05-03T19:34:29.505918",
+            "status": "INACTIVE"
+        },
+        "eth.topmining.co.kr": {
+            "included_at_epoch": 1588534469.614315,
+            "included_at_iso": "2020-05-03T19:34:29.614315",
+            "last_retested_at_epoch": 1588534469.614315,
+            "last_retested_at_iso": "2020-05-03T19:34:29.614315",
+            "status": "INACTIVE"
+        },
+        "eth.xeminer.net": {
+            "included_at_epoch": 1588534469.82667,
+            "included_at_iso": "2020-05-03T19:34:29.826670",
+            "last_retested_at_epoch": 1588534469.82667,
+            "last_retested_at_iso": "2020-05-03T19:34:29.826670",
+            "status": "INACTIVE"
         }
     }
 }
