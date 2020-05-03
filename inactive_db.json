@@ -54001,6 +54001,34 @@
             "last_retested_at_epoch": 1588520089.24169,
             "last_retested_at_iso": "2020-05-03T15:34:49.241690",
             "status": "INACTIVE"
+        },
+        "etc.labaleine.gg": {
+            "included_at_epoch": 1588521161.305063,
+            "included_at_iso": "2020-05-03T15:52:41.305063",
+            "last_retested_at_epoch": 1588521161.305063,
+            "last_retested_at_iso": "2020-05-03T15:52:41.305063",
+            "status": "INACTIVE"
+        },
+        "etc.lucky-mining.com.ua": {
+            "included_at_epoch": 1588521161.445758,
+            "included_at_iso": "2020-05-03T15:52:41.445758",
+            "last_retested_at_epoch": 1588521161.445758,
+            "last_retested_at_iso": "2020-05-03T15:52:41.445758",
+            "status": "INACTIVE"
+        },
+        "etc.mine-vn.com": {
+            "included_at_epoch": 1588521161.554464,
+            "included_at_iso": "2020-05-03T15:52:41.554464",
+            "last_retested_at_epoch": 1588521161.554464,
+            "last_retested_at_iso": "2020-05-03T15:52:41.554464",
+            "status": "INACTIVE"
+        },
+        "etc.minershq.net": {
+            "included_at_epoch": 1588521161.682447,
+            "included_at_iso": "2020-05-03T15:52:41.682447",
+            "last_retested_at_epoch": 1588521161.682447,
+            "last_retested_at_iso": "2020-05-03T15:52:41.682447",
+            "status": "INACTIVE"
         }
     }
 }
