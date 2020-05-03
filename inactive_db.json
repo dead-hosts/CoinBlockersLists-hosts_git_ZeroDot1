@@ -12751,13 +12751,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:43.773606",
             "status": "INACTIVE"
         },
-        "aergo.mine.zergpool.com": {
-            "included_at_epoch": 1586119200.0,
-            "included_at_iso": "2020-04-05T20:40:00",
-            "last_retested_at_epoch": 1588358683.803399,
-            "last_retested_at_iso": "2020-05-01T18:44:43.803399",
-            "status": "INACTIVE"
-        },
         "aerisdev.onlycash.ddns.net": {
             "included_at_epoch": 1588358683.835075,
             "included_at_iso": "2020-05-01T18:44:43.835075",
@@ -55092,6 +55085,160 @@
             "included_at_iso": "2020-05-03T20:11:05.249799",
             "last_retested_at_epoch": 1588536665.249799,
             "last_retested_at_iso": "2020-05-03T20:11:05.249799",
+            "status": "INACTIVE"
+        },
+        "ethereum-solo.wattpool.net": {
+            "included_at_epoch": 1588549212.729957,
+            "included_at_iso": "2020-05-03T23:40:12.729957",
+            "last_retested_at_epoch": 1588549212.729957,
+            "last_retested_at_iso": "2020-05-03T23:40:12.729957",
+            "status": "INACTIVE"
+        },
+        "ethereum.cryptopool.online": {
+            "included_at_epoch": 1588549212.842644,
+            "included_at_iso": "2020-05-03T23:40:12.842644",
+            "last_retested_at_epoch": 1588549212.842644,
+            "last_retested_at_iso": "2020-05-03T23:40:12.842644",
+            "status": "INACTIVE"
+        },
+        "ethereum.eu.nicehash.com": {
+            "included_at_epoch": 1588549212.951223,
+            "included_at_iso": "2020-05-03T23:40:12.951223",
+            "last_retested_at_epoch": 1588549212.951223,
+            "last_retested_at_iso": "2020-05-03T23:40:12.951223",
+            "status": "INACTIVE"
+        },
+        "ethereum.hashvault.pro": {
+            "included_at_epoch": 1588549213.069132,
+            "included_at_iso": "2020-05-03T23:40:13.069132",
+            "last_retested_at_epoch": 1588549213.069132,
+            "last_retested_at_iso": "2020-05-03T23:40:13.069132",
+            "status": "INACTIVE"
+        },
+        "ethereum.laintimes.com": {
+            "included_at_epoch": 1588549213.177386,
+            "included_at_iso": "2020-05-03T23:40:13.177386",
+            "last_retested_at_epoch": 1588549213.177386,
+            "last_retested_at_iso": "2020-05-03T23:40:13.177386",
+            "status": "INACTIVE"
+        },
+        "ethereum.moneroseeds.ae.org": {
+            "included_at_epoch": 1588549213.295497,
+            "included_at_iso": "2020-05-03T23:40:13.295497",
+            "last_retested_at_epoch": 1588549213.295497,
+            "last_retested_at_iso": "2020-05-03T23:40:13.295497",
+            "status": "INACTIVE"
+        },
+        "ethereum.nodes.hashvault.pro": {
+            "included_at_epoch": 1588549213.512277,
+            "included_at_iso": "2020-05-03T23:40:13.512277",
+            "last_retested_at_epoch": 1588549213.512277,
+            "last_retested_at_iso": "2020-05-03T23:40:13.512277",
+            "status": "INACTIVE"
+        },
+        "ethereum.us.nicehash.com": {
+            "included_at_epoch": 1588549213.403809,
+            "included_at_iso": "2020-05-03T23:40:13.403809",
+            "last_retested_at_epoch": 1588549213.403809,
+            "last_retested_at_iso": "2020-05-03T23:40:13.403809",
+            "status": "INACTIVE"
+        },
+        "ethereum.usa.nicehash.com": {
+            "included_at_epoch": 1588549213.62052,
+            "included_at_iso": "2020-05-03T23:40:13.620520",
+            "last_retested_at_epoch": 1588549213.62052,
+            "last_retested_at_iso": "2020-05-03T23:40:13.620520",
+            "status": "INACTIVE"
+        },
+        "etherone.mine-this.com": {
+            "included_at_epoch": 1588549213.895596,
+            "included_at_iso": "2020-05-03T23:40:13.895596",
+            "last_retested_at_epoch": 1588549213.895596,
+            "last_retested_at_iso": "2020-05-03T23:40:13.895596",
+            "status": "INACTIVE"
+        },
+        "ethfw.f2pool.com": {
+            "included_at_epoch": 1588549214.137207,
+            "included_at_iso": "2020-05-03T23:40:14.137207",
+            "last_retested_at_epoch": 1588549214.137207,
+            "last_retested_at_iso": "2020-05-03T23:40:14.137207",
+            "status": "INACTIVE"
+        },
+        "ethg.btcc.com": {
+            "included_at_epoch": 1588549214.245656,
+            "included_at_iso": "2020-05-03T23:40:14.245656",
+            "last_retested_at_epoch": 1588549214.245656,
+            "last_retested_at_iso": "2020-05-03T23:40:14.245656",
+            "status": "INACTIVE"
+        },
+        "ethg.clona.ru": {
+            "included_at_epoch": 1588549214.354533,
+            "included_at_iso": "2020-05-03T23:40:14.354533",
+            "last_retested_at_epoch": 1588549214.354533,
+            "last_retested_at_iso": "2020-05-03T23:40:14.354533",
+            "status": "INACTIVE"
+        },
+        "ethh.btcc.com": {
+            "included_at_epoch": 1588549214.463345,
+            "included_at_iso": "2020-05-03T23:40:14.463345",
+            "last_retested_at_epoch": 1588549214.463345,
+            "last_retested_at_iso": "2020-05-03T23:40:14.463345",
+            "status": "INACTIVE"
+        },
+        "ethmedialab.info": {
+            "included_at_epoch": 1588549214.590651,
+            "included_at_iso": "2020-05-03T23:40:14.590651",
+            "last_retested_at_epoch": 1588549214.590651,
+            "last_retested_at_iso": "2020-05-03T23:40:14.590651",
+            "status": "INACTIVE"
+        },
+        "ethmypool.com": {
+            "included_at_epoch": 1588549214.71307,
+            "included_at_iso": "2020-05-03T23:40:14.713070",
+            "last_retested_at_epoch": 1588549214.71307,
+            "last_retested_at_iso": "2020-05-03T23:40:14.713070",
+            "status": "INACTIVE"
+        },
+        "ethnode-1608.btcc.com": {
+            "included_at_epoch": 1588549214.821385,
+            "included_at_iso": "2020-05-03T23:40:14.821385",
+            "last_retested_at_epoch": 1588549214.821385,
+            "last_retested_at_iso": "2020-05-03T23:40:14.821385",
+            "status": "INACTIVE"
+        },
+        "ethnode2c38f.btcc.com": {
+            "included_at_epoch": 1588549215.059947,
+            "included_at_iso": "2020-05-03T23:40:15.059947",
+            "last_retested_at_epoch": 1588549215.059947,
+            "last_retested_at_iso": "2020-05-03T23:40:15.059947",
+            "status": "INACTIVE"
+        },
+        "ethnode4c36f.btcc.com": {
+            "included_at_epoch": 1588549214.94958,
+            "included_at_iso": "2020-05-03T23:40:14.949580",
+            "last_retested_at_epoch": 1588549214.94958,
+            "last_retested_at_iso": "2020-05-03T23:40:14.949580",
+            "status": "INACTIVE"
+        },
+        "etho-solo.baikalmine.com": {
+            "included_at_epoch": 1588549215.17858,
+            "included_at_iso": "2020-05-03T23:40:15.178580",
+            "last_retested_at_epoch": 1588549215.17858,
+            "last_retested_at_iso": "2020-05-03T23:40:15.178580",
+            "status": "INACTIVE"
+        },
+        "etho-tmp.upool.in": {
+            "included_at_epoch": 1588549215.297674,
+            "included_at_iso": "2020-05-03T23:40:15.297674",
+            "last_retested_at_epoch": 1588549215.297674,
+            "last_retested_at_iso": "2020-05-03T23:40:15.297674",
+            "status": "INACTIVE"
+        },
+        "etho.baikalmine.com": {
+            "included_at_epoch": 1588549215.436155,
+            "included_at_iso": "2020-05-03T23:40:15.436155",
+            "last_retested_at_epoch": 1588549215.436155,
+            "last_retested_at_iso": "2020-05-03T23:40:15.436155",
             "status": "INACTIVE"
         }
     }
