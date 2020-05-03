@@ -54029,6 +54029,41 @@
             "last_retested_at_epoch": 1588521161.682447,
             "last_retested_at_iso": "2020-05-03T15:52:41.682447",
             "status": "INACTIVE"
+        },
+        "etc.minertopia.org": {
+            "included_at_epoch": 1588522113.24309,
+            "included_at_iso": "2020-05-03T16:08:33.243090",
+            "last_retested_at_epoch": 1588522113.24309,
+            "last_retested_at_iso": "2020-05-03T16:08:33.243090",
+            "status": "INACTIVE"
+        },
+        "etc.mining-pool.fr": {
+            "included_at_epoch": 1588522113.117995,
+            "included_at_iso": "2020-05-03T16:08:33.117995",
+            "last_retested_at_epoch": 1588522113.117995,
+            "last_retested_at_iso": "2020-05-03T16:08:33.117995",
+            "status": "INACTIVE"
+        },
+        "etc.mnshare.info": {
+            "included_at_epoch": 1588522113.361782,
+            "included_at_iso": "2020-05-03T16:08:33.361782",
+            "last_retested_at_epoch": 1588522113.361782,
+            "last_retested_at_iso": "2020-05-03T16:08:33.361782",
+            "status": "INACTIVE"
+        },
+        "etc.mole-pool.net": {
+            "included_at_epoch": 1588522113.479156,
+            "included_at_iso": "2020-05-03T16:08:33.479156",
+            "last_retested_at_epoch": 1588522113.479156,
+            "last_retested_at_iso": "2020-05-03T16:08:33.479156",
+            "status": "INACTIVE"
+        },
+        "etc.p00l.org": {
+            "included_at_epoch": 1588522113.625782,
+            "included_at_iso": "2020-05-03T16:08:33.625782",
+            "last_retested_at_epoch": 1588522113.625782,
+            "last_retested_at_iso": "2020-05-03T16:08:33.625782",
+            "status": "INACTIVE"
         }
     }
 }
