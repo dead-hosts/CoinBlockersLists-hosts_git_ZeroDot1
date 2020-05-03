@@ -54617,6 +54617,69 @@
             "last_retested_at_epoch": 1588528962.067568,
             "last_retested_at_iso": "2020-05-03T18:02:42.067568",
             "status": "INACTIVE"
+        },
+        "eth.asiapool.io": {
+            "included_at_epoch": 1588530059.350342,
+            "included_at_iso": "2020-05-03T18:20:59.350342",
+            "last_retested_at_epoch": 1588530059.350342,
+            "last_retested_at_iso": "2020-05-03T18:20:59.350342",
+            "status": "INACTIVE"
+        },
+        "eth.awesomeminers.com": {
+            "included_at_epoch": 1588530059.474909,
+            "included_at_iso": "2020-05-03T18:20:59.474909",
+            "last_retested_at_epoch": 1588530059.474909,
+            "last_retested_at_iso": "2020-05-03T18:20:59.474909",
+            "status": "INACTIVE"
+        },
+        "eth.bubblemine.com": {
+            "included_at_epoch": 1588530059.639595,
+            "included_at_iso": "2020-05-03T18:20:59.639595",
+            "last_retested_at_epoch": 1588530059.639595,
+            "last_retested_at_iso": "2020-05-03T18:20:59.639595",
+            "status": "INACTIVE"
+        },
+        "eth.bw.com": {
+            "included_at_epoch": 1588530059.748573,
+            "included_at_iso": "2020-05-03T18:20:59.748573",
+            "last_retested_at_epoch": 1588530059.748573,
+            "last_retested_at_iso": "2020-05-03T18:20:59.748573",
+            "status": "INACTIVE"
+        },
+        "eth.chileminers.cl": {
+            "included_at_epoch": 1588530059.875682,
+            "included_at_iso": "2020-05-03T18:20:59.875682",
+            "last_retested_at_epoch": 1588530059.875682,
+            "last_retested_at_iso": "2020-05-03T18:20:59.875682",
+            "status": "INACTIVE"
+        },
+        "eth.cncoin.farm": {
+            "included_at_epoch": 1588530059.993292,
+            "included_at_iso": "2020-05-03T18:20:59.993292",
+            "last_retested_at_epoch": 1588530059.993292,
+            "last_retested_at_iso": "2020-05-03T18:20:59.993292",
+            "status": "INACTIVE"
+        },
+        "eth.crazypool.ca": {
+            "included_at_epoch": 1588530060.149909,
+            "included_at_iso": "2020-05-03T18:21:00.149909",
+            "last_retested_at_epoch": 1588530060.149909,
+            "last_retested_at_iso": "2020-05-03T18:21:00.149909",
+            "status": "INACTIVE"
+        },
+        "eth.cryptopool.io": {
+            "included_at_epoch": 1588530060.29606,
+            "included_at_iso": "2020-05-03T18:21:00.296060",
+            "last_retested_at_epoch": 1588530060.29606,
+            "last_retested_at_iso": "2020-05-03T18:21:00.296060",
+            "status": "INACTIVE"
+        },
+        "eth.dev.2miners.com": {
+            "included_at_epoch": 1588530060.404567,
+            "included_at_iso": "2020-05-03T18:21:00.404567",
+            "last_retested_at_epoch": 1588530060.404567,
+            "last_retested_at_iso": "2020-05-03T18:21:00.404567",
+            "status": "INACTIVE"
         }
     }
 }
