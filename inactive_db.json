@@ -54085,6 +54085,48 @@
             "last_retested_at_epoch": 1588523047.422753,
             "last_retested_at_iso": "2020-05-03T16:24:07.422753",
             "status": "INACTIVE"
+        },
+        "etc.prod.2miners.com": {
+            "included_at_epoch": 1588524088.847044,
+            "included_at_iso": "2020-05-03T16:41:28.847044",
+            "last_retested_at_epoch": 1588524088.847044,
+            "last_retested_at_iso": "2020-05-03T16:41:28.847044",
+            "status": "INACTIVE"
+        },
+        "etc.reidocoin.com.br": {
+            "included_at_epoch": 1588524088.995975,
+            "included_at_iso": "2020-05-03T16:41:28.995975",
+            "last_retested_at_epoch": 1588524088.995975,
+            "last_retested_at_iso": "2020-05-03T16:41:28.995975",
+            "status": "INACTIVE"
+        },
+        "etc.semipool.com": {
+            "included_at_epoch": 1588524089.104092,
+            "included_at_iso": "2020-05-03T16:41:29.104092",
+            "last_retested_at_epoch": 1588524089.104092,
+            "last_retested_at_iso": "2020-05-03T16:41:29.104092",
+            "status": "INACTIVE"
+        },
+        "etc.staging.pool.whalesburg.com": {
+            "included_at_epoch": 1588524089.3719,
+            "included_at_iso": "2020-05-03T16:41:29.371900",
+            "last_retested_at_epoch": 1588524089.3719,
+            "last_retested_at_iso": "2020-05-03T16:41:29.371900",
+            "status": "INACTIVE"
+        },
+        "etc.suprnova.cc": {
+            "included_at_epoch": 1588524089.263958,
+            "included_at_iso": "2020-05-03T16:41:29.263958",
+            "last_retested_at_epoch": 1588524089.263958,
+            "last_retested_at_iso": "2020-05-03T16:41:29.263958",
+            "status": "INACTIVE"
+        },
+        "etc.thetechnicalspool.com": {
+            "included_at_epoch": 1588524089.489573,
+            "included_at_iso": "2020-05-03T16:41:29.489573",
+            "last_retested_at_epoch": 1588524089.489573,
+            "last_retested_at_iso": "2020-05-03T16:41:29.489573",
+            "status": "INACTIVE"
         }
     }
 }
