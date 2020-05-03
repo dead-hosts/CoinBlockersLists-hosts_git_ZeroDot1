@@ -53931,6 +53931,76 @@
             "last_retested_at_epoch": 1588518234.272407,
             "last_retested_at_iso": "2020-05-03T15:03:54.272407",
             "status": "INACTIVE"
+        },
+        "etc.cryptopool.online": {
+            "included_at_epoch": 1588520088.175575,
+            "included_at_iso": "2020-05-03T15:34:48.175575",
+            "last_retested_at_epoch": 1588520088.175575,
+            "last_retested_at_iso": "2020-05-03T15:34:48.175575",
+            "status": "INACTIVE"
+        },
+        "etc.cybtc.info": {
+            "included_at_epoch": 1588520088.411673,
+            "included_at_iso": "2020-05-03T15:34:48.411673",
+            "last_retested_at_epoch": 1588520088.411673,
+            "last_retested_at_iso": "2020-05-03T15:34:48.411673",
+            "status": "INACTIVE"
+        },
+        "etc.dev.2miners.com": {
+            "included_at_epoch": 1588520088.303726,
+            "included_at_iso": "2020-05-03T15:34:48.303726",
+            "last_retested_at_epoch": 1588520088.303726,
+            "last_retested_at_iso": "2020-05-03T15:34:48.303726",
+            "status": "INACTIVE"
+        },
+        "etc.drunkenpool.me": {
+            "included_at_epoch": 1588520088.540386,
+            "included_at_iso": "2020-05-03T15:34:48.540386",
+            "last_retested_at_epoch": 1588520088.540386,
+            "last_retested_at_iso": "2020-05-03T15:34:48.540386",
+            "status": "INACTIVE"
+        },
+        "etc.ehashcoins.org": {
+            "included_at_epoch": 1588520088.76812,
+            "included_at_iso": "2020-05-03T15:34:48.768120",
+            "last_retested_at_epoch": 1588520088.76812,
+            "last_retested_at_iso": "2020-05-03T15:34:48.768120",
+            "status": "INACTIVE"
+        },
+        "etc.emcd.io": {
+            "included_at_epoch": 1588520088.659253,
+            "included_at_iso": "2020-05-03T15:34:48.659253",
+            "last_retested_at_epoch": 1588520088.659253,
+            "last_retested_at_iso": "2020-05-03T15:34:48.659253",
+            "status": "INACTIVE"
+        },
+        "etc.equihash.pro": {
+            "included_at_epoch": 1588520088.876613,
+            "included_at_iso": "2020-05-03T15:34:48.876613",
+            "last_retested_at_epoch": 1588520088.876613,
+            "last_retested_at_iso": "2020-05-03T15:34:48.876613",
+            "status": "INACTIVE"
+        },
+        "etc.ethash.farm": {
+            "included_at_epoch": 1588520089.005405,
+            "included_at_iso": "2020-05-03T15:34:49.005405",
+            "last_retested_at_epoch": 1588520089.005405,
+            "last_retested_at_iso": "2020-05-03T15:34:49.005405",
+            "status": "INACTIVE"
+        },
+        "etc.etherdig.org": {
+            "included_at_epoch": 1588520089.113916,
+            "included_at_iso": "2020-05-03T15:34:49.113916",
+            "last_retested_at_epoch": 1588520089.113916,
+            "last_retested_at_iso": "2020-05-03T15:34:49.113916",
+            "status": "INACTIVE"
+        },
+        "etc.ethermine.orgetc.ethermine.org": {
+            "included_at_epoch": 1588520089.24169,
+            "included_at_iso": "2020-05-03T15:34:49.241690",
+            "last_retested_at_epoch": 1588520089.24169,
+            "last_retested_at_iso": "2020-05-03T15:34:49.241690",
+            "status": "INACTIVE"
         }
     }
 }
