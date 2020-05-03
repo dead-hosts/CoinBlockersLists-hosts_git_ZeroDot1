@@ -54540,6 +54540,48 @@
             "last_retested_at_epoch": 1588527278.12904,
             "last_retested_at_iso": "2020-05-03T17:34:38.129040",
             "status": "INACTIVE"
+        },
+        "eth-ru22.dwarfpool.com": {
+            "included_at_epoch": 1588527995.363635,
+            "included_at_iso": "2020-05-03T17:46:35.363635",
+            "last_retested_at_epoch": 1588527995.363635,
+            "last_retested_at_iso": "2020-05-03T17:46:35.363635",
+            "status": "INACTIVE"
+        },
+        "eth-rus.uleypool.com": {
+            "included_at_epoch": 1588527995.237195,
+            "included_at_iso": "2020-05-03T17:46:35.237195",
+            "last_retested_at_epoch": 1588527995.237195,
+            "last_retested_at_iso": "2020-05-03T17:46:35.237195",
+            "status": "INACTIVE"
+        },
+        "eth-sg.whalesburg.com": {
+            "included_at_epoch": 1588527995.481907,
+            "included_at_iso": "2020-05-03T17:46:35.481907",
+            "last_retested_at_epoch": 1588527995.481907,
+            "last_retested_at_iso": "2020-05-03T17:46:35.481907",
+            "status": "INACTIVE"
+        },
+        "eth-testnet.cncoin.farm": {
+            "included_at_epoch": 1588527995.6491,
+            "included_at_iso": "2020-05-03T17:46:35.649100",
+            "last_retested_at_epoch": 1588527995.6491,
+            "last_retested_at_iso": "2020-05-03T17:46:35.649100",
+            "status": "INACTIVE"
+        },
+        "eth-us.pool.sexy": {
+            "included_at_epoch": 1588527995.876513,
+            "included_at_iso": "2020-05-03T17:46:35.876513",
+            "last_retested_at_epoch": 1588527995.876513,
+            "last_retested_at_iso": "2020-05-03T17:46:35.876513",
+            "status": "INACTIVE"
+        },
+        "eth-us.suprnova.cc": {
+            "included_at_epoch": 1588527995.982993,
+            "included_at_iso": "2020-05-03T17:46:35.982993",
+            "last_retested_at_epoch": 1588527995.982993,
+            "last_retested_at_iso": "2020-05-03T17:46:35.982993",
+            "status": "INACTIVE"
         }
     }
 }
