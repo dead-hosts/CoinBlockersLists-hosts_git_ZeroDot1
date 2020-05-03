@@ -54582,6 +54582,41 @@
             "last_retested_at_epoch": 1588527995.982993,
             "last_retested_at_iso": "2020-05-03T17:46:35.982993",
             "status": "INACTIVE"
+        },
+        "eth-us1.dwarfpool.com": {
+            "included_at_epoch": 1588528961.489372,
+            "included_at_iso": "2020-05-03T18:02:41.489372",
+            "last_retested_at_epoch": 1588528961.489372,
+            "last_retested_at_iso": "2020-05-03T18:02:41.489372",
+            "status": "INACTIVE"
+        },
+        "eth-us21.dwarfpool.com": {
+            "included_at_epoch": 1588528961.683379,
+            "included_at_iso": "2020-05-03T18:02:41.683379",
+            "last_retested_at_epoch": 1588528961.683379,
+            "last_retested_at_iso": "2020-05-03T18:02:41.683379",
+            "status": "INACTIVE"
+        },
+        "eth.1stpool.org": {
+            "included_at_epoch": 1588528961.793692,
+            "included_at_iso": "2020-05-03T18:02:41.793692",
+            "last_retested_at_epoch": 1588528961.793692,
+            "last_retested_at_iso": "2020-05-03T18:02:41.793692",
+            "status": "INACTIVE"
+        },
+        "eth.alpereum.ch": {
+            "included_at_epoch": 1588528961.936799,
+            "included_at_iso": "2020-05-03T18:02:41.936799",
+            "last_retested_at_epoch": 1588528961.936799,
+            "last_retested_at_iso": "2020-05-03T18:02:41.936799",
+            "status": "INACTIVE"
+        },
+        "eth.anorak.tech": {
+            "included_at_epoch": 1588528962.067568,
+            "included_at_iso": "2020-05-03T18:02:42.067568",
+            "last_retested_at_epoch": 1588528962.067568,
+            "last_retested_at_iso": "2020-05-03T18:02:42.067568",
+            "status": "INACTIVE"
         }
     }
 }

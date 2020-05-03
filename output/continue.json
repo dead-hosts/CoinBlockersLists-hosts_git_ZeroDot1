@@ -6947,7 +6947,18 @@
             "eth-us.dwarfpool.com",
             "eth-us.f2pool.com",
             "eth-us.maxhash.org",
-            "eth-us.uupool.cn"
+            "eth-us.uupool.cn",
+            "eth-us.west1.nanopool.org",
+            "eth-us1.nanopool.org",
+            "eth-us1.hellominer.com",
+            "eth-us2.dwarfpool.com",
+            "eth-us2.nanopool.org",
+            "eth-usa.dwarfpool.com",
+            "eth.1stpool.com",
+            "eth.2miners.com",
+            "eth.2miners.ru",
+            "eth.alpha.nanopool.org",
+            "eth.altpool.pro"
         ],
         "INACTIVE": [
             "0-219215.btcc.com",
@@ -14676,7 +14687,12 @@
             "eth-sg.whalesburg.com",
             "eth-testnet.cncoin.farm",
             "eth-us.pool.sexy",
-            "eth-us.suprnova.cc"
+            "eth-us.suprnova.cc",
+            "eth-us1.dwarfpool.com",
+            "eth-us21.dwarfpool.com",
+            "eth.1stpool.org",
+            "eth.alpereum.ch",
+            "eth.anorak.tech"
         ],
         "INVALID": [
             "POOL.moneropool.com"
