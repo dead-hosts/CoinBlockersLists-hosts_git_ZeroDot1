@@ -53840,6 +53840,34 @@
             "last_retested_at_epoch": 1588514912.0373,
             "last_retested_at_iso": "2020-05-03T14:08:32.037300",
             "status": "INACTIVE"
+        },
+        "etc-pplns.cryptodig.ru": {
+            "included_at_epoch": 1588515978.374216,
+            "included_at_iso": "2020-05-03T14:26:18.374216",
+            "last_retested_at_epoch": 1588515978.374216,
+            "last_retested_at_iso": "2020-05-03T14:26:18.374216",
+            "status": "INACTIVE"
+        },
+        "etc-pplns.ehashcoins.org": {
+            "included_at_epoch": 1588515978.247999,
+            "included_at_iso": "2020-05-03T14:26:18.247999",
+            "last_retested_at_epoch": 1588515978.247999,
+            "last_retested_at_iso": "2020-05-03T14:26:18.247999",
+            "status": "INACTIVE"
+        },
+        "etc-solo-eu.wattpool.net": {
+            "included_at_epoch": 1588515978.481878,
+            "included_at_iso": "2020-05-03T14:26:18.481878",
+            "last_retested_at_epoch": 1588515978.481878,
+            "last_retested_at_iso": "2020-05-03T14:26:18.481878",
+            "status": "INACTIVE"
+        },
+        "etc-solo.cryptodig.ru": {
+            "included_at_epoch": 1588515978.629232,
+            "included_at_iso": "2020-05-03T14:26:18.629232",
+            "last_retested_at_epoch": 1588515978.629232,
+            "last_retested_at_iso": "2020-05-03T14:26:18.629232",
+            "status": "INACTIVE"
         }
     }
 }

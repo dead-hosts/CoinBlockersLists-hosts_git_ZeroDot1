@@ -6751,7 +6751,13 @@
             "etc-eu1.nanopool.org",
             "etc-eu2.nanopool.org",
             "etc-jp1.nanopool.org",
-            "etc-pool.beepool.org"
+            "etc-pool.beepool.org",
+            "etc-poolcrypto.org",
+            "etc-pool.ucrypto.net",
+            "etc-pps.baikalmine.com",
+            "etc-solo-us.wattpool.net",
+            "etc-solo.baikalmine.com",
+            "etc-solo.coinpool.ru"
         ],
         "INACTIVE": [
             "0-219215.btcc.com",
@@ -14374,7 +14380,11 @@
             "etb.btcc.com",
             "etc-api.semipool.com",
             "etc-eu.pool.sexy",
-            "etc-eu.suprnova.cc"
+            "etc-eu.suprnova.cc",
+            "etc-pplns.ehashcoins.org",
+            "etc-pplns.cryptodig.ru",
+            "etc-solo-eu.wattpool.net",
+            "etc-solo.cryptodig.ru"
         ],
         "INVALID": [
             "POOL.moneropool.com"
