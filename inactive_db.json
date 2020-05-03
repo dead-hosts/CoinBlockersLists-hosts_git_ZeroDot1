@@ -55009,6 +55009,90 @@
             "last_retested_at_epoch": 1588535387.786546,
             "last_retested_at_iso": "2020-05-03T19:49:47.786546",
             "status": "INACTIVE"
+        },
+        "ether1.crazypool.org": {
+            "included_at_epoch": 1588536663.867712,
+            "included_at_iso": "2020-05-03T20:11:03.867712",
+            "last_retested_at_epoch": 1588536663.867712,
+            "last_retested_at_iso": "2020-05-03T20:11:03.867712",
+            "status": "INACTIVE"
+        },
+        "ether1.ethash.farm": {
+            "included_at_epoch": 1588536663.992955,
+            "included_at_iso": "2020-05-03T20:11:03.992955",
+            "last_retested_at_epoch": 1588536663.992955,
+            "last_retested_at_iso": "2020-05-03T20:11:03.992955",
+            "status": "INACTIVE"
+        },
+        "ether1.ethashmines.com": {
+            "included_at_epoch": 1588536664.110822,
+            "included_at_iso": "2020-05-03T20:11:04.110822",
+            "last_retested_at_epoch": 1588536664.110822,
+            "last_retested_at_iso": "2020-05-03T20:11:04.110822",
+            "status": "INACTIVE"
+        },
+        "ether1.ovh": {
+            "included_at_epoch": 1588536664.299228,
+            "included_at_iso": "2020-05-03T20:11:04.299228",
+            "last_retested_at_epoch": 1588536664.299228,
+            "last_retested_at_iso": "2020-05-03T20:11:04.299228",
+            "status": "INACTIVE"
+        },
+        "ethercc.crypto-court.com": {
+            "included_at_epoch": 1588536664.459078,
+            "included_at_iso": "2020-05-03T20:11:04.459078",
+            "last_retested_at_epoch": 1588536664.459078,
+            "last_retested_at_iso": "2020-05-03T20:11:04.459078",
+            "status": "INACTIVE"
+        },
+        "etherdelta.biz": {
+            "included_at_epoch": 1588536664.568329,
+            "included_at_iso": "2020-05-03T20:11:04.568329",
+            "last_retested_at_epoch": 1588536664.568329,
+            "last_retested_at_iso": "2020-05-03T20:11:04.568329",
+            "status": "INACTIVE"
+        },
+        "etherdelta.click": {
+            "included_at_epoch": 1588536664.677725,
+            "included_at_iso": "2020-05-03T20:11:04.677725",
+            "last_retested_at_epoch": 1588536664.677725,
+            "last_retested_at_iso": "2020-05-03T20:11:04.677725",
+            "status": "INACTIVE"
+        },
+        "etherdelta.express": {
+            "included_at_epoch": 1588536664.785616,
+            "included_at_iso": "2020-05-03T20:11:04.785616",
+            "last_retested_at_epoch": 1588536664.785616,
+            "last_retested_at_iso": "2020-05-03T20:11:04.785616",
+            "status": "INACTIVE"
+        },
+        "etherdelta.fund": {
+            "included_at_epoch": 1588536664.894491,
+            "included_at_iso": "2020-05-03T20:11:04.894491",
+            "last_retested_at_epoch": 1588536664.894491,
+            "last_retested_at_iso": "2020-05-03T20:11:04.894491",
+            "status": "INACTIVE"
+        },
+        "etherdelta.site": {
+            "included_at_epoch": 1588536665.003202,
+            "included_at_iso": "2020-05-03T20:11:05.003202",
+            "last_retested_at_epoch": 1588536665.003202,
+            "last_retested_at_iso": "2020-05-03T20:11:05.003202",
+            "status": "INACTIVE"
+        },
+        "etherdig.org": {
+            "included_at_epoch": 1588536665.110974,
+            "included_at_iso": "2020-05-03T20:11:05.110974",
+            "last_retested_at_epoch": 1588536665.110974,
+            "last_retested_at_iso": "2020-05-03T20:11:05.110974",
+            "status": "INACTIVE"
+        },
+        "ethereum-classic.miningpool.fun": {
+            "included_at_epoch": 1588536665.249799,
+            "included_at_iso": "2020-05-03T20:11:05.249799",
+            "last_retested_at_epoch": 1588536665.249799,
+            "last_retested_at_iso": "2020-05-03T20:11:05.249799",
+            "status": "INACTIVE"
         }
     }
 }
