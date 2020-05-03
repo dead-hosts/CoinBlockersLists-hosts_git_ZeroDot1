@@ -53868,6 +53868,34 @@
             "last_retested_at_epoch": 1588515978.629232,
             "last_retested_at_iso": "2020-05-03T14:26:18.629232",
             "status": "INACTIVE"
+        },
+        "etc-us.pool.sexy": {
+            "included_at_epoch": 1588517270.171247,
+            "included_at_iso": "2020-05-03T14:47:50.171247",
+            "last_retested_at_epoch": 1588517270.171247,
+            "last_retested_at_iso": "2020-05-03T14:47:50.171247",
+            "status": "INACTIVE"
+        },
+        "etc-us.suprnova.cc": {
+            "included_at_epoch": 1588517270.042495,
+            "included_at_iso": "2020-05-03T14:47:50.042495",
+            "last_retested_at_epoch": 1588517270.042495,
+            "last_retested_at_iso": "2020-05-03T14:47:50.042495",
+            "status": "INACTIVE"
+        },
+        "etc-usa.1dig.pro": {
+            "included_at_epoch": 1588517270.300623,
+            "included_at_iso": "2020-05-03T14:47:50.300623",
+            "last_retested_at_epoch": 1588517270.300623,
+            "last_retested_at_iso": "2020-05-03T14:47:50.300623",
+            "status": "INACTIVE"
+        },
+        "etc.1dig.pro": {
+            "included_at_epoch": 1588517270.408676,
+            "included_at_iso": "2020-05-03T14:47:50.408676",
+            "last_retested_at_epoch": 1588517270.408676,
+            "last_retested_at_iso": "2020-05-03T14:47:50.408676",
+            "status": "INACTIVE"
         }
     }
 }

@@ -165,8 +165,8 @@
 0.0.0.0 09m.btcc.com
 0.0.0.0 0a709.openvpn.f2pool.com
 0.0.0.0 0a-api-4-3.btcc.com
-0.0.0.0 0a-api-4-.btcc.com
 0.0.0.0 0a-api-4.btcc.com
+0.0.0.0 0a-api-4-.btcc.com
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0.btcc.com
 0.0.0.0 0d280.openvpn.f2pool.com
@@ -1734,8 +1734,8 @@
 0.0.0.0 aeont.semipool.com
 0.0.0.0 aeon.uax.io
 0.0.0.0 aeonweb.ru
-0.0.0.0 aeonweb.semipool.com
 0.0.0.0 aeon-web.semipool.com
+0.0.0.0 aeonweb.semipool.com
 0.0.0.0 aeon.xnpool.com
 0.0.0.0 aeq.btcc.com
 0.0.0.0 aequitas.evolution-project.go.ro
@@ -2881,8 +2881,8 @@
 0.0.0.0 atus.onlycash.ddns.net
 0.0.0.0 atvaark.onlycash.ddns.net
 0.0.0.0 atzilut.onlycash.ddns.net
-0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 a.u.bitcoin.co.pt
+0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 au.btc.com
 0.0.0.0 au.coin-miners.info
 0.0.0.0 au.cryptopools.com
@@ -4920,8 +4920,8 @@
 0.0.0.0 china3m.moneroseeds.ae.org
 0.0.0.0 chinamade.coinpoolit.webhop.me
 0.0.0.0 china.mibpool.com
-0.0.0.0 china-mmm.moneroseeds.ae.org
 0.0.0.0 chinammm.moneroseeds.ae.org
+0.0.0.0 china-mmm.moneroseeds.ae.org
 0.0.0.0 china-mobile.coinpoolit.webhop.me
 0.0.0.0 chino.leo.miningpool.thruhere.net
 0.0.0.0 chip2.suprnova.cc
@@ -5817,8 +5817,8 @@
 0.0.0.0 cryptopool.tk
 0.0.0.0 cryptopool.xyz
 0.0.0.0 cryptoprepaidcardglobal.mining.sg
-0.0.0.0 crypto-prepaidcard.mining.sg
 0.0.0.0 cryptoprepaidcard.mining.sg
+0.0.0.0 crypto-prepaidcard.mining.sg
 0.0.0.0 cryptoprizepool.com
 0.0.0.0 cryptotabstart.cryptobrowser.site
 0.0.0.0 crypto.webmine.pro
@@ -7615,6 +7615,7 @@
 0.0.0.0 et9.btcc.com
 0.0.0.0 etb.btcc.com
 0.0.0.0 et.btcc.com
+0.0.0.0 etc.1dig.pro
 0.0.0.0 etc-admin.cruxpool.com
 0.0.0.0 etc-api.semipool.com
 0.0.0.0 etc-eu.pool.sexy
@@ -7624,5 +7625,8 @@
 0.0.0.0 et.cryptobrowser.site
 0.0.0.0 etc-solo.cryptodig.ru
 0.0.0.0 etc-solo-eu.wattpool.net
+0.0.0.0 etc-usa.1dig.pro
+0.0.0.0 etc-us.pool.sexy
+0.0.0.0 etc-us.suprnova.cc
 0.0.0.0 et-z.btcc.com
 0.0.0.0 _spfext.bitcoin.de
