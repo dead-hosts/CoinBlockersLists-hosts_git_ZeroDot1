@@ -53735,6 +53735,111 @@
             "last_retested_at_epoch": 1588513685.504752,
             "last_retested_at_iso": "2020-05-03T13:48:05.504752",
             "status": "INACTIVE"
+        },
+        "eszbd.onlycash.ddns.net": {
+            "included_at_epoch": 1588514910.300402,
+            "included_at_iso": "2020-05-03T14:08:30.300402",
+            "last_retested_at_epoch": 1588514910.300402,
+            "last_retested_at_iso": "2020-05-03T14:08:30.300402",
+            "status": "INACTIVE"
+        },
+        "et-z.btcc.com": {
+            "included_at_epoch": 1588514910.458791,
+            "included_at_iso": "2020-05-03T14:08:30.458791",
+            "last_retested_at_epoch": 1588514910.458791,
+            "last_retested_at_iso": "2020-05-03T14:08:30.458791",
+            "status": "INACTIVE"
+        },
+        "et.btcc.com": {
+            "included_at_epoch": 1588514910.565591,
+            "included_at_iso": "2020-05-03T14:08:30.565591",
+            "last_retested_at_epoch": 1588514910.565591,
+            "last_retested_at_iso": "2020-05-03T14:08:30.565591",
+            "status": "INACTIVE"
+        },
+        "et.cryptobrowser.site": {
+            "included_at_epoch": 1588514910.671765,
+            "included_at_iso": "2020-05-03T14:08:30.671765",
+            "last_retested_at_epoch": 1588514910.671765,
+            "last_retested_at_iso": "2020-05-03T14:08:30.671765",
+            "status": "INACTIVE"
+        },
+        "et2.btcc.com": {
+            "included_at_epoch": 1588514910.806545,
+            "included_at_iso": "2020-05-03T14:08:30.806545",
+            "last_retested_at_epoch": 1588514910.806545,
+            "last_retested_at_iso": "2020-05-03T14:08:30.806545",
+            "status": "INACTIVE"
+        },
+        "et3.btcc.com": {
+            "included_at_epoch": 1588514910.922939,
+            "included_at_iso": "2020-05-03T14:08:30.922939",
+            "last_retested_at_epoch": 1588514910.922939,
+            "last_retested_at_iso": "2020-05-03T14:08:30.922939",
+            "status": "INACTIVE"
+        },
+        "et5.btcc.com": {
+            "included_at_epoch": 1588514911.028919,
+            "included_at_iso": "2020-05-03T14:08:31.028919",
+            "last_retested_at_epoch": 1588514911.028919,
+            "last_retested_at_iso": "2020-05-03T14:08:31.028919",
+            "status": "INACTIVE"
+        },
+        "et6.btcc.com": {
+            "included_at_epoch": 1588514911.241098,
+            "included_at_iso": "2020-05-03T14:08:31.241098",
+            "last_retested_at_epoch": 1588514911.241098,
+            "last_retested_at_iso": "2020-05-03T14:08:31.241098",
+            "status": "INACTIVE"
+        },
+        "et7.btcc.com": {
+            "included_at_epoch": 1588514911.135148,
+            "included_at_iso": "2020-05-03T14:08:31.135148",
+            "last_retested_at_epoch": 1588514911.135148,
+            "last_retested_at_iso": "2020-05-03T14:08:31.135148",
+            "status": "INACTIVE"
+        },
+        "et9.btcc.com": {
+            "included_at_epoch": 1588514911.347395,
+            "included_at_iso": "2020-05-03T14:08:31.347395",
+            "last_retested_at_epoch": 1588514911.347395,
+            "last_retested_at_iso": "2020-05-03T14:08:31.347395",
+            "status": "INACTIVE"
+        },
+        "etb.btcc.com": {
+            "included_at_epoch": 1588514911.592834,
+            "included_at_iso": "2020-05-03T14:08:31.592834",
+            "last_retested_at_epoch": 1588514911.592834,
+            "last_retested_at_iso": "2020-05-03T14:08:31.592834",
+            "status": "INACTIVE"
+        },
+        "etc-admin.cruxpool.com": {
+            "included_at_epoch": 1588514911.484003,
+            "included_at_iso": "2020-05-03T14:08:31.484003",
+            "last_retested_at_epoch": 1588514911.484003,
+            "last_retested_at_iso": "2020-05-03T14:08:31.484003",
+            "status": "INACTIVE"
+        },
+        "etc-api.semipool.com": {
+            "included_at_epoch": 1588514911.720964,
+            "included_at_iso": "2020-05-03T14:08:31.720964",
+            "last_retested_at_epoch": 1588514911.720964,
+            "last_retested_at_iso": "2020-05-03T14:08:31.720964",
+            "status": "INACTIVE"
+        },
+        "etc-eu.pool.sexy": {
+            "included_at_epoch": 1588514911.917268,
+            "included_at_iso": "2020-05-03T14:08:31.917268",
+            "last_retested_at_epoch": 1588514911.917268,
+            "last_retested_at_iso": "2020-05-03T14:08:31.917268",
+            "status": "INACTIVE"
+        },
+        "etc-eu.suprnova.cc": {
+            "included_at_epoch": 1588514912.0373,
+            "included_at_iso": "2020-05-03T14:08:32.037300",
+            "last_retested_at_epoch": 1588514912.0373,
+            "last_retested_at_iso": "2020-05-03T14:08:32.037300",
+            "status": "INACTIVE"
         }
     }
 }
