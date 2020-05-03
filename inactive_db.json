@@ -54680,6 +54680,20 @@
             "last_retested_at_epoch": 1588530060.404567,
             "last_retested_at_iso": "2020-05-03T18:21:00.404567",
             "status": "INACTIVE"
+        },
+        "eth.eu.nicehash.com": {
+            "included_at_epoch": 1588530894.399241,
+            "included_at_iso": "2020-05-03T18:34:54.399241",
+            "last_retested_at_epoch": 1588530894.399241,
+            "last_retested_at_iso": "2020-05-03T18:34:54.399241",
+            "status": "INACTIVE"
+        },
+        "eth.fairpool.xyz": {
+            "included_at_epoch": 1588530894.588575,
+            "included_at_iso": "2020-05-03T18:34:54.588575",
+            "last_retested_at_epoch": 1588530894.588575,
+            "last_retested_at_iso": "2020-05-03T18:34:54.588575",
+            "status": "INACTIVE"
         }
     }
 }
