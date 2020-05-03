@@ -165,8 +165,8 @@
 0.0.0.0 09m.btcc.com
 0.0.0.0 0a709.openvpn.f2pool.com
 0.0.0.0 0a-api-4-3.btcc.com
-0.0.0.0 0a-api-4.btcc.com
 0.0.0.0 0a-api-4-.btcc.com
+0.0.0.0 0a-api-4.btcc.com
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0.btcc.com
 0.0.0.0 0d280.openvpn.f2pool.com
@@ -231,8 +231,8 @@
 0.0.0.0 10-149.openvpn.btcchina.com
 0.0.0.0 101-4.openvpn.btcchina.com
 0.0.0.0 101-50.openvpn.btcchina.com
-0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10152.openvpn.btcchina.com
+0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10179.openvpn.f2pool.com
 0.0.0.0 1017a.openvpn.btcchina.com
 0.0.0.0 101-80.openvpn.btcchina.com
@@ -1057,8 +1057,8 @@
 0.0.0.0 37593.btcc.com
 0.0.0.0 3764.openvpn.f2pool.com
 0.0.0.0 3790.openvpn.f2pool.com
-0.0.0.0 379.btcc.com
 0.0.0.0 3-79.btcc.com
+0.0.0.0 379.btcc.com
 0.0.0.0 37f0.openvpn.f2pool.com
 0.0.0.0 38773.btcc.com
 0.0.0.0 3924.evolution-project.go.ro
@@ -1734,8 +1734,8 @@
 0.0.0.0 aeont.semipool.com
 0.0.0.0 aeon.uax.io
 0.0.0.0 aeonweb.ru
-0.0.0.0 aeonweb.semipool.com
 0.0.0.0 aeon-web.semipool.com
+0.0.0.0 aeonweb.semipool.com
 0.0.0.0 aeon.xnpool.com
 0.0.0.0 aeq.btcc.com
 0.0.0.0 aequitas.evolution-project.go.ro
@@ -4223,8 +4223,8 @@
 0.0.0.0 btg.beepool.org
 0.0.0.0 btg.bitpool.ro
 0.0.0.0 btg.cloudpools.net
-0.0.0.0 btg_cn.happy2mine.com
 0.0.0.0 btgcn.happy2mine.com
+0.0.0.0 btg_cn.happy2mine.com
 0.0.0.0 btg-cn.zhash.pro
 0.0.0.0 btg.cryptopools.com
 0.0.0.0 btg.dev.2miners.com
@@ -5325,8 +5325,8 @@
 0.0.0.0 communitypool.stellite.ca
 0.0.0.0 community-staging.node.xmr.to
 0.0.0.0 community-staging.staging.xmr.to
-0.0.0.0 community-staging.xmr.to
 0.0.0.0 community.staging.xmr.to
+0.0.0.0 community-staging.xmr.to
 0.0.0.0 com.nicehash.com
 0.0.0.0 co.moneroseeds.ae.org
 0.0.0.0 compass.coinpoolit.webhop.me
@@ -6553,8 +6553,8 @@
 0.0.0.0 dgb.ltc-e.live
 0.0.0.0 dgb.p2pool.ru
 0.0.0.0 dgb-sc.p2pool.ru
-0.0.0.0 dgb-scrypt.coinstop.me
 0.0.0.0 dgb.scrypt.coinstop.me
+0.0.0.0 dgb-scrypt.coinstop.me
 0.0.0.0 dgb-scrypt-nl.hashing.space
 0.0.0.0 dgb-scrypt-sg.hashing.space
 0.0.0.0 dgb-scrypt-tx.hashing.space
@@ -7515,7 +7515,13 @@
 0.0.0.0 eqt.suprnova.cc
 0.0.0.0 equal.suprnova.cc
 0.0.0.0 equihash.altcoinix.com
+0.0.0.0 equihash.cryptomena.io
+0.0.0.0 equihash.crypto-mining-pool.com
+0.0.0.0 equihash.hashing.space
 0.0.0.0 equihash-hub.miningpoolhub.com
+0.0.0.0 equihash.mineblocks.ch
+0.0.0.0 equihash.mnshare.info
+0.0.0.0 equihash.mypool.online
 0.0.0.0 equi.minadorespool.gq
 0.0.0.0 equi.pickaxe.pro
 0.0.0.0 e-sorin.evolution-project.go.ro

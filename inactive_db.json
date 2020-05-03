@@ -53126,6 +53126,48 @@
             "last_retested_at_epoch": 1588465610.278003,
             "last_retested_at_iso": "2020-05-03T00:26:50.278003",
             "status": "INACTIVE"
+        },
+        "equihash.crypto-mining-pool.com": {
+            "included_at_epoch": 1588510093.927923,
+            "included_at_iso": "2020-05-03T12:48:13.927923",
+            "last_retested_at_epoch": 1588510093.927923,
+            "last_retested_at_iso": "2020-05-03T12:48:13.927923",
+            "status": "INACTIVE"
+        },
+        "equihash.cryptomena.io": {
+            "included_at_epoch": 1588510094.070526,
+            "included_at_iso": "2020-05-03T12:48:14.070526",
+            "last_retested_at_epoch": 1588510094.070526,
+            "last_retested_at_iso": "2020-05-03T12:48:14.070526",
+            "status": "INACTIVE"
+        },
+        "equihash.hashing.space": {
+            "included_at_epoch": 1588510094.234904,
+            "included_at_iso": "2020-05-03T12:48:14.234904",
+            "last_retested_at_epoch": 1588510094.234904,
+            "last_retested_at_iso": "2020-05-03T12:48:14.234904",
+            "status": "INACTIVE"
+        },
+        "equihash.mineblocks.ch": {
+            "included_at_epoch": 1588510094.44732,
+            "included_at_iso": "2020-05-03T12:48:14.447320",
+            "last_retested_at_epoch": 1588510094.44732,
+            "last_retested_at_iso": "2020-05-03T12:48:14.447320",
+            "status": "INACTIVE"
+        },
+        "equihash.mnshare.info": {
+            "included_at_epoch": 1588510094.669013,
+            "included_at_iso": "2020-05-03T12:48:14.669013",
+            "last_retested_at_epoch": 1588510094.669013,
+            "last_retested_at_iso": "2020-05-03T12:48:14.669013",
+            "status": "INACTIVE"
+        },
+        "equihash.mypool.online": {
+            "included_at_epoch": 1588510094.564287,
+            "included_at_iso": "2020-05-03T12:48:14.564287",
+            "last_retested_at_epoch": 1588510094.564287,
+            "last_retested_at_iso": "2020-05-03T12:48:14.564287",
+            "status": "INACTIVE"
         }
     }
 }
