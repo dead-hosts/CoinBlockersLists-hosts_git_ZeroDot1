@@ -6600,7 +6600,10 @@
             "eosc.digipools.org",
             "eosc.europool.me",
             "eoschaintech.net",
-            "eosdapp.oneeos.org"
+            "eosdapp.oneeos.org",
+            "epc.pool.mn",
+            "epeer3.nodeone.io",
+            "epeer1.nodeone.io"
         ],
         "INACTIVE": [
             "0-219215.btcc.com",
@@ -14094,7 +14097,8 @@
             "eosnode.mo",
             "eosnode.b1.ru",
             "eot.coinstop.me",
-            "eospeering.blockmatrix.net"
+            "eospeering.blockmatrix.net",
+            "epcdev-sga.onlycash.ddns.net"
         ],
         "INVALID": [
             "POOL.moneropool.com"
