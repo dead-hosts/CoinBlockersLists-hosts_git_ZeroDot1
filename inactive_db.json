@@ -54897,6 +54897,118 @@
             "last_retested_at_epoch": 1588534469.82667,
             "last_retested_at_iso": "2020-05-03T19:34:29.826670",
             "status": "INACTIVE"
+        },
+        "eth2.coin-lab.com": {
+            "included_at_epoch": 1588535385.917811,
+            "included_at_iso": "2020-05-03T19:49:45.917811",
+            "last_retested_at_epoch": 1588535385.917811,
+            "last_retested_at_iso": "2020-05-03T19:49:45.917811",
+            "status": "INACTIVE"
+        },
+        "eth2.suprnova.cc": {
+            "included_at_epoch": 1588535386.091501,
+            "included_at_iso": "2020-05-03T19:49:46.091501",
+            "last_retested_at_epoch": 1588535386.091501,
+            "last_retested_at_iso": "2020-05-03T19:49:46.091501",
+            "status": "INACTIVE"
+        },
+        "eth3.suprnova.cc": {
+            "included_at_epoch": 1588535386.209397,
+            "included_at_iso": "2020-05-03T19:49:46.209397",
+            "last_retested_at_epoch": 1588535386.209397,
+            "last_retested_at_iso": "2020-05-03T19:49:46.209397",
+            "status": "INACTIVE"
+        },
+        "eth4.btcc.com": {
+            "included_at_epoch": 1588535386.316154,
+            "included_at_iso": "2020-05-03T19:49:46.316154",
+            "last_retested_at_epoch": 1588535386.316154,
+            "last_retested_at_iso": "2020-05-03T19:49:46.316154",
+            "status": "INACTIVE"
+        },
+        "eth6.btcc.com": {
+            "included_at_epoch": 1588535386.423162,
+            "included_at_iso": "2020-05-03T19:49:46.423162",
+            "last_retested_at_epoch": 1588535386.423162,
+            "last_retested_at_iso": "2020-05-03T19:49:46.423162",
+            "status": "INACTIVE"
+        },
+        "eth7.btcc.com": {
+            "included_at_epoch": 1588535386.531126,
+            "included_at_iso": "2020-05-03T19:49:46.531126",
+            "last_retested_at_epoch": 1588535386.531126,
+            "last_retested_at_iso": "2020-05-03T19:49:46.531126",
+            "status": "INACTIVE"
+        },
+        "eth8.btcc.com": {
+            "included_at_epoch": 1588535386.63856,
+            "included_at_iso": "2020-05-03T19:49:46.638560",
+            "last_retested_at_epoch": 1588535386.63856,
+            "last_retested_at_iso": "2020-05-03T19:49:46.638560",
+            "status": "INACTIVE"
+        },
+        "ethan.suprnova.cc": {
+            "included_at_epoch": 1588535386.774129,
+            "included_at_iso": "2020-05-03T19:49:46.774129",
+            "last_retested_at_epoch": 1588535386.774129,
+            "last_retested_at_iso": "2020-05-03T19:49:46.774129",
+            "status": "INACTIVE"
+        },
+        "ethash-hub.miningpoolhub.com": {
+            "included_at_epoch": 1588535386.891865,
+            "included_at_iso": "2020-05-03T19:49:46.891865",
+            "last_retested_at_epoch": 1588535386.891865,
+            "last_retested_at_iso": "2020-05-03T19:49:46.891865",
+            "status": "INACTIVE"
+        },
+        "ethashmines.com": {
+            "included_at_epoch": 1588535387.10255,
+            "included_at_iso": "2020-05-03T19:49:47.102550",
+            "last_retested_at_epoch": 1588535387.10255,
+            "last_retested_at_iso": "2020-05-03T19:49:47.102550",
+            "status": "INACTIVE"
+        },
+        "ethc.coin-miners.info": {
+            "included_at_epoch": 1588535387.210075,
+            "included_at_iso": "2020-05-03T19:49:47.210075",
+            "last_retested_at_epoch": 1588535387.210075,
+            "last_retested_at_iso": "2020-05-03T19:49:47.210075",
+            "status": "INACTIVE"
+        },
+        "ethc.node.coin-miners.info": {
+            "included_at_epoch": 1588535387.326135,
+            "included_at_iso": "2020-05-03T19:49:47.326135",
+            "last_retested_at_epoch": 1588535387.326135,
+            "last_retested_at_iso": "2020-05-03T19:49:47.326135",
+            "status": "INACTIVE"
+        },
+        "ethclassic.faith": {
+            "included_at_epoch": 1588535387.444055,
+            "included_at_iso": "2020-05-03T19:49:47.444055",
+            "last_retested_at_epoch": 1588535387.444055,
+            "last_retested_at_iso": "2020-05-03T19:49:47.444055",
+            "status": "INACTIVE"
+        },
+        "ether.bw.com": {
+            "included_at_epoch": 1588535387.551994,
+            "included_at_iso": "2020-05-03T19:49:47.551994",
+            "last_retested_at_epoch": 1588535387.551994,
+            "last_retested_at_iso": "2020-05-03T19:49:47.551994",
+            "status": "INACTIVE"
+        },
+        "ether.hashflare.io": {
+            "included_at_epoch": 1588535387.659829,
+            "included_at_iso": "2020-05-03T19:49:47.659829",
+            "last_retested_at_epoch": 1588535387.659829,
+            "last_retested_at_iso": "2020-05-03T19:49:47.659829",
+            "status": "INACTIVE"
+        },
+        "ether1-solo.cryptodig.ru": {
+            "included_at_epoch": 1588535387.786546,
+            "included_at_iso": "2020-05-03T19:49:47.786546",
+            "last_retested_at_epoch": 1588535387.786546,
+            "last_retested_at_iso": "2020-05-03T19:49:47.786546",
+            "status": "INACTIVE"
         }
     }
 }

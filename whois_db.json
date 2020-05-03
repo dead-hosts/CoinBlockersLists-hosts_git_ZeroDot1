@@ -5989,6 +5989,16 @@
         "expiration_date": "20-nov-2020",
         "state": "future"
     },
+    "ethash.farm": {
+        "epoch": 1588896000.0,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "ethash.pro": {
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
     "ethashpool.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
