@@ -54351,6 +54351,69 @@
             "last_retested_at_epoch": 1588524965.371693,
             "last_retested_at_iso": "2020-05-03T16:56:05.371693",
             "status": "INACTIVE"
+        },
+        "eth-api.baikalmine.com": {
+            "included_at_epoch": 1588526567.201052,
+            "included_at_iso": "2020-05-03T17:22:47.201052",
+            "last_retested_at_epoch": 1588526567.201052,
+            "last_retested_at_iso": "2020-05-03T17:22:47.201052",
+            "status": "INACTIVE"
+        },
+        "eth-ar.dwarfpool.com": {
+            "included_at_epoch": 1588526567.338719,
+            "included_at_iso": "2020-05-03T17:22:47.338719",
+            "last_retested_at_epoch": 1588526567.338719,
+            "last_retested_at_iso": "2020-05-03T17:22:47.338719",
+            "status": "INACTIVE"
+        },
+        "eth-asia1.ethermine.org": {
+            "included_at_epoch": 1588526567.502286,
+            "included_at_iso": "2020-05-03T17:22:47.502286",
+            "last_retested_at_epoch": 1588526567.502286,
+            "last_retested_at_iso": "2020-05-03T17:22:47.502286",
+            "status": "INACTIVE"
+        },
+        "eth-au.suprnova.cc": {
+            "included_at_epoch": 1588526567.65344,
+            "included_at_iso": "2020-05-03T17:22:47.653440",
+            "last_retested_at_epoch": 1588526567.65344,
+            "last_retested_at_iso": "2020-05-03T17:22:47.653440",
+            "status": "INACTIVE"
+        },
+        "eth-b0b08a8367ac9764.dwarfpool.com": {
+            "included_at_epoch": 1588526567.773106,
+            "included_at_iso": "2020-05-03T17:22:47.773106",
+            "last_retested_at_epoch": 1588526567.773106,
+            "last_retested_at_iso": "2020-05-03T17:22:47.773106",
+            "status": "INACTIVE"
+        },
+        "eth-bj-prod.poolin.com": {
+            "included_at_epoch": 1588526567.88315,
+            "included_at_iso": "2020-05-03T17:22:47.883150",
+            "last_retested_at_epoch": 1588526567.88315,
+            "last_retested_at_iso": "2020-05-03T17:22:47.883150",
+            "status": "INACTIVE"
+        },
+        "eth-blocks.altpool.pro": {
+            "included_at_epoch": 1588526568.003971,
+            "included_at_iso": "2020-05-03T17:22:48.003971",
+            "last_retested_at_epoch": 1588526568.003971,
+            "last_retested_at_iso": "2020-05-03T17:22:48.003971",
+            "status": "INACTIVE"
+        },
+        "eth-br.dwarfpool.com": {
+            "included_at_epoch": 1588526568.113336,
+            "included_at_iso": "2020-05-03T17:22:48.113336",
+            "last_retested_at_epoch": 1588526568.113336,
+            "last_retested_at_iso": "2020-05-03T17:22:48.113336",
+            "status": "INACTIVE"
+        },
+        "eth-c4733c276b41a7b6.dwarfpool.com": {
+            "included_at_epoch": 1588526568.222316,
+            "included_at_iso": "2020-05-03T17:22:48.222316",
+            "last_retested_at_epoch": 1588526568.222316,
+            "last_retested_at_iso": "2020-05-03T17:22:48.222316",
+            "status": "INACTIVE"
         }
     }
 }
