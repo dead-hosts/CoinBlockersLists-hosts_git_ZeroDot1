@@ -54764,6 +54764,104 @@
             "last_retested_at_epoch": 1588532140.193438,
             "last_retested_at_iso": "2020-05-03T18:55:40.193438",
             "status": "INACTIVE"
+        },
+        "eth.node.coin-miners.info": {
+            "included_at_epoch": 1588533056.184334,
+            "included_at_iso": "2020-05-03T19:10:56.184334",
+            "last_retested_at_epoch": 1588533056.184334,
+            "last_retested_at_iso": "2020-05-03T19:10:56.184334",
+            "status": "INACTIVE"
+        },
+        "eth.p00l.org": {
+            "included_at_epoch": 1588533056.318351,
+            "included_at_iso": "2020-05-03T19:10:56.318351",
+            "last_retested_at_epoch": 1588533056.318351,
+            "last_retested_at_iso": "2020-05-03T19:10:56.318351",
+            "status": "INACTIVE"
+        },
+        "eth.penguinpool.net": {
+            "included_at_epoch": 1588533056.438515,
+            "included_at_iso": "2020-05-03T19:10:56.438515",
+            "last_retested_at_epoch": 1588533056.438515,
+            "last_retested_at_iso": "2020-05-03T19:10:56.438515",
+            "status": "INACTIVE"
+        },
+        "eth.pool.nocroom.com": {
+            "included_at_epoch": 1588533056.588781,
+            "included_at_iso": "2020-05-03T19:10:56.588781",
+            "last_retested_at_epoch": 1588533056.588781,
+            "last_retested_at_iso": "2020-05-03T19:10:56.588781",
+            "status": "INACTIVE"
+        },
+        "eth.pool2mine.com": {
+            "included_at_epoch": 1588533056.725772,
+            "included_at_iso": "2020-05-03T19:10:56.725772",
+            "last_retested_at_epoch": 1588533056.725772,
+            "last_retested_at_iso": "2020-05-03T19:10:56.725772",
+            "status": "INACTIVE"
+        },
+        "eth.poolhub.org": {
+            "included_at_epoch": 1588533056.83686,
+            "included_at_iso": "2020-05-03T19:10:56.836860",
+            "last_retested_at_epoch": 1588533056.83686,
+            "last_retested_at_iso": "2020-05-03T19:10:56.836860",
+            "status": "INACTIVE"
+        },
+        "eth.poolmate.online": {
+            "included_at_epoch": 1588533056.947673,
+            "included_at_iso": "2020-05-03T19:10:56.947673",
+            "last_retested_at_epoch": 1588533056.947673,
+            "last_retested_at_iso": "2020-05-03T19:10:56.947673",
+            "status": "INACTIVE"
+        },
+        "eth.poolmining.eu": {
+            "included_at_epoch": 1588533057.058296,
+            "included_at_iso": "2020-05-03T19:10:57.058296",
+            "last_retested_at_epoch": 1588533057.058296,
+            "last_retested_at_iso": "2020-05-03T19:10:57.058296",
+            "status": "INACTIVE"
+        },
+        "eth.pools.hppcg.com": {
+            "included_at_epoch": 1588533057.179265,
+            "included_at_iso": "2020-05-03T19:10:57.179265",
+            "last_retested_at_epoch": 1588533057.179265,
+            "last_retested_at_iso": "2020-05-03T19:10:57.179265",
+            "status": "INACTIVE"
+        },
+        "eth.prod.2miners.com": {
+            "included_at_epoch": 1588533057.310057,
+            "included_at_iso": "2020-05-03T19:10:57.310057",
+            "last_retested_at_epoch": 1588533057.310057,
+            "last_retested_at_iso": "2020-05-03T19:10:57.310057",
+            "status": "INACTIVE"
+        },
+        "eth.reidocoin.com.br": {
+            "included_at_epoch": 1588533057.430495,
+            "included_at_iso": "2020-05-03T19:10:57.430495",
+            "last_retested_at_epoch": 1588533057.430495,
+            "last_retested_at_iso": "2020-05-03T19:10:57.430495",
+            "status": "INACTIVE"
+        },
+        "eth.solomine.org": {
+            "included_at_epoch": 1588533057.595941,
+            "included_at_iso": "2020-05-03T19:10:57.595941",
+            "last_retested_at_epoch": 1588533057.595941,
+            "last_retested_at_iso": "2020-05-03T19:10:57.595941",
+            "status": "INACTIVE"
+        },
+        "eth.soyminero.es": {
+            "included_at_epoch": 1588533057.821301,
+            "included_at_iso": "2020-05-03T19:10:57.821301",
+            "last_retested_at_epoch": 1588533057.821301,
+            "last_retested_at_iso": "2020-05-03T19:10:57.821301",
+            "status": "INACTIVE"
+        },
+        "eth.spacepools.org": {
+            "included_at_epoch": 1588533057.70944,
+            "included_at_iso": "2020-05-03T19:10:57.709440",
+            "last_retested_at_epoch": 1588533057.70944,
+            "last_retested_at_iso": "2020-05-03T19:10:57.709440",
+            "status": "INACTIVE"
         }
     }
 }
