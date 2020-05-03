@@ -54127,6 +54127,230 @@
             "last_retested_at_epoch": 1588524089.489573,
             "last_retested_at_iso": "2020-05-03T16:41:29.489573",
             "status": "INACTIVE"
+        },
+        "etc.topmining.co.kr": {
+            "included_at_epoch": 1588524961.527244,
+            "included_at_iso": "2020-05-03T16:56:01.527244",
+            "last_retested_at_epoch": 1588524961.527244,
+            "last_retested_at_iso": "2020-05-03T16:56:01.527244",
+            "status": "INACTIVE"
+        },
+        "etc01.pool.warphash.com": {
+            "included_at_epoch": 1588524961.717074,
+            "included_at_iso": "2020-05-03T16:56:01.717074",
+            "last_retested_at_epoch": 1588524961.717074,
+            "last_retested_at_iso": "2020-05-03T16:56:01.717074",
+            "status": "INACTIVE"
+        },
+        "etc02.pool.warphash.com": {
+            "included_at_epoch": 1588524961.828749,
+            "included_at_iso": "2020-05-03T16:56:01.828749",
+            "last_retested_at_epoch": 1588524961.828749,
+            "last_retested_at_iso": "2020-05-03T16:56:01.828749",
+            "status": "INACTIVE"
+        },
+        "etc2.solopool.org": {
+            "included_at_epoch": 1588524961.960182,
+            "included_at_iso": "2020-05-03T16:56:01.960182",
+            "last_retested_at_epoch": 1588524961.960182,
+            "last_retested_at_iso": "2020-05-03T16:56:01.960182",
+            "status": "INACTIVE"
+        },
+        "etc2.uleypool.com": {
+            "included_at_epoch": 1588524962.082206,
+            "included_at_iso": "2020-05-03T16:56:02.082206",
+            "last_retested_at_epoch": 1588524962.082206,
+            "last_retested_at_iso": "2020-05-03T16:56:02.082206",
+            "status": "INACTIVE"
+        },
+        "etc5.btcc.com": {
+            "included_at_epoch": 1588524962.196273,
+            "included_at_iso": "2020-05-03T16:56:02.196273",
+            "last_retested_at_epoch": 1588524962.196273,
+            "last_retested_at_iso": "2020-05-03T16:56:02.196273",
+            "status": "INACTIVE"
+        },
+        "etcc.mole-pool.net": {
+            "included_at_epoch": 1588524962.354296,
+            "included_at_iso": "2020-05-03T16:56:02.354296",
+            "last_retested_at_epoch": 1588524962.354296,
+            "last_retested_at_iso": "2020-05-03T16:56:02.354296",
+            "status": "INACTIVE"
+        },
+        "etccp.mole-pool.net": {
+            "included_at_epoch": 1588524962.472253,
+            "included_at_iso": "2020-05-03T16:56:02.472253",
+            "last_retested_at_epoch": 1588524962.472253,
+            "last_retested_at_iso": "2020-05-03T16:56:02.472253",
+            "status": "INACTIVE"
+        },
+        "etcd.btcc.com": {
+            "included_at_epoch": 1588524962.581874,
+            "included_at_iso": "2020-05-03T16:56:02.581874",
+            "last_retested_at_epoch": 1588524962.581874,
+            "last_retested_at_iso": "2020-05-03T16:56:02.581874",
+            "status": "INACTIVE"
+        },
+        "etchain.gpumine.org": {
+            "included_at_epoch": 1588524962.734289,
+            "included_at_iso": "2020-05-03T16:56:02.734289",
+            "last_retested_at_epoch": 1588524962.734289,
+            "last_retested_at_iso": "2020-05-03T16:56:02.734289",
+            "status": "INACTIVE"
+        },
+        "etcpool.btcc.com": {
+            "included_at_epoch": 1588524962.852633,
+            "included_at_iso": "2020-05-03T16:56:02.852633",
+            "last_retested_at_epoch": 1588524962.852633,
+            "last_retested_at_iso": "2020-05-03T16:56:02.852633",
+            "status": "INACTIVE"
+        },
+        "etd.btcc.com": {
+            "included_at_epoch": 1588524963.054521,
+            "included_at_iso": "2020-05-03T16:56:03.054521",
+            "last_retested_at_epoch": 1588524963.054521,
+            "last_retested_at_iso": "2020-05-03T16:56:03.054521",
+            "status": "INACTIVE"
+        },
+        "etd.suprnova.cc": {
+            "included_at_epoch": 1588524963.164289,
+            "included_at_iso": "2020-05-03T16:56:03.164289",
+            "last_retested_at_epoch": 1588524963.164289,
+            "last_retested_at_iso": "2020-05-03T16:56:03.164289",
+            "status": "INACTIVE"
+        },
+        "ete.ethash.farm": {
+            "included_at_epoch": 1588524963.273886,
+            "included_at_iso": "2020-05-03T16:56:03.273886",
+            "last_retested_at_epoch": 1588524963.273886,
+            "last_retested_at_iso": "2020-05-03T16:56:03.273886",
+            "status": "INACTIVE"
+        },
+        "etf.btcc.com": {
+            "included_at_epoch": 1588524963.383459,
+            "included_at_iso": "2020-05-03T16:56:03.383459",
+            "last_retested_at_epoch": 1588524963.383459,
+            "last_retested_at_iso": "2020-05-03T16:56:03.383459",
+            "status": "INACTIVE"
+        },
+        "etg.btcc.com": {
+            "included_at_epoch": 1588524963.554598,
+            "included_at_iso": "2020-05-03T16:56:03.554598",
+            "last_retested_at_epoch": 1588524963.554598,
+            "last_retested_at_iso": "2020-05-03T16:56:03.554598",
+            "status": "INACTIVE"
+        },
+        "eth-0594471ff95a9b8e.dwarfpool.com": {
+            "included_at_epoch": 1588524963.781294,
+            "included_at_iso": "2020-05-03T16:56:03.781294",
+            "last_retested_at_epoch": 1588524963.781294,
+            "last_retested_at_iso": "2020-05-03T16:56:03.781294",
+            "status": "INACTIVE"
+        },
+        "eth-0ab36df438d34e13.dwarfpool.com": {
+            "included_at_epoch": 1588524963.663765,
+            "included_at_iso": "2020-05-03T16:56:03.663765",
+            "last_retested_at_epoch": 1588524963.663765,
+            "last_retested_at_iso": "2020-05-03T16:56:03.663765",
+            "status": "INACTIVE"
+        },
+        "eth-0f0b9d38184c1500.dwarfpool.com": {
+            "included_at_epoch": 1588524963.89096,
+            "included_at_iso": "2020-05-03T16:56:03.890960",
+            "last_retested_at_epoch": 1588524963.89096,
+            "last_retested_at_iso": "2020-05-03T16:56:03.890960",
+            "status": "INACTIVE"
+        },
+        "eth-11f6e3c2c593a561.dwarfpool.com": {
+            "included_at_epoch": 1588524963.999024,
+            "included_at_iso": "2020-05-03T16:56:03.999024",
+            "last_retested_at_epoch": 1588524963.999024,
+            "last_retested_at_iso": "2020-05-03T16:56:03.999024",
+            "status": "INACTIVE"
+        },
+        "eth-1caeda406d983dac.dwarfpool.com": {
+            "included_at_epoch": 1588524964.107557,
+            "included_at_iso": "2020-05-03T16:56:04.107557",
+            "last_retested_at_epoch": 1588524964.107557,
+            "last_retested_at_iso": "2020-05-03T16:56:04.107557",
+            "status": "INACTIVE"
+        },
+        "eth-323c12e0d425ab26.dwarfpool.com": {
+            "included_at_epoch": 1588524964.215582,
+            "included_at_iso": "2020-05-03T16:56:04.215582",
+            "last_retested_at_epoch": 1588524964.215582,
+            "last_retested_at_iso": "2020-05-03T16:56:04.215582",
+            "status": "INACTIVE"
+        },
+        "eth-652d60da89abeddc.dwarfpool.com": {
+            "included_at_epoch": 1588524964.393534,
+            "included_at_iso": "2020-05-03T16:56:04.393534",
+            "last_retested_at_epoch": 1588524964.393534,
+            "last_retested_at_iso": "2020-05-03T16:56:04.393534",
+            "status": "INACTIVE"
+        },
+        "eth-67cd8cb286a9c002.dwarfpool.com": {
+            "included_at_epoch": 1588524964.502634,
+            "included_at_iso": "2020-05-03T16:56:04.502634",
+            "last_retested_at_epoch": 1588524964.502634,
+            "last_retested_at_iso": "2020-05-03T16:56:04.502634",
+            "status": "INACTIVE"
+        },
+        "eth-712c6e5ee16deb69.dwarfpool.com": {
+            "included_at_epoch": 1588524964.611492,
+            "included_at_iso": "2020-05-03T16:56:04.611492",
+            "last_retested_at_epoch": 1588524964.611492,
+            "last_retested_at_iso": "2020-05-03T16:56:04.611492",
+            "status": "INACTIVE"
+        },
+        "eth-76f2c3c41bb7deca.dwarfpool.com": {
+            "included_at_epoch": 1588524964.827885,
+            "included_at_iso": "2020-05-03T16:56:04.827885",
+            "last_retested_at_epoch": 1588524964.827885,
+            "last_retested_at_iso": "2020-05-03T16:56:04.827885",
+            "status": "INACTIVE"
+        },
+        "eth-79b1ae6873624fa0.dwarfpool.com": {
+            "included_at_epoch": 1588524964.719887,
+            "included_at_iso": "2020-05-03T16:56:04.719887",
+            "last_retested_at_epoch": 1588524964.719887,
+            "last_retested_at_iso": "2020-05-03T16:56:04.719887",
+            "status": "INACTIVE"
+        },
+        "eth-7a94de7a7e363f07.dwarfpool.com": {
+            "included_at_epoch": 1588524964.936506,
+            "included_at_iso": "2020-05-03T16:56:04.936506",
+            "last_retested_at_epoch": 1588524964.936506,
+            "last_retested_at_iso": "2020-05-03T16:56:04.936506",
+            "status": "INACTIVE"
+        },
+        "eth-81c70740673ee91b.dwarfpool.com": {
+            "included_at_epoch": 1588524965.044977,
+            "included_at_iso": "2020-05-03T16:56:05.044977",
+            "last_retested_at_epoch": 1588524965.044977,
+            "last_retested_at_iso": "2020-05-03T16:56:05.044977",
+            "status": "INACTIVE"
+        },
+        "eth-911c7b2232ce0676.dwarfpool.com": {
+            "included_at_epoch": 1588524965.263026,
+            "included_at_iso": "2020-05-03T16:56:05.263026",
+            "last_retested_at_epoch": 1588524965.263026,
+            "last_retested_at_iso": "2020-05-03T16:56:05.263026",
+            "status": "INACTIVE"
+        },
+        "eth-admin.cruxpool.com": {
+            "included_at_epoch": 1588524965.152893,
+            "included_at_iso": "2020-05-03T16:56:05.152893",
+            "last_retested_at_epoch": 1588524965.152893,
+            "last_retested_at_iso": "2020-05-03T16:56:05.152893",
+            "status": "INACTIVE"
+        },
+        "eth-apac.suprnova.cc": {
+            "included_at_epoch": 1588524965.371693,
+            "included_at_iso": "2020-05-03T16:56:05.371693",
+            "last_retested_at_epoch": 1588524965.371693,
+            "last_retested_at_iso": "2020-05-03T16:56:05.371693",
+            "status": "INACTIVE"
         }
     }
 }
