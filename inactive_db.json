@@ -54694,6 +54694,76 @@
             "last_retested_at_epoch": 1588530894.588575,
             "last_retested_at_iso": "2020-05-03T18:34:54.588575",
             "status": "INACTIVE"
+        },
+        "eth.frostypool.com": {
+            "included_at_epoch": 1588532139.149063,
+            "included_at_iso": "2020-05-03T18:55:39.149063",
+            "last_retested_at_epoch": 1588532139.149063,
+            "last_retested_at_iso": "2020-05-03T18:55:39.149063",
+            "status": "INACTIVE"
+        },
+        "eth.gulfcoastmining.com": {
+            "included_at_epoch": 1588532139.276208,
+            "included_at_iso": "2020-05-03T18:55:39.276208",
+            "last_retested_at_epoch": 1588532139.276208,
+            "last_retested_at_iso": "2020-05-03T18:55:39.276208",
+            "status": "INACTIVE"
+        },
+        "eth.labaleine.gg": {
+            "included_at_epoch": 1588532139.477224,
+            "included_at_iso": "2020-05-03T18:55:39.477224",
+            "last_retested_at_epoch": 1588532139.477224,
+            "last_retested_at_iso": "2020-05-03T18:55:39.477224",
+            "status": "INACTIVE"
+        },
+        "eth.minecrypto.top": {
+            "included_at_epoch": 1588532139.629039,
+            "included_at_iso": "2020-05-03T18:55:39.629039",
+            "last_retested_at_epoch": 1588532139.629039,
+            "last_retested_at_iso": "2020-05-03T18:55:39.629039",
+            "status": "INACTIVE"
+        },
+        "eth.minershq.net": {
+            "included_at_epoch": 1588532139.748105,
+            "included_at_iso": "2020-05-03T18:55:39.748105",
+            "last_retested_at_epoch": 1588532139.748105,
+            "last_retested_at_iso": "2020-05-03T18:55:39.748105",
+            "status": "INACTIVE"
+        },
+        "eth.minertopia.org": {
+            "included_at_epoch": 1588532139.965525,
+            "included_at_iso": "2020-05-03T18:55:39.965525",
+            "last_retested_at_epoch": 1588532139.965525,
+            "last_retested_at_iso": "2020-05-03T18:55:39.965525",
+            "status": "INACTIVE"
+        },
+        "eth.mining-pool.fr": {
+            "included_at_epoch": 1588532139.856965,
+            "included_at_iso": "2020-05-03T18:55:39.856965",
+            "last_retested_at_epoch": 1588532139.856965,
+            "last_retested_at_iso": "2020-05-03T18:55:39.856965",
+            "status": "INACTIVE"
+        },
+        "eth.miningpoolhub.com": {
+            "included_at_epoch": 1588532140.073945,
+            "included_at_iso": "2020-05-03T18:55:40.073945",
+            "last_retested_at_epoch": 1588532140.073945,
+            "last_retested_at_iso": "2020-05-03T18:55:40.073945",
+            "status": "INACTIVE"
+        },
+        "eth.mole-pool.net": {
+            "included_at_epoch": 1588532140.302022,
+            "included_at_iso": "2020-05-03T18:55:40.302022",
+            "last_retested_at_epoch": 1588532140.302022,
+            "last_retested_at_iso": "2020-05-03T18:55:40.302022",
+            "status": "INACTIVE"
+        },
+        "eth.multipooler.com": {
+            "included_at_epoch": 1588532140.193438,
+            "included_at_iso": "2020-05-03T18:55:40.193438",
+            "last_retested_at_epoch": 1588532140.193438,
+            "last_retested_at_iso": "2020-05-03T18:55:40.193438",
+            "status": "INACTIVE"
         }
     }
 }
