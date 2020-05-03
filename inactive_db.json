@@ -53896,6 +53896,41 @@
             "last_retested_at_epoch": 1588517270.408676,
             "last_retested_at_iso": "2020-05-03T14:47:50.408676",
             "status": "INACTIVE"
+        },
+        "etc.anorak.tech": {
+            "included_at_epoch": 1588518233.76257,
+            "included_at_iso": "2020-05-03T15:03:53.762570",
+            "last_retested_at_epoch": 1588518233.76257,
+            "last_retested_at_iso": "2020-05-03T15:03:53.762570",
+            "status": "INACTIVE"
+        },
+        "etc.bkkmining.asia": {
+            "included_at_epoch": 1588518233.934795,
+            "included_at_iso": "2020-05-03T15:03:53.934795",
+            "last_retested_at_epoch": 1588518233.934795,
+            "last_retested_at_iso": "2020-05-03T15:03:53.934795",
+            "status": "INACTIVE"
+        },
+        "etc.bubblemine.com": {
+            "included_at_epoch": 1588518234.04137,
+            "included_at_iso": "2020-05-03T15:03:54.041370",
+            "last_retested_at_epoch": 1588518234.04137,
+            "last_retested_at_iso": "2020-05-03T15:03:54.041370",
+            "status": "INACTIVE"
+        },
+        "etc.bw.com": {
+            "included_at_epoch": 1588518234.147194,
+            "included_at_iso": "2020-05-03T15:03:54.147194",
+            "last_retested_at_epoch": 1588518234.147194,
+            "last_retested_at_iso": "2020-05-03T15:03:54.147194",
+            "status": "INACTIVE"
+        },
+        "etc.chileminers.cl": {
+            "included_at_epoch": 1588518234.272407,
+            "included_at_iso": "2020-05-03T15:03:54.272407",
+            "last_retested_at_epoch": 1588518234.272407,
+            "last_retested_at_iso": "2020-05-03T15:03:54.272407",
+            "status": "INACTIVE"
         }
     }
 }
