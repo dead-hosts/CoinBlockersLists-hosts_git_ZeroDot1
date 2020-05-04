@@ -56815,6 +56815,13 @@
             "last_retested_at_epoch": 1588619842.637533,
             "last_retested_at_iso": "2020-05-04T19:17:22.637533",
             "status": "INACTIVE"
+        },
+        "eu.upool.in": {
+            "included_at_epoch": 1588620603.878657,
+            "included_at_iso": "2020-05-04T19:30:03.878657",
+            "last_retested_at_epoch": 1588620603.878657,
+            "last_retested_at_iso": "2020-05-04T19:30:03.878657",
+            "status": "INACTIVE"
         }
     }
 }
