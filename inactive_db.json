@@ -55240,6 +55240,69 @@
             "last_retested_at_epoch": 1588549215.436155,
             "last_retested_at_iso": "2020-05-03T23:40:15.436155",
             "status": "INACTIVE"
+        },
+        "etho.bkkmining.asia": {
+            "included_at_epoch": 1588551738.681141,
+            "included_at_iso": "2020-05-04T00:22:18.681141",
+            "last_retested_at_epoch": 1588551738.681141,
+            "last_retested_at_iso": "2020-05-04T00:22:18.681141",
+            "status": "INACTIVE"
+        },
+        "etho.crazypool.org": {
+            "included_at_epoch": 1588551738.811271,
+            "included_at_iso": "2020-05-04T00:22:18.811271",
+            "last_retested_at_epoch": 1588551738.811271,
+            "last_retested_at_iso": "2020-05-04T00:22:18.811271",
+            "status": "INACTIVE"
+        },
+        "etho.explorer.icanmining.ru": {
+            "included_at_epoch": 1588551738.941293,
+            "included_at_iso": "2020-05-04T00:22:18.941293",
+            "last_retested_at_epoch": 1588551738.941293,
+            "last_retested_at_iso": "2020-05-04T00:22:18.941293",
+            "status": "INACTIVE"
+        },
+        "etho.farmine.net": {
+            "included_at_epoch": 1588551739.050427,
+            "included_at_iso": "2020-05-04T00:22:19.050427",
+            "last_retested_at_epoch": 1588551739.050427,
+            "last_retested_at_iso": "2020-05-04T00:22:19.050427",
+            "status": "INACTIVE"
+        },
+        "etho.miningfrance.io": {
+            "included_at_epoch": 1588551739.224208,
+            "included_at_iso": "2020-05-04T00:22:19.224208",
+            "last_retested_at_epoch": 1588551739.224208,
+            "last_retested_at_iso": "2020-05-04T00:22:19.224208",
+            "status": "INACTIVE"
+        },
+        "etho.mole-pool.net": {
+            "included_at_epoch": 1588551739.345157,
+            "included_at_iso": "2020-05-04T00:22:19.345157",
+            "last_retested_at_epoch": 1588551739.345157,
+            "last_retested_at_iso": "2020-05-04T00:22:19.345157",
+            "status": "INACTIVE"
+        },
+        "etho.protonmine.com": {
+            "included_at_epoch": 1588551739.566192,
+            "included_at_iso": "2020-05-04T00:22:19.566192",
+            "last_retested_at_epoch": 1588551739.566192,
+            "last_retested_at_iso": "2020-05-04T00:22:19.566192",
+            "status": "INACTIVE"
+        },
+        "etho.rustpool.com": {
+            "included_at_epoch": 1588551739.45574,
+            "included_at_iso": "2020-05-04T00:22:19.455740",
+            "last_retested_at_epoch": 1588551739.45574,
+            "last_retested_at_iso": "2020-05-04T00:22:19.455740",
+            "status": "INACTIVE"
+        },
+        "etho.stats.icanmining.ru": {
+            "included_at_epoch": 1588551739.686707,
+            "included_at_iso": "2020-05-04T00:22:19.686707",
+            "last_retested_at_epoch": 1588551739.686707,
+            "last_retested_at_iso": "2020-05-04T00:22:19.686707",
+            "status": "INACTIVE"
         }
     }
 }

@@ -93,8 +93,8 @@
 0.0.0.0 0-219215.btcc.com
 0.0.0.0 0224.openvpn.btcchina.com
 0.0.0.0 0-224.openvpn.f2pool.com
-0.0.0.0 0-227.openvpn.f2pool.com
 0.0.0.0 0227.openvpn.f2pool.com
+0.0.0.0 0-227.openvpn.f2pool.com
 0.0.0.0 022.openvpn.btcchina.com
 0.0.0.0 0-231.openvpn.f2pool.com
 0.0.0.0 0-232.openvpn.f2pool.com
@@ -165,8 +165,8 @@
 0.0.0.0 09m.btcc.com
 0.0.0.0 0a709.openvpn.f2pool.com
 0.0.0.0 0a-api-4-3.btcc.com
-0.0.0.0 0a-api-4.btcc.com
 0.0.0.0 0a-api-4-.btcc.com
+0.0.0.0 0a-api-4.btcc.com
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0.btcc.com
 0.0.0.0 0d280.openvpn.f2pool.com
@@ -1057,8 +1057,8 @@
 0.0.0.0 37593.btcc.com
 0.0.0.0 3764.openvpn.f2pool.com
 0.0.0.0 3790.openvpn.f2pool.com
-0.0.0.0 3-79.btcc.com
 0.0.0.0 379.btcc.com
+0.0.0.0 3-79.btcc.com
 0.0.0.0 37f0.openvpn.f2pool.com
 0.0.0.0 38773.btcc.com
 0.0.0.0 3924.evolution-project.go.ro
@@ -1734,8 +1734,8 @@
 0.0.0.0 aeont.semipool.com
 0.0.0.0 aeon.uax.io
 0.0.0.0 aeonweb.ru
-0.0.0.0 aeon-web.semipool.com
 0.0.0.0 aeonweb.semipool.com
+0.0.0.0 aeon-web.semipool.com
 0.0.0.0 aeon.xnpool.com
 0.0.0.0 aeq.btcc.com
 0.0.0.0 aequitas.evolution-project.go.ro
@@ -2034,8 +2034,8 @@
 0.0.0.0 amazon.coinpoolit.webhop.me
 0.0.0.0 amazon-confirmed.coinpoolit.webhop.me
 0.0.0.0 amazon.sberex.com
-0.0.0.0 amazonses.btcc.com
 0.0.0.0 _amazonses.btcc.com
+0.0.0.0 amazonses.btcc.com
 0.0.0.0 amazonveirfy.onlycash.ddns.net
 0.0.0.0 amaz-reception.coinpoolit.webhop.me
 0.0.0.0 amaz-wildcardrecord.coinpoolit.webhop.me
@@ -2881,8 +2881,8 @@
 0.0.0.0 atus.onlycash.ddns.net
 0.0.0.0 atvaark.onlycash.ddns.net
 0.0.0.0 atzilut.onlycash.ddns.net
-0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 a.u.bitcoin.co.pt
+0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 au.btc.com
 0.0.0.0 au.coin-miners.info
 0.0.0.0 au.cryptopools.com
@@ -4223,8 +4223,8 @@
 0.0.0.0 btg.beepool.org
 0.0.0.0 btg.bitpool.ro
 0.0.0.0 btg.cloudpools.net
-0.0.0.0 btg_cn.happy2mine.com
 0.0.0.0 btgcn.happy2mine.com
+0.0.0.0 btg_cn.happy2mine.com
 0.0.0.0 btg-cn.zhash.pro
 0.0.0.0 btg.cryptopools.com
 0.0.0.0 btg.dev.2miners.com
@@ -6553,8 +6553,8 @@
 0.0.0.0 dgb.ltc-e.live
 0.0.0.0 dgb.p2pool.ru
 0.0.0.0 dgb-sc.p2pool.ru
-0.0.0.0 dgb-scrypt.coinstop.me
 0.0.0.0 dgb.scrypt.coinstop.me
+0.0.0.0 dgb-scrypt.coinstop.me
 0.0.0.0 dgb-scrypt-nl.hashing.space
 0.0.0.0 dgb-scrypt-sg.hashing.space
 0.0.0.0 dgb-scrypt-tx.hashing.space
@@ -7792,7 +7792,16 @@
 0.0.0.0 ethnode4c36f.btcc.com
 0.0.0.0 eth.node.coin-miners.info
 0.0.0.0 etho.baikalmine.com
+0.0.0.0 etho.bkkmining.asia
+0.0.0.0 etho.crazypool.org
+0.0.0.0 etho.explorer.icanmining.ru
+0.0.0.0 etho.farmine.net
+0.0.0.0 etho.miningfrance.io
+0.0.0.0 etho.mole-pool.net
+0.0.0.0 etho.protonmine.com
+0.0.0.0 etho.rustpool.com
 0.0.0.0 etho-solo.baikalmine.com
+0.0.0.0 etho.stats.icanmining.ru
 0.0.0.0 etho-tmp.upool.in
 0.0.0.0 eth-ovh.altpool.pro
 0.0.0.0 eth.p00l.org
