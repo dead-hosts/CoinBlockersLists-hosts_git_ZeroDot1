@@ -56073,6 +56073,20 @@
             "last_retested_at_epoch": 1588568605.122764,
             "last_retested_at_iso": "2020-05-04T05:03:25.122764",
             "status": "INACTIVE"
+        },
+        "etp.prod.2miners.com": {
+            "included_at_epoch": 1588570021.25981,
+            "included_at_iso": "2020-05-04T05:27:01.259810",
+            "last_retested_at_epoch": 1588570021.25981,
+            "last_retested_at_iso": "2020-05-04T05:27:01.259810",
+            "status": "INACTIVE"
+        },
+        "etpj.btcc.com": {
+            "included_at_epoch": 1588570021.443265,
+            "included_at_iso": "2020-05-04T05:27:01.443265",
+            "last_retested_at_epoch": 1588570021.443265,
+            "last_retested_at_iso": "2020-05-04T05:27:01.443265",
+            "status": "INACTIVE"
         }
     }
 }

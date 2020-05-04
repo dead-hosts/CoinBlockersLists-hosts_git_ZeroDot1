@@ -165,8 +165,8 @@
 0.0.0.0 09m.btcc.com
 0.0.0.0 0a709.openvpn.f2pool.com
 0.0.0.0 0a-api-4-3.btcc.com
-0.0.0.0 0a-api-4.btcc.com
 0.0.0.0 0a-api-4-.btcc.com
+0.0.0.0 0a-api-4.btcc.com
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0.btcc.com
 0.0.0.0 0d280.openvpn.f2pool.com
@@ -231,8 +231,8 @@
 0.0.0.0 10-149.openvpn.btcchina.com
 0.0.0.0 101-4.openvpn.btcchina.com
 0.0.0.0 101-50.openvpn.btcchina.com
-0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10152.openvpn.btcchina.com
+0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10179.openvpn.f2pool.com
 0.0.0.0 1017a.openvpn.btcchina.com
 0.0.0.0 101-80.openvpn.btcchina.com
@@ -2034,8 +2034,8 @@
 0.0.0.0 amazon.coinpoolit.webhop.me
 0.0.0.0 amazon-confirmed.coinpoolit.webhop.me
 0.0.0.0 amazon.sberex.com
-0.0.0.0 _amazonses.btcc.com
 0.0.0.0 amazonses.btcc.com
+0.0.0.0 _amazonses.btcc.com
 0.0.0.0 amazonveirfy.onlycash.ddns.net
 0.0.0.0 amaz-reception.coinpoolit.webhop.me
 0.0.0.0 amaz-wildcardrecord.coinpoolit.webhop.me
@@ -3190,8 +3190,8 @@
 0.0.0.0 bam.node.coin-miners.info
 0.0.0.0 bam.suprnova.cc
 0.0.0.0 banana-dc.evolution-project.go.ro
-0.0.0.0 banco-bradesco.coinpoolit.webhop.me
 0.0.0.0 bancobradesco.coinpoolit.webhop.me
+0.0.0.0 banco-bradesco.coinpoolit.webhop.me
 0.0.0.0 bandboxical.safex.org
 0.0.0.0 baneasa-ap.evolution-project.go.ro
 0.0.0.0 banesvim.onlycash.ddns.net
@@ -5325,8 +5325,8 @@
 0.0.0.0 communitypool.stellite.ca
 0.0.0.0 community-staging.node.xmr.to
 0.0.0.0 community-staging.staging.xmr.to
-0.0.0.0 community.staging.xmr.to
 0.0.0.0 community-staging.xmr.to
+0.0.0.0 community.staging.xmr.to
 0.0.0.0 com.nicehash.com
 0.0.0.0 co.moneroseeds.ae.org
 0.0.0.0 compass.coinpoolit.webhop.me
@@ -6553,8 +6553,8 @@
 0.0.0.0 dgb.ltc-e.live
 0.0.0.0 dgb.p2pool.ru
 0.0.0.0 dgb-sc.p2pool.ru
-0.0.0.0 dgb-scrypt.coinstop.me
 0.0.0.0 dgb.scrypt.coinstop.me
+0.0.0.0 dgb-scrypt.coinstop.me
 0.0.0.0 dgb-scrypt-nl.hashing.space
 0.0.0.0 dgb-scrypt-sg.hashing.space
 0.0.0.0 dgb-scrypt-tx.hashing.space
@@ -7937,9 +7937,11 @@
 0.0.0.0 etp.dev.2miners.com
 0.0.0.0 etp.doma.ws
 0.0.0.0 etp.etherdig.org
+0.0.0.0 etpj.btcc.com
 0.0.0.0 etp.mole-pool.net
 0.0.0.0 etp.orchardcoins.com
 0.0.0.0 etp.p00l.org
+0.0.0.0 etp.prod.2miners.com
 0.0.0.0 etp-solo.baikalmine.com
 0.0.0.0 et-z.btcc.com
 0.0.0.0 _spfext.bitcoin.de
