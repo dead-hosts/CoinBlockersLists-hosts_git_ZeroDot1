@@ -55989,6 +55989,90 @@
             "last_retested_at_epoch": 1588567571.799321,
             "last_retested_at_iso": "2020-05-04T04:46:11.799321",
             "status": "INACTIVE"
+        },
+        "eto.miningfrance.io": {
+            "included_at_epoch": 1588568603.807903,
+            "included_at_iso": "2020-05-04T05:03:23.807903",
+            "last_retested_at_epoch": 1588568603.807903,
+            "last_retested_at_iso": "2020-05-04T05:03:23.807903",
+            "status": "INACTIVE"
+        },
+        "etok.smartmining.net": {
+            "included_at_epoch": 1588568603.677645,
+            "included_at_iso": "2020-05-04T05:03:23.677645",
+            "last_retested_at_epoch": 1588568603.677645,
+            "last_retested_at_iso": "2020-05-04T05:03:23.677645",
+            "status": "INACTIVE"
+        },
+        "etok.stratum.smartmining.net": {
+            "included_at_epoch": 1588568603.919678,
+            "included_at_iso": "2020-05-04T05:03:23.919678",
+            "last_retested_at_epoch": 1588568603.919678,
+            "last_retested_at_iso": "2020-05-04T05:03:23.919678",
+            "status": "INACTIVE"
+        },
+        "etp-solo.baikalmine.com": {
+            "included_at_epoch": 1588568604.065187,
+            "included_at_iso": "2020-05-04T05:03:24.065187",
+            "last_retested_at_epoch": 1588568604.065187,
+            "last_retested_at_iso": "2020-05-04T05:03:24.065187",
+            "status": "INACTIVE"
+        },
+        "etp.baikalmine.com": {
+            "included_at_epoch": 1588568604.219065,
+            "included_at_iso": "2020-05-04T05:03:24.219065",
+            "last_retested_at_epoch": 1588568604.219065,
+            "last_retested_at_iso": "2020-05-04T05:03:24.219065",
+            "status": "INACTIVE"
+        },
+        "etp.comining.io": {
+            "included_at_epoch": 1588568604.330735,
+            "included_at_iso": "2020-05-04T05:03:24.330735",
+            "last_retested_at_epoch": 1588568604.330735,
+            "last_retested_at_iso": "2020-05-04T05:03:24.330735",
+            "status": "INACTIVE"
+        },
+        "etp.dev.2miners.com": {
+            "included_at_epoch": 1588568604.464719,
+            "included_at_iso": "2020-05-04T05:03:24.464719",
+            "last_retested_at_epoch": 1588568604.464719,
+            "last_retested_at_iso": "2020-05-04T05:03:24.464719",
+            "status": "INACTIVE"
+        },
+        "etp.doma.ws": {
+            "included_at_epoch": 1588568604.587104,
+            "included_at_iso": "2020-05-04T05:03:24.587104",
+            "last_retested_at_epoch": 1588568604.587104,
+            "last_retested_at_iso": "2020-05-04T05:03:24.587104",
+            "status": "INACTIVE"
+        },
+        "etp.etherdig.org": {
+            "included_at_epoch": 1588568604.732357,
+            "included_at_iso": "2020-05-04T05:03:24.732357",
+            "last_retested_at_epoch": 1588568604.732357,
+            "last_retested_at_iso": "2020-05-04T05:03:24.732357",
+            "status": "INACTIVE"
+        },
+        "etp.mole-pool.net": {
+            "included_at_epoch": 1588568604.898632,
+            "included_at_iso": "2020-05-04T05:03:24.898632",
+            "last_retested_at_epoch": 1588568604.898632,
+            "last_retested_at_iso": "2020-05-04T05:03:24.898632",
+            "status": "INACTIVE"
+        },
+        "etp.orchardcoins.com": {
+            "included_at_epoch": 1588568605.011253,
+            "included_at_iso": "2020-05-04T05:03:25.011253",
+            "last_retested_at_epoch": 1588568605.011253,
+            "last_retested_at_iso": "2020-05-04T05:03:25.011253",
+            "status": "INACTIVE"
+        },
+        "etp.p00l.org": {
+            "included_at_epoch": 1588568605.122764,
+            "included_at_iso": "2020-05-04T05:03:25.122764",
+            "last_retested_at_epoch": 1588568605.122764,
+            "last_retested_at_iso": "2020-05-04T05:03:25.122764",
+            "status": "INACTIVE"
         }
     }
 }
