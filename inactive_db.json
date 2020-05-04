@@ -55877,6 +55877,83 @@
             "last_retested_at_epoch": 1588565408.772268,
             "last_retested_at_iso": "2020-05-04T04:10:08.772268",
             "status": "INACTIVE"
+        },
+        "etnc.thepiratemine.nl": {
+            "included_at_epoch": 1588566460.720657,
+            "included_at_iso": "2020-05-04T04:27:40.720657",
+            "last_retested_at_epoch": 1588566460.720657,
+            "last_retested_at_iso": "2020-05-04T04:27:40.720657",
+            "status": "INACTIVE"
+        },
+        "etnhash.net": {
+            "included_at_epoch": 1588566460.589092,
+            "included_at_iso": "2020-05-04T04:27:40.589092",
+            "last_retested_at_epoch": 1588566460.589092,
+            "last_retested_at_iso": "2020-05-04T04:27:40.589092",
+            "status": "INACTIVE"
+        },
+        "etnhashpool.tk": {
+            "included_at_epoch": 1588566460.833365,
+            "included_at_iso": "2020-05-04T04:27:40.833365",
+            "last_retested_at_epoch": 1588566460.833365,
+            "last_retested_at_iso": "2020-05-04T04:27:40.833365",
+            "status": "INACTIVE"
+        },
+        "etnminer.bubblemine.com": {
+            "included_at_epoch": 1588566460.954277,
+            "included_at_iso": "2020-05-04T04:27:40.954277",
+            "last_retested_at_epoch": 1588566460.954277,
+            "last_retested_at_iso": "2020-05-04T04:27:40.954277",
+            "status": "INACTIVE"
+        },
+        "etnold.semipool.com": {
+            "included_at_epoch": 1588566461.066111,
+            "included_at_iso": "2020-05-04T04:27:41.066111",
+            "last_retested_at_epoch": 1588566461.066111,
+            "last_retested_at_iso": "2020-05-04T04:27:41.066111",
+            "status": "INACTIVE"
+        },
+        "etnsafemode.semipool.com": {
+            "included_at_epoch": 1588566461.198139,
+            "included_at_iso": "2020-05-04T04:27:41.198139",
+            "last_retested_at_epoch": 1588566461.198139,
+            "last_retested_at_iso": "2020-05-04T04:27:41.198139",
+            "status": "INACTIVE"
+        },
+        "etnt.semipool.com": {
+            "included_at_epoch": 1588566461.308837,
+            "included_at_iso": "2020-05-04T04:27:41.308837",
+            "last_retested_at_epoch": 1588566461.308837,
+            "last_retested_at_iso": "2020-05-04T04:27:41.308837",
+            "status": "INACTIVE"
+        },
+        "etnv2test.semipool.com": {
+            "included_at_epoch": 1588566461.532184,
+            "included_at_iso": "2020-05-04T04:27:41.532184",
+            "last_retested_at_epoch": 1588566461.532184,
+            "last_retested_at_iso": "2020-05-04T04:27:41.532184",
+            "status": "INACTIVE"
+        },
+        "etnweb.semipool.com": {
+            "included_at_epoch": 1588566461.420275,
+            "included_at_iso": "2020-05-04T04:27:41.420275",
+            "last_retested_at_epoch": 1588566461.420275,
+            "last_retested_at_iso": "2020-05-04T04:27:41.420275",
+            "status": "INACTIVE"
+        },
+        "etnx.hashparty.net": {
+            "included_at_epoch": 1588566461.674855,
+            "included_at_iso": "2020-05-04T04:27:41.674855",
+            "last_retested_at_epoch": 1588566461.674855,
+            "last_retested_at_iso": "2020-05-04T04:27:41.674855",
+            "status": "INACTIVE"
+        },
+        "etnx.minexmr24.ru": {
+            "included_at_epoch": 1588566461.838235,
+            "included_at_iso": "2020-05-04T04:27:41.838235",
+            "last_retested_at_epoch": 1588566461.838235,
+            "last_retested_at_iso": "2020-05-04T04:27:41.838235",
+            "status": "INACTIVE"
         }
     }
 }
