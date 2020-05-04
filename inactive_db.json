@@ -56738,6 +56738,62 @@
             "last_retested_at_epoch": 1588608017.447723,
             "last_retested_at_iso": "2020-05-04T16:00:17.447723",
             "status": "INACTIVE"
+        },
+        "eu.pyx.cnpool.cc": {
+            "included_at_epoch": 1588608725.292644,
+            "included_at_iso": "2020-05-04T16:12:05.292644",
+            "last_retested_at_epoch": 1588608725.292644,
+            "last_retested_at_iso": "2020-05-04T16:12:05.292644",
+            "status": "INACTIVE"
+        },
+        "eu.quantumminingpool.com": {
+            "included_at_epoch": 1588608725.159334,
+            "included_at_iso": "2020-05-04T16:12:05.159334",
+            "last_retested_at_epoch": 1588608725.159334,
+            "last_retested_at_iso": "2020-05-04T16:12:05.159334",
+            "status": "INACTIVE"
+        },
+        "eu.secumine.net": {
+            "included_at_epoch": 1588608725.44958,
+            "included_at_iso": "2020-05-04T16:12:05.449580",
+            "last_retested_at_epoch": 1588608725.44958,
+            "last_retested_at_iso": "2020-05-04T16:12:05.449580",
+            "status": "INACTIVE"
+        },
+        "eu.soil.minershq.net": {
+            "included_at_epoch": 1588608725.60745,
+            "included_at_iso": "2020-05-04T16:12:05.607450",
+            "last_retested_at_epoch": 1588608725.60745,
+            "last_retested_at_iso": "2020-05-04T16:12:05.607450",
+            "status": "INACTIVE"
+        },
+        "eu.solo.etc.wattpool.net": {
+            "included_at_epoch": 1588608725.725634,
+            "included_at_iso": "2020-05-04T16:12:05.725634",
+            "last_retested_at_epoch": 1588608725.725634,
+            "last_retested_at_iso": "2020-05-04T16:12:05.725634",
+            "status": "INACTIVE"
+        },
+        "eu.solo.eth.wattpool.net": {
+            "included_at_epoch": 1588608725.842823,
+            "included_at_iso": "2020-05-04T16:12:05.842823",
+            "last_retested_at_epoch": 1588608725.842823,
+            "last_retested_at_iso": "2020-05-04T16:12:05.842823",
+            "status": "INACTIVE"
+        },
+        "eu.solo.ethereum.wattpool.net": {
+            "included_at_epoch": 1588608725.969516,
+            "included_at_iso": "2020-05-04T16:12:05.969516",
+            "last_retested_at_epoch": 1588608725.969516,
+            "last_retested_at_iso": "2020-05-04T16:12:05.969516",
+            "status": "INACTIVE"
+        },
+        "eu.stratum.grin-pool.org": {
+            "included_at_epoch": 1588608726.158074,
+            "included_at_iso": "2020-05-04T16:12:06.158074",
+            "last_retested_at_epoch": 1588608726.158074,
+            "last_retested_at_iso": "2020-05-04T16:12:06.158074",
+            "status": "INACTIVE"
         }
     }
 }
