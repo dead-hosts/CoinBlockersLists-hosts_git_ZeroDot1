@@ -56878,6 +56878,55 @@
             "last_retested_at_epoch": 1588621323.273275,
             "last_retested_at_iso": "2020-05-04T19:42:03.273275",
             "status": "INACTIVE"
+        },
+        "eu04.sushipool.com": {
+            "included_at_epoch": 1588632558.396148,
+            "included_at_iso": "2020-05-04T22:49:18.396148",
+            "last_retested_at_epoch": 1588632558.396148,
+            "last_retested_at_iso": "2020-05-04T22:49:18.396148",
+            "status": "INACTIVE"
+        },
+        "eu06.sushipool.com": {
+            "included_at_epoch": 1588632558.561555,
+            "included_at_iso": "2020-05-04T22:49:18.561555",
+            "last_retested_at_epoch": 1588632558.561555,
+            "last_retested_at_iso": "2020-05-04T22:49:18.561555",
+            "status": "INACTIVE"
+        },
+        "eu07.sushipool.com": {
+            "included_at_epoch": 1588632558.80102,
+            "included_at_iso": "2020-05-04T22:49:18.801020",
+            "last_retested_at_epoch": 1588632558.80102,
+            "last_retested_at_iso": "2020-05-04T22:49:18.801020",
+            "status": "INACTIVE"
+        },
+        "eu08.sushipool.com": {
+            "included_at_epoch": 1588632558.687063,
+            "included_at_iso": "2020-05-04T22:49:18.687063",
+            "last_retested_at_epoch": 1588632558.687063,
+            "last_retested_at_iso": "2020-05-04T22:49:18.687063",
+            "status": "INACTIVE"
+        },
+        "eu1.altminer.net": {
+            "included_at_epoch": 1588632559.054436,
+            "included_at_iso": "2020-05-04T22:49:19.054436",
+            "last_retested_at_epoch": 1588632559.054436,
+            "last_retested_at_iso": "2020-05-04T22:49:19.054436",
+            "status": "INACTIVE"
+        },
+        "eu1.antminepool.com": {
+            "included_at_epoch": 1588632559.169725,
+            "included_at_iso": "2020-05-04T22:49:19.169725",
+            "last_retested_at_epoch": 1588632559.169725,
+            "last_retested_at_iso": "2020-05-04T22:49:19.169725",
+            "status": "INACTIVE"
+        },
+        "eu1.arcpool.com": {
+            "included_at_epoch": 1588632559.282903,
+            "included_at_iso": "2020-05-04T22:49:19.282903",
+            "last_retested_at_epoch": 1588632559.282903,
+            "last_retested_at_iso": "2020-05-04T22:49:19.282903",
+            "status": "INACTIVE"
         }
     }
 }
