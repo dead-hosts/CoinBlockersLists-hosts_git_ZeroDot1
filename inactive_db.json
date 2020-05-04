@@ -55303,6 +55303,41 @@
             "last_retested_at_epoch": 1588551739.686707,
             "last_retested_at_iso": "2020-05-04T00:22:19.686707",
             "status": "INACTIVE"
+        },
+        "ethos-na.alpereum.ch": {
+            "included_at_epoch": 1588553803.533601,
+            "included_at_iso": "2020-05-04T00:56:43.533601",
+            "last_retested_at_epoch": 1588553803.533601,
+            "last_retested_at_iso": "2020-05-04T00:56:43.533601",
+            "status": "INACTIVE"
+        },
+        "ethpool1.coinmine.pl": {
+            "included_at_epoch": 1588553803.814735,
+            "included_at_iso": "2020-05-04T00:56:43.814735",
+            "last_retested_at_epoch": 1588553803.814735,
+            "last_retested_at_iso": "2020-05-04T00:56:43.814735",
+            "status": "INACTIVE"
+        },
+        "ethpool2.coinmine.pl": {
+            "included_at_epoch": 1588553803.924096,
+            "included_at_iso": "2020-05-04T00:56:43.924096",
+            "last_retested_at_epoch": 1588553803.924096,
+            "last_retested_at_iso": "2020-05-04T00:56:43.924096",
+            "status": "INACTIVE"
+        },
+        "eths.mole-pool.net": {
+            "included_at_epoch": 1588553804.033735,
+            "included_at_iso": "2020-05-04T00:56:44.033735",
+            "last_retested_at_epoch": 1588553804.033735,
+            "last_retested_at_iso": "2020-05-04T00:56:44.033735",
+            "status": "INACTIVE"
+        },
+        "ethstats.awesomeminers.com": {
+            "included_at_epoch": 1588553804.17404,
+            "included_at_iso": "2020-05-04T00:56:44.174040",
+            "last_retested_at_epoch": 1588553804.17404,
+            "last_retested_at_iso": "2020-05-04T00:56:44.174040",
+            "status": "INACTIVE"
         }
     }
 }
