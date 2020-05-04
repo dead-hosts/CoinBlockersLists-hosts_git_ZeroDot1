@@ -55380,6 +55380,69 @@
             "last_retested_at_epoch": 1588559365.632511,
             "last_retested_at_iso": "2020-05-04T02:29:25.632511",
             "status": "INACTIVE"
+        },
+        "etn-80.cryptominingpool.eu": {
+            "included_at_epoch": 1588561069.314956,
+            "included_at_iso": "2020-05-04T02:57:49.314956",
+            "last_retested_at_epoch": 1588561069.314956,
+            "last_retested_at_iso": "2020-05-04T02:57:49.314956",
+            "status": "INACTIVE"
+        },
+        "etn-api.multipools.club": {
+            "included_at_epoch": 1588561069.442213,
+            "included_at_iso": "2020-05-04T02:57:49.442213",
+            "last_retested_at_epoch": 1588561069.442213,
+            "last_retested_at_iso": "2020-05-04T02:57:49.442213",
+            "status": "INACTIVE"
+        },
+        "etn-api.semipool.com": {
+            "included_at_epoch": 1588561069.660803,
+            "included_at_iso": "2020-05-04T02:57:49.660803",
+            "last_retested_at_epoch": 1588561069.660803,
+            "last_retested_at_iso": "2020-05-04T02:57:49.660803",
+            "status": "INACTIVE"
+        },
+        "etn-api.suprnova.cc": {
+            "included_at_epoch": 1588561069.551683,
+            "included_at_iso": "2020-05-04T02:57:49.551683",
+            "last_retested_at_epoch": 1588561069.551683,
+            "last_retested_at_iso": "2020-05-04T02:57:49.551683",
+            "status": "INACTIVE"
+        },
+        "etn-api.uax.io": {
+            "included_at_epoch": 1588561069.780282,
+            "included_at_iso": "2020-05-04T02:57:49.780282",
+            "last_retested_at_epoch": 1588561069.780282,
+            "last_retested_at_iso": "2020-05-04T02:57:49.780282",
+            "status": "INACTIVE"
+        },
+        "etn-bj-prod.poolin.com": {
+            "included_at_epoch": 1588561069.8995,
+            "included_at_iso": "2020-05-04T02:57:49.899500",
+            "last_retested_at_epoch": 1588561069.8995,
+            "last_retested_at_iso": "2020-05-04T02:57:49.899500",
+            "status": "INACTIVE"
+        },
+        "etn-bj.ss.poolin.com": {
+            "included_at_epoch": 1588561070.117836,
+            "included_at_iso": "2020-05-04T02:57:50.117836",
+            "last_retested_at_epoch": 1588561070.117836,
+            "last_retested_at_iso": "2020-05-04T02:57:50.117836",
+            "status": "INACTIVE"
+        },
+        "etn-eu.coinblockers.com": {
+            "included_at_epoch": 1588561070.008549,
+            "included_at_iso": "2020-05-04T02:57:50.008549",
+            "last_retested_at_epoch": 1588561070.008549,
+            "last_retested_at_iso": "2020-05-04T02:57:50.008549",
+            "status": "INACTIVE"
+        },
+        "etn-eu.cryptominingpool.eu": {
+            "included_at_epoch": 1588561070.227023,
+            "included_at_iso": "2020-05-04T02:57:50.227023",
+            "last_retested_at_epoch": 1588561070.227023,
+            "last_retested_at_iso": "2020-05-04T02:57:50.227023",
+            "status": "INACTIVE"
         }
     }
 }
