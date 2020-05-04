@@ -56626,6 +56626,34 @@
             "last_retested_at_epoch": 1588598803.357803,
             "last_retested_at_iso": "2020-05-04T13:26:43.357803",
             "status": "INACTIVE"
+        },
+        "eu.mtred.com": {
+            "included_at_epoch": 1588607290.566074,
+            "included_at_iso": "2020-05-04T15:48:10.566074",
+            "last_retested_at_epoch": 1588607290.566074,
+            "last_retested_at_iso": "2020-05-04T15:48:10.566074",
+            "status": "INACTIVE"
+        },
+        "eu.multipool.es": {
+            "included_at_epoch": 1588607290.706188,
+            "included_at_iso": "2020-05-04T15:48:10.706188",
+            "last_retested_at_epoch": 1588607290.706188,
+            "last_retested_at_iso": "2020-05-04T15:48:10.706188",
+            "status": "INACTIVE"
+        },
+        "eu.mwgrinpool.com": {
+            "included_at_epoch": 1588607290.929575,
+            "included_at_iso": "2020-05-04T15:48:10.929575",
+            "last_retested_at_epoch": 1588607290.929575,
+            "last_retested_at_iso": "2020-05-04T15:48:10.929575",
+            "status": "INACTIVE"
+        },
+        "eu.myzen.cash": {
+            "included_at_epoch": 1588607290.817946,
+            "included_at_iso": "2020-05-04T15:48:10.817946",
+            "last_retested_at_epoch": 1588607290.817946,
+            "last_retested_at_iso": "2020-05-04T15:48:10.817946",
+            "status": "INACTIVE"
         }
     }
 }
