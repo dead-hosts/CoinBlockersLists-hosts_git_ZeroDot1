@@ -56794,6 +56794,27 @@
             "last_retested_at_epoch": 1588608726.158074,
             "last_retested_at_iso": "2020-05-04T16:12:06.158074",
             "status": "INACTIVE"
+        },
+        "eu.stratum.node.viaxmr.com": {
+            "included_at_epoch": 1588619842.507624,
+            "included_at_iso": "2020-05-04T19:17:22.507624",
+            "last_retested_at_epoch": 1588619842.507624,
+            "last_retested_at_iso": "2020-05-04T19:17:22.507624",
+            "status": "INACTIVE"
+        },
+        "eu.stratum.viaxmr.com": {
+            "included_at_epoch": 1588619842.749466,
+            "included_at_iso": "2020-05-04T19:17:22.749466",
+            "last_retested_at_epoch": 1588619842.749466,
+            "last_retested_at_iso": "2020-05-04T19:17:22.749466",
+            "status": "INACTIVE"
+        },
+        "eu.suprnova.cc": {
+            "included_at_epoch": 1588619842.637533,
+            "included_at_iso": "2020-05-04T19:17:22.637533",
+            "last_retested_at_epoch": 1588619842.637533,
+            "last_retested_at_iso": "2020-05-04T19:17:22.637533",
+            "status": "INACTIVE"
         }
     }
 }

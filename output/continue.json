@@ -7448,7 +7448,10 @@
             "eu.stratum.antpool.com",
             "eu.stratum.dedicatedpool.com",
             "eu.stratum.bravo-mining.com",
-            "eu.stratum.garlicpool.org"
+            "eu.stratum.garlicpool.org",
+            "eu.stratum.slushpool.com",
+            "eu.sushipool.com",
+            "eu.swap.mine.krunzy.com"
         ],
         "INACTIVE": [
             "0-219215.btcc.com",
@@ -15495,7 +15498,10 @@
             "eu.solo.etc.wattpool.net",
             "eu.solo.eth.wattpool.net",
             "eu.solo.ethereum.wattpool.net",
-            "eu.stratum.grin-pool.org"
+            "eu.stratum.grin-pool.org",
+            "eu.stratum.node.viaxmr.com",
+            "eu.suprnova.cc",
+            "eu.stratum.viaxmr.com"
         ],
         "INVALID": [
             "POOL.moneropool.com"
