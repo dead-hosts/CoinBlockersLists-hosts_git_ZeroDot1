@@ -56290,6 +56290,20 @@
             "last_retested_at_epoch": 1588587326.662688,
             "last_retested_at_iso": "2020-05-04T10:15:26.662688",
             "status": "INACTIVE"
+        },
+        "eu-stratum.node.viaxmr.com": {
+            "included_at_epoch": 1588588289.660657,
+            "included_at_iso": "2020-05-04T10:31:29.660657",
+            "last_retested_at_epoch": 1588588289.660657,
+            "last_retested_at_iso": "2020-05-04T10:31:29.660657",
+            "status": "INACTIVE"
+        },
+        "eu-stratum.viaxmr.com": {
+            "included_at_epoch": 1588588289.531219,
+            "included_at_iso": "2020-05-04T10:31:29.531219",
+            "last_retested_at_epoch": 1588588289.531219,
+            "last_retested_at_iso": "2020-05-04T10:31:29.531219",
+            "status": "INACTIVE"
         }
     }
 }
