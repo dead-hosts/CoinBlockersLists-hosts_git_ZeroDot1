@@ -56409,6 +56409,146 @@
             "last_retested_at_epoch": 1588593806.313007,
             "last_retested_at_iso": "2020-05-04T12:03:26.313007",
             "status": "INACTIVE"
+        },
+        "eu.centralcavern.uk": {
+            "included_at_epoch": 1588594521.146541,
+            "included_at_iso": "2020-05-04T12:15:21.146541",
+            "last_retested_at_epoch": 1588594521.146541,
+            "last_retested_at_iso": "2020-05-04T12:15:21.146541",
+            "status": "INACTIVE"
+        },
+        "eu.cfcdist.loan": {
+            "included_at_epoch": 1588594521.274992,
+            "included_at_iso": "2020-05-04T12:15:21.274992",
+            "last_retested_at_epoch": 1588594521.274992,
+            "last_retested_at_iso": "2020-05-04T12:15:21.274992",
+            "status": "INACTIVE"
+        },
+        "eu.cfcnet.to": {
+            "included_at_epoch": 1588594521.386362,
+            "included_at_iso": "2020-05-04T12:15:21.386362",
+            "last_retested_at_epoch": 1588594521.386362,
+            "last_retested_at_iso": "2020-05-04T12:15:21.386362",
+            "status": "INACTIVE"
+        },
+        "eu.cfcnet.top": {
+            "included_at_epoch": 1588594521.608011,
+            "included_at_iso": "2020-05-04T12:15:21.608011",
+            "last_retested_at_epoch": 1588594521.608011,
+            "last_retested_at_iso": "2020-05-04T12:15:21.608011",
+            "status": "INACTIVE"
+        },
+        "eu.classicpool.io": {
+            "included_at_epoch": 1588594521.497158,
+            "included_at_iso": "2020-05-04T12:15:21.497158",
+            "last_retested_at_epoch": 1588594521.497158,
+            "last_retested_at_iso": "2020-05-04T12:15:21.497158",
+            "status": "INACTIVE"
+        },
+        "eu.coin-miners.info": {
+            "included_at_epoch": 1588594521.73927,
+            "included_at_iso": "2020-05-04T12:15:21.739270",
+            "last_retested_at_epoch": 1588594521.73927,
+            "last_retested_at_iso": "2020-05-04T12:15:21.739270",
+            "status": "INACTIVE"
+        },
+        "eu.coin_ticker.cnpool.cc": {
+            "included_at_epoch": 1588594521.851089,
+            "included_at_iso": "2020-05-04T12:15:21.851089",
+            "last_retested_at_epoch": 1588594521.851089,
+            "last_retested_at_iso": "2020-05-04T12:15:21.851089",
+            "status": "INACTIVE"
+        },
+        "eu.coinium.org": {
+            "included_at_epoch": 1588594521.961862,
+            "included_at_iso": "2020-05-04T12:15:21.961862",
+            "last_retested_at_epoch": 1588594521.961862,
+            "last_retested_at_iso": "2020-05-04T12:15:21.961862",
+            "status": "INACTIVE"
+        },
+        "eu.coinmine.pl": {
+            "included_at_epoch": 1588594522.094294,
+            "included_at_iso": "2020-05-04T12:15:22.094294",
+            "last_retested_at_epoch": 1588594522.094294,
+            "last_retested_at_iso": "2020-05-04T12:15:22.094294",
+            "status": "INACTIVE"
+        },
+        "eu.coorp.io": {
+            "included_at_epoch": 1588594522.225898,
+            "included_at_iso": "2020-05-04T12:15:22.225898",
+            "last_retested_at_epoch": 1588594522.225898,
+            "last_retested_at_iso": "2020-05-04T12:15:22.225898",
+            "status": "INACTIVE"
+        },
+        "eu.cryptopoolpond.com": {
+            "included_at_epoch": 1588594522.378089,
+            "included_at_iso": "2020-05-04T12:15:22.378089",
+            "last_retested_at_epoch": 1588594522.378089,
+            "last_retested_at_iso": "2020-05-04T12:15:22.378089",
+            "status": "INACTIVE"
+        },
+        "eu.dero.cnpool.cc": {
+            "included_at_epoch": 1588594522.623414,
+            "included_at_iso": "2020-05-04T12:15:22.623414",
+            "last_retested_at_epoch": 1588594522.623414,
+            "last_retested_at_iso": "2020-05-04T12:15:22.623414",
+            "status": "INACTIVE"
+        },
+        "eu.digitalminingexperts.com": {
+            "included_at_epoch": 1588594522.511025,
+            "included_at_iso": "2020-05-04T12:15:22.511025",
+            "last_retested_at_epoch": 1588594522.511025,
+            "last_retested_at_iso": "2020-05-04T12:15:22.511025",
+            "status": "INACTIVE"
+        },
+        "eu.drk.p2pool.pl": {
+            "included_at_epoch": 1588594522.847354,
+            "included_at_iso": "2020-05-04T12:15:22.847354",
+            "last_retested_at_epoch": 1588594522.847354,
+            "last_retested_at_iso": "2020-05-04T12:15:22.847354",
+            "status": "INACTIVE"
+        },
+        "eu.dwarfpool.com": {
+            "included_at_epoch": 1588594522.735699,
+            "included_at_iso": "2020-05-04T12:15:22.735699",
+            "last_retested_at_epoch": 1588594522.735699,
+            "last_retested_at_iso": "2020-05-04T12:15:22.735699",
+            "status": "INACTIVE"
+        },
+        "eu.eclipsemc.com": {
+            "included_at_epoch": 1588594522.969462,
+            "included_at_iso": "2020-05-04T12:15:22.969462",
+            "last_retested_at_epoch": 1588594522.969462,
+            "last_retested_at_iso": "2020-05-04T12:15:22.969462",
+            "status": "INACTIVE"
+        },
+        "eu.fairmine.pro": {
+            "included_at_epoch": 1588594523.16463,
+            "included_at_iso": "2020-05-04T12:15:23.164630",
+            "last_retested_at_epoch": 1588594523.16463,
+            "last_retested_at_iso": "2020-05-04T12:15:23.164630",
+            "status": "INACTIVE"
+        },
+        "eu.focus-pool.com": {
+            "included_at_epoch": 1588594523.296667,
+            "included_at_iso": "2020-05-04T12:15:23.296667",
+            "last_retested_at_epoch": 1588594523.296667,
+            "last_retested_at_iso": "2020-05-04T12:15:23.296667",
+            "status": "INACTIVE"
+        },
+        "eu.ftc.p2pool.pl": {
+            "included_at_epoch": 1588594523.428224,
+            "included_at_iso": "2020-05-04T12:15:23.428224",
+            "last_retested_at_epoch": 1588594523.428224,
+            "last_retested_at_iso": "2020-05-04T12:15:23.428224",
+            "status": "INACTIVE"
+        },
+        "eu.geekcash.org": {
+            "included_at_epoch": 1588594523.539412,
+            "included_at_iso": "2020-05-04T12:15:23.539412",
+            "last_retested_at_epoch": 1588594523.539412,
+            "last_retested_at_iso": "2020-05-04T12:15:23.539412",
+            "status": "INACTIVE"
         }
     }
 }
