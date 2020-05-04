@@ -56353,6 +56353,62 @@
             "last_retested_at_epoch": 1588593036.692123,
             "last_retested_at_iso": "2020-05-04T11:50:36.692123",
             "status": "INACTIVE"
+        },
+        "eu.bitclubpool.com": {
+            "included_at_epoch": 1588593805.558586,
+            "included_at_iso": "2020-05-04T12:03:25.558586",
+            "last_retested_at_epoch": 1588593805.558586,
+            "last_retested_at_iso": "2020-05-04T12:03:25.558586",
+            "status": "INACTIVE"
+        },
+        "eu.black-pool.net": {
+            "included_at_epoch": 1588593805.690221,
+            "included_at_iso": "2020-05-04T12:03:25.690221",
+            "last_retested_at_epoch": 1588593805.690221,
+            "last_retested_at_iso": "2020-05-04T12:03:25.690221",
+            "status": "INACTIVE"
+        },
+        "eu.bsm.cryptopool.space": {
+            "included_at_epoch": 1588593805.842207,
+            "included_at_iso": "2020-05-04T12:03:25.842207",
+            "last_retested_at_epoch": 1588593805.842207,
+            "last_retested_at_iso": "2020-05-04T12:03:25.842207",
+            "status": "INACTIVE"
+        },
+        "eu.btc.p2pool.pl": {
+            "included_at_epoch": 1588593806.073411,
+            "included_at_iso": "2020-05-04T12:03:26.073411",
+            "last_retested_at_epoch": 1588593806.073411,
+            "last_retested_at_iso": "2020-05-04T12:03:26.073411",
+            "status": "INACTIVE"
+        },
+        "eu.btc.pool.minergate.com": {
+            "included_at_epoch": 1588593805.957657,
+            "included_at_iso": "2020-05-04T12:03:25.957657",
+            "last_retested_at_epoch": 1588593805.957657,
+            "last_retested_at_iso": "2020-05-04T12:03:25.957657",
+            "status": "INACTIVE"
+        },
+        "eu.btcc.com": {
+            "included_at_epoch": 1588593806.198106,
+            "included_at_iso": "2020-05-04T12:03:26.198106",
+            "last_retested_at_epoch": 1588593806.198106,
+            "last_retested_at_iso": "2020-05-04T12:03:26.198106",
+            "status": "INACTIVE"
+        },
+        "eu.btcpmine.org": {
+            "included_at_epoch": 1588593806.427866,
+            "included_at_iso": "2020-05-04T12:03:26.427866",
+            "last_retested_at_epoch": 1588593806.427866,
+            "last_retested_at_iso": "2020-05-04T12:03:26.427866",
+            "status": "INACTIVE"
+        },
+        "eu.btcprivate.pro": {
+            "included_at_epoch": 1588593806.313007,
+            "included_at_iso": "2020-05-04T12:03:26.313007",
+            "last_retested_at_epoch": 1588593806.313007,
+            "last_retested_at_iso": "2020-05-04T12:03:26.313007",
+            "status": "INACTIVE"
         }
     }
 }
