@@ -56234,6 +56234,62 @@
             "last_retested_at_epoch": 1588586598.641849,
             "last_retested_at_iso": "2020-05-04T10:03:18.641849",
             "status": "INACTIVE"
+        },
+        "eu-eth.chileminers.cl": {
+            "included_at_epoch": 1588587325.580441,
+            "included_at_iso": "2020-05-04T10:15:25.580441",
+            "last_retested_at_epoch": 1588587325.580441,
+            "last_retested_at_iso": "2020-05-04T10:15:25.580441",
+            "status": "INACTIVE"
+        },
+        "eu-lowdiff.classicpool.io": {
+            "included_at_epoch": 1588587325.814644,
+            "included_at_iso": "2020-05-04T10:15:25.814644",
+            "last_retested_at_epoch": 1588587325.814644,
+            "last_retested_at_iso": "2020-05-04T10:15:25.814644",
+            "status": "INACTIVE"
+        },
+        "eu-ncp.4miner.me": {
+            "included_at_epoch": 1588587326.08913,
+            "included_at_iso": "2020-05-04T10:15:26.089130",
+            "last_retested_at_epoch": 1588587326.08913,
+            "last_retested_at_iso": "2020-05-04T10:15:26.089130",
+            "status": "INACTIVE"
+        },
+        "eu-new.nicehash.com": {
+            "included_at_epoch": 1588587325.977286,
+            "included_at_iso": "2020-05-04T10:15:25.977286",
+            "last_retested_at_epoch": 1588587325.977286,
+            "last_retested_at_iso": "2020-05-04T10:15:25.977286",
+            "status": "INACTIVE"
+        },
+        "eu-new.nicehash.com.nicehash.com": {
+            "included_at_epoch": 1588587326.200372,
+            "included_at_iso": "2020-05-04T10:15:26.200372",
+            "last_retested_at_epoch": 1588587326.200372,
+            "last_retested_at_iso": "2020-05-04T10:15:26.200372",
+            "status": "INACTIVE"
+        },
+        "eu-pool.bitcoinzguiding.ovh": {
+            "included_at_epoch": 1588587326.332067,
+            "included_at_iso": "2020-05-04T10:15:26.332067",
+            "last_retested_at_epoch": 1588587326.332067,
+            "last_retested_at_iso": "2020-05-04T10:15:26.332067",
+            "status": "INACTIVE"
+        },
+        "eu-script.sushipool.com": {
+            "included_at_epoch": 1588587326.527044,
+            "included_at_iso": "2020-05-04T10:15:26.527044",
+            "last_retested_at_epoch": 1588587326.527044,
+            "last_retested_at_iso": "2020-05-04T10:15:26.527044",
+            "status": "INACTIVE"
+        },
+        "eu-stratum.mwgrinpool.com": {
+            "included_at_epoch": 1588587326.662688,
+            "included_at_iso": "2020-05-04T10:15:26.662688",
+            "last_retested_at_epoch": 1588587326.662688,
+            "last_retested_at_iso": "2020-05-04T10:15:26.662688",
+            "status": "INACTIVE"
         }
     }
 }
