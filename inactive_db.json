@@ -56654,6 +56654,90 @@
             "last_retested_at_epoch": 1588607290.817946,
             "last_retested_at_iso": "2020-05-04T15:48:10.817946",
             "status": "INACTIVE"
+        },
+        "eu.netcodepool.org": {
+            "included_at_epoch": 1588608016.010292,
+            "included_at_iso": "2020-05-04T16:00:16.010292",
+            "last_retested_at_epoch": 1588608016.010292,
+            "last_retested_at_iso": "2020-05-04T16:00:16.010292",
+            "status": "INACTIVE"
+        },
+        "eu.nicehash.com": {
+            "included_at_epoch": 1588608016.155029,
+            "included_at_iso": "2020-05-04T16:00:16.155029",
+            "last_retested_at_epoch": 1588608016.155029,
+            "last_retested_at_iso": "2020-05-04T16:00:16.155029",
+            "status": "INACTIVE"
+        },
+        "eu.nimiqpool.com": {
+            "included_at_epoch": 1588608016.289055,
+            "included_at_iso": "2020-05-04T16:00:16.289055",
+            "last_retested_at_epoch": 1588608016.289055,
+            "last_retested_at_iso": "2020-05-04T16:00:16.289055",
+            "status": "INACTIVE"
+        },
+        "eu.node.bohemianpool.com": {
+            "included_at_epoch": 1588608016.515634,
+            "included_at_iso": "2020-05-04T16:00:16.515634",
+            "last_retested_at_epoch": 1588608016.515634,
+            "last_retested_at_iso": "2020-05-04T16:00:16.515634",
+            "status": "INACTIVE"
+        },
+        "eu.node.coin-miners.info": {
+            "included_at_epoch": 1588608016.402455,
+            "included_at_iso": "2020-05-04T16:00:16.402455",
+            "last_retested_at_epoch": 1588608016.402455,
+            "last_retested_at_iso": "2020-05-04T16:00:16.402455",
+            "status": "INACTIVE"
+        },
+        "eu.node.moneroworld.com": {
+            "included_at_epoch": 1588608016.639208,
+            "included_at_iso": "2020-05-04T16:00:16.639208",
+            "last_retested_at_epoch": 1588608016.639208,
+            "last_retested_at_iso": "2020-05-04T16:00:16.639208",
+            "status": "INACTIVE"
+        },
+        "eu.node.nimiqpool.com": {
+            "included_at_epoch": 1588608016.865623,
+            "included_at_iso": "2020-05-04T16:00:16.865623",
+            "last_retested_at_epoch": 1588608016.865623,
+            "last_retested_at_iso": "2020-05-04T16:00:16.865623",
+            "status": "INACTIVE"
+        },
+        "eu.node.turtlepool.space": {
+            "included_at_epoch": 1588608016.753114,
+            "included_at_iso": "2020-05-04T16:00:16.753114",
+            "last_retested_at_epoch": 1588608016.753114,
+            "last_retested_at_iso": "2020-05-04T16:00:16.753114",
+            "status": "INACTIVE"
+        },
+        "eu.p2pool.pl": {
+            "included_at_epoch": 1588608017.116227,
+            "included_at_iso": "2020-05-04T16:00:17.116227",
+            "last_retested_at_epoch": 1588608017.116227,
+            "last_retested_at_iso": "2020-05-04T16:00:17.116227",
+            "status": "INACTIVE"
+        },
+        "eu.p2pool.site": {
+            "included_at_epoch": 1588608016.999729,
+            "included_at_iso": "2020-05-04T16:00:16.999729",
+            "last_retested_at_epoch": 1588608016.999729,
+            "last_retested_at_iso": "2020-05-04T16:00:16.999729",
+            "status": "INACTIVE"
+        },
+        "eu.pool.safexnews.net": {
+            "included_at_epoch": 1588608017.310989,
+            "included_at_iso": "2020-05-04T16:00:17.310989",
+            "last_retested_at_epoch": 1588608017.310989,
+            "last_retested_at_iso": "2020-05-04T16:00:17.310989",
+            "status": "INACTIVE"
+        },
+        "eu.pool.sumokoin-pool.com": {
+            "included_at_epoch": 1588608017.447723,
+            "included_at_iso": "2020-05-04T16:00:17.447723",
+            "last_retested_at_epoch": 1588608017.447723,
+            "last_retested_at_iso": "2020-05-04T16:00:17.447723",
+            "status": "INACTIVE"
         }
     }
 }
