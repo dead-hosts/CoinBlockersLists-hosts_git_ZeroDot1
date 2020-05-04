@@ -56570,6 +56570,62 @@
             "last_retested_at_epoch": 1588598069.723409,
             "last_retested_at_iso": "2020-05-04T13:14:29.723409",
             "status": "INACTIVE"
+        },
+        "eu.madmining.club": {
+            "included_at_epoch": 1588598802.473456,
+            "included_at_iso": "2020-05-04T13:26:42.473456",
+            "last_retested_at_epoch": 1588598802.473456,
+            "last_retested_at_iso": "2020-05-04T13:26:42.473456",
+            "status": "INACTIVE"
+        },
+        "eu.minermore.com": {
+            "included_at_epoch": 1588598802.655383,
+            "included_at_iso": "2020-05-04T13:26:42.655383",
+            "last_retested_at_epoch": 1588598802.655383,
+            "last_retested_at_iso": "2020-05-04T13:26:42.655383",
+            "status": "INACTIVE"
+        },
+        "eu.minerspool.cc": {
+            "included_at_epoch": 1588598802.77017,
+            "included_at_iso": "2020-05-04T13:26:42.770170",
+            "last_retested_at_epoch": 1588598802.77017,
+            "last_retested_at_iso": "2020-05-04T13:26:42.770170",
+            "status": "INACTIVE"
+        },
+        "eu.mineworks.co": {
+            "included_at_epoch": 1588598802.88719,
+            "included_at_iso": "2020-05-04T13:26:42.887190",
+            "last_retested_at_epoch": 1588598802.88719,
+            "last_retested_at_iso": "2020-05-04T13:26:42.887190",
+            "status": "INACTIVE"
+        },
+        "eu.minexpool.nl": {
+            "included_at_epoch": 1588598803.000518,
+            "included_at_iso": "2020-05-04T13:26:43.000518",
+            "last_retested_at_epoch": 1588598803.000518,
+            "last_retested_at_iso": "2020-05-04T13:26:43.000518",
+            "status": "INACTIVE"
+        },
+        "eu.miningspeed.com": {
+            "included_at_epoch": 1588598803.245408,
+            "included_at_iso": "2020-05-04T13:26:43.245408",
+            "last_retested_at_epoch": 1588598803.245408,
+            "last_retested_at_iso": "2020-05-04T13:26:43.245408",
+            "status": "INACTIVE"
+        },
+        "eu.mintpond.com": {
+            "included_at_epoch": 1588598803.132787,
+            "included_at_iso": "2020-05-04T13:26:43.132787",
+            "last_retested_at_epoch": 1588598803.132787,
+            "last_retested_at_iso": "2020-05-04T13:26:43.132787",
+            "status": "INACTIVE"
+        },
+        "eu.mix.wattpool.net": {
+            "included_at_epoch": 1588598803.357803,
+            "included_at_iso": "2020-05-04T13:26:43.357803",
+            "last_retested_at_epoch": 1588598803.357803,
+            "last_retested_at_iso": "2020-05-04T13:26:43.357803",
+            "status": "INACTIVE"
         }
     }
 }
