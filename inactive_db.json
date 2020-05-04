@@ -55443,6 +55443,111 @@
             "last_retested_at_epoch": 1588561070.227023,
             "last_retested_at_iso": "2020-05-04T02:57:50.227023",
             "status": "INACTIVE"
+        },
+        "etn-ev.onlycash.ddns.net": {
+            "included_at_epoch": 1588562502.838076,
+            "included_at_iso": "2020-05-04T03:21:42.838076",
+            "last_retested_at_epoch": 1588562502.838076,
+            "last_retested_at_iso": "2020-05-04T03:21:42.838076",
+            "status": "INACTIVE"
+        },
+        "etn-new.xeminer.net": {
+            "included_at_epoch": 1588562502.967263,
+            "included_at_iso": "2020-05-04T03:21:42.967263",
+            "last_retested_at_epoch": 1588562502.967263,
+            "last_retested_at_iso": "2020-05-04T03:21:42.967263",
+            "status": "INACTIVE"
+        },
+        "etn-nh.cryptominingpool.eu": {
+            "included_at_epoch": 1588562503.078664,
+            "included_at_iso": "2020-05-04T03:21:43.078664",
+            "last_retested_at_epoch": 1588562503.078664,
+            "last_retested_at_iso": "2020-05-04T03:21:43.078664",
+            "status": "INACTIVE"
+        },
+        "etn-old.proxpool.com": {
+            "included_at_epoch": 1588562503.201097,
+            "included_at_iso": "2020-05-04T03:21:43.201097",
+            "last_retested_at_epoch": 1588562503.201097,
+            "last_retested_at_iso": "2020-05-04T03:21:43.201097",
+            "status": "INACTIVE"
+        },
+        "etn-pool.proxpool.com": {
+            "included_at_epoch": 1588562503.326058,
+            "included_at_iso": "2020-05-04T03:21:43.326058",
+            "last_retested_at_epoch": 1588562503.326058,
+            "last_retested_at_iso": "2020-05-04T03:21:43.326058",
+            "status": "INACTIVE"
+        },
+        "etn-stats.cryptominingpool.eu": {
+            "included_at_epoch": 1588562503.55427,
+            "included_at_iso": "2020-05-04T03:21:43.554270",
+            "last_retested_at_epoch": 1588562503.55427,
+            "last_retested_at_iso": "2020-05-04T03:21:43.554270",
+            "status": "INACTIVE"
+        },
+        "etn-stratum.suprnova.cc": {
+            "included_at_epoch": 1588562503.441585,
+            "included_at_iso": "2020-05-04T03:21:43.441585",
+            "last_retested_at_epoch": 1588562503.441585,
+            "last_retested_at_iso": "2020-05-04T03:21:43.441585",
+            "status": "INACTIVE"
+        },
+        "etn-us.cryptominingpool.eu": {
+            "included_at_epoch": 1588562503.798988,
+            "included_at_iso": "2020-05-04T03:21:43.798988",
+            "last_retested_at_epoch": 1588562503.798988,
+            "last_retested_at_iso": "2020-05-04T03:21:43.798988",
+            "status": "INACTIVE"
+        },
+        "etn.4miner.me": {
+            "included_at_epoch": 1588562503.68632,
+            "included_at_iso": "2020-05-04T03:21:43.686320",
+            "last_retested_at_epoch": 1588562503.68632,
+            "last_retested_at_iso": "2020-05-04T03:21:43.686320",
+            "status": "INACTIVE"
+        },
+        "etn.baikalmine.com": {
+            "included_at_epoch": 1588562504.041755,
+            "included_at_iso": "2020-05-04T03:21:44.041755",
+            "last_retested_at_epoch": 1588562504.041755,
+            "last_retested_at_iso": "2020-05-04T03:21:44.041755",
+            "status": "INACTIVE"
+        },
+        "etn.bubblemine.com": {
+            "included_at_epoch": 1588562503.929881,
+            "included_at_iso": "2020-05-04T03:21:43.929881",
+            "last_retested_at_epoch": 1588562503.929881,
+            "last_retested_at_iso": "2020-05-04T03:21:43.929881",
+            "status": "INACTIVE"
+        },
+        "etn.coinblockers.com": {
+            "included_at_epoch": 1588562504.174392,
+            "included_at_iso": "2020-05-04T03:21:44.174392",
+            "last_retested_at_epoch": 1588562504.174392,
+            "last_retested_at_iso": "2020-05-04T03:21:44.174392",
+            "status": "INACTIVE"
+        },
+        "etn.coinstop.me": {
+            "included_at_epoch": 1588562504.294832,
+            "included_at_iso": "2020-05-04T03:21:44.294832",
+            "last_retested_at_epoch": 1588562504.294832,
+            "last_retested_at_iso": "2020-05-04T03:21:44.294832",
+            "status": "INACTIVE"
+        },
+        "etn.cool-pool.net": {
+            "included_at_epoch": 1588562504.528229,
+            "included_at_iso": "2020-05-04T03:21:44.528229",
+            "last_retested_at_epoch": 1588562504.528229,
+            "last_retested_at_iso": "2020-05-04T03:21:44.528229",
+            "status": "INACTIVE"
+        },
+        "etn.cpufan.club": {
+            "included_at_epoch": 1588562504.415766,
+            "included_at_iso": "2020-05-04T03:21:44.415766",
+            "last_retested_at_epoch": 1588562504.415766,
+            "last_retested_at_iso": "2020-05-04T03:21:44.415766",
+            "status": "INACTIVE"
         }
     }
 }

@@ -7179,7 +7179,18 @@
             "etn-eu.litecoinrain.org",
             "etn-eu1.nanopool.org",
             "etn-eu1.monero.nanopool.org",
-            "etn-eu2.nanopool.org"
+            "etn-eu2.nanopool.org",
+            "etn-jp1.nanopool.org",
+            "etn-nicehash.easyhash.io",
+            "etn-pool.semipool.com",
+            "etn-us-east1.nanopool.org",
+            "etn-us-west1.nanopool.org",
+            "etn.alpha.nanopool.org",
+            "etn.antpool.com",
+            "etn.cnpool.cc",
+            "etn.chinaenter.cn",
+            "etn.coinfoundry.org",
+            "etn.coinminer.space"
         ],
         "INACTIVE": [
             "0-219215.btcc.com",
@@ -15033,7 +15044,22 @@
             "etn-bj-prod.poolin.com",
             "etn-eu.coinblockers.com",
             "etn-bj.ss.poolin.com",
-            "etn-eu.cryptominingpool.eu"
+            "etn-eu.cryptominingpool.eu",
+            "etn-ev.onlycash.ddns.net",
+            "etn-new.xeminer.net",
+            "etn-nh.cryptominingpool.eu",
+            "etn-old.proxpool.com",
+            "etn-pool.proxpool.com",
+            "etn-stratum.suprnova.cc",
+            "etn-stats.cryptominingpool.eu",
+            "etn.4miner.me",
+            "etn-us.cryptominingpool.eu",
+            "etn.bubblemine.com",
+            "etn.baikalmine.com",
+            "etn.coinblockers.com",
+            "etn.coinstop.me",
+            "etn.cpufan.club",
+            "etn.cool-pool.net"
         ],
         "INVALID": [
             "POOL.moneropool.com"
