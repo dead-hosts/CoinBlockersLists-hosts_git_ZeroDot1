@@ -56346,6 +56346,13 @@
             "last_retested_at_epoch": 1588589010.037397,
             "last_retested_at_iso": "2020-05-04T10:43:30.037397",
             "status": "INACTIVE"
+        },
+        "eu.asicpool.info": {
+            "included_at_epoch": 1588593036.692123,
+            "included_at_iso": "2020-05-04T11:50:36.692123",
+            "last_retested_at_epoch": 1588593036.692123,
+            "last_retested_at_iso": "2020-05-04T11:50:36.692123",
+            "status": "INACTIVE"
         }
     }
 }
