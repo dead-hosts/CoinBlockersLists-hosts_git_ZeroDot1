@@ -56101,6 +56101,104 @@
             "last_retested_at_epoch": 1588570776.675094,
             "last_retested_at_iso": "2020-05-04T05:39:36.675094",
             "status": "INACTIVE"
+        },
+        "etrx.cryptonote.club": {
+            "included_at_epoch": 1588576496.229495,
+            "included_at_iso": "2020-05-04T07:14:56.229495",
+            "last_retested_at_epoch": 1588576496.229495,
+            "last_retested_at_iso": "2020-05-04T07:14:56.229495",
+            "status": "INACTIVE"
+        },
+        "etsc.altpool.pro": {
+            "included_at_epoch": 1588576496.380675,
+            "included_at_iso": "2020-05-04T07:14:56.380675",
+            "last_retested_at_epoch": 1588576496.380675,
+            "last_retested_at_iso": "2020-05-04T07:14:56.380675",
+            "status": "INACTIVE"
+        },
+        "etsc.cubepool.eu": {
+            "included_at_epoch": 1588576496.502179,
+            "included_at_iso": "2020-05-04T07:14:56.502179",
+            "last_retested_at_epoch": 1588576496.502179,
+            "last_retested_at_iso": "2020-05-04T07:14:56.502179",
+            "status": "INACTIVE"
+        },
+        "etsc.mole-pool.net": {
+            "included_at_epoch": 1588576496.634814,
+            "included_at_iso": "2020-05-04T07:14:56.634814",
+            "last_retested_at_epoch": 1588576496.634814,
+            "last_retested_at_iso": "2020-05-04T07:14:56.634814",
+            "status": "INACTIVE"
+        },
+        "etsc.reversegainz.info": {
+            "included_at_epoch": 1588576496.747407,
+            "included_at_iso": "2020-05-04T07:14:56.747407",
+            "last_retested_at_epoch": 1588576496.747407,
+            "last_retested_at_iso": "2020-05-04T07:14:56.747407",
+            "status": "INACTIVE"
+        },
+        "etsc.solopool.org": {
+            "included_at_epoch": 1588576496.859402,
+            "included_at_iso": "2020-05-04T07:14:56.859402",
+            "last_retested_at_epoch": 1588576496.859402,
+            "last_retested_at_iso": "2020-05-04T07:14:56.859402",
+            "status": "INACTIVE"
+        },
+        "etu.btcc.com": {
+            "included_at_epoch": 1588576497.083288,
+            "included_at_iso": "2020-05-04T07:14:57.083288",
+            "last_retested_at_epoch": 1588576497.083288,
+            "last_retested_at_iso": "2020-05-04T07:14:57.083288",
+            "status": "INACTIVE"
+        },
+        "etw.btcc.com": {
+            "included_at_epoch": 1588576496.971211,
+            "included_at_iso": "2020-05-04T07:14:56.971211",
+            "last_retested_at_epoch": 1588576496.971211,
+            "last_retested_at_iso": "2020-05-04T07:14:56.971211",
+            "status": "INACTIVE"
+        },
+        "ety.btcc.com": {
+            "included_at_epoch": 1588576497.195017,
+            "included_at_iso": "2020-05-04T07:14:57.195017",
+            "last_retested_at_epoch": 1588576497.195017,
+            "last_retested_at_iso": "2020-05-04T07:14:57.195017",
+            "status": "INACTIVE"
+        },
+        "etz.altpool.pro": {
+            "included_at_epoch": 1588576497.317398,
+            "included_at_iso": "2020-05-04T07:14:57.317398",
+            "last_retested_at_epoch": 1588576497.317398,
+            "last_retested_at_iso": "2020-05-04T07:14:57.317398",
+            "status": "INACTIVE"
+        },
+        "etz.clona.ru": {
+            "included_at_epoch": 1588576497.551685,
+            "included_at_iso": "2020-05-04T07:14:57.551685",
+            "last_retested_at_epoch": 1588576497.551685,
+            "last_retested_at_iso": "2020-05-04T07:14:57.551685",
+            "status": "INACTIVE"
+        },
+        "etz.crypto-mining-pool.com": {
+            "included_at_epoch": 1588576497.439515,
+            "included_at_iso": "2020-05-04T07:14:57.439515",
+            "last_retested_at_epoch": 1588576497.439515,
+            "last_retested_at_iso": "2020-05-04T07:14:57.439515",
+            "status": "INACTIVE"
+        },
+        "etz.ldvpool.com": {
+            "included_at_epoch": 1588576497.67384,
+            "included_at_iso": "2020-05-04T07:14:57.673840",
+            "last_retested_at_epoch": 1588576497.67384,
+            "last_retested_at_iso": "2020-05-04T07:14:57.673840",
+            "status": "INACTIVE"
+        },
+        "etz.mole-pool.net": {
+            "included_at_epoch": 1588576497.7871,
+            "included_at_iso": "2020-05-04T07:14:57.787100",
+            "last_retested_at_epoch": 1588576497.7871,
+            "last_retested_at_iso": "2020-05-04T07:14:57.787100",
+            "status": "INACTIVE"
         }
     }
 }
