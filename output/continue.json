@@ -7328,7 +7328,11 @@
             "eu-ru02.miningrigrentals.com",
             "eu-ru03.miningrigrentals.com",
             "eu-stratum.bitcoin.cz",
-            "eu-stratum.btcguild.com"
+            "eu-stratum.btcguild.com",
+            "eu-west-stratum-high.grinmint.com",
+            "eu-west.cryptopay.me",
+            "eu-west-stratum.grinmint.com",
+            "eu-zcoin.zellabs.net"
         ],
         "INACTIVE": [
             "0-219215.btcc.com",
@@ -15305,7 +15309,13 @@
             "eu-script.sushipool.com",
             "eu-stratum.mwgrinpool.com",
             "eu-stratum.viaxmr.com",
-            "eu-stratum.node.viaxmr.com"
+            "eu-stratum.node.viaxmr.com",
+            "eu-swap.sushipool.com",
+            "eu-test.sushipool.com",
+            "eu-west-api.grinmint.com",
+            "eu-xmr-1.node.viaxmr.com",
+            "eu-xmr-1.viaxmr.com",
+            "eu-xmr-2.viaxmr.com"
         ],
         "INVALID": [
             "POOL.moneropool.com"

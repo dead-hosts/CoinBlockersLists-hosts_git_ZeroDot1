@@ -56304,6 +56304,48 @@
             "last_retested_at_epoch": 1588588289.531219,
             "last_retested_at_iso": "2020-05-04T10:31:29.531219",
             "status": "INACTIVE"
+        },
+        "eu-swap.sushipool.com": {
+            "included_at_epoch": 1588589009.428158,
+            "included_at_iso": "2020-05-04T10:43:29.428158",
+            "last_retested_at_epoch": 1588589009.428158,
+            "last_retested_at_iso": "2020-05-04T10:43:29.428158",
+            "status": "INACTIVE"
+        },
+        "eu-test.sushipool.com": {
+            "included_at_epoch": 1588589009.556423,
+            "included_at_iso": "2020-05-04T10:43:29.556423",
+            "last_retested_at_epoch": 1588589009.556423,
+            "last_retested_at_iso": "2020-05-04T10:43:29.556423",
+            "status": "INACTIVE"
+        },
+        "eu-west-api.grinmint.com": {
+            "included_at_epoch": 1588589009.666475,
+            "included_at_iso": "2020-05-04T10:43:29.666475",
+            "last_retested_at_epoch": 1588589009.666475,
+            "last_retested_at_iso": "2020-05-04T10:43:29.666475",
+            "status": "INACTIVE"
+        },
+        "eu-xmr-1.node.viaxmr.com": {
+            "included_at_epoch": 1588589009.807083,
+            "included_at_iso": "2020-05-04T10:43:29.807083",
+            "last_retested_at_epoch": 1588589009.807083,
+            "last_retested_at_iso": "2020-05-04T10:43:29.807083",
+            "status": "INACTIVE"
+        },
+        "eu-xmr-1.viaxmr.com": {
+            "included_at_epoch": 1588589009.916933,
+            "included_at_iso": "2020-05-04T10:43:29.916933",
+            "last_retested_at_epoch": 1588589009.916933,
+            "last_retested_at_iso": "2020-05-04T10:43:29.916933",
+            "status": "INACTIVE"
+        },
+        "eu-xmr-2.viaxmr.com": {
+            "included_at_epoch": 1588589010.037397,
+            "included_at_iso": "2020-05-04T10:43:30.037397",
+            "last_retested_at_epoch": 1588589010.037397,
+            "last_retested_at_iso": "2020-05-04T10:43:30.037397",
+            "status": "INACTIVE"
         }
     }
 }
