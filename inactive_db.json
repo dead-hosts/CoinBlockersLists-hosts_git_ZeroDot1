@@ -56927,6 +56927,62 @@
             "last_retested_at_epoch": 1588632559.282903,
             "last_retested_at_iso": "2020-05-04T22:49:19.282903",
             "status": "INACTIVE"
+        },
+        "eu1.btgminers.eu": {
+            "included_at_epoch": 1588634266.078656,
+            "included_at_iso": "2020-05-04T23:17:46.078656",
+            "last_retested_at_epoch": 1588634266.078656,
+            "last_retested_at_iso": "2020-05-04T23:17:46.078656",
+            "status": "INACTIVE"
+        },
+        "eu1.cfcnet.gdn": {
+            "included_at_epoch": 1588634266.213957,
+            "included_at_iso": "2020-05-04T23:17:46.213957",
+            "last_retested_at_epoch": 1588634266.213957,
+            "last_retested_at_iso": "2020-05-04T23:17:46.213957",
+            "status": "INACTIVE"
+        },
+        "eu1.coinmine.pl": {
+            "included_at_epoch": 1588634266.338217,
+            "included_at_iso": "2020-05-04T23:17:46.338217",
+            "last_retested_at_epoch": 1588634266.338217,
+            "last_retested_at_iso": "2020-05-04T23:17:46.338217",
+            "status": "INACTIVE"
+        },
+        "eu1.cpufan.club": {
+            "included_at_epoch": 1588634266.452056,
+            "included_at_iso": "2020-05-04T23:17:46.452056",
+            "last_retested_at_epoch": 1588634266.452056,
+            "last_retested_at_iso": "2020-05-04T23:17:46.452056",
+            "status": "INACTIVE"
+        },
+        "eu1.dcy.hashgang.io": {
+            "included_at_epoch": 1588634266.575588,
+            "included_at_iso": "2020-05-04T23:17:46.575588",
+            "last_retested_at_epoch": 1588634266.575588,
+            "last_retested_at_iso": "2020-05-04T23:17:46.575588",
+            "status": "INACTIVE"
+        },
+        "eu1.fairmine.pro": {
+            "included_at_epoch": 1588634266.757108,
+            "included_at_iso": "2020-05-04T23:17:46.757108",
+            "last_retested_at_epoch": 1588634266.757108,
+            "last_retested_at_iso": "2020-05-04T23:17:46.757108",
+            "status": "INACTIVE"
+        },
+        "eu1.karbo.farm": {
+            "included_at_epoch": 1588634266.894111,
+            "included_at_iso": "2020-05-04T23:17:46.894111",
+            "last_retested_at_epoch": 1588634266.894111,
+            "last_retested_at_iso": "2020-05-04T23:17:46.894111",
+            "status": "INACTIVE"
+        },
+        "eu1.krb.hashgang.io": {
+            "included_at_epoch": 1588634267.030219,
+            "included_at_iso": "2020-05-04T23:17:47.030219",
+            "last_retested_at_epoch": 1588634267.030219,
+            "last_retested_at_iso": "2020-05-04T23:17:47.030219",
+            "status": "INACTIVE"
         }
     }
 }
