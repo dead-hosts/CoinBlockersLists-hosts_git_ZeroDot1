@@ -56087,6 +56087,20 @@
             "last_retested_at_epoch": 1588570021.443265,
             "last_retested_at_iso": "2020-05-04T05:27:01.443265",
             "status": "INACTIVE"
+        },
+        "etps.mole-pool.net": {
+            "included_at_epoch": 1588570776.804869,
+            "included_at_iso": "2020-05-04T05:39:36.804869",
+            "last_retested_at_epoch": 1588570776.804869,
+            "last_retested_at_iso": "2020-05-04T05:39:36.804869",
+            "status": "INACTIVE"
+        },
+        "etpz.btcc.com": {
+            "included_at_epoch": 1588570776.675094,
+            "included_at_iso": "2020-05-04T05:39:36.675094",
+            "last_retested_at_epoch": 1588570776.675094,
+            "last_retested_at_iso": "2020-05-04T05:39:36.675094",
+            "status": "INACTIVE"
         }
     }
 }
