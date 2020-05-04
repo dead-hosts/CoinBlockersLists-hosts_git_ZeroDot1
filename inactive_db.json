@@ -55954,6 +55954,41 @@
             "last_retested_at_epoch": 1588566461.838235,
             "last_retested_at_iso": "2020-05-04T04:27:41.838235",
             "status": "INACTIVE"
+        },
+        "etnx.optimusblue.com": {
+            "included_at_epoch": 1588567571.305636,
+            "included_at_iso": "2020-05-04T04:46:11.305636",
+            "last_retested_at_epoch": 1588567571.305636,
+            "last_retested_at_iso": "2020-05-04T04:46:11.305636",
+            "status": "INACTIVE"
+        },
+        "etnx.semipool.com": {
+            "included_at_epoch": 1588567571.551803,
+            "included_at_iso": "2020-05-04T04:46:11.551803",
+            "last_retested_at_epoch": 1588567571.551803,
+            "last_retested_at_iso": "2020-05-04T04:46:11.551803",
+            "status": "INACTIVE"
+        },
+        "etnx.shockcoin.com": {
+            "included_at_epoch": 1588567571.438497,
+            "included_at_iso": "2020-05-04T04:46:11.438497",
+            "last_retested_at_epoch": 1588567571.438497,
+            "last_retested_at_iso": "2020-05-04T04:46:11.438497",
+            "status": "INACTIVE"
+        },
+        "etnxp.newpool.cool": {
+            "included_at_epoch": 1588567571.6854,
+            "included_at_iso": "2020-05-04T04:46:11.685400",
+            "last_retested_at_epoch": 1588567571.6854,
+            "last_retested_at_iso": "2020-05-04T04:46:11.685400",
+            "status": "INACTIVE"
+        },
+        "etnxp.semipool.com": {
+            "included_at_epoch": 1588567571.799321,
+            "included_at_iso": "2020-05-04T04:46:11.799321",
+            "last_retested_at_epoch": 1588567571.799321,
+            "last_retested_at_iso": "2020-05-04T04:46:11.799321",
+            "status": "INACTIVE"
         }
     }
 }
