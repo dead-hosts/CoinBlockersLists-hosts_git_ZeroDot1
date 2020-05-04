@@ -56822,6 +56822,62 @@
             "last_retested_at_epoch": 1588620603.878657,
             "last_retested_at_iso": "2020-05-04T19:30:03.878657",
             "status": "INACTIVE"
+        },
+        "eu.viciousminer.com": {
+            "included_at_epoch": 1588621322.315207,
+            "included_at_iso": "2020-05-04T19:42:02.315207",
+            "last_retested_at_epoch": 1588621322.315207,
+            "last_retested_at_iso": "2020-05-04T19:42:02.315207",
+            "status": "INACTIVE"
+        },
+        "eu.voidr.net": {
+            "included_at_epoch": 1588621322.459091,
+            "included_at_iso": "2020-05-04T19:42:02.459091",
+            "last_retested_at_epoch": 1588621322.459091,
+            "last_retested_at_iso": "2020-05-04T19:42:02.459091",
+            "status": "INACTIVE"
+        },
+        "eu.vtc.p2pool.pl": {
+            "included_at_epoch": 1588621322.585204,
+            "included_at_iso": "2020-05-04T19:42:02.585204",
+            "last_retested_at_epoch": 1588621322.585204,
+            "last_retested_at_iso": "2020-05-04T19:42:02.585204",
+            "status": "INACTIVE"
+        },
+        "eu.webchain.mine.krunzy.com": {
+            "included_at_epoch": 1588621322.708626,
+            "included_at_iso": "2020-05-04T19:42:02.708626",
+            "last_retested_at_epoch": 1588621322.708626,
+            "last_retested_at_iso": "2020-05-04T19:42:02.708626",
+            "status": "INACTIVE"
+        },
+        "eu.webchain.pool.krunzy.com": {
+            "included_at_epoch": 1588621322.821621,
+            "included_at_iso": "2020-05-04T19:42:02.821621",
+            "last_retested_at_epoch": 1588621322.821621,
+            "last_retested_at_iso": "2020-05-04T19:42:02.821621",
+            "status": "INACTIVE"
+        },
+        "eu.xdag.signal2noi.se": {
+            "included_at_epoch": 1588621322.956399,
+            "included_at_iso": "2020-05-04T19:42:02.956399",
+            "last_retested_at_epoch": 1588621322.956399,
+            "last_retested_at_iso": "2020-05-04T19:42:02.956399",
+            "status": "INACTIVE"
+        },
+        "eu.xtl.cryptopool.space": {
+            "included_at_epoch": 1588621323.079963,
+            "included_at_iso": "2020-05-04T19:42:03.079963",
+            "last_retested_at_epoch": 1588621323.079963,
+            "last_retested_at_iso": "2020-05-04T19:42:03.079963",
+            "status": "INACTIVE"
+        },
+        "eu0.nimiq.skypool.org": {
+            "included_at_epoch": 1588621323.273275,
+            "included_at_iso": "2020-05-04T19:42:03.273275",
+            "last_retested_at_epoch": 1588621323.273275,
+            "last_retested_at_iso": "2020-05-04T19:42:03.273275",
+            "status": "INACTIVE"
         }
     }
 }
