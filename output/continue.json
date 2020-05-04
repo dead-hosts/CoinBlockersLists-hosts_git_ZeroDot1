@@ -7288,7 +7288,11 @@
             "eu-bchpool.api.btc.com",
             "eu-bchpoolapp.api.btc.com",
             "eu-beam.pool.btc.com",
-            "eu-beam.ss.btc.com"
+            "eu-beam.ss.btc.com",
+            "eu-beampool.api.btc.com",
+            "eu-central-1-s1.nimpool.io",
+            "eu-central-1.nimpool.io",
+            "eu-central-1-s2.nimpool.io"
         ],
         "INACTIVE": [
             "0-219215.btcc.com",
@@ -15253,7 +15257,9 @@
             "etz.mole-pool.net",
             "etz.vipool.net",
             "etzpool.crypt-term.net",
-            "eu-b2g.crazypool.org"
+            "eu-b2g.crazypool.org",
+            "eu-daemon.node.viaxmr.com",
+            "eu-daemon.viaxmr.com"
         ],
         "INVALID": [
             "POOL.moneropool.com"

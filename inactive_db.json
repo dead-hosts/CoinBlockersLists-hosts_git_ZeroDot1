@@ -56220,6 +56220,20 @@
             "last_retested_at_epoch": 1588585730.47089,
             "last_retested_at_iso": "2020-05-04T09:48:50.470890",
             "status": "INACTIVE"
+        },
+        "eu-daemon.node.viaxmr.com": {
+            "included_at_epoch": 1588586598.510987,
+            "included_at_iso": "2020-05-04T10:03:18.510987",
+            "last_retested_at_epoch": 1588586598.510987,
+            "last_retested_at_iso": "2020-05-04T10:03:18.510987",
+            "status": "INACTIVE"
+        },
+        "eu-daemon.viaxmr.com": {
+            "included_at_epoch": 1588586598.641849,
+            "included_at_iso": "2020-05-04T10:03:18.641849",
+            "last_retested_at_epoch": 1588586598.641849,
+            "last_retested_at_iso": "2020-05-04T10:03:18.641849",
+            "status": "INACTIVE"
         }
     }
 }
