@@ -231,8 +231,8 @@
 0.0.0.0 10-149.openvpn.btcchina.com
 0.0.0.0 101-4.openvpn.btcchina.com
 0.0.0.0 101-50.openvpn.btcchina.com
-0.0.0.0 10152.openvpn.btcchina.com
 0.0.0.0 101-52.openvpn.btcchina.com
+0.0.0.0 10152.openvpn.btcchina.com
 0.0.0.0 10179.openvpn.f2pool.com
 0.0.0.0 1017a.openvpn.btcchina.com
 0.0.0.0 101-80.openvpn.btcchina.com
@@ -1042,8 +1042,8 @@
 0.0.0.0 352b6cd4a00b.coinpoolit.webhop.me
 0.0.0.0 35df.openvpn.f2pool.com
 0.0.0.0 360caa42.space
-0.0.0.0 360kci.moneroseeds.ae.org
 0.0.0.0 360.kci.moneroseeds.ae.org
+0.0.0.0 360kci.moneroseeds.ae.org
 0.0.0.0 360.miningpool.thruhere.net
 0.0.0.0 36-202.btcc.com
 0.0.0.0 367-242.btcc.com
@@ -1057,8 +1057,8 @@
 0.0.0.0 37593.btcc.com
 0.0.0.0 3764.openvpn.f2pool.com
 0.0.0.0 3790.openvpn.f2pool.com
-0.0.0.0 379.btcc.com
 0.0.0.0 3-79.btcc.com
+0.0.0.0 379.btcc.com
 0.0.0.0 37f0.openvpn.f2pool.com
 0.0.0.0 38773.btcc.com
 0.0.0.0 3924.evolution-project.go.ro
@@ -2466,8 +2466,8 @@
 0.0.0.0 appleid-lockedverif.coinpoolit.webhop.me
 0.0.0.0 appleid-login.coinpoolit.webhop.me
 0.0.0.0 appleid.onlycash.ddns.net
-0.0.0.0 appleid-review.coinpoolit.webhop.me
 0.0.0.0 apple-idreview.coinpoolit.webhop.me
+0.0.0.0 appleid-review.coinpoolit.webhop.me
 0.0.0.0 appleids.coinpoolit.webhop.me
 0.0.0.0 appleidsecures.coinpoolit.webhop.me
 0.0.0.0 appleid-server.onlycash.ddns.net
@@ -3190,8 +3190,8 @@
 0.0.0.0 bam.node.coin-miners.info
 0.0.0.0 bam.suprnova.cc
 0.0.0.0 banana-dc.evolution-project.go.ro
-0.0.0.0 banco-bradesco.coinpoolit.webhop.me
 0.0.0.0 bancobradesco.coinpoolit.webhop.me
+0.0.0.0 banco-bradesco.coinpoolit.webhop.me
 0.0.0.0 bandboxical.safex.org
 0.0.0.0 baneasa-ap.evolution-project.go.ro
 0.0.0.0 banesvim.onlycash.ddns.net
@@ -4223,8 +4223,8 @@
 0.0.0.0 btg.beepool.org
 0.0.0.0 btg.bitpool.ro
 0.0.0.0 btg.cloudpools.net
-0.0.0.0 btg_cn.happy2mine.com
 0.0.0.0 btgcn.happy2mine.com
+0.0.0.0 btg_cn.happy2mine.com
 0.0.0.0 btg-cn.zhash.pro
 0.0.0.0 btg.cryptopools.com
 0.0.0.0 btg.dev.2miners.com
@@ -4920,8 +4920,8 @@
 0.0.0.0 china3m.moneroseeds.ae.org
 0.0.0.0 chinamade.coinpoolit.webhop.me
 0.0.0.0 china.mibpool.com
-0.0.0.0 chinammm.moneroseeds.ae.org
 0.0.0.0 china-mmm.moneroseeds.ae.org
+0.0.0.0 chinammm.moneroseeds.ae.org
 0.0.0.0 china-mobile.coinpoolit.webhop.me
 0.0.0.0 chino.leo.miningpool.thruhere.net
 0.0.0.0 chip2.suprnova.cc
@@ -7834,6 +7834,13 @@
 0.0.0.0 eth-us21.dwarfpool.com
 0.0.0.0 eth-us.pool.sexy
 0.0.0.0 eth-us.suprnova.cc
+0.0.0.0 ethweb.antpool.com
 0.0.0.0 eth.xeminer.net
+0.0.0.0 eti.crazypool.org
+0.0.0.0 eti.crypto-mining-pool.com
+0.0.0.0 etig.crazypool.org
+0.0.0.0 eti.rustpool.com
+0.0.0.0 etlrsq.ru
+0.0.0.0 etm.btcc.com
 0.0.0.0 et-z.btcc.com
 0.0.0.0 _spfext.bitcoin.de

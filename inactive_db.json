@@ -12765,13 +12765,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:43.889827",
             "status": "INACTIVE"
         },
-        "aeros03.tk": {
-            "included_at_epoch": 1586138114.0,
-            "included_at_iso": "2020-04-06T01:55:14",
-            "last_retested_at_epoch": 1588358683.91802,
-            "last_retested_at_iso": "2020-05-01T18:44:43.918020",
-            "status": "INACTIVE"
-        },
         "aeros05.tk": {
             "included_at_epoch": 1588358683.971757,
             "included_at_iso": "2020-05-01T18:44:43.971757",
@@ -55337,6 +55330,55 @@
             "included_at_iso": "2020-05-04T00:56:44.174040",
             "last_retested_at_epoch": 1588553804.17404,
             "last_retested_at_iso": "2020-05-04T00:56:44.174040",
+            "status": "INACTIVE"
+        },
+        "ethweb.antpool.com": {
+            "included_at_epoch": 1588559364.991843,
+            "included_at_iso": "2020-05-04T02:29:24.991843",
+            "last_retested_at_epoch": 1588559364.991843,
+            "last_retested_at_iso": "2020-05-04T02:29:24.991843",
+            "status": "INACTIVE"
+        },
+        "eti.crazypool.org": {
+            "included_at_epoch": 1588559365.128886,
+            "included_at_iso": "2020-05-04T02:29:25.128886",
+            "last_retested_at_epoch": 1588559365.128886,
+            "last_retested_at_iso": "2020-05-04T02:29:25.128886",
+            "status": "INACTIVE"
+        },
+        "eti.crypto-mining-pool.com": {
+            "included_at_epoch": 1588559365.251135,
+            "included_at_iso": "2020-05-04T02:29:25.251135",
+            "last_retested_at_epoch": 1588559365.251135,
+            "last_retested_at_iso": "2020-05-04T02:29:25.251135",
+            "status": "INACTIVE"
+        },
+        "eti.rustpool.com": {
+            "included_at_epoch": 1588559365.363103,
+            "included_at_iso": "2020-05-04T02:29:25.363103",
+            "last_retested_at_epoch": 1588559365.363103,
+            "last_retested_at_iso": "2020-05-04T02:29:25.363103",
+            "status": "INACTIVE"
+        },
+        "etig.crazypool.org": {
+            "included_at_epoch": 1588559365.486069,
+            "included_at_iso": "2020-05-04T02:29:25.486069",
+            "last_retested_at_epoch": 1588559365.486069,
+            "last_retested_at_iso": "2020-05-04T02:29:25.486069",
+            "status": "INACTIVE"
+        },
+        "etlrsq.ru": {
+            "included_at_epoch": 1588559365.740851,
+            "included_at_iso": "2020-05-04T02:29:25.740851",
+            "last_retested_at_epoch": 1588559365.740851,
+            "last_retested_at_iso": "2020-05-04T02:29:25.740851",
+            "status": "INACTIVE"
+        },
+        "etm.btcc.com": {
+            "included_at_epoch": 1588559365.632511,
+            "included_at_iso": "2020-05-04T02:29:25.632511",
+            "last_retested_at_epoch": 1588559365.632511,
+            "last_retested_at_iso": "2020-05-04T02:29:25.632511",
             "status": "INACTIVE"
         }
     }
