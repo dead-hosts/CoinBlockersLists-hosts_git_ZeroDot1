@@ -56549,6 +56549,27 @@
             "last_retested_at_epoch": 1588594523.539412,
             "last_retested_at_iso": "2020-05-04T12:15:23.539412",
             "status": "INACTIVE"
+        },
+        "eu.gpuhot.com": {
+            "included_at_epoch": 1588598069.392,
+            "included_at_iso": "2020-05-04T13:14:29.392000",
+            "last_retested_at_epoch": 1588598069.392,
+            "last_retested_at_iso": "2020-05-04T13:14:29.392000",
+            "status": "INACTIVE"
+        },
+        "eu.happysatoshi.com": {
+            "included_at_epoch": 1588598069.546064,
+            "included_at_iso": "2020-05-04T13:14:29.546064",
+            "last_retested_at_epoch": 1588598069.546064,
+            "last_retested_at_iso": "2020-05-04T13:14:29.546064",
+            "status": "INACTIVE"
+        },
+        "eu.hushpool.cloud": {
+            "included_at_epoch": 1588598069.723409,
+            "included_at_iso": "2020-05-04T13:14:29.723409",
+            "last_retested_at_epoch": 1588598069.723409,
+            "last_retested_at_iso": "2020-05-04T13:14:29.723409",
+            "status": "INACTIVE"
         }
     }
 }
