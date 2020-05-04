@@ -56199,6 +56199,27 @@
             "last_retested_at_epoch": 1588576497.7871,
             "last_retested_at_iso": "2020-05-04T07:14:57.787100",
             "status": "INACTIVE"
+        },
+        "etz.vipool.net": {
+            "included_at_epoch": 1588585730.129534,
+            "included_at_iso": "2020-05-04T09:48:50.129534",
+            "last_retested_at_epoch": 1588585730.129534,
+            "last_retested_at_iso": "2020-05-04T09:48:50.129534",
+            "status": "INACTIVE"
+        },
+        "etzpool.crypt-term.net": {
+            "included_at_epoch": 1588585730.305122,
+            "included_at_iso": "2020-05-04T09:48:50.305122",
+            "last_retested_at_epoch": 1588585730.305122,
+            "last_retested_at_iso": "2020-05-04T09:48:50.305122",
+            "status": "INACTIVE"
+        },
+        "eu-b2g.crazypool.org": {
+            "included_at_epoch": 1588585730.47089,
+            "included_at_iso": "2020-05-04T09:48:50.470890",
+            "last_retested_at_epoch": 1588585730.47089,
+            "last_retested_at_iso": "2020-05-04T09:48:50.470890",
+            "status": "INACTIVE"
         }
     }
 }
