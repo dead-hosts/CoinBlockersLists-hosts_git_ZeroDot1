@@ -57039,6 +57039,20 @@
             "last_retested_at_epoch": 1588644807.44492,
             "last_retested_at_iso": "2020-05-05T02:13:27.444920",
             "status": "INACTIVE"
+        },
+        "eu2.minexpool.nl": {
+            "included_at_epoch": 1588645515.437068,
+            "included_at_iso": "2020-05-05T02:25:15.437068",
+            "last_retested_at_epoch": 1588645515.437068,
+            "last_retested_at_iso": "2020-05-05T02:25:15.437068",
+            "status": "INACTIVE"
+        },
+        "eu2.multipool.es": {
+            "included_at_epoch": 1588645515.610372,
+            "included_at_iso": "2020-05-05T02:25:15.610372",
+            "last_retested_at_epoch": 1588645515.610372,
+            "last_retested_at_iso": "2020-05-05T02:25:15.610372",
+            "status": "INACTIVE"
         }
     }
 }

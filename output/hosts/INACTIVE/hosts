@@ -231,8 +231,8 @@
 0.0.0.0 10-149.openvpn.btcchina.com
 0.0.0.0 101-4.openvpn.btcchina.com
 0.0.0.0 101-50.openvpn.btcchina.com
-0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10152.openvpn.btcchina.com
+0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10179.openvpn.f2pool.com
 0.0.0.0 1017a.openvpn.btcchina.com
 0.0.0.0 101-80.openvpn.btcchina.com
@@ -357,8 +357,8 @@
 0.0.0.0 110-239.btcc.com
 0.0.0.0 11063.openvpn.btcchina.com
 0.0.0.0 1-107.openvpn.f2pool.com
-0.0.0.0 110-89.openvpn.btcchina.com
 0.0.0.0 11089.openvpn.btcchina.com
+0.0.0.0 110-89.openvpn.btcchina.com
 0.0.0.0 11096.openvpn.btcchina.com
 0.0.0.0 110b0.openvpn.btcchina.com
 0.0.0.0 11-105.openvpn.btcchina.com
@@ -1734,8 +1734,8 @@
 0.0.0.0 aeont.semipool.com
 0.0.0.0 aeon.uax.io
 0.0.0.0 aeonweb.ru
-0.0.0.0 aeon-web.semipool.com
 0.0.0.0 aeonweb.semipool.com
+0.0.0.0 aeon-web.semipool.com
 0.0.0.0 aeon.xnpool.com
 0.0.0.0 aeq.btcc.com
 0.0.0.0 aequitas.evolution-project.go.ro
@@ -2881,8 +2881,8 @@
 0.0.0.0 atus.onlycash.ddns.net
 0.0.0.0 atvaark.onlycash.ddns.net
 0.0.0.0 atzilut.onlycash.ddns.net
-0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 a.u.bitcoin.co.pt
+0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 au.btc.com
 0.0.0.0 au.coin-miners.info
 0.0.0.0 au.cryptopools.com
@@ -7989,6 +7989,8 @@
 0.0.0.0 eu2.cfcnet.gdn
 0.0.0.0 eu2.coin-miners.info
 0.0.0.0 eu2.cpufan.club
+0.0.0.0 eu2.minexpool.nl
+0.0.0.0 eu2.multipool.es
 0.0.0.0 eu.asicpool.info
 0.0.0.0 eu-b2g.crazypool.org
 0.0.0.0 eu.bitclubpool.com
@@ -8064,10 +8066,10 @@
 0.0.0.0 eu.solo.eth.wattpool.net
 0.0.0.0 eu.stratum.grin-pool.org
 0.0.0.0 eu-stratum.mwgrinpool.com
-0.0.0.0 eu.stratum.node.viaxmr.com
 0.0.0.0 eu-stratum.node.viaxmr.com
-0.0.0.0 eu-stratum.viaxmr.com
+0.0.0.0 eu.stratum.node.viaxmr.com
 0.0.0.0 eu.stratum.viaxmr.com
+0.0.0.0 eu-stratum.viaxmr.com
 0.0.0.0 eu.suprnova.cc
 0.0.0.0 eu-swap.sushipool.com
 0.0.0.0 eu-test.sushipool.com
