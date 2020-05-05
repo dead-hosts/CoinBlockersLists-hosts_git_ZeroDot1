@@ -58005,6 +58005,111 @@
             "last_retested_at_epoch": 1588659341.292629,
             "last_retested_at_iso": "2020-05-05T06:15:41.292629",
             "status": "INACTIVE"
+        },
+        "exl.btcc.com": {
+            "included_at_epoch": 1588660618.03262,
+            "included_at_iso": "2020-05-05T06:36:58.032620",
+            "last_retested_at_epoch": 1588660618.03262,
+            "last_retested_at_iso": "2020-05-05T06:36:58.032620",
+            "status": "INACTIVE"
+        },
+        "exmio.biz": {
+            "included_at_epoch": 1588660617.894253,
+            "included_at_iso": "2020-05-05T06:36:57.894253",
+            "last_retested_at_epoch": 1588660617.894253,
+            "last_retested_at_iso": "2020-05-05T06:36:57.894253",
+            "status": "INACTIVE"
+        },
+        "exmio.me": {
+            "included_at_epoch": 1588660618.18528,
+            "included_at_iso": "2020-05-05T06:36:58.185280",
+            "last_retested_at_epoch": 1588660618.18528,
+            "last_retested_at_iso": "2020-05-05T06:36:58.185280",
+            "status": "INACTIVE"
+        },
+        "exmuo.me": {
+            "included_at_epoch": 1588660618.423648,
+            "included_at_iso": "2020-05-05T06:36:58.423648",
+            "last_retested_at_epoch": 1588660618.423648,
+            "last_retested_at_iso": "2020-05-05T06:36:58.423648",
+            "status": "INACTIVE"
+        },
+        "exmuo.org": {
+            "included_at_epoch": 1588660618.304718,
+            "included_at_iso": "2020-05-05T06:36:58.304718",
+            "last_retested_at_epoch": 1588660618.304718,
+            "last_retested_at_iso": "2020-05-05T06:36:58.304718",
+            "status": "INACTIVE"
+        },
+        "exn.btcc.com": {
+            "included_at_epoch": 1588660618.659477,
+            "included_at_iso": "2020-05-05T06:36:58.659477",
+            "last_retested_at_epoch": 1588660618.659477,
+            "last_retested_at_iso": "2020-05-05T06:36:58.659477",
+            "status": "INACTIVE"
+        },
+        "exn.youpool.io": {
+            "included_at_epoch": 1588660618.541701,
+            "included_at_iso": "2020-05-05T06:36:58.541701",
+            "last_retested_at_epoch": 1588660618.541701,
+            "last_retested_at_iso": "2020-05-05T06:36:58.541701",
+            "status": "INACTIVE"
+        },
+        "exoclinal.safex.org": {
+            "included_at_epoch": 1588660618.774572,
+            "included_at_iso": "2020-05-05T06:36:58.774572",
+            "last_retested_at_epoch": 1588660618.774572,
+            "last_retested_at_iso": "2020-05-05T06:36:58.774572",
+            "status": "INACTIVE"
+        },
+        "exodus.miningpool.thruhere.net": {
+            "included_at_epoch": 1588660618.889661,
+            "included_at_iso": "2020-05-05T06:36:58.889661",
+            "last_retested_at_epoch": 1588660618.889661,
+            "last_retested_at_iso": "2020-05-05T06:36:58.889661",
+            "status": "INACTIVE"
+        },
+        "exonerative.safex.org": {
+            "included_at_epoch": 1588660619.005281,
+            "included_at_iso": "2020-05-05T06:36:59.005281",
+            "last_retested_at_epoch": 1588660619.005281,
+            "last_retested_at_iso": "2020-05-05T06:36:59.005281",
+            "status": "INACTIVE"
+        },
+        "exosis.mine.zergpool.com": {
+            "included_at_epoch": 1588660619.13028,
+            "included_at_iso": "2020-05-05T06:36:59.130280",
+            "last_retested_at_epoch": 1588660619.13028,
+            "last_retested_at_iso": "2020-05-05T06:36:59.130280",
+            "status": "INACTIVE"
+        },
+        "exp-pplns.ehashcoins.org": {
+            "included_at_epoch": 1588660619.311843,
+            "included_at_iso": "2020-05-05T06:36:59.311843",
+            "last_retested_at_epoch": 1588660619.311843,
+            "last_retested_at_iso": "2020-05-05T06:36:59.311843",
+            "status": "INACTIVE"
+        },
+        "exp-solo.baikalmine.com": {
+            "included_at_epoch": 1588660619.440921,
+            "included_at_iso": "2020-05-05T06:36:59.440921",
+            "last_retested_at_epoch": 1588660619.440921,
+            "last_retested_at_iso": "2020-05-05T06:36:59.440921",
+            "status": "INACTIVE"
+        },
+        "exp.baikalmine.com": {
+            "included_at_epoch": 1588660619.618901,
+            "included_at_iso": "2020-05-05T06:36:59.618901",
+            "last_retested_at_epoch": 1588660619.618901,
+            "last_retested_at_iso": "2020-05-05T06:36:59.618901",
+            "status": "INACTIVE"
+        },
+        "exp.btcc.com": {
+            "included_at_epoch": 1588660619.746612,
+            "included_at_iso": "2020-05-05T06:36:59.746612",
+            "last_retested_at_epoch": 1588660619.746612,
+            "last_retested_at_iso": "2020-05-05T06:36:59.746612",
+            "status": "INACTIVE"
         }
     }
 }
