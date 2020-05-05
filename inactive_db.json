@@ -57368,6 +57368,62 @@
             "last_retested_at_epoch": 1588648399.169235,
             "last_retested_at_iso": "2020-05-05T03:13:19.169235",
             "status": "INACTIVE"
+        },
+        "europe1.bitcoincoin.miningpoolhub.com": {
+            "included_at_epoch": 1588649224.136967,
+            "included_at_iso": "2020-05-05T03:27:04.136967",
+            "last_retested_at_epoch": 1588649224.136967,
+            "last_retested_at_iso": "2020-05-05T03:27:04.136967",
+            "status": "INACTIVE"
+        },
+        "europe1.checkcoin.miningpoolhub.com": {
+            "included_at_epoch": 1588649224.005904,
+            "included_at_iso": "2020-05-05T03:27:04.005904",
+            "last_retested_at_epoch": 1588649224.005904,
+            "last_retested_at_iso": "2020-05-05T03:27:04.005904",
+            "status": "INACTIVE"
+        },
+        "europe1.crevacoin.miningpoolhub.com": {
+            "included_at_epoch": 1588649224.25057,
+            "included_at_iso": "2020-05-05T03:27:04.250570",
+            "last_retested_at_epoch": 1588649224.25057,
+            "last_retested_at_iso": "2020-05-05T03:27:04.250570",
+            "status": "INACTIVE"
+        },
+        "europe1.digitalcoin.miningpoolhub.com": {
+            "included_at_epoch": 1588649224.374312,
+            "included_at_iso": "2020-05-05T03:27:04.374312",
+            "last_retested_at_epoch": 1588649224.374312,
+            "last_retested_at_iso": "2020-05-05T03:27:04.374312",
+            "status": "INACTIVE"
+        },
+        "europe1.dogecoindark.miningpoolhub.com": {
+            "included_at_epoch": 1588649224.507968,
+            "included_at_iso": "2020-05-05T03:27:04.507968",
+            "last_retested_at_epoch": 1588649224.507968,
+            "last_retested_at_iso": "2020-05-05T03:27:04.507968",
+            "status": "INACTIVE"
+        },
+        "europe1.execoin.miningpoolhub.com": {
+            "included_at_epoch": 1588649224.643393,
+            "included_at_iso": "2020-05-05T03:27:04.643393",
+            "last_retested_at_epoch": 1588649224.643393,
+            "last_retested_at_iso": "2020-05-05T03:27:04.643393",
+            "status": "INACTIVE"
+        },
+        "europe1.fractalcoin.miningpoolhub.com": {
+            "included_at_epoch": 1588649224.788079,
+            "included_at_iso": "2020-05-05T03:27:04.788079",
+            "last_retested_at_epoch": 1588649224.788079,
+            "last_retested_at_iso": "2020-05-05T03:27:04.788079",
+            "status": "INACTIVE"
+        },
+        "europe1.geocoin.miningpoolhub.com": {
+            "included_at_epoch": 1588649224.911364,
+            "included_at_iso": "2020-05-05T03:27:04.911364",
+            "last_retested_at_epoch": 1588649224.911364,
+            "last_retested_at_iso": "2020-05-05T03:27:04.911364",
+            "status": "INACTIVE"
         }
     }
 }
