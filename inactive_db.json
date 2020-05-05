@@ -58257,6 +58257,41 @@
             "last_retested_at_epoch": 1588672088.409871,
             "last_retested_at_iso": "2020-05-05T09:48:08.409871",
             "status": "INACTIVE"
+        },
+        "exp.virtopia.ca": {
+            "included_at_epoch": 1588679255.278029,
+            "included_at_iso": "2020-05-05T11:47:35.278029",
+            "last_retested_at_epoch": 1588679255.278029,
+            "last_retested_at_iso": "2020-05-05T11:47:35.278029",
+            "status": "INACTIVE"
+        },
+        "exp1.btcc.com": {
+            "included_at_epoch": 1588679255.432405,
+            "included_at_iso": "2020-05-05T11:47:35.432405",
+            "last_retested_at_epoch": 1588679255.432405,
+            "last_retested_at_iso": "2020-05-05T11:47:35.432405",
+            "status": "INACTIVE"
+        },
+        "exp2.solopool.org": {
+            "included_at_epoch": 1588679255.570722,
+            "included_at_iso": "2020-05-05T11:47:35.570722",
+            "last_retested_at_epoch": 1588679255.570722,
+            "last_retested_at_iso": "2020-05-05T11:47:35.570722",
+            "status": "INACTIVE"
+        },
+        "expc.btcc.com": {
+            "included_at_epoch": 1588679255.78456,
+            "included_at_iso": "2020-05-05T11:47:35.784560",
+            "last_retested_at_epoch": 1588679255.78456,
+            "last_retested_at_iso": "2020-05-05T11:47:35.784560",
+            "status": "INACTIVE"
+        },
+        "expchain.gpumine.org": {
+            "included_at_epoch": 1588679255.899066,
+            "included_at_iso": "2020-05-05T11:47:35.899066",
+            "last_retested_at_epoch": 1588679255.899066,
+            "last_retested_at_iso": "2020-05-05T11:47:35.899066",
+            "status": "INACTIVE"
         }
     }
 }
