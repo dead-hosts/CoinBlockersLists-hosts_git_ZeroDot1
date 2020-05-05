@@ -57053,6 +57053,20 @@
             "last_retested_at_epoch": 1588645515.610372,
             "last_retested_at_iso": "2020-05-05T02:25:15.610372",
             "status": "INACTIVE"
+        },
+        "eu2.multipool.us": {
+            "included_at_epoch": 1588646241.494771,
+            "included_at_iso": "2020-05-05T02:37:21.494771",
+            "last_retested_at_epoch": 1588646241.494771,
+            "last_retested_at_iso": "2020-05-05T02:37:21.494771",
+            "status": "INACTIVE"
+        },
+        "eu2.music.minertopia.org": {
+            "included_at_epoch": 1588646241.632758,
+            "included_at_iso": "2020-05-05T02:37:21.632758",
+            "last_retested_at_epoch": 1588646241.632758,
+            "last_retested_at_iso": "2020-05-05T02:37:21.632758",
+            "status": "INACTIVE"
         }
     }
 }
