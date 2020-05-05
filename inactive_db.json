@@ -58292,6 +58292,27 @@
             "last_retested_at_epoch": 1588679255.899066,
             "last_retested_at_iso": "2020-05-05T11:47:35.899066",
             "status": "INACTIVE"
+        },
+        "expenditures.fix.btcc.com": {
+            "included_at_epoch": 1588679968.77964,
+            "included_at_iso": "2020-05-05T11:59:28.779640",
+            "last_retested_at_epoch": 1588679968.77964,
+            "last_retested_at_iso": "2020-05-05T11:59:28.779640",
+            "status": "INACTIVE"
+        },
+        "exph.btcc.com": {
+            "included_at_epoch": 1588679968.647539,
+            "included_at_iso": "2020-05-05T11:59:28.647539",
+            "last_retested_at_epoch": 1588679968.647539,
+            "last_retested_at_iso": "2020-05-05T11:59:28.647539",
+            "status": "INACTIVE"
+        },
+        "expired-apps.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588679968.897327,
+            "included_at_iso": "2020-05-05T11:59:28.897327",
+            "last_retested_at_epoch": 1588679968.897327,
+            "last_retested_at_iso": "2020-05-05T11:59:28.897327",
+            "status": "INACTIVE"
         }
     }
 }
