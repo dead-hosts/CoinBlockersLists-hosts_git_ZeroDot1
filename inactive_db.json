@@ -12660,13 +12660,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:43.296846",
             "status": "INACTIVE"
         },
-        "aeon.spacepools.org": {
-            "included_at_epoch": 1586220795.0,
-            "included_at_iso": "2020-04-07T00:53:15",
-            "last_retested_at_epoch": 1588358683.35421,
-            "last_retested_at_iso": "2020-05-01T18:44:43.354210",
-            "status": "INACTIVE"
-        },
         "aeon.sumominer.com": {
             "included_at_epoch": 1588358683.380077,
             "included_at_iso": "2020-05-01T18:44:43.380077",
@@ -12688,13 +12681,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:43.435774",
             "status": "INACTIVE"
         },
-        "aeon.xnpool.com": {
-            "included_at_epoch": 1586225001.0,
-            "included_at_iso": "2020-04-07T02:03:21",
-            "last_retested_at_epoch": 1588358683.490374,
-            "last_retested_at_iso": "2020-05-01T18:44:43.490374",
-            "status": "INACTIVE"
-        },
         "aeonapi.c1d2.com": {
             "included_at_epoch": 1588358683.464206,
             "included_at_iso": "2020-05-01T18:44:43.464206",
@@ -12707,13 +12693,6 @@
             "included_at_iso": "2020-05-01T18:44:43.591086",
             "last_retested_at_epoch": 1588358683.591086,
             "last_retested_at_iso": "2020-05-01T18:44:43.591086",
-            "status": "INACTIVE"
-        },
-        "aeonpool.xyz": {
-            "included_at_epoch": 1586220796.0,
-            "included_at_iso": "2020-04-07T00:53:16",
-            "last_retested_at_epoch": 1588358683.642023,
-            "last_retested_at_iso": "2020-05-01T18:44:43.642023",
             "status": "INACTIVE"
         },
         "aeont.semipool.com": {
@@ -56996,6 +56975,69 @@
             "included_at_iso": "2020-05-05T00:25:49.451384",
             "last_retested_at_epoch": 1588638349.451384,
             "last_retested_at_iso": "2020-05-05T00:25:49.451384",
+            "status": "INACTIVE"
+        },
+        "eu1.sushipool.com": {
+            "included_at_epoch": 1588644806.387932,
+            "included_at_iso": "2020-05-05T02:13:26.387932",
+            "last_retested_at_epoch": 1588644806.387932,
+            "last_retested_at_iso": "2020-05-05T02:13:26.387932",
+            "status": "INACTIVE"
+        },
+        "eu1.swap.miningpool.online": {
+            "included_at_epoch": 1588644806.506938,
+            "included_at_iso": "2020-05-05T02:13:26.506938",
+            "last_retested_at_epoch": 1588644806.506938,
+            "last_retested_at_iso": "2020-05-05T02:13:26.506938",
+            "status": "INACTIVE"
+        },
+        "eu1.thesevendwarfs.org": {
+            "included_at_epoch": 1588644806.622015,
+            "included_at_iso": "2020-05-05T02:13:26.622015",
+            "last_retested_at_epoch": 1588644806.622015,
+            "last_retested_at_iso": "2020-05-05T02:13:26.622015",
+            "status": "INACTIVE"
+        },
+        "eu1.vic.hashgang.io": {
+            "included_at_epoch": 1588644806.767131,
+            "included_at_iso": "2020-05-05T02:13:26.767131",
+            "last_retested_at_epoch": 1588644806.767131,
+            "last_retested_at_iso": "2020-05-05T02:13:26.767131",
+            "status": "INACTIVE"
+        },
+        "eu1.xtl.hashgang.io": {
+            "included_at_epoch": 1588644806.881351,
+            "included_at_iso": "2020-05-05T02:13:26.881351",
+            "last_retested_at_epoch": 1588644806.881351,
+            "last_retested_at_iso": "2020-05-05T02:13:26.881351",
+            "status": "INACTIVE"
+        },
+        "eu2.btgminers.eu": {
+            "included_at_epoch": 1588644807.080786,
+            "included_at_iso": "2020-05-05T02:13:27.080786",
+            "last_retested_at_epoch": 1588644807.080786,
+            "last_retested_at_iso": "2020-05-05T02:13:27.080786",
+            "status": "INACTIVE"
+        },
+        "eu2.cfcnet.gdn": {
+            "included_at_epoch": 1588644807.310019,
+            "included_at_iso": "2020-05-05T02:13:27.310019",
+            "last_retested_at_epoch": 1588644807.310019,
+            "last_retested_at_iso": "2020-05-05T02:13:27.310019",
+            "status": "INACTIVE"
+        },
+        "eu2.coin-miners.info": {
+            "included_at_epoch": 1588644807.196053,
+            "included_at_iso": "2020-05-05T02:13:27.196053",
+            "last_retested_at_epoch": 1588644807.196053,
+            "last_retested_at_iso": "2020-05-05T02:13:27.196053",
+            "status": "INACTIVE"
+        },
+        "eu2.cpufan.club": {
+            "included_at_epoch": 1588644807.44492,
+            "included_at_iso": "2020-05-05T02:13:27.444920",
+            "last_retested_at_epoch": 1588644807.44492,
+            "last_retested_at_iso": "2020-05-05T02:13:27.444920",
             "status": "INACTIVE"
         }
     }
