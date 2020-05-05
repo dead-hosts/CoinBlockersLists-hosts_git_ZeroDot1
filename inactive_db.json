@@ -57830,6 +57830,20 @@
             "last_retested_at_epoch": 1588652816.375282,
             "last_retested_at_iso": "2020-05-05T04:26:56.375282",
             "status": "INACTIVE"
+        },
+        "exchange.crypton.cf": {
+            "included_at_epoch": 1588653540.107776,
+            "included_at_iso": "2020-05-05T04:39:00.107776",
+            "last_retested_at_epoch": 1588653540.107776,
+            "last_retested_at_iso": "2020-05-05T04:39:00.107776",
+            "status": "INACTIVE"
+        },
+        "exchange.cryptopay.org.za": {
+            "included_at_epoch": 1588653539.971142,
+            "included_at_iso": "2020-05-05T04:38:59.971142",
+            "last_retested_at_epoch": 1588653539.971142,
+            "last_retested_at_iso": "2020-05-05T04:38:59.971142",
+            "status": "INACTIVE"
         }
     }
 }
