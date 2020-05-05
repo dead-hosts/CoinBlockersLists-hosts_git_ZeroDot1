@@ -57641,6 +57641,76 @@
             "last_retested_at_epoch": 1588651368.73457,
             "last_retested_at_iso": "2020-05-05T04:02:48.734570",
             "status": "INACTIVE"
+        },
+        "everyday.evolution-project.go.ro": {
+            "included_at_epoch": 1588652083.261049,
+            "included_at_iso": "2020-05-05T04:14:43.261049",
+            "last_retested_at_epoch": 1588652083.261049,
+            "last_retested_at_iso": "2020-05-05T04:14:43.261049",
+            "status": "INACTIVE"
+        },
+        "evil.suprnova.cc": {
+            "included_at_epoch": 1588652083.125833,
+            "included_at_iso": "2020-05-05T04:14:43.125833",
+            "last_retested_at_epoch": 1588652083.125833,
+            "last_retested_at_iso": "2020-05-05T04:14:43.125833",
+            "status": "INACTIVE"
+        },
+        "evilnut.evolution-project.go.ro": {
+            "included_at_epoch": 1588652083.381276,
+            "included_at_iso": "2020-05-05T04:14:43.381276",
+            "last_retested_at_epoch": 1588652083.381276,
+            "last_retested_at_iso": "2020-05-05T04:14:43.381276",
+            "status": "INACTIVE"
+        },
+        "evlad.evolution-project.go.ro": {
+            "included_at_epoch": 1588652083.500035,
+            "included_at_iso": "2020-05-05T04:14:43.500035",
+            "last_retested_at_epoch": 1588652083.500035,
+            "last_retested_at_iso": "2020-05-05T04:14:43.500035",
+            "status": "INACTIVE"
+        },
+        "evo-ghost.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588652083.616111,
+            "included_at_iso": "2020-05-05T04:14:43.616111",
+            "last_retested_at_epoch": 1588652083.616111,
+            "last_retested_at_iso": "2020-05-05T04:14:43.616111",
+            "status": "INACTIVE"
+        },
+        "evo.pool.pool.gntl.co.uk": {
+            "included_at_epoch": 1588652083.750099,
+            "included_at_iso": "2020-05-05T04:14:43.750099",
+            "last_retested_at_epoch": 1588652083.750099,
+            "last_retested_at_iso": "2020-05-05T04:14:43.750099",
+            "status": "INACTIVE"
+        },
+        "evolution-project.evolution-project.go.ro": {
+            "included_at_epoch": 1588652083.89175,
+            "included_at_iso": "2020-05-05T04:14:43.891750",
+            "last_retested_at_epoch": 1588652083.89175,
+            "last_retested_at_iso": "2020-05-05T04:14:43.891750",
+            "status": "INACTIVE"
+        },
+        "evolutioncoin.evolution-project.go.ro": {
+            "included_at_epoch": 1588652084.009737,
+            "included_at_iso": "2020-05-05T04:14:44.009737",
+            "last_retested_at_epoch": 1588652084.009737,
+            "last_retested_at_iso": "2020-05-05T04:14:44.009737",
+            "status": "INACTIVE"
+        },
+        "evox.pool.pool.gntl.co.uk": {
+            "included_at_epoch": 1588652084.159714,
+            "included_at_iso": "2020-05-05T04:14:44.159714",
+            "last_retested_at_epoch": 1588652084.159714,
+            "last_retested_at_iso": "2020-05-05T04:14:44.159714",
+            "status": "INACTIVE"
+        },
+        "evse.onlycash.ddns.net": {
+            "included_at_epoch": 1588652084.28698,
+            "included_at_iso": "2020-05-05T04:14:44.286980",
+            "last_retested_at_epoch": 1588652084.28698,
+            "last_retested_at_iso": "2020-05-05T04:14:44.286980",
+            "status": "INACTIVE"
         }
     }
 }
