@@ -57312,6 +57312,62 @@
             "last_retested_at_epoch": 1588647684.173054,
             "last_retested_at_iso": "2020-05-05T03:01:24.173054",
             "status": "INACTIVE"
+        },
+        "europe.minemonero.pro": {
+            "included_at_epoch": 1588648398.229522,
+            "included_at_iso": "2020-05-05T03:13:18.229522",
+            "last_retested_at_epoch": 1588648398.229522,
+            "last_retested_at_iso": "2020-05-05T03:13:18.229522",
+            "status": "INACTIVE"
+        },
+        "europe.miningpoolhub.com": {
+            "included_at_epoch": 1588648398.392442,
+            "included_at_iso": "2020-05-05T03:13:18.392442",
+            "last_retested_at_epoch": 1588648398.392442,
+            "last_retested_at_iso": "2020-05-05T03:13:18.392442",
+            "status": "INACTIVE"
+        },
+        "europe.monero.hashvault.pro": {
+            "included_at_epoch": 1588648398.505476,
+            "included_at_iso": "2020-05-05T03:13:18.505476",
+            "last_retested_at_epoch": 1588648398.505476,
+            "last_retested_at_iso": "2020-05-05T03:13:18.505476",
+            "status": "INACTIVE"
+        },
+        "europe.monero.nodes.hashvault.pro": {
+            "included_at_epoch": 1588648398.631062,
+            "included_at_iso": "2020-05-05T03:13:18.631062",
+            "last_retested_at_epoch": 1588648398.631062,
+            "last_retested_at_iso": "2020-05-05T03:13:18.631062",
+            "status": "INACTIVE"
+        },
+        "europe.node.moneroworld.com": {
+            "included_at_epoch": 1588648398.764895,
+            "included_at_iso": "2020-05-05T03:13:18.764895",
+            "last_retested_at_epoch": 1588648398.764895,
+            "last_retested_at_iso": "2020-05-05T03:13:18.764895",
+            "status": "INACTIVE"
+        },
+        "europe.siacoin.miningpoolhub.com": {
+            "included_at_epoch": 1588648398.888592,
+            "included_at_iso": "2020-05-05T03:13:18.888592",
+            "last_retested_at_epoch": 1588648398.888592,
+            "last_retested_at_iso": "2020-05-05T03:13:18.888592",
+            "status": "INACTIVE"
+        },
+        "europe.suchpool.pw": {
+            "included_at_epoch": 1588648399.012838,
+            "included_at_iso": "2020-05-05T03:13:19.012838",
+            "last_retested_at_epoch": 1588648399.012838,
+            "last_retested_at_iso": "2020-05-05T03:13:19.012838",
+            "status": "INACTIVE"
+        },
+        "europe1.aricoin.miningpoolhub.com": {
+            "included_at_epoch": 1588648399.169235,
+            "included_at_iso": "2020-05-05T03:13:19.169235",
+            "last_retested_at_epoch": 1588648399.169235,
+            "last_retested_at_iso": "2020-05-05T03:13:19.169235",
+            "status": "INACTIVE"
         }
     }
 }

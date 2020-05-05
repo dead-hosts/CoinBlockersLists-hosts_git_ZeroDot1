@@ -93,8 +93,8 @@
 0.0.0.0 0-219215.btcc.com
 0.0.0.0 0224.openvpn.btcchina.com
 0.0.0.0 0-224.openvpn.f2pool.com
-0.0.0.0 0-227.openvpn.f2pool.com
 0.0.0.0 0227.openvpn.f2pool.com
+0.0.0.0 0-227.openvpn.f2pool.com
 0.0.0.0 022.openvpn.btcchina.com
 0.0.0.0 0-231.openvpn.f2pool.com
 0.0.0.0 0-232.openvpn.f2pool.com
@@ -165,8 +165,8 @@
 0.0.0.0 09m.btcc.com
 0.0.0.0 0a709.openvpn.f2pool.com
 0.0.0.0 0a-api-4-3.btcc.com
-0.0.0.0 0a-api-4.btcc.com
 0.0.0.0 0a-api-4-.btcc.com
+0.0.0.0 0a-api-4.btcc.com
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0.btcc.com
 0.0.0.0 0d280.openvpn.f2pool.com
@@ -1057,8 +1057,8 @@
 0.0.0.0 37593.btcc.com
 0.0.0.0 3764.openvpn.f2pool.com
 0.0.0.0 3790.openvpn.f2pool.com
-0.0.0.0 379.btcc.com
 0.0.0.0 3-79.btcc.com
+0.0.0.0 379.btcc.com
 0.0.0.0 37f0.openvpn.f2pool.com
 0.0.0.0 38773.btcc.com
 0.0.0.0 3924.evolution-project.go.ro
@@ -2034,8 +2034,8 @@
 0.0.0.0 amazon.coinpoolit.webhop.me
 0.0.0.0 amazon-confirmed.coinpoolit.webhop.me
 0.0.0.0 amazon.sberex.com
-0.0.0.0 amazonses.btcc.com
 0.0.0.0 _amazonses.btcc.com
+0.0.0.0 amazonses.btcc.com
 0.0.0.0 amazonveirfy.onlycash.ddns.net
 0.0.0.0 amaz-reception.coinpoolit.webhop.me
 0.0.0.0 amaz-wildcardrecord.coinpoolit.webhop.me
@@ -2881,8 +2881,8 @@
 0.0.0.0 atus.onlycash.ddns.net
 0.0.0.0 atvaark.onlycash.ddns.net
 0.0.0.0 atzilut.onlycash.ddns.net
-0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 a.u.bitcoin.co.pt
+0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 au.btc.com
 0.0.0.0 au.coin-miners.info
 0.0.0.0 au.cryptopools.com
@@ -4920,8 +4920,8 @@
 0.0.0.0 china3m.moneroseeds.ae.org
 0.0.0.0 chinamade.coinpoolit.webhop.me
 0.0.0.0 china.mibpool.com
-0.0.0.0 china-mmm.moneroseeds.ae.org
 0.0.0.0 chinammm.moneroseeds.ae.org
+0.0.0.0 china-mmm.moneroseeds.ae.org
 0.0.0.0 china-mobile.coinpoolit.webhop.me
 0.0.0.0 chino.leo.miningpool.thruhere.net
 0.0.0.0 chip2.suprnova.cc
@@ -5325,8 +5325,8 @@
 0.0.0.0 communitypool.stellite.ca
 0.0.0.0 community-staging.node.xmr.to
 0.0.0.0 community-staging.staging.xmr.to
-0.0.0.0 community-staging.xmr.to
 0.0.0.0 community.staging.xmr.to
+0.0.0.0 community-staging.xmr.to
 0.0.0.0 com.nicehash.com
 0.0.0.0 co.moneroseeds.ae.org
 0.0.0.0 compass.coinpoolit.webhop.me
@@ -8092,7 +8092,15 @@
 0.0.0.0 eurohost.evolution-project.go.ro
 0.0.0.0 europa-east.majorminers.com
 0.0.0.0 europa.majorminers.com
+0.0.0.0 europe1.aricoin.miningpoolhub.com
 0.0.0.0 europe.intrepidpool.com
+0.0.0.0 europe.minemonero.pro
+0.0.0.0 europe.miningpoolhub.com
+0.0.0.0 europe.monero.hashvault.pro
+0.0.0.0 europe.monero.nodes.hashvault.pro
+0.0.0.0 europe.node.moneroworld.com
+0.0.0.0 europe.siacoin.miningpoolhub.com
+0.0.0.0 europe.suchpool.pw
 0.0.0.0 euro.poolto.be
 0.0.0.0 euro.suchpool.pw
 0.0.0.0 eu-script.sushipool.com
@@ -8105,8 +8113,8 @@
 0.0.0.0 eu-stratum.mwgrinpool.com
 0.0.0.0 eu.stratum.node.viaxmr.com
 0.0.0.0 eu-stratum.node.viaxmr.com
-0.0.0.0 eu.stratum.viaxmr.com
 0.0.0.0 eu-stratum.viaxmr.com
+0.0.0.0 eu.stratum.viaxmr.com
 0.0.0.0 eu.suprnova.cc
 0.0.0.0 eu-swap.sushipool.com
 0.0.0.0 eu-test.sushipool.com
