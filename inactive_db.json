@@ -57564,6 +57564,83 @@
             "last_retested_at_epoch": 1588650649.550655,
             "last_retested_at_iso": "2020-05-05T03:50:49.550655",
             "status": "INACTIVE"
+        },
+        "event.node.coin-miners.info": {
+            "included_at_epoch": 1588651367.669549,
+            "included_at_iso": "2020-05-05T04:02:47.669549",
+            "last_retested_at_epoch": 1588651367.669549,
+            "last_retested_at_iso": "2020-05-05T04:02:47.669549",
+            "status": "INACTIVE"
+        },
+        "event.suprnova.cc": {
+            "included_at_epoch": 1588651367.535992,
+            "included_at_iso": "2020-05-05T04:02:47.535992",
+            "last_retested_at_epoch": 1588651367.535992,
+            "last_retested_at_iso": "2020-05-05T04:02:47.535992",
+            "status": "INACTIVE"
+        },
+        "eventcoc.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588651367.805406,
+            "included_at_iso": "2020-05-05T04:02:47.805406",
+            "last_retested_at_epoch": 1588651367.805406,
+            "last_retested_at_iso": "2020-05-05T04:02:47.805406",
+            "status": "INACTIVE"
+        },
+        "eventfree.onlycash.ddns.net": {
+            "included_at_epoch": 1588651367.924701,
+            "included_at_iso": "2020-05-05T04:02:47.924701",
+            "last_retested_at_epoch": 1588651367.924701,
+            "last_retested_at_iso": "2020-05-05T04:02:47.924701",
+            "status": "INACTIVE"
+        },
+        "eventhorizon.onlycash.ddns.net": {
+            "included_at_epoch": 1588651368.043565,
+            "included_at_iso": "2020-05-05T04:02:48.043565",
+            "last_retested_at_epoch": 1588651368.043565,
+            "last_retested_at_iso": "2020-05-05T04:02:48.043565",
+            "status": "INACTIVE"
+        },
+        "eventml-skinn.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588651368.161946,
+            "included_at_iso": "2020-05-05T04:02:48.161946",
+            "last_retested_at_epoch": 1588651368.161946,
+            "last_retested_at_iso": "2020-05-05T04:02:48.161946",
+            "status": "INACTIVE"
+        },
+        "eventmoba-skin8.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588651368.280449,
+            "included_at_iso": "2020-05-05T04:02:48.280449",
+            "last_retested_at_epoch": 1588651368.280449,
+            "last_retested_at_iso": "2020-05-05T04:02:48.280449",
+            "status": "INACTIVE"
+        },
+        "eventspesmob2020.onlycash.ddns.net": {
+            "included_at_epoch": 1588651368.502798,
+            "included_at_iso": "2020-05-05T04:02:48.502798",
+            "last_retested_at_epoch": 1588651368.502798,
+            "last_retested_at_iso": "2020-05-05T04:02:48.502798",
+            "status": "INACTIVE"
+        },
+        "evert.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588651368.61921,
+            "included_at_iso": "2020-05-05T04:02:48.619210",
+            "last_retested_at_epoch": 1588651368.61921,
+            "last_retested_at_iso": "2020-05-05T04:02:48.619210",
+            "status": "INACTIVE"
+        },
+        "evertzaberdeentest.miningpool.thruhere.net": {
+            "included_at_epoch": 1588651368.849425,
+            "included_at_iso": "2020-05-05T04:02:48.849425",
+            "last_retested_at_epoch": 1588651368.849425,
+            "last_retested_at_iso": "2020-05-05T04:02:48.849425",
+            "status": "INACTIVE"
+        },
+        "every.luckyfastblocks.com": {
+            "included_at_epoch": 1588651368.73457,
+            "included_at_iso": "2020-05-05T04:02:48.734570",
+            "last_retested_at_epoch": 1588651368.73457,
+            "last_retested_at_iso": "2020-05-05T04:02:48.734570",
+            "status": "INACTIVE"
         }
     }
 }
