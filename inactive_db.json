@@ -58187,6 +58187,76 @@
             "last_retested_at_epoch": 1588661456.97256,
             "last_retested_at_iso": "2020-05-05T06:50:56.972560",
             "status": "INACTIVE"
+        },
+        "exp.minershq.net": {
+            "included_at_epoch": 1588672087.21166,
+            "included_at_iso": "2020-05-05T09:48:07.211660",
+            "last_retested_at_epoch": 1588672087.21166,
+            "last_retested_at_iso": "2020-05-05T09:48:07.211660",
+            "status": "INACTIVE"
+        },
+        "exp.minertopia.org": {
+            "included_at_epoch": 1588672087.343631,
+            "included_at_iso": "2020-05-05T09:48:07.343631",
+            "last_retested_at_epoch": 1588672087.343631,
+            "last_retested_at_iso": "2020-05-05T09:48:07.343631",
+            "status": "INACTIVE"
+        },
+        "exp.mining-pool.fr": {
+            "included_at_epoch": 1588672087.573406,
+            "included_at_iso": "2020-05-05T09:48:07.573406",
+            "last_retested_at_epoch": 1588672087.573406,
+            "last_retested_at_iso": "2020-05-05T09:48:07.573406",
+            "status": "INACTIVE"
+        },
+        "exp.mkt-coin.com": {
+            "included_at_epoch": 1588672087.458709,
+            "included_at_iso": "2020-05-05T09:48:07.458709",
+            "last_retested_at_epoch": 1588672087.458709,
+            "last_retested_at_iso": "2020-05-05T09:48:07.458709",
+            "status": "INACTIVE"
+        },
+        "exp.mole-pool.net": {
+            "included_at_epoch": 1588672087.698746,
+            "included_at_iso": "2020-05-05T09:48:07.698746",
+            "last_retested_at_epoch": 1588672087.698746,
+            "last_retested_at_iso": "2020-05-05T09:48:07.698746",
+            "status": "INACTIVE"
+        },
+        "exp.pirl.network": {
+            "included_at_epoch": 1588672087.834096,
+            "included_at_iso": "2020-05-05T09:48:07.834096",
+            "last_retested_at_epoch": 1588672087.834096,
+            "last_retested_at_iso": "2020-05-05T09:48:07.834096",
+            "status": "INACTIVE"
+        },
+        "exp.protonmine.com": {
+            "included_at_epoch": 1588672088.021581,
+            "included_at_iso": "2020-05-05T09:48:08.021581",
+            "last_retested_at_epoch": 1588672088.021581,
+            "last_retested_at_iso": "2020-05-05T09:48:08.021581",
+            "status": "INACTIVE"
+        },
+        "exp.reidocoin.com.br": {
+            "included_at_epoch": 1588672088.158467,
+            "included_at_iso": "2020-05-05T09:48:08.158467",
+            "last_retested_at_epoch": 1588672088.158467,
+            "last_retested_at_iso": "2020-05-05T09:48:08.158467",
+            "status": "INACTIVE"
+        },
+        "exp.staging.pool.whalesburg.com": {
+            "included_at_epoch": 1588672088.294461,
+            "included_at_iso": "2020-05-05T09:48:08.294461",
+            "last_retested_at_epoch": 1588672088.294461,
+            "last_retested_at_iso": "2020-05-05T09:48:08.294461",
+            "status": "INACTIVE"
+        },
+        "exp.stats.icanmining.ru": {
+            "included_at_epoch": 1588672088.409871,
+            "included_at_iso": "2020-05-05T09:48:08.409871",
+            "last_retested_at_epoch": 1588672088.409871,
+            "last_retested_at_iso": "2020-05-05T09:48:08.409871",
+            "status": "INACTIVE"
         }
     }
 }
