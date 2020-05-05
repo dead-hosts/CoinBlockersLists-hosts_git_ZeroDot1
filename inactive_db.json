@@ -57480,6 +57480,90 @@
             "last_retested_at_epoch": 1588649937.008068,
             "last_retested_at_iso": "2020-05-05T03:38:57.008068",
             "status": "INACTIVE"
+        },
+        "europe1.ufocoin.miningpoolhub.com": {
+            "included_at_epoch": 1588650648.234596,
+            "included_at_iso": "2020-05-05T03:50:48.234596",
+            "last_retested_at_epoch": 1588650648.234596,
+            "last_retested_at_iso": "2020-05-05T03:50:48.234596",
+            "status": "INACTIVE"
+        },
+        "europe1.uro.miningpoolhub.com": {
+            "included_at_epoch": 1588650648.100047,
+            "included_at_iso": "2020-05-05T03:50:48.100047",
+            "last_retested_at_epoch": 1588650648.100047,
+            "last_retested_at_iso": "2020-05-05T03:50:48.100047",
+            "status": "INACTIVE"
+        },
+        "europe1.vcash.miningpoolhub.com": {
+            "included_at_epoch": 1588650648.349335,
+            "included_at_iso": "2020-05-05T03:50:48.349335",
+            "last_retested_at_epoch": 1588650648.349335,
+            "last_retested_at_iso": "2020-05-05T03:50:48.349335",
+            "status": "INACTIVE"
+        },
+        "ev7cam.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588650648.695472,
+            "included_at_iso": "2020-05-05T03:50:48.695472",
+            "last_retested_at_epoch": 1588650648.695472,
+            "last_retested_at_iso": "2020-05-05T03:50:48.695472",
+            "status": "INACTIVE"
+        },
+        "eva.btcc.com": {
+            "included_at_epoch": 1588650648.58119,
+            "included_at_iso": "2020-05-05T03:50:48.581190",
+            "last_retested_at_epoch": 1588650648.58119,
+            "last_retested_at_iso": "2020-05-05T03:50:48.581190",
+            "status": "INACTIVE"
+        },
+        "eval.btcchina.com": {
+            "included_at_epoch": 1588650648.821136,
+            "included_at_iso": "2020-05-05T03:50:48.821136",
+            "last_retested_at_epoch": 1588650648.821136,
+            "last_retested_at_iso": "2020-05-05T03:50:48.821136",
+            "status": "INACTIVE"
+        },
+        "evengparme.com": {
+            "included_at_epoch": 1588650648.956886,
+            "included_at_iso": "2020-05-05T03:50:48.956886",
+            "last_retested_at_epoch": 1588650648.956886,
+            "last_retested_at_iso": "2020-05-05T03:50:48.956886",
+            "status": "INACTIVE"
+        },
+        "event-ff.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588650649.081522,
+            "included_at_iso": "2020-05-05T03:50:49.081522",
+            "last_retested_at_epoch": 1588650649.081522,
+            "last_retested_at_iso": "2020-05-05T03:50:49.081522",
+            "status": "INACTIVE"
+        },
+        "event-garenaff.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588650649.195981,
+            "included_at_iso": "2020-05-05T03:50:49.195981",
+            "last_retested_at_epoch": 1588650649.195981,
+            "last_retested_at_iso": "2020-05-05T03:50:49.195981",
+            "status": "INACTIVE"
+        },
+        "event-skinfree.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588650649.310456,
+            "included_at_iso": "2020-05-05T03:50:49.310456",
+            "last_retested_at_epoch": 1588650649.310456,
+            "last_retested_at_iso": "2020-05-05T03:50:49.310456",
+            "status": "INACTIVE"
+        },
+        "event.coin-miners.info": {
+            "included_at_epoch": 1588650649.43585,
+            "included_at_iso": "2020-05-05T03:50:49.435850",
+            "last_retested_at_epoch": 1588650649.43585,
+            "last_retested_at_iso": "2020-05-05T03:50:49.435850",
+            "status": "INACTIVE"
+        },
+        "event.hashlink.eu": {
+            "included_at_epoch": 1588650649.550655,
+            "included_at_iso": "2020-05-05T03:50:49.550655",
+            "last_retested_at_epoch": 1588650649.550655,
+            "last_retested_at_iso": "2020-05-05T03:50:49.550655",
+            "status": "INACTIVE"
         }
     }
 }
