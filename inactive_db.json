@@ -58327,6 +58327,34 @@
             "last_retested_at_epoch": 1588694000.837962,
             "last_retested_at_iso": "2020-05-05T15:53:20.837962",
             "status": "INACTIVE"
+        },
+        "explorer-cc.our-rapture.com": {
+            "included_at_epoch": 1588697584.281806,
+            "included_at_iso": "2020-05-05T16:53:04.281806",
+            "last_retested_at_epoch": 1588697584.281806,
+            "last_retested_at_iso": "2020-05-05T16:53:04.281806",
+            "status": "INACTIVE"
+        },
+        "explorer-etig.crazypool.org": {
+            "included_at_epoch": 1588697584.424725,
+            "included_at_iso": "2020-05-05T16:53:04.424725",
+            "last_retested_at_epoch": 1588697584.424725,
+            "last_retested_at_iso": "2020-05-05T16:53:04.424725",
+            "status": "INACTIVE"
+        },
+        "explorer.aevocoin.net": {
+            "included_at_epoch": 1588697584.625305,
+            "included_at_iso": "2020-05-05T16:53:04.625305",
+            "last_retested_at_epoch": 1588697584.625305,
+            "last_retested_at_iso": "2020-05-05T16:53:04.625305",
+            "status": "INACTIVE"
+        },
+        "explorer.beta.z.cash": {
+            "included_at_epoch": 1588697584.855852,
+            "included_at_iso": "2020-05-05T16:53:04.855852",
+            "last_retested_at_epoch": 1588697584.855852,
+            "last_retested_at_iso": "2020-05-05T16:53:04.855852",
+            "status": "INACTIVE"
         }
     }
 }
