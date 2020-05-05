@@ -58460,6 +58460,34 @@
             "last_retested_at_epoch": 1588708532.252937,
             "last_retested_at_iso": "2020-05-05T19:55:32.252937",
             "status": "INACTIVE"
+        },
+        "explorer.digitslate.io": {
+            "included_at_epoch": 1588709631.078934,
+            "included_at_iso": "2020-05-05T20:13:51.078934",
+            "last_retested_at_epoch": 1588709631.078934,
+            "last_retested_at_iso": "2020-05-05T20:13:51.078934",
+            "status": "INACTIVE"
+        },
+        "explorer.elphyrecoin.xyz": {
+            "included_at_epoch": 1588709631.284551,
+            "included_at_iso": "2020-05-05T20:13:51.284551",
+            "last_retested_at_epoch": 1588709631.284551,
+            "last_retested_at_iso": "2020-05-05T20:13:51.284551",
+            "status": "INACTIVE"
+        },
+        "explorer.fairpool.xyz": {
+            "included_at_epoch": 1588709631.487667,
+            "included_at_iso": "2020-05-05T20:13:51.487667",
+            "last_retested_at_epoch": 1588709631.487667,
+            "last_retested_at_iso": "2020-05-05T20:13:51.487667",
+            "status": "INACTIVE"
+        },
+        "explorer.flacoin.org": {
+            "included_at_epoch": 1588709631.604834,
+            "included_at_iso": "2020-05-05T20:13:51.604834",
+            "last_retested_at_epoch": 1588709631.604834,
+            "last_retested_at_iso": "2020-05-05T20:13:51.604834",
+            "status": "INACTIVE"
         }
     }
 }
