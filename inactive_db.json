@@ -57956,6 +57956,55 @@
             "last_retested_at_epoch": 1588654564.184061,
             "last_retested_at_iso": "2020-05-05T04:56:04.184061",
             "status": "INACTIVE"
+        },
+        "exe.suchpool.pw": {
+            "included_at_epoch": 1588659340.565654,
+            "included_at_iso": "2020-05-05T06:15:40.565654",
+            "last_retested_at_epoch": 1588659340.565654,
+            "last_retested_at_iso": "2020-05-05T06:15:40.565654",
+            "status": "INACTIVE"
+        },
+        "exe.thecoin.pw": {
+            "included_at_epoch": 1588659340.709125,
+            "included_at_iso": "2020-05-05T06:15:40.709125",
+            "last_retested_at_epoch": 1588659340.709125,
+            "last_retested_at_iso": "2020-05-05T06:15:40.709125",
+            "status": "INACTIVE"
+        },
+        "exess.evolution-project.go.ro": {
+            "included_at_epoch": 1588659340.834366,
+            "included_at_iso": "2020-05-05T06:15:40.834366",
+            "last_retested_at_epoch": 1588659340.834366,
+            "last_retested_at_iso": "2020-05-05T06:15:40.834366",
+            "status": "INACTIVE"
+        },
+        "exhange.joys.digital": {
+            "included_at_epoch": 1588659340.949516,
+            "included_at_iso": "2020-05-05T06:15:40.949516",
+            "last_retested_at_epoch": 1588659340.949516,
+            "last_retested_at_iso": "2020-05-05T06:15:40.949516",
+            "status": "INACTIVE"
+        },
+        "exht.miningpool.thruhere.net": {
+            "included_at_epoch": 1588659341.064168,
+            "included_at_iso": "2020-05-05T06:15:41.064168",
+            "last_retested_at_epoch": 1588659341.064168,
+            "last_retested_at_iso": "2020-05-05T06:15:41.064168",
+            "status": "INACTIVE"
+        },
+        "exi.btcc.com": {
+            "included_at_epoch": 1588659341.178326,
+            "included_at_iso": "2020-05-05T06:15:41.178326",
+            "last_retested_at_epoch": 1588659341.178326,
+            "last_retested_at_iso": "2020-05-05T06:15:41.178326",
+            "status": "INACTIVE"
+        },
+        "exit3.rplant.xyz": {
+            "included_at_epoch": 1588659341.292629,
+            "included_at_iso": "2020-05-05T06:15:41.292629",
+            "last_retested_at_epoch": 1588659341.292629,
+            "last_retested_at_iso": "2020-05-05T06:15:41.292629",
+            "status": "INACTIVE"
         }
     }
 }
