@@ -58488,6 +58488,48 @@
             "last_retested_at_epoch": 1588709631.604834,
             "last_retested_at_iso": "2020-05-05T20:13:51.604834",
             "status": "INACTIVE"
+        },
+        "explorer.garlicpool.org": {
+            "included_at_epoch": 1588715360.757045,
+            "included_at_iso": "2020-05-05T21:49:20.757045",
+            "last_retested_at_epoch": 1588715360.757045,
+            "last_retested_at_iso": "2020-05-05T21:49:20.757045",
+            "status": "INACTIVE"
+        },
+        "explorer.goldiam.org": {
+            "included_at_epoch": 1588715360.970458,
+            "included_at_iso": "2020-05-05T21:49:20.970458",
+            "last_retested_at_epoch": 1588715360.970458,
+            "last_retested_at_iso": "2020-05-05T21:49:20.970458",
+            "status": "INACTIVE"
+        },
+        "explorer.greencoin.space": {
+            "included_at_epoch": 1588715361.221252,
+            "included_at_iso": "2020-05-05T21:49:21.221252",
+            "last_retested_at_epoch": 1588715361.221252,
+            "last_retested_at_iso": "2020-05-05T21:49:21.221252",
+            "status": "INACTIVE"
+        },
+        "explorer.gridcoin.us": {
+            "included_at_epoch": 1588715361.101199,
+            "included_at_iso": "2020-05-05T21:49:21.101199",
+            "last_retested_at_epoch": 1588715361.101199,
+            "last_retested_at_iso": "2020-05-05T21:49:21.101199",
+            "status": "INACTIVE"
+        },
+        "explorer.helioscoin.clevery.xyz": {
+            "included_at_epoch": 1588715361.342072,
+            "included_at_iso": "2020-05-05T21:49:21.342072",
+            "last_retested_at_epoch": 1588715361.342072,
+            "last_retested_at_iso": "2020-05-05T21:49:21.342072",
+            "status": "INACTIVE"
+        },
+        "explorer.hpool.com": {
+            "included_at_epoch": 1588715361.491173,
+            "included_at_iso": "2020-05-05T21:49:21.491173",
+            "last_retested_at_epoch": 1588715361.491173,
+            "last_retested_at_iso": "2020-05-05T21:49:21.491173",
+            "status": "INACTIVE"
         }
     }
 }
