@@ -56983,6 +56983,20 @@
             "last_retested_at_epoch": 1588634267.030219,
             "last_retested_at_iso": "2020-05-04T23:17:47.030219",
             "status": "INACTIVE"
+        },
+        "eu1.multipool.es": {
+            "included_at_epoch": 1588638349.583707,
+            "included_at_iso": "2020-05-05T00:25:49.583707",
+            "last_retested_at_epoch": 1588638349.583707,
+            "last_retested_at_iso": "2020-05-05T00:25:49.583707",
+            "status": "INACTIVE"
+        },
+        "eu1.myzen.cash": {
+            "included_at_epoch": 1588638349.451384,
+            "included_at_iso": "2020-05-05T00:25:49.451384",
+            "last_retested_at_epoch": 1588638349.451384,
+            "last_retested_at_iso": "2020-05-05T00:25:49.451384",
+            "status": "INACTIVE"
         }
     }
 }
