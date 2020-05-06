@@ -58929,6 +58929,111 @@
             "last_retested_at_epoch": 1588745277.114148,
             "last_retested_at_iso": "2020-05-06T06:07:57.114148",
             "status": "INACTIVE"
+        },
+        "f.bitcoin.co.pt": {
+            "included_at_epoch": 1588746289.820603,
+            "included_at_iso": "2020-05-06T06:24:49.820603",
+            "last_retested_at_epoch": 1588746289.820603,
+            "last_retested_at_iso": "2020-05-06T06:24:49.820603",
+            "status": "INACTIVE"
+        },
+        "f.btcchina.com": {
+            "included_at_epoch": 1588746290.072156,
+            "included_at_iso": "2020-05-06T06:24:50.072156",
+            "last_retested_at_epoch": 1588746290.072156,
+            "last_retested_at_iso": "2020-05-06T06:24:50.072156",
+            "status": "INACTIVE"
+        },
+        "f.pooling.cf": {
+            "included_at_epoch": 1588746289.944246,
+            "included_at_iso": "2020-05-06T06:24:49.944246",
+            "last_retested_at_epoch": 1588746289.944246,
+            "last_retested_at_iso": "2020-05-06T06:24:49.944246",
+            "status": "INACTIVE"
+        },
+        "f.static.btcc.com": {
+            "included_at_epoch": 1588746290.190065,
+            "included_at_iso": "2020-05-06T06:24:50.190065",
+            "last_retested_at_epoch": 1588746290.190065,
+            "last_retested_at_iso": "2020-05-06T06:24:50.190065",
+            "status": "INACTIVE"
+        },
+        "f.sunnyjuly.gq": {
+            "included_at_epoch": 1588746290.331287,
+            "included_at_iso": "2020-05-06T06:24:50.331287",
+            "last_retested_at_epoch": 1588746290.331287,
+            "last_retested_at_iso": "2020-05-06T06:24:50.331287",
+            "status": "INACTIVE"
+        },
+        "f0.btcc.com": {
+            "included_at_epoch": 1588746290.461796,
+            "included_at_iso": "2020-05-06T06:24:50.461796",
+            "last_retested_at_epoch": 1588746290.461796,
+            "last_retested_at_iso": "2020-05-06T06:24:50.461796",
+            "status": "INACTIVE"
+        },
+        "f0e8.btcc.com": {
+            "included_at_epoch": 1588746290.58207,
+            "included_at_iso": "2020-05-06T06:24:50.582070",
+            "last_retested_at_epoch": 1588746290.58207,
+            "last_retested_at_iso": "2020-05-06T06:24:50.582070",
+            "status": "INACTIVE"
+        },
+        "f1.cryptopool.ru": {
+            "included_at_epoch": 1588746290.831596,
+            "included_at_iso": "2020-05-06T06:24:50.831596",
+            "last_retested_at_epoch": 1588746290.831596,
+            "last_retested_at_iso": "2020-05-06T06:24:50.831596",
+            "status": "INACTIVE"
+        },
+        "f1.deepbit.net": {
+            "included_at_epoch": 1588746290.712205,
+            "included_at_iso": "2020-05-06T06:24:50.712205",
+            "last_retested_at_epoch": 1588746290.712205,
+            "last_retested_at_iso": "2020-05-06T06:24:50.712205",
+            "status": "INACTIVE"
+        },
+        "f10-194-5.btcc.com": {
+            "included_at_epoch": 1588746290.950636,
+            "included_at_iso": "2020-05-06T06:24:50.950636",
+            "last_retested_at_epoch": 1588746290.950636,
+            "last_retested_at_iso": "2020-05-06T06:24:50.950636",
+            "status": "INACTIVE"
+        },
+        "f10-92-181.btcc.com": {
+            "included_at_epoch": 1588746291.080499,
+            "included_at_iso": "2020-05-06T06:24:51.080499",
+            "last_retested_at_epoch": 1588746291.080499,
+            "last_retested_at_iso": "2020-05-06T06:24:51.080499",
+            "status": "INACTIVE"
+        },
+        "f12-it.onlycash.ddns.net": {
+            "included_at_epoch": 1588746291.211047,
+            "included_at_iso": "2020-05-06T06:24:51.211047",
+            "last_retested_at_epoch": 1588746291.211047,
+            "last_retested_at_iso": "2020-05-06T06:24:51.211047",
+            "status": "INACTIVE"
+        },
+        "f19.btcc.com": {
+            "included_at_epoch": 1588746291.330784,
+            "included_at_iso": "2020-05-06T06:24:51.330784",
+            "last_retested_at_epoch": 1588746291.330784,
+            "last_retested_at_iso": "2020-05-06T06:24:51.330784",
+            "status": "INACTIVE"
+        },
+        "f1amghome.onlycash.ddns.net": {
+            "included_at_epoch": 1588746291.461876,
+            "included_at_iso": "2020-05-06T06:24:51.461876",
+            "last_retested_at_epoch": 1588746291.461876,
+            "last_retested_at_iso": "2020-05-06T06:24:51.461876",
+            "status": "INACTIVE"
+        },
+        "f2-6.btcc.com": {
+            "included_at_epoch": 1588746291.581813,
+            "included_at_iso": "2020-05-06T06:24:51.581813",
+            "last_retested_at_epoch": 1588746291.581813,
+            "last_retested_at_iso": "2020-05-06T06:24:51.581813",
+            "status": "INACTIVE"
         }
     }
 }
