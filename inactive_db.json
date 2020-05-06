@@ -59216,6 +59216,97 @@
             "last_retested_at_epoch": 1588753743.442255,
             "last_retested_at_iso": "2020-05-06T08:29:03.442255",
             "status": "INACTIVE"
+        },
+        "fail.suprnova.cc": {
+            "included_at_epoch": 1588756429.647115,
+            "included_at_iso": "2020-05-06T09:13:49.647115",
+            "last_retested_at_epoch": 1588756429.647115,
+            "last_retested_at_iso": "2020-05-06T09:13:49.647115",
+            "status": "INACTIVE"
+        },
+        "failover.xmrig.com": {
+            "included_at_epoch": 1588756429.900752,
+            "included_at_iso": "2020-05-06T09:13:49.900752",
+            "last_retested_at_epoch": 1588756429.900752,
+            "last_retested_at_iso": "2020-05-06T09:13:49.900752",
+            "status": "INACTIVE"
+        },
+        "fairfrog.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588756429.782825,
+            "included_at_iso": "2020-05-06T09:13:49.782825",
+            "last_retested_at_epoch": 1588756429.782825,
+            "last_retested_at_iso": "2020-05-06T09:13:49.782825",
+            "status": "INACTIVE"
+        },
+        "fairymental.evolution-project.go.ro": {
+            "included_at_epoch": 1588756430.15125,
+            "included_at_iso": "2020-05-06T09:13:50.151250",
+            "last_retested_at_epoch": 1588756430.15125,
+            "last_retested_at_iso": "2020-05-06T09:13:50.151250",
+            "status": "INACTIVE"
+        },
+        "faisal277ksa.onlycash.ddns.net": {
+            "included_at_epoch": 1588756430.28039,
+            "included_at_iso": "2020-05-06T09:13:50.280390",
+            "last_retested_at_epoch": 1588756430.28039,
+            "last_retested_at_iso": "2020-05-06T09:13:50.280390",
+            "status": "INACTIVE"
+        },
+        "fakenaeb.ru": {
+            "included_at_epoch": 1588756430.39862,
+            "included_at_iso": "2020-05-06T09:13:50.398620",
+            "last_retested_at_epoch": 1588756430.39862,
+            "last_retested_at_iso": "2020-05-06T09:13:50.398620",
+            "status": "INACTIVE"
+        },
+        "falcon.raptor.miningpool.thruhere.net": {
+            "included_at_epoch": 1588756430.657371,
+            "included_at_iso": "2020-05-06T09:13:50.657371",
+            "last_retested_at_epoch": 1588756430.657371,
+            "last_retested_at_iso": "2020-05-06T09:13:50.657371",
+            "status": "INACTIVE"
+        },
+        "falko.onlycash.ddns.net": {
+            "included_at_epoch": 1588756430.538157,
+            "included_at_iso": "2020-05-06T09:13:50.538157",
+            "last_retested_at_epoch": 1588756430.538157,
+            "last_retested_at_iso": "2020-05-06T09:13:50.538157",
+            "status": "INACTIVE"
+        },
+        "fallen.evolution-project.go.ro": {
+            "included_at_epoch": 1588756430.787612,
+            "included_at_iso": "2020-05-06T09:13:50.787612",
+            "last_retested_at_epoch": 1588756430.787612,
+            "last_retested_at_iso": "2020-05-06T09:13:50.787612",
+            "status": "INACTIVE"
+        },
+        "fam-badita.evolution-project.go.ro": {
+            "included_at_epoch": 1588756431.022225,
+            "included_at_iso": "2020-05-06T09:13:51.022225",
+            "last_retested_at_epoch": 1588756431.022225,
+            "last_retested_at_iso": "2020-05-06T09:13:51.022225",
+            "status": "INACTIVE"
+        },
+        "fam-melcher.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588756430.905123,
+            "included_at_iso": "2020-05-06T09:13:50.905123",
+            "last_retested_at_epoch": 1588756430.905123,
+            "last_retested_at_iso": "2020-05-06T09:13:50.905123",
+            "status": "INACTIVE"
+        },
+        "famelysbox.onlycash.ddns.net": {
+            "included_at_epoch": 1588756431.139316,
+            "included_at_iso": "2020-05-06T09:13:51.139316",
+            "last_retested_at_epoch": 1588756431.139316,
+            "last_retested_at_iso": "2020-05-06T09:13:51.139316",
+            "status": "INACTIVE"
+        },
+        "famiglia.evolution-project.go.ro": {
+            "included_at_epoch": 1588756431.257156,
+            "included_at_iso": "2020-05-06T09:13:51.257156",
+            "last_retested_at_epoch": 1588756431.257156,
+            "last_retested_at_iso": "2020-05-06T09:13:51.257156",
+            "status": "INACTIVE"
         }
     }
 }
