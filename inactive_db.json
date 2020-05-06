@@ -59825,6 +59825,41 @@
             "last_retested_at_epoch": 1588771915.154948,
             "last_retested_at_iso": "2020-05-06T13:31:55.154948",
             "status": "INACTIVE"
+        },
+        "fcn.mypool.name": {
+            "included_at_epoch": 1588780141.5647,
+            "included_at_iso": "2020-05-06T15:49:01.564700",
+            "last_retested_at_epoch": 1588780141.5647,
+            "last_retested_at_iso": "2020-05-06T15:49:01.564700",
+            "status": "INACTIVE"
+        },
+        "fcn.pool-temp.minergate.com": {
+            "included_at_epoch": 1588780141.833625,
+            "included_at_iso": "2020-05-06T15:49:01.833625",
+            "last_retested_at_epoch": 1588780141.833625,
+            "last_retested_at_iso": "2020-05-06T15:49:01.833625",
+            "status": "INACTIVE"
+        },
+        "fcn.pool.minergate.com": {
+            "included_at_epoch": 1588780141.714844,
+            "included_at_iso": "2020-05-06T15:49:01.714844",
+            "last_retested_at_epoch": 1588780141.714844,
+            "last_retested_at_iso": "2020-05-06T15:49:01.714844",
+            "status": "INACTIVE"
+        },
+        "fcons-home.miningpool.thruhere.net": {
+            "included_at_epoch": 1588780141.952189,
+            "included_at_iso": "2020-05-06T15:49:01.952189",
+            "last_retested_at_epoch": 1588780141.952189,
+            "last_retested_at_iso": "2020-05-06T15:49:01.952189",
+            "status": "INACTIVE"
+        },
+        "fcrma.evolution-project.go.ro": {
+            "included_at_epoch": 1588780142.11381,
+            "included_at_iso": "2020-05-06T15:49:02.113810",
+            "last_retested_at_epoch": 1588780142.11381,
+            "last_retested_at_iso": "2020-05-06T15:49:02.113810",
+            "status": "INACTIVE"
         }
     }
 }
