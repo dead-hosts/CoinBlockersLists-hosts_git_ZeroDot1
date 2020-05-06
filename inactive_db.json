@@ -58530,6 +58530,34 @@
             "last_retested_at_epoch": 1588715361.491173,
             "last_retested_at_iso": "2020-05-05T21:49:21.491173",
             "status": "INACTIVE"
+        },
+        "explorer.icanmining.ru": {
+            "included_at_epoch": 1588729892.516834,
+            "included_at_iso": "2020-05-06T01:51:32.516834",
+            "last_retested_at_epoch": 1588729892.516834,
+            "last_retested_at_iso": "2020-05-06T01:51:32.516834",
+            "status": "INACTIVE"
+        },
+        "explorer.jesuspool.com": {
+            "included_at_epoch": 1588729892.691033,
+            "included_at_iso": "2020-05-06T01:51:32.691033",
+            "last_retested_at_epoch": 1588729892.691033,
+            "last_retested_at_iso": "2020-05-06T01:51:32.691033",
+            "status": "INACTIVE"
+        },
+        "explorer.jsecoin.com": {
+            "included_at_epoch": 1588729892.819316,
+            "included_at_iso": "2020-05-06T01:51:32.819316",
+            "last_retested_at_epoch": 1588729892.819316,
+            "last_retested_at_iso": "2020-05-06T01:51:32.819316",
+            "status": "INACTIVE"
+        },
+        "explorer.llama.horse": {
+            "included_at_epoch": 1588729893.002375,
+            "included_at_iso": "2020-05-06T01:51:33.002375",
+            "last_retested_at_epoch": 1588729893.002375,
+            "last_retested_at_iso": "2020-05-06T01:51:33.002375",
+            "status": "INACTIVE"
         }
     }
 }
