@@ -59188,6 +59188,34 @@
             "last_retested_at_epoch": 1588752765.418485,
             "last_retested_at_iso": "2020-05-06T08:12:45.418485",
             "status": "INACTIVE"
+        },
+        "faclite.sucrecoin.org": {
+            "included_at_epoch": 1588753743.063077,
+            "included_at_iso": "2020-05-06T08:29:03.063077",
+            "last_retested_at_epoch": 1588753743.063077,
+            "last_retested_at_iso": "2020-05-06T08:29:03.063077",
+            "status": "INACTIVE"
+        },
+        "facturi.evolution-project.go.ro": {
+            "included_at_epoch": 1588753743.20354,
+            "included_at_iso": "2020-05-06T08:29:03.203540",
+            "last_retested_at_epoch": 1588753743.20354,
+            "last_retested_at_iso": "2020-05-06T08:29:03.203540",
+            "status": "INACTIVE"
+        },
+        "fade.suprnova.cc": {
+            "included_at_epoch": 1588753743.32261,
+            "included_at_iso": "2020-05-06T08:29:03.322610",
+            "last_retested_at_epoch": 1588753743.32261,
+            "last_retested_at_iso": "2020-05-06T08:29:03.322610",
+            "status": "INACTIVE"
+        },
+        "fail.hashrate.eu": {
+            "included_at_epoch": 1588753743.442255,
+            "included_at_iso": "2020-05-06T08:29:03.442255",
+            "last_retested_at_epoch": 1588753743.442255,
+            "last_retested_at_iso": "2020-05-06T08:29:03.442255",
+            "status": "INACTIVE"
         }
     }
 }
