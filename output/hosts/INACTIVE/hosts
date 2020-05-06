@@ -93,8 +93,8 @@
 0.0.0.0 0-219215.btcc.com
 0.0.0.0 0224.openvpn.btcchina.com
 0.0.0.0 0-224.openvpn.f2pool.com
-0.0.0.0 0-227.openvpn.f2pool.com
 0.0.0.0 0227.openvpn.f2pool.com
+0.0.0.0 0-227.openvpn.f2pool.com
 0.0.0.0 022.openvpn.btcchina.com
 0.0.0.0 0-231.openvpn.f2pool.com
 0.0.0.0 0-232.openvpn.f2pool.com
@@ -231,8 +231,8 @@
 0.0.0.0 10-149.openvpn.btcchina.com
 0.0.0.0 101-4.openvpn.btcchina.com
 0.0.0.0 101-50.openvpn.btcchina.com
-0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10152.openvpn.btcchina.com
+0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10179.openvpn.f2pool.com
 0.0.0.0 1017a.openvpn.btcchina.com
 0.0.0.0 101-80.openvpn.btcchina.com
@@ -1042,8 +1042,8 @@
 0.0.0.0 352b6cd4a00b.coinpoolit.webhop.me
 0.0.0.0 35df.openvpn.f2pool.com
 0.0.0.0 360caa42.space
-0.0.0.0 360kci.moneroseeds.ae.org
 0.0.0.0 360.kci.moneroseeds.ae.org
+0.0.0.0 360kci.moneroseeds.ae.org
 0.0.0.0 360.miningpool.thruhere.net
 0.0.0.0 36-202.btcc.com
 0.0.0.0 367-242.btcc.com
@@ -2034,8 +2034,8 @@
 0.0.0.0 amazon.coinpoolit.webhop.me
 0.0.0.0 amazon-confirmed.coinpoolit.webhop.me
 0.0.0.0 amazon.sberex.com
-0.0.0.0 amazonses.btcc.com
 0.0.0.0 _amazonses.btcc.com
+0.0.0.0 amazonses.btcc.com
 0.0.0.0 amazonveirfy.onlycash.ddns.net
 0.0.0.0 amaz-reception.coinpoolit.webhop.me
 0.0.0.0 amaz-wildcardrecord.coinpoolit.webhop.me
@@ -2466,8 +2466,8 @@
 0.0.0.0 appleid-lockedverif.coinpoolit.webhop.me
 0.0.0.0 appleid-login.coinpoolit.webhop.me
 0.0.0.0 appleid.onlycash.ddns.net
-0.0.0.0 apple-idreview.coinpoolit.webhop.me
 0.0.0.0 appleid-review.coinpoolit.webhop.me
+0.0.0.0 apple-idreview.coinpoolit.webhop.me
 0.0.0.0 appleids.coinpoolit.webhop.me
 0.0.0.0 appleidsecures.coinpoolit.webhop.me
 0.0.0.0 appleid-server.onlycash.ddns.net
@@ -2881,8 +2881,8 @@
 0.0.0.0 atus.onlycash.ddns.net
 0.0.0.0 atvaark.onlycash.ddns.net
 0.0.0.0 atzilut.onlycash.ddns.net
-0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 a.u.bitcoin.co.pt
+0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 au.btc.com
 0.0.0.0 au.coin-miners.info
 0.0.0.0 au.cryptopools.com
@@ -6553,8 +6553,8 @@
 0.0.0.0 dgb.ltc-e.live
 0.0.0.0 dgb.p2pool.ru
 0.0.0.0 dgb-sc.p2pool.ru
-0.0.0.0 dgb.scrypt.coinstop.me
 0.0.0.0 dgb-scrypt.coinstop.me
+0.0.0.0 dgb.scrypt.coinstop.me
 0.0.0.0 dgb-scrypt-nl.hashing.space
 0.0.0.0 dgb-scrypt-sg.hashing.space
 0.0.0.0 dgb-scrypt-tx.hashing.space
@@ -8130,8 +8130,8 @@
 0.0.0.0 eu.solo.eth.wattpool.net
 0.0.0.0 eu.stratum.grin-pool.org
 0.0.0.0 eu-stratum.mwgrinpool.com
-0.0.0.0 eu-stratum.node.viaxmr.com
 0.0.0.0 eu.stratum.node.viaxmr.com
+0.0.0.0 eu-stratum.node.viaxmr.com
 0.0.0.0 eu-stratum.viaxmr.com
 0.0.0.0 eu.stratum.viaxmr.com
 0.0.0.0 eu.suprnova.cc
@@ -8416,6 +8416,8 @@
 0.0.0.0 farkwit.coinpoolit.webhop.me
 0.0.0.0 farmacia.em.bitcoin.co.pt
 0.0.0.0 farm.sparkpool.com
+0.0.0.0 farsight.miningpool.thruhere.net
+0.0.0.0 fast.coinpoolit.webhop.me
 0.0.0.0 f.bitcoin.co.pt
 0.0.0.0 f.btcchina.com
 0.0.0.0 f.pooling.cf

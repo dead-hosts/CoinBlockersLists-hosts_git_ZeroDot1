@@ -59405,6 +59405,20 @@
             "last_retested_at_epoch": 1588763320.592616,
             "last_retested_at_iso": "2020-05-06T11:08:40.592616",
             "status": "INACTIVE"
+        },
+        "farsight.miningpool.thruhere.net": {
+            "included_at_epoch": 1588767344.61086,
+            "included_at_iso": "2020-05-06T12:15:44.610860",
+            "last_retested_at_epoch": 1588767344.61086,
+            "last_retested_at_iso": "2020-05-06T12:15:44.610860",
+            "status": "INACTIVE"
+        },
+        "fast.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588767344.48817,
+            "included_at_iso": "2020-05-06T12:15:44.488170",
+            "last_retested_at_epoch": 1588767344.48817,
+            "last_retested_at_iso": "2020-05-06T12:15:44.488170",
+            "status": "INACTIVE"
         }
     }
 }
