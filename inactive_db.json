@@ -59391,6 +59391,20 @@
             "last_retested_at_epoch": 1588762336.292283,
             "last_retested_at_iso": "2020-05-06T10:52:16.292283",
             "status": "INACTIVE"
+        },
+        "farm.sparkpool.com": {
+            "included_at_epoch": 1588763320.442771,
+            "included_at_iso": "2020-05-06T11:08:40.442771",
+            "last_retested_at_epoch": 1588763320.442771,
+            "last_retested_at_iso": "2020-05-06T11:08:40.442771",
+            "status": "INACTIVE"
+        },
+        "farmacia.em.bitcoin.co.pt": {
+            "included_at_epoch": 1588763320.592616,
+            "included_at_iso": "2020-05-06T11:08:40.592616",
+            "last_retested_at_epoch": 1588763320.592616,
+            "last_retested_at_iso": "2020-05-06T11:08:40.592616",
+            "status": "INACTIVE"
         }
     }
 }
