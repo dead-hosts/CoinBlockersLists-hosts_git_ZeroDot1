@@ -60161,6 +60161,69 @@
             "last_retested_at_epoch": 1588802477.109725,
             "last_retested_at_iso": "2020-05-06T22:01:17.109725",
             "status": "INACTIVE"
+        },
+        "festival.smartcoinpool.com": {
+            "included_at_epoch": 1588803185.291266,
+            "included_at_iso": "2020-05-06T22:13:05.291266",
+            "last_retested_at_epoch": 1588803185.291266,
+            "last_retested_at_iso": "2020-05-06T22:13:05.291266",
+            "status": "INACTIVE"
+        },
+        "fetchingknits.miningpool.thruhere.net": {
+            "included_at_epoch": 1588803185.434008,
+            "included_at_iso": "2020-05-06T22:13:05.434008",
+            "last_retested_at_epoch": 1588803185.434008,
+            "last_retested_at_iso": "2020-05-06T22:13:05.434008",
+            "status": "INACTIVE"
+        },
+        "fetegoale.evolution-project.go.ro": {
+            "included_at_epoch": 1588803185.681087,
+            "included_at_iso": "2020-05-06T22:13:05.681087",
+            "last_retested_at_epoch": 1588803185.681087,
+            "last_retested_at_iso": "2020-05-06T22:13:05.681087",
+            "status": "INACTIVE"
+        },
+        "ff.148pr.onlycash.ddns.net": {
+            "included_at_epoch": 1588803185.557353,
+            "included_at_iso": "2020-05-06T22:13:05.557353",
+            "last_retested_at_epoch": 1588803185.557353,
+            "last_retested_at_iso": "2020-05-06T22:13:05.557353",
+            "status": "INACTIVE"
+        },
+        "ff2dead5a7.pw": {
+            "included_at_epoch": 1588803185.804025,
+            "included_at_iso": "2020-05-06T22:13:05.804025",
+            "last_retested_at_epoch": 1588803185.804025,
+            "last_retested_at_iso": "2020-05-06T22:13:05.804025",
+            "status": "INACTIVE"
+        },
+        "ffc.coinstop.me": {
+            "included_at_epoch": 1588803185.928033,
+            "included_at_iso": "2020-05-06T22:13:05.928033",
+            "last_retested_at_epoch": 1588803185.928033,
+            "last_retested_at_iso": "2020-05-06T22:13:05.928033",
+            "status": "INACTIVE"
+        },
+        "ffc.miningfield.com": {
+            "included_at_epoch": 1588803186.051967,
+            "included_at_iso": "2020-05-06T22:13:06.051967",
+            "last_retested_at_epoch": 1588803186.051967,
+            "last_retested_at_iso": "2020-05-06T22:13:06.051967",
+            "status": "INACTIVE"
+        },
+        "ffemmering.onlycash.ddns.net": {
+            "included_at_epoch": 1588803186.185202,
+            "included_at_iso": "2020-05-06T22:13:06.185202",
+            "last_retested_at_epoch": 1588803186.185202,
+            "last_retested_at_iso": "2020-05-06T22:13:06.185202",
+            "status": "INACTIVE"
+        },
+        "ffgarena.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588803186.30459,
+            "included_at_iso": "2020-05-06T22:13:06.304590",
+            "last_retested_at_epoch": 1588803186.30459,
+            "last_retested_at_iso": "2020-05-06T22:13:06.304590",
+            "status": "INACTIVE"
         }
     }
 }
