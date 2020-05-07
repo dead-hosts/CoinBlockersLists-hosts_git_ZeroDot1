@@ -60826,6 +60826,20 @@
             "last_retested_at_epoch": 1588842933.795882,
             "last_retested_at_iso": "2020-05-07T09:15:33.795882",
             "status": "INACTIVE"
+        },
+        "flap.hashlink.eu": {
+            "included_at_epoch": 1588884662.182639,
+            "included_at_iso": "2020-05-07T20:51:02.182639",
+            "last_retested_at_epoch": 1588884662.182639,
+            "last_retested_at_iso": "2020-05-07T20:51:02.182639",
+            "status": "INACTIVE"
+        },
+        "flappy.suchpool.pw": {
+            "included_at_epoch": 1588884662.325725,
+            "included_at_iso": "2020-05-07T20:51:02.325725",
+            "last_retested_at_epoch": 1588884662.325725,
+            "last_retested_at_iso": "2020-05-07T20:51:02.325725",
+            "status": "INACTIVE"
         }
     }
 }
