@@ -60413,6 +60413,20 @@
             "last_retested_at_epoch": 1588803898.594352,
             "last_retested_at_iso": "2020-05-06T22:24:58.594352",
             "status": "INACTIVE"
+        },
+        "fifo.saltpool.net": {
+            "included_at_epoch": 1588816166.188366,
+            "included_at_iso": "2020-05-07T01:49:26.188366",
+            "last_retested_at_epoch": 1588816166.188366,
+            "last_retested_at_iso": "2020-05-07T01:49:26.188366",
+            "status": "INACTIVE"
+        },
+        "filafive.crypto-mining-pool.com": {
+            "included_at_epoch": 1588816166.045478,
+            "included_at_iso": "2020-05-07T01:49:26.045478",
+            "last_retested_at_epoch": 1588816166.045478,
+            "last_retested_at_iso": "2020-05-07T01:49:26.045478",
+            "status": "INACTIVE"
         }
     }
 }
