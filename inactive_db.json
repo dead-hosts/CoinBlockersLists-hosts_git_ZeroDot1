@@ -60665,6 +60665,69 @@
             "last_retested_at_epoch": 1588832148.127333,
             "last_retested_at_iso": "2020-05-07T06:15:48.127333",
             "status": "INACTIVE"
+        },
+        "firebase.youpool.io": {
+            "included_at_epoch": 1588832863.180779,
+            "included_at_iso": "2020-05-07T06:27:43.180779",
+            "last_retested_at_epoch": 1588832863.180779,
+            "last_retested_at_iso": "2020-05-07T06:27:43.180779",
+            "status": "INACTIVE"
+        },
+        "firefighter.evolution-project.go.ro": {
+            "included_at_epoch": 1588832863.439451,
+            "included_at_iso": "2020-05-07T06:27:43.439451",
+            "last_retested_at_epoch": 1588832863.439451,
+            "last_retested_at_iso": "2020-05-07T06:27:43.439451",
+            "status": "INACTIVE"
+        },
+        "fireflycoin.thecoin.pw": {
+            "included_at_epoch": 1588832863.318698,
+            "included_at_iso": "2020-05-07T06:27:43.318698",
+            "last_retested_at_epoch": 1588832863.318698,
+            "last_retested_at_iso": "2020-05-07T06:27:43.318698",
+            "status": "INACTIVE"
+        },
+        "firefox.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588832863.560346,
+            "included_at_iso": "2020-05-07T06:27:43.560346",
+            "last_retested_at_epoch": 1588832863.560346,
+            "last_retested_at_iso": "2020-05-07T06:27:43.560346",
+            "status": "INACTIVE"
+        },
+        "firenze.evolution-project.go.ro": {
+            "included_at_epoch": 1588832863.746515,
+            "included_at_iso": "2020-05-07T06:27:43.746515",
+            "last_retested_at_epoch": 1588832863.746515,
+            "last_retested_at_iso": "2020-05-07T06:27:43.746515",
+            "status": "INACTIVE"
+        },
+        "firestorm.evolution-project.go.ro": {
+            "included_at_epoch": 1588832863.987084,
+            "included_at_iso": "2020-05-07T06:27:43.987084",
+            "last_retested_at_epoch": 1588832863.987084,
+            "last_retested_at_iso": "2020-05-07T06:27:43.987084",
+            "status": "INACTIVE"
+        },
+        "firewalker.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588832863.867166,
+            "included_at_iso": "2020-05-07T06:27:43.867166",
+            "last_retested_at_epoch": 1588832863.867166,
+            "last_retested_at_iso": "2020-05-07T06:27:43.867166",
+            "status": "INACTIVE"
+        },
+        "first-pool.com": {
+            "included_at_epoch": 1588832864.151067,
+            "included_at_iso": "2020-05-07T06:27:44.151067",
+            "last_retested_at_epoch": 1588832864.151067,
+            "last_retested_at_iso": "2020-05-07T06:27:44.151067",
+            "status": "INACTIVE"
+        },
+        "firstfleet.miningpool.thruhere.net": {
+            "included_at_epoch": 1588832864.272968,
+            "included_at_iso": "2020-05-07T06:27:44.272968",
+            "last_retested_at_epoch": 1588832864.272968,
+            "last_retested_at_iso": "2020-05-07T06:27:44.272968",
+            "status": "INACTIVE"
         }
     }
 }
