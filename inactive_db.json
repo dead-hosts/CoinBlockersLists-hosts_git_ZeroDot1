@@ -60427,6 +60427,76 @@
             "last_retested_at_epoch": 1588816166.045478,
             "last_retested_at_iso": "2020-05-07T01:49:26.045478",
             "status": "INACTIVE"
+        },
+        "file.systemten.org": {
+            "included_at_epoch": 1588816879.397852,
+            "included_at_iso": "2020-05-07T02:01:19.397852",
+            "last_retested_at_epoch": 1588816879.397852,
+            "last_retested_at_iso": "2020-05-07T02:01:19.397852",
+            "status": "INACTIVE"
+        },
+        "files.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588816879.582177,
+            "included_at_iso": "2020-05-07T02:01:19.582177",
+            "last_retested_at_epoch": 1588816879.582177,
+            "last_retested_at_iso": "2020-05-07T02:01:19.582177",
+            "status": "INACTIVE"
+        },
+        "files.fortrader.ru": {
+            "included_at_epoch": 1588816879.745854,
+            "included_at_iso": "2020-05-07T02:01:19.745854",
+            "last_retested_at_epoch": 1588816879.745854,
+            "last_retested_at_iso": "2020-05-07T02:01:19.745854",
+            "status": "INACTIVE"
+        },
+        "files.gridcoin.us": {
+            "included_at_epoch": 1588816879.866131,
+            "included_at_iso": "2020-05-07T02:01:19.866131",
+            "last_retested_at_epoch": 1588816879.866131,
+            "last_retested_at_iso": "2020-05-07T02:01:19.866131",
+            "status": "INACTIVE"
+        },
+        "files.litecoinp2pool.com": {
+            "included_at_epoch": 1588816880.007754,
+            "included_at_iso": "2020-05-07T02:01:20.007754",
+            "last_retested_at_epoch": 1588816880.007754,
+            "last_retested_at_iso": "2020-05-07T02:01:20.007754",
+            "status": "INACTIVE"
+        },
+        "files.minecrypto.pro": {
+            "included_at_epoch": 1588816880.127287,
+            "included_at_iso": "2020-05-07T02:01:20.127287",
+            "last_retested_at_epoch": 1588816880.127287,
+            "last_retested_at_iso": "2020-05-07T02:01:20.127287",
+            "status": "INACTIVE"
+        },
+        "files.miningpool.thruhere.net": {
+            "included_at_epoch": 1588816880.281749,
+            "included_at_iso": "2020-05-07T02:01:20.281749",
+            "last_retested_at_epoch": 1588816880.281749,
+            "last_retested_at_iso": "2020-05-07T02:01:20.281749",
+            "status": "INACTIVE"
+        },
+        "files.node.gridcoin.us": {
+            "included_at_epoch": 1588816880.413955,
+            "included_at_iso": "2020-05-07T02:01:20.413955",
+            "last_retested_at_epoch": 1588816880.413955,
+            "last_retested_at_iso": "2020-05-07T02:01:20.413955",
+            "status": "INACTIVE"
+        },
+        "files.rmc.one": {
+            "included_at_epoch": 1588816880.546436,
+            "included_at_iso": "2020-05-07T02:01:20.546436",
+            "last_retested_at_epoch": 1588816880.546436,
+            "last_retested_at_iso": "2020-05-07T02:01:20.546436",
+            "status": "INACTIVE"
+        },
+        "files.traaittplatform.com": {
+            "included_at_epoch": 1588816880.665777,
+            "included_at_iso": "2020-05-07T02:01:20.665777",
+            "last_retested_at_epoch": 1588816880.665777,
+            "last_retested_at_iso": "2020-05-07T02:01:20.665777",
+            "status": "INACTIVE"
         }
     }
 }
