@@ -61218,6 +61218,55 @@
             "last_retested_at_epoch": 1588931317.720002,
             "last_retested_at_iso": "2020-05-08T09:48:37.720002",
             "status": "INACTIVE"
+        },
+        "floyd.evolution-project.go.ro": {
+            "included_at_epoch": 1588938542.6413,
+            "included_at_iso": "2020-05-08T11:49:02.641300",
+            "last_retested_at_epoch": 1588938542.6413,
+            "last_retested_at_iso": "2020-05-08T11:49:02.641300",
+            "status": "INACTIVE"
+        },
+        "flozone.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588938542.501293,
+            "included_at_iso": "2020-05-08T11:49:02.501293",
+            "last_retested_at_epoch": 1588938542.501293,
+            "last_retested_at_iso": "2020-05-08T11:49:02.501293",
+            "status": "INACTIVE"
+        },
+        "flt-east.majorminers.com": {
+            "included_at_epoch": 1588938542.762254,
+            "included_at_iso": "2020-05-08T11:49:02.762254",
+            "last_retested_at_epoch": 1588938542.762254,
+            "last_retested_at_iso": "2020-05-08T11:49:02.762254",
+            "status": "INACTIVE"
+        },
+        "flt.althash.eu": {
+            "included_at_epoch": 1588938542.882581,
+            "included_at_iso": "2020-05-08T11:49:02.882581",
+            "last_retested_at_epoch": 1588938542.882581,
+            "last_retested_at_iso": "2020-05-08T11:49:02.882581",
+            "status": "INACTIVE"
+        },
+        "flt.majorminers.com": {
+            "included_at_epoch": 1588938543.013923,
+            "included_at_iso": "2020-05-08T11:49:03.013923",
+            "last_retested_at_epoch": 1588938543.013923,
+            "last_retested_at_iso": "2020-05-08T11:49:03.013923",
+            "status": "INACTIVE"
+        },
+        "fluctuation.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588938543.133808,
+            "included_at_iso": "2020-05-08T11:49:03.133808",
+            "last_retested_at_epoch": 1588938543.133808,
+            "last_retested_at_iso": "2020-05-08T11:49:03.133808",
+            "status": "INACTIVE"
+        },
+        "flueras.evolution-project.go.ro": {
+            "included_at_epoch": 1588938543.253703,
+            "included_at_iso": "2020-05-08T11:49:03.253703",
+            "last_retested_at_epoch": 1588938543.253703,
+            "last_retested_at_iso": "2020-05-08T11:49:03.253703",
+            "status": "INACTIVE"
         }
     }
 }
