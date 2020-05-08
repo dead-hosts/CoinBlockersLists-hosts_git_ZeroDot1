@@ -60840,6 +60840,20 @@
             "last_retested_at_epoch": 1588884662.325725,
             "last_retested_at_iso": "2020-05-07T20:51:02.325725",
             "status": "INACTIVE"
+        },
+        "flash-update.akva-komptlt.ru": {
+            "included_at_epoch": 1588900495.834794,
+            "included_at_iso": "2020-05-08T01:14:55.834794",
+            "last_retested_at_epoch": 1588900495.834794,
+            "last_retested_at_iso": "2020-05-08T01:14:55.834794",
+            "status": "INACTIVE"
+        },
+        "flash.antpool.com": {
+            "included_at_epoch": 1588900495.979668,
+            "included_at_iso": "2020-05-08T01:14:55.979668",
+            "last_retested_at_epoch": 1588900495.979668,
+            "last_retested_at_iso": "2020-05-08T01:14:55.979668",
+            "status": "INACTIVE"
         }
     }
 }
