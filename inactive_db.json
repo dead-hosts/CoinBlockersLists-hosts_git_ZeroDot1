@@ -61120,6 +61120,62 @@
             "last_retested_at_epoch": 1588906225.348809,
             "last_retested_at_iso": "2020-05-08T02:50:25.348809",
             "status": "INACTIVE"
+        },
+        "florentinservice.evolution-project.go.ro": {
+            "included_at_epoch": 1588925749.025722,
+            "included_at_iso": "2020-05-08T08:15:49.025722",
+            "last_retested_at_epoch": 1588925749.025722,
+            "last_retested_at_iso": "2020-05-08T08:15:49.025722",
+            "status": "INACTIVE"
+        },
+        "florentv2.onlycash.ddns.net": {
+            "included_at_epoch": 1588925748.898699,
+            "included_at_iso": "2020-05-08T08:15:48.898699",
+            "last_retested_at_epoch": 1588925748.898699,
+            "last_retested_at_iso": "2020-05-08T08:15:48.898699",
+            "status": "INACTIVE"
+        },
+        "floria.evolution-project.go.ro": {
+            "included_at_epoch": 1588925749.149317,
+            "included_at_iso": "2020-05-08T08:15:49.149317",
+            "last_retested_at_epoch": 1588925749.149317,
+            "last_retested_at_iso": "2020-05-08T08:15:49.149317",
+            "status": "INACTIVE"
+        },
+        "florianopris.evolution-project.go.ro": {
+            "included_at_epoch": 1588925749.271336,
+            "included_at_iso": "2020-05-08T08:15:49.271336",
+            "last_retested_at_epoch": 1588925749.271336,
+            "last_retested_at_iso": "2020-05-08T08:15:49.271336",
+            "status": "INACTIVE"
+        },
+        "floricatoderici.evolution-project.go.ro": {
+            "included_at_epoch": 1588925749.405221,
+            "included_at_iso": "2020-05-08T08:15:49.405221",
+            "last_retested_at_epoch": 1588925749.405221,
+            "last_retested_at_iso": "2020-05-08T08:15:49.405221",
+            "status": "INACTIVE"
+        },
+        "florinbarbu.evolution-project.go.ro": {
+            "included_at_epoch": 1588925749.535913,
+            "included_at_iso": "2020-05-08T08:15:49.535913",
+            "last_retested_at_epoch": 1588925749.535913,
+            "last_retested_at_iso": "2020-05-08T08:15:49.535913",
+            "status": "INACTIVE"
+        },
+        "florinborzan.evolution-project.go.ro": {
+            "included_at_epoch": 1588925749.658809,
+            "included_at_iso": "2020-05-08T08:15:49.658809",
+            "last_retested_at_epoch": 1588925749.658809,
+            "last_retested_at_iso": "2020-05-08T08:15:49.658809",
+            "status": "INACTIVE"
+        },
+        "florincazacu.evolution-project.go.ro": {
+            "included_at_epoch": 1588925749.778416,
+            "included_at_iso": "2020-05-08T08:15:49.778416",
+            "last_retested_at_epoch": 1588925749.778416,
+            "last_retested_at_iso": "2020-05-08T08:15:49.778416",
+            "status": "INACTIVE"
         }
     }
 }
