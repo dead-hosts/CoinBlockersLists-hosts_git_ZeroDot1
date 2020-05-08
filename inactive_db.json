@@ -61323,6 +61323,48 @@
             "last_retested_at_epoch": 1588945714.473624,
             "last_retested_at_iso": "2020-05-08T13:48:34.473624",
             "status": "INACTIVE"
+        },
+        "fly.suprnova.cc": {
+            "included_at_epoch": 1588954532.789132,
+            "included_at_iso": "2020-05-08T16:15:32.789132",
+            "last_retested_at_epoch": 1588954532.789132,
+            "last_retested_at_iso": "2020-05-08T16:15:32.789132",
+            "status": "INACTIVE"
+        },
+        "flydr4g0n.evolution-project.go.ro": {
+            "included_at_epoch": 1588954532.94635,
+            "included_at_iso": "2020-05-08T16:15:32.946350",
+            "last_retested_at_epoch": 1588954532.94635,
+            "last_retested_at_iso": "2020-05-08T16:15:32.946350",
+            "status": "INACTIVE"
+        },
+        "flymining.ru": {
+            "included_at_epoch": 1588954533.142124,
+            "included_at_iso": "2020-05-08T16:15:33.142124",
+            "last_retested_at_epoch": 1588954533.142124,
+            "last_retested_at_iso": "2020-05-08T16:15:33.142124",
+            "status": "INACTIVE"
+        },
+        "flypool.ru": {
+            "included_at_epoch": 1588954533.336349,
+            "included_at_iso": "2020-05-08T16:15:33.336349",
+            "last_retested_at_epoch": 1588954533.336349,
+            "last_retested_at_iso": "2020-05-08T16:15:33.336349",
+            "status": "INACTIVE"
+        },
+        "fmro.evolution-project.go.ro": {
+            "included_at_epoch": 1588954533.599889,
+            "included_at_iso": "2020-05-08T16:15:33.599889",
+            "last_retested_at_epoch": 1588954533.599889,
+            "last_retested_at_iso": "2020-05-08T16:15:33.599889",
+            "status": "INACTIVE"
+        },
+        "fmuehlenhart.onlycash.ddns.net": {
+            "included_at_epoch": 1588954533.479512,
+            "included_at_iso": "2020-05-08T16:15:33.479512",
+            "last_retested_at_epoch": 1588954533.479512,
+            "last_retested_at_iso": "2020-05-08T16:15:33.479512",
+            "status": "INACTIVE"
         }
     }
 }
