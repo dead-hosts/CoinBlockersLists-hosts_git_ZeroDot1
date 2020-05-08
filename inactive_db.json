@@ -61267,6 +61267,62 @@
             "last_retested_at_epoch": 1588938543.253703,
             "last_retested_at_iso": "2020-05-08T11:49:03.253703",
             "status": "INACTIVE"
+        },
+        "fluffydogs.evolution-project.go.ro": {
+            "included_at_epoch": 1588945713.733153,
+            "included_at_iso": "2020-05-08T13:48:33.733153",
+            "last_retested_at_epoch": 1588945713.733153,
+            "last_retested_at_iso": "2020-05-08T13:48:33.733153",
+            "status": "INACTIVE"
+        },
+        "fluitrol-centralita.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588945713.593876,
+            "included_at_iso": "2020-05-08T13:48:33.593876",
+            "last_retested_at_epoch": 1588945713.593876,
+            "last_retested_at_iso": "2020-05-08T13:48:33.593876",
+            "status": "INACTIVE"
+        },
+        "flukut.coinpoolit.webhop.me": {
+            "included_at_epoch": 1588945713.855015,
+            "included_at_iso": "2020-05-08T13:48:33.855015",
+            "last_retested_at_epoch": 1588945713.855015,
+            "last_retested_at_iso": "2020-05-08T13:48:33.855015",
+            "status": "INACTIVE"
+        },
+        "flurbo.youpool.io": {
+            "included_at_epoch": 1588945713.977521,
+            "included_at_iso": "2020-05-08T13:48:33.977521",
+            "last_retested_at_epoch": 1588945713.977521,
+            "last_retested_at_iso": "2020-05-08T13:48:33.977521",
+            "status": "INACTIVE"
+        },
+        "flush.onlycash.ddns.net": {
+            "included_at_epoch": 1588945714.099382,
+            "included_at_iso": "2020-05-08T13:48:34.099382",
+            "last_retested_at_epoch": 1588945714.099382,
+            "last_retested_at_iso": "2020-05-08T13:48:34.099382",
+            "status": "INACTIVE"
+        },
+        "flux-backend.zellabs.net": {
+            "included_at_epoch": 1588945714.220786,
+            "included_at_iso": "2020-05-08T13:48:34.220786",
+            "last_retested_at_epoch": 1588945714.220786,
+            "last_retested_at_iso": "2020-05-08T13:48:34.220786",
+            "status": "INACTIVE"
+        },
+        "flux-dev.zellabs.net": {
+            "included_at_epoch": 1588945714.341916,
+            "included_at_iso": "2020-05-08T13:48:34.341916",
+            "last_retested_at_epoch": 1588945714.341916,
+            "last_retested_at_iso": "2020-05-08T13:48:34.341916",
+            "status": "INACTIVE"
+        },
+        "flux.zellabs.net": {
+            "included_at_epoch": 1588945714.473624,
+            "included_at_iso": "2020-05-08T13:48:34.473624",
+            "last_retested_at_epoch": 1588945714.473624,
+            "last_retested_at_iso": "2020-05-08T13:48:34.473624",
+            "status": "INACTIVE"
         }
     }
 }
