@@ -61365,6 +61365,34 @@
             "last_retested_at_epoch": 1588954533.479512,
             "last_retested_at_iso": "2020-05-08T16:15:33.479512",
             "status": "INACTIVE"
+        },
+        "fn.onlycash.ddns.net": {
+            "included_at_epoch": 1588961705.50499,
+            "included_at_iso": "2020-05-08T18:15:05.504990",
+            "last_retested_at_epoch": 1588961705.50499,
+            "last_retested_at_iso": "2020-05-08T18:15:05.504990",
+            "status": "INACTIVE"
+        },
+        "fno.cryptopool.space": {
+            "included_at_epoch": 1588961705.67936,
+            "included_at_iso": "2020-05-08T18:15:05.679360",
+            "last_retested_at_epoch": 1588961705.67936,
+            "last_retested_at_iso": "2020-05-08T18:15:05.679360",
+            "status": "INACTIVE"
+        },
+        "fno.luckypool.io": {
+            "included_at_epoch": 1588961705.812392,
+            "included_at_iso": "2020-05-08T18:15:05.812392",
+            "last_retested_at_epoch": 1588961705.812392,
+            "last_retested_at_iso": "2020-05-08T18:15:05.812392",
+            "status": "INACTIVE"
+        },
+        "fnz.coin-miners.info": {
+            "included_at_epoch": 1588961705.946355,
+            "included_at_iso": "2020-05-08T18:15:05.946355",
+            "last_retested_at_epoch": 1588961705.946355,
+            "last_retested_at_iso": "2020-05-08T18:15:05.946355",
+            "status": "INACTIVE"
         }
     }
 }
