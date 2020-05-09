@@ -12576,13 +12576,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:42.988839",
             "status": "INACTIVE"
         },
-        "aeon.minereasy.com": {
-            "included_at_epoch": 1586597358.0,
-            "included_at_iso": "2020-04-11T09:29:18",
-            "last_retested_at_epoch": 1588358683.018835,
-            "last_retested_at_iso": "2020-05-01T18:44:43.018835",
-            "status": "INACTIVE"
-        },
         "aeon.minexmr24.ru": {
             "included_at_epoch": 1588358683.049192,
             "included_at_iso": "2020-05-01T18:44:43.049192",
@@ -12616,13 +12609,6 @@
             "included_at_iso": "2020-05-01T18:44:43.126145",
             "last_retested_at_epoch": 1588358683.126145,
             "last_retested_at_iso": "2020-05-01T18:44:43.126145",
-            "status": "INACTIVE"
-        },
-        "aeon.nodes.hashvault.pro": {
-            "included_at_epoch": 1586597359.0,
-            "included_at_iso": "2020-04-11T09:29:19",
-            "last_retested_at_epoch": 1588358683.182731,
-            "last_retested_at_iso": "2020-05-01T18:44:43.182731",
             "status": "INACTIVE"
         },
         "aeon.pool.golix.com": {
@@ -61546,6 +61532,48 @@
             "included_at_iso": "2020-05-09T09:15:16.731051",
             "last_retested_at_epoch": 1589015716.731051,
             "last_retested_at_iso": "2020-05-09T09:15:16.731051",
+            "status": "INACTIVE"
+        },
+        "fonero.riefly.id": {
+            "included_at_epoch": 1589026511.98637,
+            "included_at_iso": "2020-05-09T12:15:11.986370",
+            "last_retested_at_epoch": 1589026511.98637,
+            "last_retested_at_iso": "2020-05-09T12:15:11.986370",
+            "status": "INACTIVE"
+        },
+        "fonero.spacepools.org": {
+            "included_at_epoch": 1589026511.8586,
+            "included_at_iso": "2020-05-09T12:15:11.858600",
+            "last_retested_at_epoch": 1589026511.8586,
+            "last_retested_at_iso": "2020-05-09T12:15:11.858600",
+            "status": "INACTIVE"
+        },
+        "food-lookup.dokku-hosted.miningpool.thruhere.net": {
+            "included_at_epoch": 1589026512.137177,
+            "included_at_iso": "2020-05-09T12:15:12.137177",
+            "last_retested_at_epoch": 1589026512.137177,
+            "last_retested_at_iso": "2020-05-09T12:15:12.137177",
+            "status": "INACTIVE"
+        },
+        "food.aikapool.com": {
+            "included_at_epoch": 1589026512.26282,
+            "included_at_iso": "2020-05-09T12:15:12.262820",
+            "last_retested_at_epoch": 1589026512.26282,
+            "last_retested_at_iso": "2020-05-09T12:15:12.262820",
+            "status": "INACTIVE"
+        },
+        "food.dokku-hosted.miningpool.thruhere.net": {
+            "included_at_epoch": 1589026512.388007,
+            "included_at_iso": "2020-05-09T12:15:12.388007",
+            "last_retested_at_epoch": 1589026512.388007,
+            "last_retested_at_iso": "2020-05-09T12:15:12.388007",
+            "status": "INACTIVE"
+        },
+        "foodpeople.moneroseeds.ae.org": {
+            "included_at_epoch": 1589026512.509611,
+            "included_at_iso": "2020-05-09T12:15:12.509611",
+            "last_retested_at_epoch": 1589026512.509611,
+            "last_retested_at_iso": "2020-05-09T12:15:12.509611",
             "status": "INACTIVE"
         }
     }
