@@ -61512,6 +61512,41 @@
             "last_retested_at_epoch": 1588962421.34249,
             "last_retested_at_iso": "2020-05-08T18:27:01.342490",
             "status": "INACTIVE"
+        },
+        "fomo.zellabs.net": {
+            "included_at_epoch": 1589015716.20573,
+            "included_at_iso": "2020-05-09T09:15:16.205730",
+            "last_retested_at_epoch": 1589015716.20573,
+            "last_retested_at_iso": "2020-05-09T09:15:16.205730",
+            "status": "INACTIVE"
+        },
+        "fonero.hashvault.pro": {
+            "included_at_epoch": 1589015716.346616,
+            "included_at_iso": "2020-05-09T09:15:16.346616",
+            "last_retested_at_epoch": 1589015716.346616,
+            "last_retested_at_iso": "2020-05-09T09:15:16.346616",
+            "status": "INACTIVE"
+        },
+        "fonero.herominers.com": {
+            "included_at_epoch": 1589015716.470795,
+            "included_at_iso": "2020-05-09T09:15:16.470795",
+            "last_retested_at_epoch": 1589015716.470795,
+            "last_retested_at_iso": "2020-05-09T09:15:16.470795",
+            "status": "INACTIVE"
+        },
+        "fonero.nodes.hashvault.pro": {
+            "included_at_epoch": 1589015716.607002,
+            "included_at_iso": "2020-05-09T09:15:16.607002",
+            "last_retested_at_epoch": 1589015716.607002,
+            "last_retested_at_iso": "2020-05-09T09:15:16.607002",
+            "status": "INACTIVE"
+        },
+        "fonero.pool-moscow.ru": {
+            "included_at_epoch": 1589015716.731051,
+            "included_at_iso": "2020-05-09T09:15:16.731051",
+            "last_retested_at_epoch": 1589015716.731051,
+            "last_retested_at_iso": "2020-05-09T09:15:16.731051",
+            "status": "INACTIVE"
         }
     }
 }
