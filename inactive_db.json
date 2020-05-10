@@ -61477,6 +61477,55 @@
             "last_retested_at_epoch": 1589109064.299654,
             "last_retested_at_iso": "2020-05-10T11:11:04.299654",
             "status": "INACTIVE"
+        },
+        "forstermail.coinpoolit.webhop.me": {
+            "included_at_epoch": 1589111618.158503,
+            "included_at_iso": "2020-05-10T11:53:38.158503",
+            "last_retested_at_epoch": 1589111618.158503,
+            "last_retested_at_iso": "2020-05-10T11:53:38.158503",
+            "status": "INACTIVE"
+        },
+        "fort.btcc.com": {
+            "included_at_epoch": 1589111618.283884,
+            "included_at_iso": "2020-05-10T11:53:38.283884",
+            "last_retested_at_epoch": 1589111618.283884,
+            "last_retested_at_iso": "2020-05-10T11:53:38.283884",
+            "status": "INACTIVE"
+        },
+        "fortress.coinpoolit.webhop.me": {
+            "included_at_epoch": 1589111618.469962,
+            "included_at_iso": "2020-05-10T11:53:38.469962",
+            "last_retested_at_epoch": 1589111618.469962,
+            "last_retested_at_iso": "2020-05-10T11:53:38.469962",
+            "status": "INACTIVE"
+        },
+        "forum.aikapool.com": {
+            "included_at_epoch": 1589111618.592294,
+            "included_at_iso": "2020-05-10T11:53:38.592294",
+            "last_retested_at_epoch": 1589111618.592294,
+            "last_retested_at_iso": "2020-05-10T11:53:38.592294",
+            "status": "INACTIVE"
+        },
+        "forum.aionpool.tech": {
+            "included_at_epoch": 1589111618.713329,
+            "included_at_iso": "2020-05-10T11:53:38.713329",
+            "last_retested_at_epoch": 1589111618.713329,
+            "last_retested_at_iso": "2020-05-10T11:53:38.713329",
+            "status": "INACTIVE"
+        },
+        "forum.bitcoinlatina.org": {
+            "included_at_epoch": 1589111618.914074,
+            "included_at_iso": "2020-05-10T11:53:38.914074",
+            "last_retested_at_epoch": 1589111618.914074,
+            "last_retested_at_iso": "2020-05-10T11:53:38.914074",
+            "status": "INACTIVE"
+        },
+        "forum.btc.com": {
+            "included_at_epoch": 1589111619.047793,
+            "included_at_iso": "2020-05-10T11:53:39.047793",
+            "last_retested_at_epoch": 1589111619.047793,
+            "last_retested_at_iso": "2020-05-10T11:53:39.047793",
+            "status": "INACTIVE"
         }
     }
 }
