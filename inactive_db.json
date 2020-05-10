@@ -61645,6 +61645,13 @@
             "last_retested_at_epoch": 1589133298.261722,
             "last_retested_at_iso": "2020-05-10T17:54:58.261722",
             "status": "INACTIVE"
+        },
+        "forum.multipool.su": {
+            "included_at_epoch": 1589141962.493224,
+            "included_at_iso": "2020-05-10T20:19:22.493224",
+            "last_retested_at_epoch": 1589141962.493224,
+            "last_retested_at_iso": "2020-05-10T20:19:22.493224",
+            "status": "INACTIVE"
         }
     }
 }
