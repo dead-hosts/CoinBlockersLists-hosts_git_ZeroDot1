@@ -61624,6 +61624,27 @@
             "last_retested_at_epoch": 1589124296.175214,
             "last_retested_at_iso": "2020-05-10T15:24:56.175214",
             "status": "INACTIVE"
+        },
+        "forum.lucky-mining.com.ua": {
+            "included_at_epoch": 1589133298.098459,
+            "included_at_iso": "2020-05-10T17:54:58.098459",
+            "last_retested_at_epoch": 1589133298.098459,
+            "last_retested_at_iso": "2020-05-10T17:54:58.098459",
+            "status": "INACTIVE"
+        },
+        "forum.minertopia.org": {
+            "included_at_epoch": 1589133298.384702,
+            "included_at_iso": "2020-05-10T17:54:58.384702",
+            "last_retested_at_epoch": 1589133298.384702,
+            "last_retested_at_iso": "2020-05-10T17:54:58.384702",
+            "status": "INACTIVE"
+        },
+        "forum.minexmr24.ru": {
+            "included_at_epoch": 1589133298.261722,
+            "included_at_iso": "2020-05-10T17:54:58.261722",
+            "last_retested_at_epoch": 1589133298.261722,
+            "last_retested_at_iso": "2020-05-10T17:54:58.261722",
+            "status": "INACTIVE"
         }
     }
 }
