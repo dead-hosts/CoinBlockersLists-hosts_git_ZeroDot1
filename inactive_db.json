@@ -12261,13 +12261,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:42.260571",
             "status": "INACTIVE"
         },
-        "aegis.coin-miners.info": {
-            "included_at_epoch": 1586655892.0,
-            "included_at_iso": "2020-04-12T01:44:52",
-            "last_retested_at_epoch": 1588358682.28639,
-            "last_retested_at_iso": "2020-05-01T18:44:42.286390",
-            "status": "INACTIVE"
-        },
         "aegis.node.coin-miners.info": {
             "included_at_epoch": 1587936613.474328,
             "included_at_iso": "2020-04-26T21:30:13.474328",
@@ -12315,13 +12308,6 @@
             "included_at_iso": "2020-04-26T21:30:13.652560",
             "last_retested_at_epoch": 1588358682.492448,
             "last_retested_at_iso": "2020-05-01T18:44:42.492448",
-            "status": "INACTIVE"
-        },
-        "aeon-api.semipool.com": {
-            "included_at_epoch": 1586655893.0,
-            "included_at_iso": "2020-04-12T01:44:53",
-            "last_retested_at_epoch": 1588358682.543042,
-            "last_retested_at_iso": "2020-05-01T18:44:42.543042",
             "status": "INACTIVE"
         },
         "aeon-api.uax.io": {
@@ -12378,13 +12364,6 @@
             "included_at_iso": "2020-04-26T21:30:13.959423",
             "last_retested_at_epoch": 1588358682.781269,
             "last_retested_at_iso": "2020-05-01T18:44:42.781269",
-            "status": "INACTIVE"
-        },
-        "aeon.cryptofriends.org": {
-            "included_at_epoch": 1586664627.0,
-            "included_at_iso": "2020-04-12T04:10:27",
-            "last_retested_at_epoch": 1588358682.806371,
-            "last_retested_at_iso": "2020-05-01T18:44:42.806371",
             "status": "INACTIVE"
         },
         "aeon.cryptopool.ru": {
@@ -12476,13 +12455,6 @@
             "included_at_iso": "2020-05-01T18:44:43.238523",
             "last_retested_at_epoch": 1588358683.238523,
             "last_retested_at_iso": "2020-05-01T18:44:43.238523",
-            "status": "INACTIVE"
-        },
-        "aeon.pooltupi.com": {
-            "included_at_epoch": 1586664628.0,
-            "included_at_iso": "2020-04-12T04:10:28",
-            "last_retested_at_epoch": 1588358683.268478,
-            "last_retested_at_iso": "2020-05-01T18:44:43.268478",
             "status": "INACTIVE"
         },
         "aeon.reidocoin.com.br": {
@@ -61469,6 +61441,41 @@
             "included_at_iso": "2020-05-10T01:14:21.089305",
             "last_retested_at_epoch": 1589073261.089305,
             "last_retested_at_iso": "2020-05-10T01:14:21.089305",
+            "status": "INACTIVE"
+        },
+        "forex.moneroseeds.ae.org": {
+            "included_at_epoch": 1589091425.407643,
+            "included_at_iso": "2020-05-10T06:17:05.407643",
+            "last_retested_at_epoch": 1589091425.407643,
+            "last_retested_at_iso": "2020-05-10T06:17:05.407643",
+            "status": "INACTIVE"
+        },
+        "fork1.spotmecoin.com": {
+            "included_at_epoch": 1589091425.682785,
+            "included_at_iso": "2020-05-10T06:17:05.682785",
+            "last_retested_at_epoch": 1589091425.682785,
+            "last_retested_at_iso": "2020-05-10T06:17:05.682785",
+            "status": "INACTIVE"
+        },
+        "fork2.spotmecoin.com": {
+            "included_at_epoch": 1589091425.561183,
+            "included_at_iso": "2020-05-10T06:17:05.561183",
+            "last_retested_at_epoch": 1589091425.561183,
+            "last_retested_at_iso": "2020-05-10T06:17:05.561183",
+            "status": "INACTIVE"
+        },
+        "forkcoin.multipools.club": {
+            "included_at_epoch": 1589091425.803456,
+            "included_at_iso": "2020-05-10T06:17:05.803456",
+            "last_retested_at_epoch": 1589091425.803456,
+            "last_retested_at_iso": "2020-05-10T06:17:05.803456",
+            "status": "INACTIVE"
+        },
+        "form.hashrate.eu": {
+            "included_at_epoch": 1589091425.92531,
+            "included_at_iso": "2020-05-10T06:17:05.925310",
+            "last_retested_at_epoch": 1589091425.92531,
+            "last_retested_at_iso": "2020-05-10T06:17:05.925310",
             "status": "INACTIVE"
         }
     }
