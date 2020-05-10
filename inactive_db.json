@@ -61652,6 +61652,55 @@
             "last_retested_at_epoch": 1589141962.493224,
             "last_retested_at_iso": "2020-05-10T20:19:22.493224",
             "status": "INACTIVE"
+        },
+        "forum.nodes.hashvault.pro": {
+            "included_at_epoch": 1589143035.451874,
+            "included_at_iso": "2020-05-10T20:37:15.451874",
+            "last_retested_at_epoch": 1589143035.451874,
+            "last_retested_at_iso": "2020-05-10T20:37:15.451874",
+            "status": "INACTIVE"
+        },
+        "forum.okcash.co": {
+            "included_at_epoch": 1589143035.325026,
+            "included_at_iso": "2020-05-10T20:37:15.325026",
+            "last_retested_at_epoch": 1589143035.325026,
+            "last_retested_at_iso": "2020-05-10T20:37:15.325026",
+            "status": "INACTIVE"
+        },
+        "forum.polmine.pl": {
+            "included_at_epoch": 1589143035.573414,
+            "included_at_iso": "2020-05-10T20:37:15.573414",
+            "last_retested_at_epoch": 1589143035.573414,
+            "last_retested_at_iso": "2020-05-10T20:37:15.573414",
+            "status": "INACTIVE"
+        },
+        "forum.sonofatech.com": {
+            "included_at_epoch": 1589143035.780905,
+            "included_at_iso": "2020-05-10T20:37:15.780905",
+            "last_retested_at_epoch": 1589143035.780905,
+            "last_retested_at_iso": "2020-05-10T20:37:15.780905",
+            "status": "INACTIVE"
+        },
+        "forum.talleo.org": {
+            "included_at_epoch": 1589143035.928907,
+            "included_at_iso": "2020-05-10T20:37:15.928907",
+            "last_retested_at_epoch": 1589143035.928907,
+            "last_retested_at_iso": "2020-05-10T20:37:15.928907",
+            "status": "INACTIVE"
+        },
+        "forum.ultranote.org": {
+            "included_at_epoch": 1589143036.064893,
+            "included_at_iso": "2020-05-10T20:37:16.064893",
+            "last_retested_at_epoch": 1589143036.064893,
+            "last_retested_at_iso": "2020-05-10T20:37:16.064893",
+            "status": "INACTIVE"
+        },
+        "forum.webxmr.com": {
+            "included_at_epoch": 1589143036.225276,
+            "included_at_iso": "2020-05-10T20:37:16.225276",
+            "last_retested_at_epoch": 1589143036.225276,
+            "last_retested_at_iso": "2020-05-10T20:37:16.225276",
+            "status": "INACTIVE"
         }
     }
 }
