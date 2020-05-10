@@ -12254,13 +12254,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:42.235144",
             "status": "INACTIVE"
         },
-        "aeg.btcc.com": {
-            "included_at_epoch": 1586677863.0,
-            "included_at_iso": "2020-04-12T07:51:03",
-            "last_retested_at_epoch": 1588358682.260571,
-            "last_retested_at_iso": "2020-05-01T18:44:42.260571",
-            "status": "INACTIVE"
-        },
         "aegis.node.coin-miners.info": {
             "included_at_epoch": 1587936613.474328,
             "included_at_iso": "2020-04-26T21:30:13.474328",
@@ -61476,6 +61469,13 @@
             "included_at_iso": "2020-05-10T06:17:05.925310",
             "last_retested_at_epoch": 1589091425.92531,
             "last_retested_at_iso": "2020-05-10T06:17:05.925310",
+            "status": "INACTIVE"
+        },
+        "fornex.coinium.org": {
+            "included_at_epoch": 1589109064.299654,
+            "included_at_iso": "2020-05-10T11:11:04.299654",
+            "last_retested_at_epoch": 1589109064.299654,
+            "last_retested_at_iso": "2020-05-10T11:11:04.299654",
             "status": "INACTIVE"
         }
     }
