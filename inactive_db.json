@@ -61526,6 +61526,41 @@
             "last_retested_at_epoch": 1589111619.047793,
             "last_retested_at_iso": "2020-05-10T11:53:39.047793",
             "status": "INACTIVE"
+        },
+        "forum.coinium.org": {
+            "included_at_epoch": 1589120766.101387,
+            "included_at_iso": "2020-05-10T14:26:06.101387",
+            "last_retested_at_epoch": 1589120766.101387,
+            "last_retested_at_iso": "2020-05-10T14:26:06.101387",
+            "status": "INACTIVE"
+        },
+        "forum.coinminerz.com": {
+            "included_at_epoch": 1589120766.224862,
+            "included_at_iso": "2020-05-10T14:26:06.224862",
+            "last_retested_at_epoch": 1589120766.224862,
+            "last_retested_at_iso": "2020-05-10T14:26:06.224862",
+            "status": "INACTIVE"
+        },
+        "forum.connectbtc.com": {
+            "included_at_epoch": 1589120766.354186,
+            "included_at_iso": "2020-05-10T14:26:06.354186",
+            "last_retested_at_epoch": 1589120766.354186,
+            "last_retested_at_iso": "2020-05-10T14:26:06.354186",
+            "status": "INACTIVE"
+        },
+        "forum.crypto-court.com": {
+            "included_at_epoch": 1589120766.473224,
+            "included_at_iso": "2020-05-10T14:26:06.473224",
+            "last_retested_at_epoch": 1589120766.473224,
+            "last_retested_at_iso": "2020-05-10T14:26:06.473224",
+            "status": "INACTIVE"
+        },
+        "forum.cryptonote.club": {
+            "included_at_epoch": 1589120766.592079,
+            "included_at_iso": "2020-05-10T14:26:06.592079",
+            "last_retested_at_epoch": 1589120766.592079,
+            "last_retested_at_iso": "2020-05-10T14:26:06.592079",
+            "status": "INACTIVE"
         }
     }
 }
