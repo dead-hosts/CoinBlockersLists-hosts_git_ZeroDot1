@@ -61561,6 +61561,69 @@
             "last_retested_at_epoch": 1589120766.592079,
             "last_retested_at_iso": "2020-05-10T14:26:06.592079",
             "status": "INACTIVE"
+        },
+        "forum.cryptopia.co.nz": {
+            "included_at_epoch": 1589124295.115113,
+            "included_at_iso": "2020-05-10T15:24:55.115113",
+            "last_retested_at_epoch": 1589124295.115113,
+            "last_retested_at_iso": "2020-05-10T15:24:55.115113",
+            "status": "INACTIVE"
+        },
+        "forum.cryptopool.io": {
+            "included_at_epoch": 1589124295.239879,
+            "included_at_iso": "2020-05-10T15:24:55.239879",
+            "last_retested_at_epoch": 1589124295.239879,
+            "last_retested_at_iso": "2020-05-10T15:24:55.239879",
+            "status": "INACTIVE"
+        },
+        "forum.cryptorescue.org": {
+            "included_at_epoch": 1589124295.359346,
+            "included_at_iso": "2020-05-10T15:24:55.359346",
+            "last_retested_at_epoch": 1589124295.359346,
+            "last_retested_at_iso": "2020-05-10T15:24:55.359346",
+            "status": "INACTIVE"
+        },
+        "forum.einfach-iota.de": {
+            "included_at_epoch": 1589124295.499601,
+            "included_at_iso": "2020-05-10T15:24:55.499601",
+            "last_retested_at_epoch": 1589124295.499601,
+            "last_retested_at_iso": "2020-05-10T15:24:55.499601",
+            "status": "INACTIVE"
+        },
+        "forum.freakhouse.us": {
+            "included_at_epoch": 1589124295.642105,
+            "included_at_iso": "2020-05-10T15:24:55.642105",
+            "last_retested_at_epoch": 1589124295.642105,
+            "last_retested_at_iso": "2020-05-10T15:24:55.642105",
+            "status": "INACTIVE"
+        },
+        "forum.gigarho.com": {
+            "included_at_epoch": 1589124295.891845,
+            "included_at_iso": "2020-05-10T15:24:55.891845",
+            "last_retested_at_epoch": 1589124295.891845,
+            "last_retested_at_iso": "2020-05-10T15:24:55.891845",
+            "status": "INACTIVE"
+        },
+        "forum.give-me-coins.com": {
+            "included_at_epoch": 1589124295.773393,
+            "included_at_iso": "2020-05-10T15:24:55.773393",
+            "last_retested_at_epoch": 1589124295.773393,
+            "last_retested_at_iso": "2020-05-10T15:24:55.773393",
+            "status": "INACTIVE"
+        },
+        "forum.gntl.co.uk": {
+            "included_at_epoch": 1589124296.021734,
+            "included_at_iso": "2020-05-10T15:24:56.021734",
+            "last_retested_at_epoch": 1589124296.021734,
+            "last_retested_at_iso": "2020-05-10T15:24:56.021734",
+            "status": "INACTIVE"
+        },
+        "forum.kncminer.com": {
+            "included_at_epoch": 1589124296.175214,
+            "included_at_iso": "2020-05-10T15:24:56.175214",
+            "last_retested_at_epoch": 1589124296.175214,
+            "last_retested_at_iso": "2020-05-10T15:24:56.175214",
+            "status": "INACTIVE"
         }
     }
 }
