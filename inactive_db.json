@@ -11001,13 +11001,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:40.994198",
             "status": "INACTIVE"
         },
-        "acc.coin-miners.info": {
-            "included_at_epoch": 1586637780.0,
-            "included_at_iso": "2020-04-11T20:43:00",
-            "last_retested_at_epoch": 1588358680.968307,
-            "last_retested_at_iso": "2020-05-01T18:44:40.968307",
-            "status": "INACTIVE"
-        },
         "acc.node.coin-miners.info": {
             "included_at_epoch": 1587926866.760731,
             "included_at_iso": "2020-04-26T18:47:46.760731",
@@ -11064,13 +11057,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:41.173916",
             "status": "INACTIVE"
         },
-        "accessit.coinpoolit.webhop.me": {
-            "included_at_epoch": 1586637781.0,
-            "included_at_iso": "2020-04-11T20:43:01",
-            "last_retested_at_epoch": 1588358681.225006,
-            "last_retested_at_iso": "2020-05-01T18:44:41.225006",
-            "status": "INACTIVE"
-        },
         "accessmyaccount.coinpoolit.webhop.me": {
             "included_at_epoch": 1587926866.984934,
             "included_at_iso": "2020-04-26T18:47:46.984934",
@@ -11125,13 +11111,6 @@
             "included_at_iso": "2020-04-26T18:47:47.177502",
             "last_retested_at_epoch": 1588358681.428033,
             "last_retested_at_iso": "2020-05-01T18:44:41.428033",
-            "status": "INACTIVE"
-        },
-        "account.btcc.com": {
-            "included_at_epoch": 1586637782.0,
-            "included_at_iso": "2020-04-11T20:43:02",
-            "last_retested_at_epoch": 1588358681.453616,
-            "last_retested_at_iso": "2020-05-01T18:44:41.453616",
             "status": "INACTIVE"
         },
         "accountlimit-notf.onlycash.ddns.net": {
@@ -11204,13 +11183,6 @@
             "last_retested_at_iso": "2020-05-01T18:44:41.711910",
             "status": "INACTIVE"
         },
-        "accouthostinc.onlycash.ddns.net": {
-            "included_at_epoch": 1586637783.0,
-            "included_at_iso": "2020-04-11T20:43:03",
-            "last_retested_at_epoch": 1588358681.738161,
-            "last_retested_at_iso": "2020-05-01T18:44:41.738161",
-            "status": "INACTIVE"
-        },
         "accoutn-appupdate.coinpoolit.webhop.me": {
             "included_at_epoch": 1587926867.503902,
             "included_at_iso": "2020-04-26T18:47:47.503902",
@@ -11265,13 +11237,6 @@
             "included_at_iso": "2020-04-26T18:47:47.731685",
             "last_retested_at_epoch": 1588361692.973264,
             "last_retested_at_iso": "2020-05-01T19:34:52.973264",
-            "status": "INACTIVE"
-        },
-        "acidrss.coinpoolit.webhop.me": {
-            "included_at_epoch": 1586637784.0,
-            "included_at_iso": "2020-04-11T20:43:04",
-            "last_retested_at_epoch": 1588361693.030768,
-            "last_retested_at_iso": "2020-05-01T19:34:53.030768",
             "status": "INACTIVE"
         },
         "acidsync.coinpoolit.webhop.me": {
@@ -11344,13 +11309,6 @@
             "last_retested_at_iso": "2020-05-01T19:34:53.281036",
             "status": "INACTIVE"
         },
-        "aco.miningpool.thruhere.net": {
-            "included_at_epoch": 1586637785.0,
-            "included_at_iso": "2020-04-11T20:43:05",
-            "last_retested_at_epoch": 1588361693.3086,
-            "last_retested_at_iso": "2020-05-01T19:34:53.308600",
-            "status": "INACTIVE"
-        },
         "acoin-be.coinstop.me": {
             "included_at_epoch": 1587926868.100964,
             "included_at_iso": "2020-04-26T18:47:48.100964",
@@ -11407,13 +11365,6 @@
             "last_retested_at_iso": "2020-05-01T19:34:53.535877",
             "status": "INACTIVE"
         },
-        "acoma.btcc.com": {
-            "included_at_epoch": 1586637786.0,
-            "included_at_iso": "2020-04-11T20:43:06",
-            "last_retested_at_epoch": 1588361693.592269,
-            "last_retested_at_iso": "2020-05-01T19:34:53.592269",
-            "status": "INACTIVE"
-        },
         "acountslockedv.onlycash.ddns.net": {
             "included_at_epoch": 1587926868.298685,
             "included_at_iso": "2020-04-26T18:47:48.298685",
@@ -11468,13 +11419,6 @@
             "included_at_iso": "2020-04-26T19:29:10.462441",
             "last_retested_at_epoch": 1588361693.813908,
             "last_retested_at_iso": "2020-05-01T19:34:53.813908",
-            "status": "INACTIVE"
-        },
-        "activebitcoinminers.com": {
-            "included_at_epoch": 1586637787.0,
-            "included_at_iso": "2020-04-11T20:43:07",
-            "last_retested_at_epoch": 1588361693.786498,
-            "last_retested_at_iso": "2020-05-01T19:34:53.786498",
             "status": "INACTIVE"
         },
         "activecrypto-minerclub.com": {
@@ -11547,13 +11491,6 @@
             "last_retested_at_iso": "2020-05-01T21:02:35.385805",
             "status": "INACTIVE"
         },
-        "ad.g-content.bi": {
-            "included_at_epoch": 1586637788.0,
-            "included_at_iso": "2020-04-11T20:43:08",
-            "last_retested_at_epoch": 1588366955.454386,
-            "last_retested_at_iso": "2020-05-01T21:02:35.454386",
-            "status": "INACTIVE"
-        },
         "ad.g-content.bid": {
             "included_at_epoch": 1587929350.894984,
             "included_at_iso": "2020-04-26T19:29:10.894984",
@@ -11624,25 +11561,11 @@
             "last_retested_at_iso": "2020-05-01T21:02:35.788237",
             "status": "INACTIVE"
         },
-        "adcashdoubler.com": {
-            "included_at_epoch": 1586637789.0,
-            "included_at_iso": "2020-04-11T20:43:09",
-            "last_retested_at_epoch": 1588366955.855323,
-            "last_retested_at_iso": "2020-05-01T21:02:35.855323",
-            "status": "INACTIVE"
-        },
         "adcn.coin-miners.info": {
             "included_at_epoch": 1587929351.333583,
             "included_at_iso": "2020-04-26T19:29:11.333583",
             "last_retested_at_epoch": 1588366955.821566,
             "last_retested_at_iso": "2020-05-01T21:02:35.821566",
-            "status": "INACTIVE"
-        },
-        "adcn.node.coin-miners.info": {
-            "included_at_epoch": 1586642646.0,
-            "included_at_iso": "2020-04-11T22:04:06",
-            "last_retested_at_epoch": 1588366955.921526,
-            "last_retested_at_iso": "2020-05-01T21:02:35.921526",
             "status": "INACTIVE"
         },
         "addbitcoin.net": {
@@ -11699,13 +11622,6 @@
             "included_at_iso": "2020-04-26T19:29:11.501936",
             "last_retested_at_epoch": 1588366956.157938,
             "last_retested_at_iso": "2020-05-01T21:02:36.157938",
-            "status": "INACTIVE"
-        },
-        "adi-apps.miningpool.thruhere.net": {
-            "included_at_epoch": 1586642647.0,
-            "included_at_iso": "2020-04-11T22:04:07",
-            "last_retested_at_epoch": 1588366956.19112,
-            "last_retested_at_iso": "2020-05-01T21:02:36.191120",
             "status": "INACTIVE"
         },
         "adialis.onlycash.ddns.net": {
@@ -11792,13 +11708,6 @@
             "last_retested_at_iso": "2020-05-01T21:02:36.556263",
             "status": "INACTIVE"
         },
-        "admin.btcmp.com": {
-            "included_at_epoch": 1586642648.0,
-            "included_at_iso": "2020-04-11T22:04:08",
-            "last_retested_at_epoch": 1588370086.423662,
-            "last_retested_at_iso": "2020-05-01T21:54:46.423662",
-            "status": "INACTIVE"
-        },
         "admin.clona.ru": {
             "included_at_epoch": 1587929351.928956,
             "included_at_iso": "2020-04-26T19:29:11.928956",
@@ -11869,13 +11778,6 @@
             "last_retested_at_iso": "2020-05-01T17:52:42.176348",
             "status": "INACTIVE"
         },
-        "admin.jesuspool.com": {
-            "included_at_epoch": 1586642649.0,
-            "included_at_iso": "2020-04-11T22:04:09",
-            "last_retested_at_epoch": 1588355562.150684,
-            "last_retested_at_iso": "2020-05-01T17:52:42.150684",
-            "status": "INACTIVE"
-        },
         "admin.miner.ro": {
             "included_at_epoch": 1587929352.242441,
             "included_at_iso": "2020-04-26T19:29:12.242441",
@@ -11923,13 +11825,6 @@
             "included_at_iso": "2020-04-26T20:07:04.058496",
             "last_retested_at_epoch": 1588355562.390699,
             "last_retested_at_iso": "2020-05-01T17:52:42.390699",
-            "status": "INACTIVE"
-        },
-        "admin.p2pool.info": {
-            "included_at_epoch": 1586642650.0,
-            "included_at_iso": "2020-04-11T22:04:10",
-            "last_retested_at_epoch": 1588355562.421296,
-            "last_retested_at_iso": "2020-05-01T17:52:42.421296",
             "status": "INACTIVE"
         },
         "admin.pirl.network": {
@@ -11988,13 +11883,6 @@
             "last_retested_at_iso": "2020-05-01T17:52:42.680566",
             "status": "INACTIVE"
         },
-        "admin01.cryptopool.io": {
-            "included_at_epoch": 1586647056.0,
-            "included_at_iso": "2020-04-11T23:17:36",
-            "last_retested_at_epoch": 1588355562.732907,
-            "last_retested_at_iso": "2020-05-01T17:52:42.732907",
-            "status": "INACTIVE"
-        },
         "admin2.crypto-mining-pool.com": {
             "included_at_epoch": 1587931624.394814,
             "included_at_iso": "2020-04-26T20:07:04.394814",
@@ -12042,13 +11930,6 @@
             "included_at_iso": "2020-04-26T20:07:04.566275",
             "last_retested_at_epoch": 1588355562.910999,
             "last_retested_at_iso": "2020-05-01T17:52:42.910999",
-            "status": "INACTIVE"
-        },
-        "admt.coin-miners.info": {
-            "included_at_epoch": 1586647057.0,
-            "included_at_iso": "2020-04-11T23:17:37",
-            "last_retested_at_epoch": 1588355562.963326,
-            "last_retested_at_iso": "2020-05-01T17:52:42.963326",
             "status": "INACTIVE"
         },
         "admt.hashlink.eu": {
@@ -12112,20 +11993,6 @@
             "included_at_iso": "2020-04-26T20:07:04.863445",
             "last_retested_at_epoch": 1588355563.202215,
             "last_retested_at_iso": "2020-05-01T17:52:43.202215",
-            "status": "INACTIVE"
-        },
-        "adobeflashplayerb.xyz": {
-            "included_at_epoch": 1586647058.0,
-            "included_at_iso": "2020-04-11T23:17:38",
-            "last_retested_at_epoch": 1588355563.228327,
-            "last_retested_at_iso": "2020-05-01T17:52:43.228327",
-            "status": "INACTIVE"
-        },
-        "adobeflashplayerc.xyz": {
-            "included_at_epoch": 1586651392.0,
-            "included_at_iso": "2020-04-12T00:29:52",
-            "last_retested_at_epoch": 1588355563.254393,
-            "last_retested_at_iso": "2020-05-01T17:52:43.254393",
             "status": "INACTIVE"
         },
         "adobeflashplayerq.xyz": {
@@ -12233,13 +12100,6 @@
             "last_retested_at_iso": "2020-05-01T17:52:43.707024",
             "status": "INACTIVE"
         },
-        "adrianomaiacasa.onlycash.ddns.net": {
-            "included_at_epoch": 1586651393.0,
-            "included_at_iso": "2020-04-12T00:29:53",
-            "last_retested_at_epoch": 1588355563.73311,
-            "last_retested_at_iso": "2020-05-01T17:52:43.733110",
-            "status": "INACTIVE"
-        },
         "adrianproduction.evolution-project.go.ro": {
             "included_at_epoch": 1587934124.185699,
             "included_at_iso": "2020-04-26T20:48:44.185699",
@@ -12336,13 +12196,6 @@
             "included_at_iso": "2020-04-26T20:48:44.556053",
             "last_retested_at_epoch": 1588355564.121613,
             "last_retested_at_iso": "2020-05-01T17:52:44.121613",
-            "status": "INACTIVE"
-        },
-        "advance.multipools.club": {
-            "included_at_epoch": 1586651394.0,
-            "included_at_iso": "2020-04-12T00:29:54",
-            "last_retested_at_epoch": 1588355564.172818,
-            "last_retested_at_iso": "2020-05-01T17:52:44.172818",
             "status": "INACTIVE"
         },
         "advancerevshare.com": {
@@ -61574,6 +61427,48 @@
             "included_at_iso": "2020-05-09T12:15:12.509611",
             "last_retested_at_epoch": 1589026512.509611,
             "last_retested_at_iso": "2020-05-09T12:15:12.509611",
+            "status": "INACTIVE"
+        },
+        "foot.gcpool.eu": {
+            "included_at_epoch": 1589073260.446425,
+            "included_at_iso": "2020-05-10T01:14:20.446425",
+            "last_retested_at_epoch": 1589073260.446425,
+            "last_retested_at_iso": "2020-05-10T01:14:20.446425",
+            "status": "INACTIVE"
+        },
+        "for.stringengines.com": {
+            "included_at_epoch": 1589073260.572017,
+            "included_at_iso": "2020-05-10T01:14:20.572017",
+            "last_retested_at_epoch": 1589073260.572017,
+            "last_retested_at_iso": "2020-05-10T01:14:20.572017",
+            "status": "INACTIVE"
+        },
+        "forajeputuri.evolution-project.go.ro": {
+            "included_at_epoch": 1589073260.693481,
+            "included_at_iso": "2020-05-10T01:14:20.693481",
+            "last_retested_at_epoch": 1589073260.693481,
+            "last_retested_at_iso": "2020-05-10T01:14:20.693481",
+            "status": "INACTIVE"
+        },
+        "forcio.onlycash.ddns.net": {
+            "included_at_epoch": 1589073260.81419,
+            "included_at_iso": "2020-05-10T01:14:20.814190",
+            "last_retested_at_epoch": 1589073260.81419,
+            "last_retested_at_iso": "2020-05-10T01:14:20.814190",
+            "status": "INACTIVE"
+        },
+        "forever.btcc.com": {
+            "included_at_epoch": 1589073260.934598,
+            "included_at_iso": "2020-05-10T01:14:20.934598",
+            "last_retested_at_epoch": 1589073260.934598,
+            "last_retested_at_iso": "2020-05-10T01:14:20.934598",
+            "status": "INACTIVE"
+        },
+        "forever.btcchina.com": {
+            "included_at_epoch": 1589073261.089305,
+            "included_at_iso": "2020-05-10T01:14:21.089305",
+            "last_retested_at_epoch": 1589073261.089305,
+            "last_retested_at_iso": "2020-05-10T01:14:21.089305",
             "status": "INACTIVE"
         }
     }
