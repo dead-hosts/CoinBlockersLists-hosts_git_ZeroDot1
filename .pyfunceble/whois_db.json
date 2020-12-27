@@ -805,6 +805,12 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "aapool.cn": {
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "server": "whois.cnnic.cn",
+        "state": "future"
+    },
     "aapool.org": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
@@ -828,6 +834,12 @@
     "abmining.io": {
         "epoch": 1630540800.0,
         "expiration_date": "02-sep-2021",
+        "state": "future"
+    },
+    "abseits.ski": {
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "acashtech.com": {
