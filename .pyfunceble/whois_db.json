@@ -5860,6 +5860,12 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "double-spending.com": {
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "doubleclick1.xyz": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -5898,6 +5904,12 @@
     "dpool.top": {
         "epoch": 1669420800.0,
         "expiration_date": "26-nov-2022",
+        "state": "future"
+    },
+    "drawpad.org": {
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "dreamitsystems.com": {
@@ -5985,6 +5997,18 @@
         "expiration_date": "14-dec-2020",
         "state": "future"
     },
+    "e-waluty.net.pl": {
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.dns.pl",
+        "state": "future"
+    },
+    "e4pool.com": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "e9658544844.pro": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
@@ -6030,6 +6054,18 @@
         "expiration_date": "23-feb-2021",
         "state": "future"
     },
+    "easyx.cc": {
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "ccwhois.verisign-grs.com",
+        "state": "future"
+    },
+    "ebtcpool.com": {
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "echo-terminal.org": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
@@ -6058,6 +6094,12 @@
     "ecoinz.cz": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "eelpool.com": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eeme7j.win": {
@@ -6180,6 +6222,12 @@
         "expiration_date": "13-nov-2018",
         "state": "past"
     },
+    "enviromint.xyz": {
+        "epoch": 1655078400.0,
+        "expiration_date": "13-jun-2022",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "envy-labs.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
@@ -6245,6 +6293,12 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "esn.today": {
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.nic.today",
+        "state": "future"
+    },
     "esprezzo.io": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
@@ -6278,6 +6332,12 @@
     "etcmine.pro": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "etcoin.xyz": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "etcpool.pl": {
@@ -6330,6 +6390,12 @@
         "expiration_date": "03-apr-2021",
         "state": "future"
     },
+    "ethercore.io": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "server": "whois.nic.io",
+        "state": "future"
+    },
     "etherdelta.biz": {
         "epoch": "1544832000",
         "expiration_date": "15-dec-2018",
@@ -6380,6 +6446,12 @@
         "expiration_date": "15-mar-2022",
         "state": "future"
     },
+    "ethersocial.network": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "server": "whois.nic.network",
+        "state": "future"
+    },
     "ethertrench.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
@@ -6415,6 +6487,12 @@
         "expiration_date": "30-jan-2022",
         "state": "future"
     },
+    "ethospool.org": {
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "ethpool.net": {
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
@@ -6428,6 +6506,12 @@
     "ethteam.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "ethtok.xyz": {
+        "epoch": 1618444800.0,
+        "expiration_date": "15-apr-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "etlrsq.ru": {
