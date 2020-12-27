@@ -4862,6 +4862,12 @@
         "expiration_date": "23-jun-2023",
         "state": "future"
     },
+    "covid19pool.com": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "cpu-pool.club": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
@@ -4935,6 +4941,12 @@
     "crm-jurine.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "crownplatform.com": {
+        "epoch": 1665964800.0,
+        "expiration_date": "17-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "crunchpool.com": {
@@ -5072,6 +5084,12 @@
         "expiration_date": "01-may-2021",
         "state": "future"
     },
+    "cryptobender.com": {
+        "epoch": 1641600000.0,
+        "expiration_date": "08-jan-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "cryptoblock.uk": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
@@ -5187,6 +5205,12 @@
         "expiration_date": "05-jan-2020",
         "state": "future"
     },
+    "cryptoguru.org": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "cryptohispano.net": {
         "epoch": 1616716800.0,
         "expiration_date": "26-mar-2021",
@@ -5260,6 +5284,12 @@
     "cryptonator.com": {
         "epoch": 1640217600.0,
         "expiration_date": "23-dec-2021",
+        "state": "future"
+    },
+    "cryptonetwork.host": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "server": "whois.nic.host",
         "state": "future"
     },
     "cryptonight.net": {
@@ -5447,6 +5477,12 @@
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
+    "crystaleum.org": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "csgocpu.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
@@ -5455,6 +5491,12 @@
     "ctlrnwbv.ru": {
         "epoch": "1553817600",
         "expiration_date": "29-mar-2019",
+        "state": "future"
+    },
+    "cubicversecoin.org": {
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "cuev.in": {
@@ -5497,6 +5539,18 @@
         "expiration_date": "30-may-2019",
         "state": "past"
     },
+    "daggerpool.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "dapool.io": {
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
+        "server": "whois.nic.io",
+        "state": "future"
+    },
     "dapool.me": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
@@ -5530,6 +5584,12 @@
     "dashninja.pl": {
         "epoch": 1741910400.0,
         "expiration_date": "14-mar-2025",
+        "state": "future"
+    },
+    "dashu.gold": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "server": "whois.nic.gold",
         "state": "future"
     },
     "datapaw.net": {
@@ -5637,9 +5697,21 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "devphp.org.ua": {
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
+        "server": "whois.ua",
+        "state": "future"
+    },
     "dexim.space": {
         "epoch": "1557532800",
         "expiration_date": "11-may-2019",
+        "state": "future"
+    },
+    "dfpool.net": {
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dgb-sonicpool.com": {
@@ -5680,6 +5752,12 @@
     "digihash.co": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "digipools.com": {
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "digipools.org": {
