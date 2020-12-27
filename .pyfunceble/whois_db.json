@@ -7209,38 +7209,45 @@
         "state": "future"
     },
     "fungibly.xyz": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "futeboltv.com": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1699833600.0,
+        "expiration_date": "13-nov-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "futurecoins.club": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.nic.club",
         "state": "future"
     },
     "futurocoinpool.com": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fxnow.ru": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "g-content.bid": {
-        "epoch": 1584230400.0,
-        "expiration_date": "15-mar-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
+        "server": "whois.nic.bid",
         "state": "future"
     },
     "g1thub.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1667088000.0,
+        "expiration_date": "30-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gabberpool.xyz": {
@@ -7258,9 +7265,16 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "gandalph3000.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "garlicpool.org": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "gasolina.ml": {
@@ -7269,13 +7283,15 @@
         "state": "future"
     },
     "gay-hotvideo.net": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gaypornwave.com": {
-        "epoch": 1579737600.0,
-        "expiration_date": "23-jan-2020",
+        "epoch": 1642896000.0,
+        "expiration_date": "23-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gazanew.com": {
@@ -7284,8 +7300,9 @@
         "state": "future"
     },
     "gbminers.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gdax.click": {
@@ -7294,8 +7311,9 @@
         "state": "future"
     },
     "gdax.deals": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "server": "whois.nic.deals",
         "state": "future"
     },
     "gdax.mobi": {
@@ -7324,18 +7342,21 @@
         "state": "future"
     },
     "geekhash.io": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "gemini.click": {
-        "epoch": "1573689600",
-        "expiration_date": "14-nov-2019",
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "gemini.express": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.nic.express",
         "state": "future"
     },
     "gemini.immobilien": {
@@ -7344,8 +7365,9 @@
         "state": "future"
     },
     "gemini.plus": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1642636800.0,
+        "expiration_date": "20-jan-2022",
+        "server": "whois.nic.plus",
         "state": "future"
     },
     "gemini.zone": {
@@ -7364,8 +7386,9 @@
         "state": "future"
     },
     "genesis-mining.com": {
-        "epoch": 1580947200.0,
-        "expiration_date": "06-feb-2020",
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "geolocationsystem.com": {
@@ -7376,16 +7399,19 @@
     "get2mine.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "getbze.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1663286400.0,
+        "expiration_date": "16-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "getcryptotab.com": {
-        "epoch": 1608940800.0,
-        "expiration_date": "26-dec-2020",
+        "epoch": 1735171200.0,
+        "expiration_date": "26-dec-2024",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "geteth.io": {
@@ -7396,7 +7422,8 @@
     "gethash.cc": {
         "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
-        "state": "future"
+        "server": "ccwhois.verisign-grs.com",
+        "state": "past"
     },
     "getmonero.org": {
         "epoch": 1654992000.0,
@@ -7429,18 +7456,21 @@
         "state": "past"
     },
     "ghash.io": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "gigarho.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gigsis.net": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ginasismining.com": {
