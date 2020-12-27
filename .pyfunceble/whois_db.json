@@ -3617,6 +3617,12 @@
         "expiration_date": "20-may-2020",
         "state": "future"
     },
+    "btccluster.com": {
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "btccpooleos.com": {
         "epoch": 1619568000.0,
         "expiration_date": "28-apr-2021",
@@ -3722,6 +3728,12 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "bthmine.site": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "server": "whois.nic.site",
+        "state": "future"
+    },
     "bubblemine.com": {
         "epoch": 1618617600.0,
         "expiration_date": "17-apr-2021",
@@ -3765,6 +3777,12 @@
     "burstneon.com": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
+    "burstpool.cloud": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "server": "whois.nic.cloud",
         "state": "future"
     },
     "butcalve.com": {
@@ -3890,6 +3908,12 @@
     "catspool.org": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "cc-poolz.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ccminer.org": {
@@ -4387,9 +4411,21 @@
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
+    "coinex.pw": {
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.nic.pw",
+        "state": "future"
+    },
     "coinfirm.io": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "coinfly.cc": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
+        "server": "ccwhois.verisign-grs.com",
         "state": "future"
     },
     "coinfoundry.org": {
@@ -4460,6 +4496,12 @@
     "coinhub.win": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "coinicles.tech": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "server": "whois.nic.tech",
         "state": "future"
     },
     "coinimp.com": {
@@ -4607,6 +4649,12 @@
         "expiration_date": "21-feb-2022",
         "state": "future"
     },
+    "coinpool.pw": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "server": "whois.nic.pw",
+        "state": "future"
+    },
     "coinpool.ru": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
@@ -4707,6 +4755,12 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "coinz.pw": {
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.nic.pw",
+        "state": "future"
+    },
     "coinzen.pro": {
         "epoch": 1613692800.0,
         "expiration_date": "19-feb-2021",
@@ -4775,6 +4829,12 @@
     "coolmine.top": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "coolmining.club": {
+        "epoch": 1659916800.0,
+        "expiration_date": "08-aug-2022",
+        "server": "whois.nic.club",
         "state": "future"
     },
     "coolpool.top": {
