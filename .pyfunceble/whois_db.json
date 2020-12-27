@@ -6554,6 +6554,12 @@
         "expiration_date": "24-jan-2019",
         "state": "past"
     },
+    "everstake.one": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "server": "whois.nic.one",
+        "state": "future"
+    },
     "ewtuyytdf45.com": {
         "epoch": 1580860800.0,
         "expiration_date": "05-feb-2020",
@@ -6622,6 +6628,12 @@
     "extensionsapiversion.space": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
+    "extremehash.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "extremehash.io": {
@@ -6699,6 +6711,12 @@
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
+    "fastblocks.net": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "fasterpool.com": {
         "epoch": 1616544000.0,
         "expiration_date": "24-mar-2021",
@@ -6747,6 +6765,12 @@
     "feipool.xyz": {
         "epoch": 1618876800.0,
         "expiration_date": "20-apr-2021",
+        "state": "future"
+    },
+    "fenixpool.top": {
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "ff2dead5a7.pw": {
@@ -6814,6 +6838,12 @@
         "expiration_date": "08-dec-2021",
         "state": "future"
     },
+    "fixedtradecoin.org": {
+        "epoch": 1649808000.0,
+        "expiration_date": "13-apr-2022",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
     "fkpool.cn": {
         "epoch": 1659398400.0,
         "expiration_date": "02-aug-2022",
@@ -6857,6 +6887,12 @@
     "flashx.pw": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "flexpool.io": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "flightsy.bid": {
@@ -6989,14 +7025,27 @@
         "expiration_date": "22-mar-2021",
         "state": "future"
     },
+    "fortunapool.com": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "fr-pool.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "frackingminer.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "freakhouse.dev": {
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.nic.google",
         "state": "future"
     },
     "fredcoinpool.com": {
@@ -7004,9 +7053,16 @@
         "expiration_date": "07-jun-2020",
         "state": "future"
     },
+    "free-bcash.com": {
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "free4faucet.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freebitco.in": {
@@ -7015,18 +7071,21 @@
         "state": "future"
     },
     "freecontent.bid": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.nic.bid",
         "state": "future"
     },
     "freecontent.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freecontent.date": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1642550400.0,
+        "expiration_date": "19-jan-2022",
+        "server": "whois.nic.date",
         "state": "future"
     },
     "freecontent.faith": {
@@ -7035,8 +7094,9 @@
         "state": "future"
     },
     "freecontent.info": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "freecontent.loan": {
@@ -7060,13 +7120,15 @@
         "state": "past"
     },
     "freecontent.science": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.nic.science",
         "state": "future"
     },
     "freecontent.stream": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1642550400.0,
+        "expiration_date": "19-jan-2022",
+        "server": "whois.nic.stream",
         "state": "future"
     },
     "freecontent.trade": {
@@ -7080,13 +7142,26 @@
         "state": "past"
     },
     "freeproxy.ro": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.rotld.ro",
         "state": "future"
     },
     "freeyy.me": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "freshgrlc.net": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "freshpool.org": {
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "freshrefresher.com": {
@@ -7105,18 +7180,27 @@
         "state": "future"
     },
     "friends-master.net": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "frostypool.com": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1648944000.0,
+        "expiration_date": "03-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fruitypool.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ftlpool.com": {
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ftzivuesohvebj.ru": {
