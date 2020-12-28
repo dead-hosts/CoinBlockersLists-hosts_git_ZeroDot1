@@ -9946,13 +9946,15 @@
         "state": "future"
     },
     "majanetwork.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "majorminers.com": {
-        "epoch": 1580947200.0,
-        "expiration_date": "06-feb-2020",
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "makerstat.info": {
@@ -9965,14 +9967,34 @@
         "expiration_date": "11-jun-2019",
         "state": "past"
     },
+    "mangocoin.online": {
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
+    "mao2.com": {
+        "epoch": 1672790400.0,
+        "expiration_date": "04-jan-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "marketwizards.io": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "server": "whois.nic.io",
+        "state": "future"
+    },
+    "martkistexplorer.com": {
+        "epoch": 1614643200.0,
+        "expiration_date": "02-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "masari.net": {
-        "epoch": 1605657600.0,
-        "expiration_date": "18-nov-2020",
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "masaricoin.com": {
@@ -9991,13 +10013,15 @@
         "state": "future"
     },
     "mastermining.net": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "masterpro.site": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "mataharirama.xyz": {
@@ -10006,13 +10030,15 @@
         "state": "past"
     },
     "matpool.io": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "matrix-pool.info": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "maupool.com": {
@@ -10021,8 +10047,9 @@
         "state": "future"
     },
     "maxhash.org": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "mbkpool.info": {
@@ -10030,39 +10057,91 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "mc1.xyz": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
+    "mcpny.com": {
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "mdwnte.com": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
         "state": "future"
     },
+    "meatec-pool.io": {
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.nic.io",
+        "state": "future"
+    },
+    "meatec.io": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.nic.io",
+        "state": "future"
+    },
     "mebablo.com": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mechanicalengineeringblog.com": {
-        "epoch": 1608940800.0,
-        "expiration_date": "26-dec-2020",
+        "epoch": 1640476800.0,
+        "expiration_date": "26-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mecrypto.club": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1658188800.0,
+        "expiration_date": "19-jul-2022",
+        "server": "whois.nic.club",
         "state": "future"
     },
     "mecryptosolo.club": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
-        "state": "future"
+        "server": "whois.nic.club",
+        "state": "past"
     },
     "mediatrackerfast.pro": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
         "state": "future"
     },
+    "mediciland.com": {
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "meerpool.com": {
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "megahash.co.uk": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
     "meganfoxloveyou.com": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
+    "megapool.io": {
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "mempool.com": {
@@ -10071,13 +10150,15 @@
         "state": "future"
     },
     "mepirtedic.com": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mergemining.com": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "merit.me": {
@@ -10086,8 +10167,9 @@
         "state": "future"
     },
     "mesgo.net": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mfio.cf": {
