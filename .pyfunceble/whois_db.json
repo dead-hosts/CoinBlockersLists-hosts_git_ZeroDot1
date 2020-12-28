@@ -8403,6 +8403,12 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "hotpool.co": {
+        "epoch": 1643068800.0,
+        "expiration_date": "25-jan-2022",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "hpool.com": {
         "epoch": 1828828800.0,
         "expiration_date": "15-dec-2027",
@@ -8419,38 +8425,51 @@
         "state": "future"
     },
     "httpp.gdn": {
-        "epoch": 1573257600.0,
-        "expiration_date": "09-nov-2019",
-        "state": "past"
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "server": "whois.nic.gdn",
+        "state": "future"
+    },
+    "humanscoin.org": {
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
+        "server": "whois.pir.org",
+        "state": "future"
     },
     "huobipool.com": {
-        "epoch": 1580342400.0,
-        "expiration_date": "30-jan-2020",
+        "epoch": 1643500800.0,
+        "expiration_date": "30-jan-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hushmine.pro": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "hushpool.cloud": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
-        "state": "future"
+        "server": "whois.nic.cloud",
+        "state": "past"
     },
     "hvpps.net": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hyperpool.tech": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "server": "whois.nic.tech",
         "state": "future"
     },
     "hzsod71wov.me": {
-        "epoch": 1576886400.0,
-        "expiration_date": "21-dec-2019",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "iaheyftbsn.review": {
@@ -8459,8 +8478,9 @@
         "state": "past"
     },
     "icanmining.ru": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "icemining.ca": {
@@ -8469,13 +8489,27 @@
         "state": "future"
     },
     "icopool.club": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "server": "whois.nic.club",
         "state": "future"
     },
     "iddqd.vip": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.nic.vip",
+        "state": "future"
+    },
+    "iddqdelta.com": {
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "iegservers.com": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "igdxzzeglrlqm.ru": {
@@ -8484,8 +8518,9 @@
         "state": "future"
     },
     "igrid.org": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "ihdvilappuxpgiv.ru": {
@@ -8496,6 +8531,12 @@
     "iisl7wpf.me": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
+    "ikpool.com": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "imhard4.men": {
