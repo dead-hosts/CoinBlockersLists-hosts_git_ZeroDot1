@@ -9797,23 +9797,39 @@
         "state": "future"
     },
     "ltfn.org": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "ltstyov.ru": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "lubian.com": {
+        "epoch": 1651795200.0,
+        "expiration_date": "06-may-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "luckpool.net": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "luckpool.org": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.pir.org",
+        "state": "future"
+    },
+    "lucky-pool.online": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "luckyaltcoin.com": {
@@ -9821,29 +9837,40 @@
         "expiration_date": "18-dec-2021",
         "state": "future"
     },
+    "luckyblocks.ninja": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "server": "whois.nic.ninja",
+        "state": "future"
+    },
     "luckyfastblocks.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "luckypool.cn": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "luckypool.io": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "luckypool.org": {
-        "epoch": 1609027200.0,
-        "expiration_date": "27-dec-2020",
+        "epoch": 1640563200.0,
+        "expiration_date": "27-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "luoxkexp.com": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "luxor.tech": {
@@ -9857,18 +9884,21 @@
         "state": "future"
     },
     "lycheebit.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lydian.io": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "m-hash.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "m-m.icu": {
@@ -9877,13 +9907,21 @@
         "state": "future"
     },
     "m00n.top": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "machieved.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "macro-pool.com": {
+        "epoch": 1659657600.0,
+        "expiration_date": "05-aug-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "macyan.net": {
@@ -9902,8 +9940,9 @@
         "state": "future"
     },
     "magnificentpool.com": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "majanetwork.com": {
