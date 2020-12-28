@@ -8798,8 +8798,9 @@
         "state": "future"
     },
     "jesuspool.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jhfdmiwcgnty.ru": {
@@ -8813,18 +8814,27 @@
         "state": "future"
     },
     "jixiangrong.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jlzebszkilcz.ru": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1641600000.0,
+        "expiration_date": "08-jan-2022",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "jouleco.in": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
+    "joys.digital": {
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
+        "server": "whois.nic.digital",
         "state": "future"
     },
     "jqassets.download": {
@@ -8833,9 +8843,10 @@
         "state": "future"
     },
     "jqcdn.download": {
-        "epoch": "1552867200",
-        "expiration_date": "18-mar-2019",
-        "state": "past"
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "server": "whois.nic.download",
+        "state": "future"
     },
     "jqmrqgaunex.ru": {
         "epoch": "1564963200",
@@ -8868,9 +8879,10 @@
         "state": "future"
     },
     "jquery-uim.download": {
-        "epoch": "1544572800",
-        "expiration_date": "12-dec-2018",
-        "state": "past"
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "server": "whois.nic.download",
+        "state": "future"
     },
     "jquerystatistics.org": {
         "epoch": 1584835200.0,
@@ -8888,8 +8900,9 @@
         "state": "future"
     },
     "jroqvbvw.info": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "jsccnn.com": {
@@ -8898,8 +8911,9 @@
         "state": "future"
     },
     "jscdndel.com": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jscoinminer.com": {
@@ -8973,8 +8987,15 @@
         "state": "past"
     },
     "justintvizletir.tv": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "server": "tvwhois.verisign-grs.com",
+        "state": "future"
+    },
+    "justmine.today": {
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.nic.today",
         "state": "future"
     },
     "juststatic.info": {
@@ -8983,8 +9004,9 @@
         "state": "future"
     },
     "jwduahujge.ru": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "jwwhsqz.ru": {
@@ -8993,13 +9015,21 @@
         "state": "future"
     },
     "jyhfuqoh.info": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "k1pool.com": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kalipasindra.online": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "kano.is": {
@@ -9008,13 +9038,15 @@
         "state": "future"
     },
     "kano.space": {
-        "epoch": 1602547200.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1728777600.0,
+        "expiration_date": "13-oct-2024",
+        "server": "whois.nic.space",
         "state": "future"
     },
     "kanpool.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1668470400.0,
+        "expiration_date": "15-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "karbo.farm": {
@@ -9023,8 +9055,9 @@
         "state": "future"
     },
     "karbowanec.com": {
-        "epoch": 1590451200.0,
-        "expiration_date": "26-may-2020",
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kdmkauchahynhrs.ru": {
@@ -9033,18 +9066,38 @@
         "state": "future"
     },
     "kdowqlpt.info": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "kdv-mining.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kedtise.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "kepler.network": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "server": "whois.nic.network",
+        "state": "future"
+    },
+    "kevapool.com": {
+        "epoch": 1642636800.0,
+        "expiration_date": "20-jan-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "keysermining.com": {
+        "epoch": 1686787200.0,
+        "expiration_date": "15-jun-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kho3au7l4z.me": {
@@ -9062,34 +9115,69 @@
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
+    "kickinhash.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "kievpool.com": {
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "kingbtc.co": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "kingpool.xyz": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "kinohabr.net": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kipcoin.org": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "kiramine.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "kirinpool.com": {
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kissdoujin.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kisshentai.net": {
         "epoch": 1620432000.0,
         "expiration_date": "08-may-2021",
+        "state": "future"
+    },
+    "kittypool.club": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "server": "whois.nic.club",
         "state": "future"
     },
     "kiwifarms.net": {
@@ -9107,24 +9195,51 @@
         "expiration_date": "17-dec-2018",
         "state": "past"
     },
+    "klaro.ooo": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "server": "whois.nic.ooo",
+        "state": "future"
+    },
     "klondikepool.net": {
         "epoch": "1550620800",
         "expiration_date": "20-feb-2019",
         "state": "past"
     },
     "kmd.dev": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.nic.google",
         "state": "future"
     },
     "kmdmonster.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "kncminer.com": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "knightpool.top": {
+        "epoch": 1661644800.0,
+        "expiration_date": "28-aug-2022",
+        "server": "whois.nic.top",
+        "state": "future"
+    },
+    "knoxpool.com": {
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "koinpool.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "koinpool.io": {
@@ -9133,8 +9248,9 @@
         "state": "future"
     },
     "konjungate.net": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1661212800.0,
+        "expiration_date": "23-aug-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "korbit.click": {
