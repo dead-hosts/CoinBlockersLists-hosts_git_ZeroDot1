@@ -11470,6 +11470,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "musicoin.tw": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "server": "whois.twnic.net.tw",
+        "state": "future"
+    },
     "musipool.ru": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
@@ -11481,13 +11487,15 @@
         "state": "past"
     },
     "muxdux.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mwgrinpool.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mwor.gq": {
@@ -11510,6 +11518,12 @@
         "expiration_date": "25-may-2020",
         "state": "future"
     },
+    "my2coins.com": {
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "myadstats.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
@@ -11520,9 +11534,16 @@
         "expiration_date": "13-dec-2018",
         "state": "past"
     },
+    "mybtccoin.com": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "mycelium.com": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mychainpools.com": {
@@ -11646,8 +11667,9 @@
         "state": "future"
     },
     "myetherwailet.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "myetherwallct.info": {
@@ -11668,7 +11690,8 @@
     "myetherwallit.com": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "myethierwaillet.com": {
         "epoch": 1578096000.0,
@@ -11716,33 +11739,39 @@
         "state": "future"
     },
     "myfreebitcoin.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "myhost.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mykings.top": {
-        "epoch": 1579564800.0,
-        "expiration_date": "21-jan-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "myminers.org": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1662422400.0,
+        "expiration_date": "06-sep-2022",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "myminingpool.uk": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1663286400.0,
+        "expiration_date": "16-sep-2022",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "mymoneropool.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "myo-xmr.com": {
@@ -11785,19 +11814,27 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "myxmr.pw": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.nic.pw",
+        "state": "future"
+    },
     "myzen.cash": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
     "n-engine.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
-        "state": "future"
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "n3rd3d.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "n3xt-pool.net": {
@@ -11821,13 +11858,15 @@
         "state": "past"
     },
     "namecoin.info": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "nametraff.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nanopool.org": {
