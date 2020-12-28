@@ -11076,18 +11076,27 @@
         "state": "future"
     },
     "mnmnnm.com": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mnshare.info": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "moacpool.xyz": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "mobile-mining.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "modcrypto.online": {
@@ -11106,43 +11115,51 @@
         "state": "future"
     },
     "mofumofu.me": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "mole-pool.net": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mollnia.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "monad.network": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.nic.network",
         "state": "future"
     },
     "monerawr.us": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "monerise.com": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "monero-miner.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "monero-miner.net": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "monero.cc": {
@@ -11156,13 +11173,15 @@
         "state": "future"
     },
     "monero.org": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "monerohash.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "moneromilk.com": {
@@ -11176,23 +11195,32 @@
         "state": "past"
     },
     "monerominer.rocks": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.nic.rocks",
         "state": "future"
     },
     "monerominers.net": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
+        "epoch": 1615593600.0,
+        "expiration_date": "13-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "monerominingpool.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "moneroocean.stream": {
         "epoch": 1660176000.0,
         "expiration_date": "11-aug-2022",
+        "state": "future"
+    },
+    "monerop.com": {
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "moneropond.com": {
@@ -11201,13 +11229,21 @@
         "state": "future"
     },
     "moneropool.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "moneropool.org": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "moneropool.ru": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "moneropool.uk": {
@@ -11226,13 +11262,15 @@
         "state": "future"
     },
     "monerov.online": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "moneroworld.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "money-maker-default.info": {
@@ -11246,8 +11284,9 @@
         "state": "future"
     },
     "monitoringservice.co": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1651795200.0,
+        "expiration_date": "06-may-2022",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "monkeyminer.net": {
@@ -11256,18 +11295,27 @@
         "state": "future"
     },
     "monoset.info": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
+    "monxpool.com": {
+        "epoch": 1892505600.0,
+        "expiration_date": "21-dec-2029",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "moonbit.co.in": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "moonify.io": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "moonpool.network": {
@@ -11281,13 +11329,15 @@
         "state": "future"
     },
     "moriaxmr.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "moricpool.com": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "morningdigit.com": {
@@ -11299,6 +11349,12 @@
         "epoch": 1571184000.0,
         "expiration_date": "16-oct-2019",
         "state": "past"
+    },
+    "mpool.biz": {
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.nic.biz",
+        "state": "future"
     },
     "mpool.su": {
         "epoch": 1610841600.0,
@@ -11315,19 +11371,34 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "ms-pool.net.ua": {
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.ua",
+        "state": "future"
+    },
     "msdns.online": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
+        "server": "whois.nic.online",
         "state": "future"
     },
     "msg-2.me": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "mtred.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "multi-pool.info": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "multiblockchains.com": {
@@ -11335,24 +11406,34 @@
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
+    "multicoin.co": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "multiminer.us": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "multiminerapp.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "multimining.org": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1658707200.0,
+        "expiration_date": "25-jul-2022",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "multipool.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "multipool.us": {
@@ -11361,8 +11442,9 @@
         "state": "future"
     },
     "multipool.xyz": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "multipooler.com": {
@@ -11373,16 +11455,19 @@
     "multipools.club": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
-        "state": "future"
+        "server": "whois.nic.club",
+        "state": "past"
     },
     "munero.me": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "mupool.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "musipool.ru": {
