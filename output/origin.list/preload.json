@@ -1,15 +1,17 @@
-{
-    "abs_source": "/home/runner/work/CoinBlockersLists-hosts_git_ZeroDot1/CoinBlockersLists-hosts_git_ZeroDot1/origin.list",
-    "checker_type": "AVAILABILITY",
-    "destination": "origin.list",
-    "hash": "7035d95abd12c3d91711ad908587824caf40962acae2ac559dd3e904",
-    "line_number": 178692,
-    "output_dir": "/home/runner/work/CoinBlockersLists-hosts_git_ZeroDot1/CoinBlockersLists-hosts_git_ZeroDot1/output/origin.list",
-    "previous_hash": null,
-    "rel_source": "origin.list",
-    "session_id": "c3cd532fa63bcf765819743b",
-    "source": "origin.list",
-    "subject": "origin.list",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/CoinBlockersLists-hosts_git_ZeroDot1/CoinBlockersLists-hosts_git_ZeroDot1/origin.list",
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "7035d95abd12c3d91711ad908587824caf40962acae2ac559dd3e904",
+        "line_number": 178750,
+        "output_dir": "/home/runner/work/CoinBlockersLists-hosts_git_ZeroDot1/CoinBlockersLists-hosts_git_ZeroDot1/output/origin.list",
+        "previous_hash": null,
+        "rel_source": "origin.list",
+        "session_id": "c3cd532fa63bcf765819743b",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
