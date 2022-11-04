@@ -71,7 +71,6 @@ dns:
     - 8.8.8.8
     - 8.8.4.4
     trust_server: false
-etries: 3
 http_codes:
     list:
         potentially_down:
