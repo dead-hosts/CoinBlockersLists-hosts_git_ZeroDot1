@@ -157,7 +157,6 @@ proxy:
         https: null
     rules: []
 share_logs: false
-te: false
 user_agent:
     browser: chrome
     custom: null
